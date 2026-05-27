@@ -60,10 +60,25 @@ def _matched_categories(text: str, categories: list[dict]) -> list[str]:
             if any(normalise(kw) in text for kw in c["keywords"])]
 
 
+def _compile_geo(keywords: list[str]):
+    """Word-boundary matcher for geography terms. Word boundaries stop short
+    tokens like 'uk' matching inside 'Duke'/'Luke', and empty/symbol-only
+    keywords (e.g. a stripped '£') are dropped so they can't match everything."""
+    norm = [normalise(k) for k in keywords]
+    norm = [k for k in norm if k]  # drop empties
+    if not norm:
+        return None
+    return re.compile(r"\b(?:" + "|".join(re.escape(k) for k in norm) + r")\b")
+
+
 def filter_items(items: list[Item], settings: dict, companies: list[str]) -> list[Item]:
     categories = settings["categories"]
     sector_kws = [normalise(k) for k in settings["sector_keywords"]]
     exclude_kws = [normalise(k) for k in settings.get("exclude_keywords", [])]
+    geo = settings.get("geography", {})
+    require_uk = geo.get("require_uk", True)
+    uk_rx = _compile_geo(geo.get("uk_keywords", []))
+    foreign_rx = _compile_geo(geo.get("foreign_keywords", []))
     cutoff = now_utc() - timedelta(hours=settings["recency_hours"])
     matcher = build_company_matcher(companies)
 
@@ -84,17 +99,33 @@ def filter_items(items: list[Item], settings: dict, companies: list[str]) -> lis
             dropped += 1
             continue
 
+        # --- Geography gate: drop items that name a non-UK location and have
+        #     no positive UK signal. Keeps UK or location-neutral stories;
+        #     removes Hong Kong / US-college / other overseas items. ---
+        if require_uk:
+            foreign_hit = bool(foreign_rx and foreign_rx.search(text))
+            uk_hit = bool(uk_rx and uk_rx.search(text))
+            if foreign_hit and not uk_hit:
+                dropped += 1
+                continue
+
         cats = _matched_categories(text, categories)
         sector_hit = any(k in text for k in sector_kws)
         company, strong = _detect_company(text, matcher)
-        has_context = sector_hit or bool(cats)
         # A weak (single-word) name only counts when there's sector context.
-        company_counts = company and (strong or has_context)
+        company_counts = company and (strong or sector_hit or bool(cats))
+
+        # Every item must be ANCHORED to our world: it must name one of our
+        # companies OR hit a sector keyword. A trigger category alone (e.g.
+        # "expansion", "hiring", "appoints") is NOT enough on its own — that
+        # was letting college-football "expansions" and generic overseas
+        # "hiring" stories through the company feeds.
+        anchored = sector_hit or bool(company_counts)
 
         if it.feed_group == "company":
-            keep = bool(cats) or sector_hit or bool(company_counts)
-        else:  # signal / sector feeds: strict double gate
-            keep = bool(cats) and (sector_hit or bool(company_counts))
+            keep = anchored
+        else:  # signal / sector feeds: need a trigger category AND an anchor
+            keep = bool(cats) and anchored
 
         if not keep:
             dropped += 1

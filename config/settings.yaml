@@ -30,8 +30,104 @@ exclude_keywords:
   - "share tips"
   - "price target"
   - obituary
-  - football
   - recipe
+  # sport / gossip noise
+  - football
+  - soccer
+  - rugby
+  - cricket
+  - "premier league"
+  - transfer rumour
+  - transfer rumours
+  - transfer gossip
+  - "college football"
+  - nfl
+  - nba
+  - playoff
+  - playoffs
+  - fixture
+  - "match report"
+  - celebrity
+  - royal family
+
+# ---------------------------------------------------------------------
+# GEOGRAPHY GATE  (home region = UK & Ireland)
+# A story is DROPPED only if it names a FOREIGN location AND has NO home
+# signal. Stories with no location at all are KEPT — an item does NOT need to
+# mention the UK to pass. This is what removes Hong Kong / US / overseas items
+# while letting UK & Ireland and location-neutral industry news through.
+# Set require_uk: false to disable the gate entirely.
+# ---------------------------------------------------------------------
+geography:
+  require_uk: true
+  uk_keywords:
+    - uk
+    - u.k.
+    - britain
+    - british
+    - england
+    - english
+    - scotland
+    - scottish
+    - wales
+    - welsh
+    - northern ireland
+    - ireland
+    - irish
+    - republic of ireland
+    - eire
+    - london
+    - manchester
+    - birmingham
+    - leeds
+    - glasgow
+    - bristol
+    - sheffield
+    - liverpool
+    - midlands
+    - yorkshire
+    - dublin
+    - cork
+    - galway
+    - limerick
+    - waterford
+    - belfast
+    - gbp
+    - sterling
+    - hmrc
+    - "companies house"
+    - westminster
+    - whitehall
+  foreign_keywords:
+    - hong kong
+    - china
+    - chinese
+    - "united states"
+    - "u.s."
+    - america
+    - american
+    - texas
+    - florida
+    - california
+    - canada
+    - canadian
+    - australia
+    - australian
+    - india
+    - indian
+    - singapore
+    - dubai
+    - "new york"
+    - germany
+    - german
+    - france
+    - french
+    - spain
+    - spanish
+    - nigeria
+    - "south africa"
+    - "ncaa"
+    - college football
 
 # Proves the story is actually about our industry, not generic UK news.
 sector_keywords:
