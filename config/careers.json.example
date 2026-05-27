@@ -1,0 +1,19 @@
+[
+  {
+    "_comment": "Rename this file to careers.json to activate the Tier-1 careers monitor. Each new vacancy that appears is scored 10. IMPORTANT: many big-merchant careers pages render jobs via JavaScript, which a plain fetch can't see. For those, point 'url' at the company's underlying ATS board (Greenhouse / Workable / Teamtailor / Eploy), which serves static HTML. Verify each URL exposes job titles in the page source before relying on it.",
+    "name": "EXAMPLE — delete this entry",
+    "url": "https://example.com/careers"
+  },
+  {
+    "name": "Marshalls",
+    "url": "https://www.marshalls.co.uk/careers"
+  },
+  {
+    "name": "Ibstock",
+    "url": "https://www.ibstock.co.uk/careers"
+  },
+  {
+    "name": "Forterra",
+    "url": "https://www.forterra.co.uk/careers"
+  }
+]

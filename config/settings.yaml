@@ -1,0 +1,156 @@
+# =====================================================================
+# Rommbic Intelligence Agent — configuration
+# Everything that controls FILTERING and SCORING lives here.
+# You can tune the agent without touching any Python.
+# =====================================================================
+
+# How far back to look on each run. The daily job runs once a day, so 36h
+# gives a safe overlap and never misses items if a run is slightly delayed.
+recency_hours: 36
+
+# Max items shown on the dashboard / in the email (after scoring & sorting).
+max_items: 120
+
+# ---------------------------------------------------------------------
+# RELEVANCE FILTERING  (the core "kill the noise" logic)
+#
+# An item is KEPT only if it passes the gates in pipeline/relevance.py:
+#   * signal/sector feeds  -> must match a SIGNAL CATEGORY *and* a SECTOR keyword
+#   * company-watch feeds  -> must match a SIGNAL CATEGORY *or* a SECTOR keyword
+#     (the company name in the feed query already guarantees company relevance)
+# Anything containing an EXCLUDE keyword is dropped outright.
+# ---------------------------------------------------------------------
+
+# Drop the item immediately if any of these appear (case-insensitive).
+exclude_keywords:
+  - minecraft
+  - fortnite
+  - horoscope
+  - lottery
+  - "share tips"
+  - "price target"
+  - obituary
+  - football
+  - recipe
+
+# Proves the story is actually about our industry, not generic UK news.
+sector_keywords:
+  - building materials
+  - construction products
+  - builders merchant
+  - builders' merchant
+  - builders merchants
+  - merchanting
+  - insulation
+  - roofing
+  - cladding
+  - facade
+  - cement
+  - concrete
+  - aggregates
+  - bricks
+  - blocks
+  - plasterboard
+  - drywall
+  - timber
+  - joinery
+  - drainage
+  - plumbing
+  - heating
+  - hvac
+  - fixings
+  - fasteners
+  - flooring
+  - doors and windows
+  - fenestration
+  - rainwater
+  - ironmongery
+  - sealants
+  - adhesives
+  - scaffolding
+  - precast
+  - rendering systems
+  - building envelope
+  - distributor
+  - manufacturer
+  - supplier
+
+# ---------------------------------------------------------------------
+# SIGNAL CATEGORIES
+# Each item is tagged with every category whose keywords it matches.
+# `tier` is the base score (1-10). Scoring is intentionally simple:
+# the agent's job is FILTERING; the score just sorts the survivors.
+# ---------------------------------------------------------------------
+categories:
+  - name: Hiring / job creation
+    tier: 9
+    keywords: ["creating jobs", "new jobs", "hiring", "recruiting", "recruits", "to create", "jobs boost", "new roles", "vacancies", "now hiring", "expanding the team"]
+
+  - name: New facility / expansion
+    tier: 8
+    keywords: ["new warehouse", "distribution centre", "distribution center", "new factory", "new depot", "new branch", "new site", "opens", "opening", "relocates", "leased", "lease", "sq ft", "square feet", "expansion", "expands"]
+
+  - name: Acquisition / M&A
+    tier: 8
+    keywords: ["acquires", "acquisition", "acquired", "merger", "merges", "buys", "takeover", "takes over", "management buyout", "mbo", "snaps up"]
+
+  - name: Leadership appointment
+    tier: 8
+    keywords: ["appoints", "appointed", "new managing director", "new sales director", "new commercial director", "new ceo", "new chief executive", "joins as", "names new", "promoted to"]
+
+  - name: Manufacturing capacity
+    tier: 7
+    keywords: ["new line", "production line", "production capacity", "manufacturing facility", "reopens", "new plant", "invests in capacity", "capacity expansion"]
+
+  - name: Contract / supply win
+    tier: 6
+    keywords: ["supply contract", "awarded contract", "framework", "supply deal", "preferred supplier", "wins contract", "secures contract", "partnership", "supply agreement"]
+
+  - name: Investment / funding
+    tier: 6
+    keywords: ["private equity", "investment", "funding round", "backs", "invests", "raises", "capital injection", "growth capital"]
+
+  - name: New product launch
+    tier: 5
+    keywords: ["new product", "launches", "new range", "product range", "unveils", "introduces", "rolls out"]
+
+# Items from a company-watch feed that match no specific category still get
+# kept (the company is a target) at this base tier.
+company_watch_tier: 4
+
+# Small bonuses applied in pipeline/score.py
+score_bonus_multi_category: 1   # item hits >1 category
+score_bonus_named_company: 1    # item mentions a watch-list company
+
+# ---------------------------------------------------------------------
+# OPTIONAL: Claude scoring pass.
+# Off by default (filtering is the priority and this keeps the job free
+# and unbreakable). Set USE_CLAUDE=1 in the environment to enable.
+# When on, Claude re-reads each kept item and adds a one-line
+# "why it matters + likely roles" note and may adjust the score.
+# ---------------------------------------------------------------------
+claude:
+  model: claude-opus-4-7
+  max_items_to_enrich: 40   # cap cost; lowest-scoring items skip enrichment
+
+# ---------------------------------------------------------------------
+# EMAIL DIGEST
+# Recipients can also be supplied via the DIGEST_RECIPIENTS env var
+# (comma-separated), which overrides this list. The cc-everyone daily
+# email goes to all of these.
+# ---------------------------------------------------------------------
+email:
+  from_name: "Rommbic Intelligence Portal"
+  from_address: "intel@send.rommbic.co.uk"   # must be on the domain verified in Resend (send.rommbic.co.uk)
+  subject_prefix: "Rommbic Intelligence Portal"
+  recipients:
+    - charlieh@rommbic.co.uk
+    - mattd@rommbic.co.uk
+    - will@rommbic.co.uk
+  min_score_to_email: 5   # only email items scoring >= this; dashboard shows all
+
+# Public base URL of the GitHub Pages dashboard (used for the link in emails).
+# Public URL of your portal. LEAVE AS-IS if you set the DASHBOARD_URL secret in
+# GitHub (the secret overrides this). Otherwise replace with your live URL, e.g.
+# https://intel.rommbic.co.uk  or  https://<project>.pages.dev
+dashboard_url: "REPLACE_OR_SET_DASHBOARD_URL_SECRET"
