@@ -1,0 +1,75 @@
+name: Intel Refresh
+
+# The DASHBOARD refreshes every 3 hours, fully unattended.
+# The EMAIL digest is sent once a day (the 06:30 run only), so consultants get
+# one morning summary while the dashboard stays fresh through the day.
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours -> dashboard refresh (no email)
+    - cron: "30 6 * * *"    # 06:30 UTC daily -> refresh + email digest
+  workflow_dispatch: {}     # manual run (also sends email)
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: intel-refresh
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run intelligence agent
+        env:
+          # Email only on the daily 06:30 run and manual runs; never on the
+          # 3-hourly refreshes.
+          SEND_EMAIL: ${{ github.event.schedule == '0 */3 * * *' && '0' || '1' }}
+          DIGEST_RECIPIENTS: ${{ secrets.DIGEST_RECIPIENTS }}
+          DASHBOARD_URL:     ${{ secrets.DASHBOARD_URL }}
+          RESEND_API_KEY:    ${{ secrets.RESEND_API_KEY }}
+          SMTP_HOST:         ${{ secrets.SMTP_HOST }}
+          SMTP_PORT:         ${{ secrets.SMTP_PORT }}
+          SMTP_USER:         ${{ secrets.SMTP_USER }}
+          SMTP_PASS:         ${{ secrets.SMTP_PASS }}
+          CH_API_KEY:        ${{ secrets.CH_API_KEY }}
+          USE_CLAUDE:        ${{ secrets.USE_CLAUDE }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m src.main
+
+      - name: Assemble static site
+        run: |
+          mkdir -p _site/data
+          cp dashboard/index.html _site/index.html
+          cp -r data/* _site/data/ 2>/dev/null || true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      # Snapshot the day's data + keep the schedule alive. Done once a day (not
+      # on every 3-hourly run) to avoid spamming the git history.
+      - name: Persist daily snapshot
+        if: github.event.schedule == '30 6 * * *' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name  "rommbic-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data
+          git commit -m "intel snapshot: $(date -u +%F)" || echo "no changes to commit"
+          git push || echo "push skipped"
