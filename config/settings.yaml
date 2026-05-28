@@ -244,6 +244,12 @@ email:
     - mattd@rommbic.co.uk
     - will@rommbic.co.uk
   min_score_to_email: 5   # only email items scoring >= this; dashboard shows all
+  # --- Daily send timing (resilient to GitHub's flaky cron) ---
+  # The agent runs every few hours. It sends the digest on the FIRST run at or
+  # after `send_after_hour_utc` each day, then records the date so it never
+  # sends twice. If GitHub skips the 06:30 slot, the next run (e.g. 09:30)
+  # sends it instead — you still get exactly one brief per day.
+  send_after_hour_utc: 6   # 6 = ~07:00 UK in summer (BST), ~06:00 in winter (GMT)
 
 # Public base URL of the GitHub Pages dashboard (used for the link in emails).
 # Public URL of your portal. LEAVE AS-IS if you set the DASHBOARD_URL secret in

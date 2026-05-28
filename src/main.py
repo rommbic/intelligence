@@ -44,14 +44,14 @@ def run() -> int:
 
     # 5) DELIVER
     dashboard.write(items, settings)
-    # The dashboard refreshes every run; the email is gated so the few-hourly
-    # refresh doesn't email consultants 8x/day. SEND_EMAIL=0 disables it for a
-    # given run (the workflow sets this on the intra-day refreshes).
-    import os
-    if os.getenv("SEND_EMAIL", "1") not in ("0", "false", "False", ""):
+    # The dashboard refreshes every run. The email is sent at most ONCE per day,
+    # on the first run at/after the configured morning hour — resilient to
+    # GitHub skipping a scheduled slot. See deliver/schedule.py.
+    from .deliver import schedule
+    send, today = schedule.should_send(settings)
+    if send:
         email_digest.send(items, settings)
-    else:
-        log.info("Email skipped for this run (SEND_EMAIL disabled).")
+        schedule.mark_sent(today)   # record only after the send attempt
     log.info("Done.")
     return 0
 

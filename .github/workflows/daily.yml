@@ -35,9 +35,11 @@ jobs:
 
       - name: Run intelligence agent
         env:
-          # Email only on the daily 06:30 run and manual runs; never on the
-          # 3-hourly refreshes.
-          SEND_EMAIL: ${{ github.event.schedule == '0 */3 * * *' && '0' || '1' }}
+          # Manual "Run workflow" => force-send a digest now (for testing).
+          # Scheduled runs => leave unset, so the agent decides (sends once,
+          # on the first run after the morning hour). This is what makes the
+          # daily brief resilient to GitHub skipping a scheduled slot.
+          FORCE_EMAIL: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
           DIGEST_RECIPIENTS: ${{ secrets.DIGEST_RECIPIENTS }}
           DASHBOARD_URL:     ${{ secrets.DASHBOARD_URL }}
           RESEND_API_KEY:    ${{ secrets.RESEND_API_KEY }}
@@ -63,13 +65,15 @@ jobs:
       - id: deploy
         uses: actions/deploy-pages@v4
 
-      # Snapshot the day's data + keep the schedule alive. Done once a day (not
-      # on every 3-hourly run) to avoid spamming the git history.
-      - name: Persist daily snapshot
-        if: github.event.schedule == '30 6 * * *' || github.event_name == 'workflow_dispatch'
+      # Persist data on EVERY run. This is essential: the email-sent marker
+      # (data/email_state.json) must survive between runs, otherwise the agent
+      # would forget it already emailed today and could send again. Also keeps
+      # the schedule alive and builds the dashboard history archive.
+      - name: Persist data
         run: |
           git config user.name  "rommbic-bot"
           git config user.email "bot@users.noreply.github.com"
+          git pull --rebase --autostash || true
           git add data
-          git commit -m "intel snapshot: $(date -u +%F)" || echo "no changes to commit"
+          git commit -m "intel: $(date -u +'%F %H:%M')" || echo "no changes to commit"
           git push || echo "push skipped"
