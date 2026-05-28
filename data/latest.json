@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-28T18:24:22.994043+00:00",
+  "generated_at": "2026-05-28T20:43:51.467792+00:00",
   "date": "2026-05-28",
-  "count": 35,
+  "count": 34,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -117,23 +117,6 @@
       "fingerprint": "15d5fde1d795528ed55e0dfd8d47432c6187917e"
     },
     {
-      "title": "Ultimate Visual Solutions Expands Collaboration With Philips - Security Today",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS0EwaGhrRXcxbGhlaHJWS2RRYXVoT0lHeE1CZ0JSN2k1dGxGZlJHdUNVS2lzdFljVmI1eHplUXZWdS1lN09oNjVkS3U4REY2RDl6cVB6bFEzLW5GSzlsa0dBTGc0M0NkSTZBSEpxYUtjTWRKZHhuUXNpVENkenZQWFdidHd4MFRUMkRGbVdsOXl0bTRMblJPVklKYU5ETUZVLWRlNE04bnZCb015NjMwVw?oc=5",
-      "source": "Security Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOS0EwaGhrRXcxbGhlaHJWS2RRYXVoT0lHeE1CZ0JSN2k1dGxGZlJHdUNVS2lzdFljVmI1eHplUXZWdS1lN09oNjVkS3U4REY2RDl6cVB6bFEzLW5GSzlsa0dBTGc0M0NkSTZBSEpxYUtjTWRKZHhuUXNpVENkenZQWFdidHd4MFRUMkRGbVdsOXl0bTRMblJPVklKYU5ETUZVLWRlNE04bnZCb015NjMwVw?oc=5\" target=\"_blank\">Ultimate Visual Solutions Expands Collaboration With Philips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Today</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Philips",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-05-27T08:37:30+00:00",
-      "fingerprint": "d1b2b0d98f2f61fcb403c3941ef2c9347e46e412"
-    },
-    {
       "title": "Q&A: Philips CMO on the tech giant's partnership with Disney - MobiHealthNews",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXdxN0JTel9XMnBWODM3andONkMyT1FhLWRrdmZsak9TRXhKMVhadm54THlVMkQzaTVMOFc1VFpzRm4xcVNlSzF6QTIzZnJPeS1rd19GV2w1UFBxbkd5ek1tXzJHUHBValQycGduUEF0RUtBVlBaNEFyQVVyWHZrZzlSNFFNSDBP?oc=5",
       "source": "MobiHealthNews",
@@ -200,6 +183,21 @@
       "likely_roles": "",
       "published": "2026-05-27T08:45:14+00:00",
       "fingerprint": "c6e9295add8b6833b441c1aed313e7a7fe5359ab"
+    },
+    {
+      "title": "'Forever chemicals': why 3M could be the new James Hardie - The Canberra Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUQ4WGc2cFFiakx5SU9oQnFVQnh0Q1NSckdpang3akJubDE3N3I3VDVqRlpCLWthNDJTb1JYaFA5VUxUTXdiUW01R0hvNm45bXdYOTVEZzNKX3hzc0lSSzA4TFFFWUFNSlFTTzQ3UzFnUFZrWnVOQUlpdGRpazNYSWhBSTRzZkZxWUFwTXZkbUh1LXlpM1FyM05kOVk2MHN5dzRkWWZ4djJ5QQ?oc=5",
+      "source": "The Canberra Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUQ4WGc2cFFiakx5SU9oQnFVQnh0Q1NSckdpang3akJubDE3N3I3VDVqRlpCLWthNDJTb1JYaFA5VUxUTXdiUW01R0hvNm45bXdYOTVEZzNKX3hzc0lSSzA4TFFFWUFNSlFTTzQ3UzFnUFZrWnVOQUlpdGRpazNYSWhBSTRzZkZxWUFwTXZkbUh1LXlpM1FyM05kOVk2MHN5dzRkWWZ4djJ5QQ?oc=5\" target=\"_blank\">'Forever chemicals': why 3M could be the new James Hardie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Canberra Times</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-05-28T19:37:07+00:00",
+      "fingerprint": "cd0bbee51198eff2a43f2003c888aad36e514428"
     },
     {
       "title": "How to Watch the Northern Lights for a Second Time This Week - People.com",
@@ -335,21 +333,6 @@
       "likely_roles": "",
       "published": "2026-05-28T04:00:00+00:00",
       "fingerprint": "760e9b445d4fcfd1ef29fdbc64f1c68760cb3f9b"
-    },
-    {
-      "title": "Sensio Lighting partners with Uform. - kbnweekly.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLNTVEMDZRVWM3TTdnT0pXZ2xxd3RlZUhGdWRnNVZqMmdWQ19MeHhydG9BcDhLbXMwbDNRU2JuV2xYSUJnZ0NXZnhZUUxKWlktcExzc2RLLUJFNDhsYi1NQVhNS3JxNXBjaDJVRA?oc=5",
-      "source": "kbnweekly.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBLNTVEMDZRVWM3TTdnT0pXZ2xxd3RlZUhGdWRnNVZqMmdWQ19MeHhydG9BcDhLbXMwbDNRU2JuV2xYSUJnZ0NXZnhZUUxKWlktcExzc2RLLUJFNDhsYi1NQVhNS3JxNXBjaDJVRA?oc=5\" target=\"_blank\">Sensio Lighting partners with Uform.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kbnweekly.co.uk</font>",
-      "feed_group": "company",
-      "feed_title": "Kitchens & Bathrooms: Tavistock Bathroom \u2026 Ultra Finishing (12)",
-      "categories": [],
-      "company": "Sensio Lighting",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-05-27T21:00:00+00:00",
-      "fingerprint": "42914c12e059460179c539fe9edb9a06c440b28e"
     },
     {
       "title": "Northern Lights, Northern Lives: Queer Life Beyond the Lower 48 - RVA Mag",
@@ -545,7 +528,7 @@
       "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-05-28T13:12:07+00:00",
+      "published": "2026-05-28T13:32:53+00:00",
       "fingerprint": "797723edd78bf655936db2fd4921dba4e186a86c"
     },
     {
