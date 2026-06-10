@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T17:50:21.364072+00:00",
+  "generated_at": "2026-06-10T21:28:28.235407+00:00",
   "date": "2026-06-10",
-  "count": 30,
+  "count": 24,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -14,6 +14,23 @@
   ],
   "items": [
     {
+      "title": "Dormakaba acquires Airsphere - Passenger Terminal Today",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3JuVDBVRWpmbmlQNTdpekFGZnBpZkJmdWQ2NHRiMmFDSkd1U0RYN1J5SmhMQ1NMX0lKN3AtSUd6ZnpMRFQ3UFQwV0pvM2RRblAxVHF4UFVTWnRvb3JfWWRLbzFwYkIyZVZWMjhTOXNsMTVhdkpTajF6a01DbXBCbzYtbDE3bzZaa0NPREFaMA?oc=5",
+      "source": "Passenger Terminal Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3JuVDBVRWpmbmlQNTdpekFGZnBpZkJmdWQ2NHRiMmFDSkd1U0RYN1J5SmhMQ1NMX0lKN3AtSUd6ZnpMRFQ3UFQwV0pvM2RRblAxVHF4UFVTWnRvb3JfWWRLbzFwYkIyZVZWMjhTOXNsMTVhdkpTajF6a01DbXBCbzYtbDE3bzZaa0NPREFaMA?oc=5\" target=\"_blank\">Dormakaba acquires Airsphere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Passenger Terminal Today</font>",
+      "feed_group": "company",
+      "feed_title": "Windows, Doors & Curtain Walling: Crystal Windows &  \u2026 DOVISTA (11)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "Dormakaba",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-10T13:33:13+00:00",
+      "fingerprint": "006546ccb6e725ae6e0ba304b046b818d3880ddd"
+    },
+    {
       "title": "Fusion21 appoints suppliers to \u00a385 million UK-wide Grounds Maintenance Framework for the public sector - Construction UK Magazine",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT2tHNTI3NThWZ3VHeXV2MWxPYUVJOU44VWQydTdvV0VTbElJS0JOMWF6OHRXUFNIYnJXMHA4LW5sT0dQX0JSV056bHdSUUN6MmxQcnRaeUd6bVdiMTNjd0VMcHBhUFpqekdvNlNORU5tT2hraTk0TWd6SVpxUy11RDdCTmFYRUg0dEVhS1M4Nm1GWjEtVWVXOEV5WTNYbmo1UXZ5cTA2ZzBvbmd2ckpZRXVhcE1kLTk0QnRyR3A4RzFKWGM1Tk9zWC1GU0FINzA?oc=5",
       "source": "Construction UK Magazine",
@@ -21,8 +38,8 @@
       "feed_group": "sector",
       "feed_title": "Landscaping & External \u2014 sector news",
       "categories": [
-        "Contract / supply win",
-        "Leadership appointment"
+        "Leadership appointment",
+        "Contract / supply win"
       ],
       "company": "",
       "score": 9,
@@ -134,21 +151,21 @@
       "fingerprint": "88892d19cd3955bee538af7d0c12ebb52d73101a"
     },
     {
-      "title": "Breedon Group acquires US limestone quarry in \u00a390m deal - Insider Media Ltd",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVppRjVRMEFQLUFXTC1zUUhLTks5ZEFnSUR2THpSSVZJRF9JWko4SlBqUzJZZnpZajEybGxzdzZrN21iNE1icHd3WjRZVVJhZzdER01fMzA2NUZKZmRwY0lSSU9JaEgzeUJoQUl4ejFWejR2RW5xODF1QmNhM2JScWlXRzdFQnhrM2ZqMHJFZWxJRTY5YWZzb2V2Tnh0dw?oc=5",
-      "source": "Insider Media Ltd",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOVppRjVRMEFQLUFXTC1zUUhLTks5ZEFnSUR2THpSSVZJRF9JWko4SlBqUzJZZnpZajEybGxzdzZrN21iNE1icHd3WjRZVVJhZzdER01fMzA2NUZKZmRwY0lSSU9JaEgzeUJoQUl4ejFWejR2RW5xODF1QmNhM2JScWlXRzdFQnhrM2ZqMHJFZWxJRTY5YWZzb2V2Tnh0dw?oc=5\" target=\"_blank\">Breedon Group acquires US limestone quarry in \u00a390m deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Media Ltd</font>",
+      "title": "Medite Smartply Part Of Coillte Group Is To Invest \u20ac75M In It's Clonmel Manufacturing Facility - Tipp Mid West Radio",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUmdPeDc3S1hTNWMyckpUaWEwR3g5blZlMlQ3V2NUNlVKNF9EdjczZUNLOGozNWw5WW9xM29DclFZMG5KYVpxLW5qWlRhdWtTV3ZRUTRpYVprcDJ4MzF6Z3p2YlVsVC1lQ0xicUplSm1FZlpBcEEwOFpROHo4TFQtYWh4TGNxd2tVdHdLa3VrVHlKQ0tkU3JhOXBNWTZVZHNzVHhtUW1TMy1QenZVMm11SHBTQ0xjakJjQ01DWG85dUZIUTNpQkZHTnIzazdROTltMEV6UA?oc=5",
+      "source": "Tipp Mid West Radio",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUmdPeDc3S1hTNWMyckpUaWEwR3g5blZlMlQ3V2NUNlVKNF9EdjczZUNLOGozNWw5WW9xM29DclFZMG5KYVpxLW5qWlRhdWtTV3ZRUTRpYVprcDJ4MzF6Z3p2YlVsVC1lQ0xicUplSm1FZlpBcEEwOFpROHo4TFQtYWh4TGNxd2tVdHdLa3VrVHlKQ0tkU3JhOXBNWTZVZHNzVHhtUW1TMy1QenZVMm11SHBTQ0xjakJjQ01DWG85dUZIUTNpQkZHTnIzazdROTltMEV6UA?oc=5\" target=\"_blank\">Medite Smartply Part Of Coillte Group Is To Invest \u20ac75M In It's Clonmel Manufacturing Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tipp Mid West Radio</font>",
       "feed_group": "company",
-      "feed_title": "Roofing & Rooflights: Blackdown Greenroo \u2026 Cardinal Steels (10)",
+      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
       "categories": [
-        "Acquisition / M&A"
+        "Manufacturing capacity"
       ],
-      "company": "Breedon Group",
-      "score": 9,
+      "company": "Medite Smartply",
+      "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-09T06:33:00+00:00",
-      "fingerprint": "0983a611b426aa8df1945994fabb5c25f4d4727c"
+      "published": "2026-06-10T13:57:31+00:00",
+      "fingerprint": "242c819f9a0e08c271dd434c016b281abfb6f0e5"
     },
     {
       "title": "UK-based Breedon acquires US aggregates quarry for $120m - Construction Briefing",
@@ -168,23 +185,6 @@
       "fingerprint": "406eeb502d55afd0b6d1245158e2b3a80f464450"
     },
     {
-      "title": "Unilin Panels invests over \u20ac100 million in Oostrozebeke site - Fordaq",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTJ2WkJ3UWFyRkc3Uk9vMzBlQU56YXVGbnNCbldrY3BGenV5N1JlYURVamxibkxJSklXYVlPbWRKWDlZR2VrWEoxWEJyR3hPLTBvRGpsYzVobnBoVmpBZnlFM0UxekdBcnZobVQyWnN1NDl4bktZdnZlTW9fUlpTUWVsemVyUQ?oc=5",
-      "source": "Fordaq",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTJ2WkJ3UWFyRkc3Uk9vMzBlQU56YXVGbnNCbldrY3BGenV5N1JlYURVamxibkxJSklXYVlPbWRKWDlZR2VrWEoxWEJyR3hPLTBvRGpsYzVobnBoVmpBZnlFM0UxekdBcnZobVQyWnN1NDl4bktZdnZlTW9fUlpTUWVsemVyUQ?oc=5\" target=\"_blank\">Unilin Panels invests over \u20ac100 million in Oostrozebeke site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fordaq</font>",
-      "feed_group": "company",
-      "feed_title": "Flooring & Tiles: Unilin \u2026 Zimmer + Rohde (10)",
-      "categories": [
-        "Investment / funding"
-      ],
-      "company": "Unilin",
-      "score": 7,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-09T07:51:42+00:00",
-      "fingerprint": "425324406424edd656f71c47df50ff69a724f9ea"
-    },
-    {
       "title": "Philips CIO Shez Partovi unveils report on how AI is transforming healthcare - qz.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11ZTFNbDVsdnhvNVBSemtRT0NaRlFBdnBQNTdyM1Nqb0YyeS1SR1pndlRfb3lQeGhaNDNQRGhCUlBnM1FtRDVsb2d6NjN6SUxKZ3BnSk5Ta2RFOVpXNVItc3JSMUFiSEp5Tmt2S0ZMWjI?oc=5",
       "source": "qz.com",
@@ -198,25 +198,8 @@
       "score": 6,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-09T21:48:25+00:00",
+      "published": "2026-06-09T20:58:47+00:00",
       "fingerprint": "344aa3ffd327cd72d574e786b22ac128f0d24b1c"
-    },
-    {
-      "title": "Philips Hue Launches Sale to Mark the Start of Sports Live - Hueblog.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzhHNHFnRDRJb0VURDYwVDNjUEFqYlR1T1gyeTFoUVl2dF82emZFV0xMWkZ6UzJjUl9RSzlIYUZOYWVwUENVZEtCWWs1UHgxdUJ2d0tIWTF2WC01elVGTmtwZ3ZoeDlsNXU5U3FxcFA1QlZYT2ZZNGRJbTFsZFdyOGZfdi1QY3htamxVWlYwc2l4SENj?oc=5",
-      "source": "Hueblog.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxObzhHNHFnRDRJb0VURDYwVDNjUEFqYlR1T1gyeTFoUVl2dF82emZFV0xMWkZ6UzJjUl9RSzlIYUZOYWVwUENVZEtCWWs1UHgxdUJ2d0tIWTF2WC01elVGTmtwZ3ZoeDlsNXU5U3FxcFA1QlZYT2ZZNGRJbTFsZFdyOGZfdi1QY3htamxVWlYwc2l4SENj?oc=5\" target=\"_blank\">Philips Hue Launches Sale to Mark the Start of Sports Live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hueblog.com</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "Philips",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-09T09:18:09+00:00",
-      "fingerprint": "113d2b45ba480d6e52910f00b555a9028b2e9922"
     },
     {
       "title": "'Scunthorpe without steel would not be Scunthorpe,' says MP as British Steel nationalisation bill progresses - Grimsby Live",
@@ -232,6 +215,21 @@
       "likely_roles": "",
       "published": "2026-06-10T15:42:00+00:00",
       "fingerprint": "514e6405d74af7f924cf88296b2c97383b236dfd"
+    },
+    {
+      "title": "Northern lights could reach Ohio tonight. Will weather cooperate? - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMUtqQS1lUEt6THFGdGtGeFRVbl96ZUpYMnBiY1BMR2tObEdXS0ZhZmZVUU5ES0didFBMS1ZuQ3B3ZG53OUVoaXZMWTgxaFpURmlXeUhLcWFrbFBlUmlJWnp3VzRDNkt3M19rM3ppUHE1OVRHNnBfeXptVHpGbnVnbTRB?oc=5",
+      "source": "AOL.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMUtqQS1lUEt6THFGdGtGeFRVbl96ZUpYMnBiY1BMR2tObEdXS0ZhZmZVUU5ES0didFBMS1ZuQ3B3ZG53OUVoaXZMWTgxaFpURmlXeUhLcWFrbFBlUmlJWnp3VzRDNkt3M19rM3ppUHE1OVRHNnBfeXptVHpGbnVnbTRB?oc=5\" target=\"_blank\">Northern lights could reach Ohio tonight. Will weather cooperate?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-10T12:50:36+00:00",
+      "fingerprint": "8db84b0752559d4348c2b981981cede628dc2d26"
     },
     {
       "title": "Bill which could nationalise British Steel moving to the House of Lords - British Steel",
@@ -264,21 +262,6 @@
       "fingerprint": "56e3ddd8023e8bf554a1d8844e2a70ad10a68af5"
     },
     {
-      "title": "Daily Brief Energy/Materials: James Hardie Industries Plc, Iron Ore, Eqt Corp, Waaree Energies, Crude Oil, VAALCO Energy, ADF Group , Zephyr Energy and more - Smartkarma",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQVU1RUGtQSjV2S2tHMVg0M1k0Nmo5Ym8wMGllQVQ4RXJ2S2NLZF9fMklodGw3SEI3eWpTRzRBYUF5ZU5KU2JxZ09mSUVPZUV3QnUxMURka1pNN3hvQ0Mtc1hpeE5JaHhsYkh4LXhzZEFCenFRdktQdkdkRjF4QjlJQUY3WlQ0My1JcTNMVzdNUEVkdTM4TVd6OG4yX2dLWFpLbTZ4LU5hYWsxY3hiNVRZM01RWUhYMV85Nng5aFhjNVFPWmtKZ3huQzJUWmdGbVpvZTVMZEE5X3puVDQ1SVFiWGZLN3dpaWV6NFh4Tzc1STNoSWFiYVpIclJlRWJJNnBlVWxlLVZPbDlocm9DMW5Ub0k5VXdHaVc4SmpPQXVB?oc=5",
-      "source": "Smartkarma",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQVU1RUGtQSjV2S2tHMVg0M1k0Nmo5Ym8wMGllQVQ4RXJ2S2NLZF9fMklodGw3SEI3eWpTRzRBYUF5ZU5KU2JxZ09mSUVPZUV3QnUxMURka1pNN3hvQ0Mtc1hpeE5JaHhsYkh4LXhzZEFCenFRdktQdkdkRjF4QjlJQUY3WlQ0My1JcTNMVzdNUEVkdTM4TVd6OG4yX2dLWFpLbTZ4LU5hYWsxY3hiNVRZM01RWUhYMV85Nng5aFhjNVFPWmtKZ3huQzJUWmdGbVpvZTVMZEE5X3puVDQ1SVFiWGZLN3dpaWV6NFh4Tzc1STNoSWFiYVpIclJlRWJJNnBlVWxlLVZPbDlocm9DMW5Ub0k5VXdHaVc4SmpPQXVB?oc=5\" target=\"_blank\">Daily Brief Energy/Materials: James Hardie Industries Plc, Iron Ore, Eqt Corp, Waaree Energies, Crude Oil, VAALCO Energy, ADF Group , Zephyr En",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-10T02:01:16+00:00",
-      "fingerprint": "5a7afffc3b8629fa66968307c3543ed7bbdc0e34"
-    },
-    {
       "title": "MEDITE SMARTPLY celebrates 50 years - Irish building magazine",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTm5UOWVNZjVkcjJ0ajBoT1NmbW1sU0t4NVVjYmRkOXNUa1I5YUk2bE5DQkdUeGw3YmY5ODRZb2FKTXNQWE11MWwwc1NlWEZXRHNOSDA2VExuU2tCTV9uSlhRUjBXbkxXMkR3MXFZS2RfTEVyU01aVmc4ZXJOc0NPellqN29xTFU?oc=5",
       "source": "Irish building magazine",
@@ -307,21 +290,6 @@
       "likely_roles": "",
       "published": "2026-06-09T19:00:22+00:00",
       "fingerprint": "100bfd820f615ddf820ab0c639e3f19baf3a39b9"
-    },
-    {
-      "title": "Planning to chase the Northern Lights? Here's what causes them - WION",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEdoaVJxeVBiMnVkY0RZNFduVTc4TlhWYjFBRkhSN3FGYlBNVVBONHZuVXY4eGlQdnBldWZFWXM4YWljUGdpSjQtZmNqZV96SlNkRW4td1d5ZkFDczFka3NRcjNLVVlncWxQREJBeThmQ3hsZTNlZEhhWGwzb3hjaExWSmdKVGZkX1ZPS25xVjlKNXJocll2UWItQW5JU2M1ZDFuZ0g0RUVqV0U1aTdrTjUzVllWZ9IBuwFBVV95cUxPNHltdjktMV9LbDNXZTR4Rk9TWS13MnVUd0VQbmE3X0VwaVZMYkdseTE5Tmd4TDVwallrX1dBMzVKNV9HS3VOM0I2T29ZZVQ4SVBUR01WUDl6UktrY29jMHZDVzE3R2xJYTVLQXdFMDNXZlZ5NlNRUDVVRFk4OEdsSUJrQmdZQVpZNEw1Z1hYSlM0QWVIUjAxdFlOcUo5ZlZRQ0tyUjI5bW80cmZQblR0bE9UV3ZHWXVXMWxJ?oc=5",
-      "source": "WION",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEdoaVJxeVBiMnVkY0RZNFduVTc4TlhWYjFBRkhSN3FGYlBNVVBONHZuVXY4eGlQdnBldWZFWXM4YWljUGdpSjQtZmNqZV96SlNkRW4td1d5ZkFDczFka3NRcjNLVVlncWxQREJBeThmQ3hsZTNlZEhhWGwzb3hjaExWSmdKVGZkX1ZPS25xVjlKNXJocll2UWItQW5JU2M1ZDFuZ0g0RUVqV0U1aTdrTjUzVllWZ9IBuwFBVV95cUxPNHltdjktMV9LbDNXZTR4Rk9TWS13MnVUd0VQbmE3X0VwaVZMYkdseTE5Tmd4TDVwallrX1dBMzVKNV9HS3VOM0I2T29ZZVQ4SVBUR01WUDl6UktrY29jMHZDVzE3R2xJYTVLQXdFMDNXZlZ5NlNRUDVVRFk4OEdsSUJrQmdZQVpZNEw1Z1hYSlM0QWVIUjAxdFlOcUo5ZlZRQ0tyUjI5bW80cmZQblR0bE9UV3ZHWXVXMWxJ?oc=5\" target=\"_blank\">Planning to chase the North",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-09T17:53:00+00:00",
-      "fingerprint": "ee80da52a112a51911a8c753cf59f846ebe25f15"
     },
     {
       "title": "MEDITE SMARTPLY CELEBRATES 50 YEARS OF MDF EXPERTISE AND INNOVATION - Construction UK Magazine",
@@ -354,21 +322,6 @@
       "fingerprint": "f63fdbca4a0a527a022e1558dfce33e9771da7f5"
     },
     {
-      "title": "New recycling rules spark rise in interest in \u2018minimal waste\u2019 Actis insulation - Planning, Building & Construction Today",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdm5mTlpPVjRSRF9MQjFoZGpmUDdsUXNjbHc3T09EVWZrbjhIX0dneUMxOEkzZU1iUHE1UV9hNjctT1prTzI4UmllamJNb1VOekpNUHhyNWc5WE5wOHY5eTBFUl91WTZTSm85VFFuM0xzWE5nMTVyMWpSY1VHRGVDeERJV3JoQmhMRFlUZ0dMdDhrajZkZ2NWS1RzNnIzWVdFczdXRm1wcjBsX056cFhTNW1qTUdRWmFkb2ZVRkRLUQ?oc=5",
-      "source": "Planning, Building & Construction Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdm5mTlpPVjRSRF9MQjFoZGpmUDdsUXNjbHc3T09EVWZrbjhIX0dneUMxOEkzZU1iUHE1UV9hNjctT1prTzI4UmllamJNb1VOekpNUHhyNWc5WE5wOHY5eTBFUl91WTZTSm85VFFuM0xzWE5nMTVyMWpSY1VHRGVDeERJV3JoQmhMRFlUZ0dMdDhrajZkZ2NWS1RzNnIzWVdFczdXRm1wcjBsX056cFhTNW1qTUdRWmFkb2ZVRkRLUQ?oc=5\" target=\"_blank\">New recycling rules spark rise in interest in \u2018minimal waste\u2019 Actis insulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planning, Building & Construction Today</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
-      "categories": [],
-      "company": "Actis Insulation",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-09T12:41:10+00:00",
-      "fingerprint": "577ba150e0207c922ff6b48c6b238ed522610aac"
-    },
-    {
       "title": "James Hardie Faces Class Action Over Its 2026 Earnings Forecast - Finimize",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjNoWmR3d25fZGJnWERIdTRVMHFzRXBEZFZJQ2w5U3B4QjFTY1RZQXQybEZ0alRtZHJCVmVfeEZIR3c0bl9ZdGxlZmMtMi1lNVhlQkVxWUdITGp1MGZSN0lqN3JBZkF5cW41aVc3azV6U1FTNnNsMVJ3OWJTdDVaVTNSampwVVNFYzRzTUJxSzNfcUR6anZn?oc=5",
       "source": "Finimize",
@@ -397,38 +350,6 @@
       "likely_roles": "",
       "published": "2026-06-09T09:42:53+00:00",
       "fingerprint": "5aee246f20115b91b988b4609d7911e76a086810"
-    },
-    {
-      "title": "Hue manufacturer launches new Skylight and forgets smart connectivity - Hueblog.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHJzeDR3bTA0YmpzS0lKdENyUE9memVaVk42Mm92ek9odWR1QXBxYjNCVjFrTlhsS3pLeV9SanpGemUyNm1NUGY4TGNJbkEtU1hQc2F0V1lyVVBQS1J1NVI0NjU5cFBjZVhIVnFKRDBvNlZFcTgyUjlIZkZqSjNPN000dHEzRW5zQWpSWTZTckhPQUtubmt3VjVoWTZ4OEtnVnBB?oc=5",
-      "source": "Hueblog.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHJzeDR3bTA0YmpzS0lKdENyUE9memVaVk42Mm92ek9odWR1QXBxYjNCVjFrTlhsS3pLeV9SanpGemUyNm1NUGY4TGNJbkEtU1hQc2F0V1lyVVBQS1J1NVI0NjU5cFBjZVhIVnFKRDBvNlZFcTgyUjlIZkZqSjNPN000dHEzRW5zQWpSWTZTckhPQUtubmt3VjVoWTZ4OEtnVnBB?oc=5\" target=\"_blank\">Hue manufacturer launches new Skylight and forgets smart connectivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hueblog.com</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-09T08:34:53+00:00",
-      "fingerprint": "d6dd5bd71ab09cdd55ed90f2e586f2b0b2acd560"
-    },
-    {
-      "title": "Team Valley manufacturer Zentia collapses with 170 jobs lost - Business Live",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHBfSVhxX3NrRGpWM2F6RzhFb1NUVG54bU90WmxYWlktbm1oT1REVjY2cjI5ZlRtd0lCeW9PY2R4SWN2elVOc0tGckM0TGt1TTBBWmNxQXJDUmd6S3lPVzBpbFNwejhaRmplbzVxeWxsSFJLbkIwWFp5TFNaZUQzVnVDckZrblM0MlVMcGdKNDVGRGwwVFRpYjhxSHTSAaIBQVVfeXFMTzJZSG1vaFRXUTZGYTJLd0h6RXFVcEZ4OUpySTRqeXFEUUVyTDFjbVRuWHNVWHRRQTNOc3hmTVkyY2F6N296X01NMVV2dmg3V0hjQWNjOTkweVc1TjB3M1JkcWExUnQ4Wm9tMjdkNnRKTDRnMjItd1VzdHZhTnZvYlNUS1ZiYnBNOGdsVElUdnNXck13a0IyYS1MRmVIM29QMURR?oc=5",
-      "source": "Business Live",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHBfSVhxX3NrRGpWM2F6RzhFb1NUVG54bU90WmxYWlktbm1oT1REVjY2cjI5ZlRtd0lCeW9PY2R4SWN2elVOc0tGckM0TGt1TTBBWmNxQXJDUmd6S3lPVzBpbFNwejhaRmplbzVxeWxsSFJLbkIwWFp5TFNaZUQzVnVDckZrblM0MlVMcGdKNDVGRGwwVFRpYjhxSHTSAaIBQVVfeXFMTzJZSG1vaFRXUTZGYTJLd0h6RXFVcEZ4OUpySTRqeXFEUUVyTDFjbVRuWHNVWHRRQTNOc3hmTVkyY2F6N296X01NMVV2dmg3V0hjQWNjOTkweVc1TjB3M1JkcWExUnQ4Wm9tMjdkNnRKTDRnMjItd1VzdHZhTnZvYlNUS1ZiYnBNOGdsVElUdnNXck13a0IyYS1MRmVIM29QMURR?oc=5\" target=\"_blank\">Team Valley manufacturer Zentia collapses with 170 jobs lost</a>&nbsp;&nbsp;<font color=\"#6f6f6",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
-      "categories": [],
-      "company": "Zentia",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-09T07:39:51+00:00",
-      "fingerprint": "237b1767d5ab4127ab1aada94b729e355d0f22ea"
     },
     {
       "title": "Apple Might Haven Taken Aim at OpenAI with New Announcement. There\u2019s Only One Problem. - 24/7 Wall St.",
@@ -474,21 +395,6 @@
       "likely_roles": "",
       "published": "2026-06-09T10:18:30+00:00",
       "fingerprint": "bc328991e5e451ae73bb18640207ad12109af13d"
-    },
-    {
-      "title": "Administrators called into Gateshead manufacturer with more than 100 years of history - 170 jobs lost - Insider Media Ltd",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFhnaE5FX19NX1N1MmtHanR4UkNtcTBFbFRTRlByYnBrUzl6X1VpVWNvWTRrRXlUWWw3TEhRZVRrY2ZEZGZmekJqbEF1bkYyX2lHdk1EbXBnYjkzbWdoRE54US1OM09velFoMzZQazU0WkMtWVlZV0w3ak5IVGhERmRRQ1lDYWRyQ1BET05PNUZSNEhUV1Z3d0YtY014OW5JY3JlZWVUV093djl1UlJaZ1ZEdnQyNlRsb3J0NlJDM0hpY0RRdnpaRGxxNGYxNGNYYUswOUJyV2NnVGVE?oc=5",
-      "source": "Insider Media Ltd",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFhnaE5FX19NX1N1MmtHanR4UkNtcTBFbFRTRlByYnBrUzl6X1VpVWNvWTRrRXlUWWw3TEhRZVRrY2ZEZGZmekJqbEF1bkYyX2lHdk1EbXBnYjkzbWdoRE54US1OM09velFoMzZQazU0WkMtWVlZV0w3ak5IVGhERmRRQ1lDYWRyQ1BET05PNUZSNEhUV1Z3d0YtY014OW5JY3JlZWVUV093djl1UlJaZ1ZEdnQyNlRsb3J0NlJDM0hpY0RRdnpaRGxxNGYxNGNYYUswOUJyV2NnVGVE?oc=5\" target=\"_blank\">Administrators called into Gateshead manufacturer with more than 100 years of history - 170 jobs lost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Media Ltd</font>",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-09T06:52:00+00:00",
-      "fingerprint": "3df773041a873ec70472cc8d748f5737ebcc8494"
     }
   ]
 }
