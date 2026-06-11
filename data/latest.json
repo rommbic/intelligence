@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T18:32:34.972302+00:00",
+  "generated_at": "2026-06-11T22:24:35.573650+00:00",
   "date": "2026-06-11",
-  "count": 24,
+  "count": 25,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -27,25 +27,8 @@
       "score": 9,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-11T15:29:00+00:00",
+      "published": "2026-06-11T19:46:00+00:00",
       "fingerprint": "f6008e53beadc0e50fd40ad670cf272203152ec8"
-    },
-    {
-      "title": "Jingye Steel seeks compensation from Britain over British Steel takeover - MSN",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGFjTkQ3Q2tMUnIwdzJhXzZJSXFXYmJzb05PRGZpZ3dZLU9QaDdveS1yQXFRRHVncF9lMUd2alJRTFNxekJZWm5MVXhzTW0tM0szM1ZEV3Fmakt3SmJEbnh5T3d0U2l4R2E5ZXI2Z3hTMUlPeEJraHYwbF9odzJWT2xHZE84UHlMbVhpOHpPZ2xKQTEyODZ5R09BZlVKS0N3Mk90RHRIZ0J4MmRnZW44azFsazFtcmEtWV9HM19Mbw?oc=5",
-      "source": "MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGFjTkQ3Q2tMUnIwdzJhXzZJSXFXYmJzb05PRGZpZ3dZLU9QaDdveS1yQXFRRHVncF9lMUd2alJRTFNxekJZWm5MVXhzTW0tM0szM1ZEV3Fmakt3SmJEbnh5T3d0U2l4R2E5ZXI2Z3hTMUlPeEJraHYwbF9odzJWT2xHZE84UHlMbVhpOHpPZ2xKQTEyODZ5R09BZlVKS0N3Mk90RHRIZ0J4MmRnZW44azFsazFtcmEtWV9HM19Mbw?oc=5\" target=\"_blank\">Jingye Steel seeks compensation from Britain over British Steel takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "Acquisition / M&A"
-      ],
-      "company": "British Steel",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-11T11:56:42+00:00",
-      "fingerprint": "f3e4410f36bc69a15d414a661af30fe0918f411f"
     },
     {
       "title": "British Steel's Chinese owner demands compensation after UK takeover - eNCA",
@@ -82,6 +65,23 @@
       "fingerprint": "be01fc9e6112306e2f61a58f9ae3a2c25d619947"
     },
     {
+      "title": "Jingye Steel seeks compensation from Britain over British Steel takeover - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGhMOTNkcFl4NFZ3SXpSZ3k0elhVM1dILVY5Tm9vd05CMDA4amRpc3pXMzJRRElEMl8xandoUlJ3ZFhwcmNKZEJidGIzT3pkdlpGWUo1cU92LTVmbmE3ZWFxS0JIcHdZQ2dKMU1FVTJJNFU4ZkIxMGR5dVB1VmNLUm9INkx4S3FIYkctWlRaQjFxRmw1VW1fay03UU52ckNIUXFSdmZRNmxzMUFPcDVZZFhR?oc=5",
+      "source": "Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGhMOTNkcFl4NFZ3SXpSZ3k0elhVM1dILVY5Tm9vd05CMDA4amRpc3pXMzJRRElEMl8xandoUlJ3ZFhwcmNKZEJidGIzT3pkdlpGWUo1cU92LTVmbmE3ZWFxS0JIcHdZQ2dKMU1FVTJJNFU4ZkIxMGR5dVB1VmNLUm9INkx4S3FIYkctWlRaQjFxRmw1VW1fay03UU52ckNIUXFSdmZRNmxzMUFPcDVZZFhR?oc=5\" target=\"_blank\">Jingye Steel seeks compensation from Britain over British Steel takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "British Steel",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T07:11:53+00:00",
+      "fingerprint": "f3e4410f36bc69a15d414a661af30fe0918f411f"
+    },
+    {
       "title": "Mayor of Wimborne Minster re-elected for a third term - Yahoo News UK",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3VzWGVoTlEyd01oOWJwMzdrb3J2OWY2d0h2b3JGcEpub0lnTFB2U3ZuZjVfVG5NbFVab3F5eHlneW4wZTJNbkIxSmRyMDhmNTE3MVBubklpREVTcUVvZUJxQWZLMUFnMkF1ZHowbkJQUE5KMEJQVzgwRExvbnZYV1oxbw?oc=5",
       "source": "Yahoo News UK",
@@ -116,22 +116,21 @@
       "fingerprint": "006546ccb6e725ae6e0ba304b046b818d3880ddd"
     },
     {
-      "title": "Fusion21 appoints suppliers to \u00a385 million UK-wide Grounds Maintenance Framework for the public sector - Construction UK Magazine",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT2tHNTI3NThWZ3VHeXV2MWxPYUVJOU44VWQydTdvV0VTbElJS0JOMWF6OHRXUFNIYnJXMHA4LW5sT0dQX0JSV056bHdSUUN6MmxQcnRaeUd6bVdiMTNjd0VMcHBhUFpqekdvNlNORU5tT2hraTk0TWd6SVpxUy11RDdCTmFYRUg0dEVhS1M4Nm1GWjEtVWVXOEV5WTNYbmo1UXZ5cTA2ZzBvbmd2ckpZRXVhcE1kLTk0QnRyR3A4RzFKWGM1Tk9zWC1GU0FINzA?oc=5",
-      "source": "Construction UK Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOT2tHNTI3NThWZ3VHeXV2MWxPYUVJOU44VWQydTdvV0VTbElJS0JOMWF6OHRXUFNIYnJXMHA4LW5sT0dQX0JSV056bHdSUUN6MmxQcnRaeUd6bVdiMTNjd0VMcHBhUFpqekdvNlNORU5tT2hraTk0TWd6SVpxUy11RDdCTmFYRUg0dEVhS1M4Nm1GWjEtVWVXOEV5WTNYbmo1UXZ5cTA2ZzBvbmd2ckpZRXVhcE1kLTk0QnRyR3A4RzFKWGM1Tk9zWC1GU0FINzA?oc=5\" target=\"_blank\">Fusion21 appoints suppliers to \u00a385 million UK-wide Grounds Maintenance Framework for the public sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction UK Magazine</font>",
-      "feed_group": "sector",
-      "feed_title": "Landscaping & External \u2014 sector news",
+      "title": "Wiltshire manufacturer opens UK\u2019s first solar-powered tea factory - Business Biscuit",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3VKTzJ3eTVITGpXblNCcnVmQmZDbGd6WDM1alI2dG5kX2J6YWE4WjllNEZqcnBVTHprMFQzMElkRTdNZ3hkTXZIWkgyNEFmTDR5bUxDT2lHc2JvWlIwZHBEUHBGQ21BSmVnLTMybDdSUXZCUEV2VFJHdHB1ekxDa0Zxbl9XeklGUVI0V1AzR0l0SkdTNnVOY0ZtbGIwRGhFUzNyZTJPdjhZMFF1UnVNZk1ZaTFYVlM0UG9ZRDhGU2RnNGp4blhrSS1ONWM?oc=5",
+      "source": "Business Biscuit",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3VKTzJ3eTVITGpXblNCcnVmQmZDbGd6WDM1alI2dG5kX2J6YWE4WjllNEZqcnBVTHprMFQzMElkRTdNZ3hkTXZIWkgyNEFmTDR5bUxDT2lHc2JvWlIwZHBEUHBGQ21BSmVnLTMybDdSUXZCUEV2VFJHdHB1ekxDa0Zxbl9XeklGUVI0V1AzR0l0SkdTNnVOY0ZtbGIwRGhFUzNyZTJPdjhZMFF1UnVNZk1ZaTFYVlM0UG9ZRDhGU2RnNGp4blhrSS1ONWM?oc=5\" target=\"_blank\">Wiltshire manufacturer opens UK\u2019s first solar-powered tea factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Biscuit</font>",
+      "feed_group": "signal",
+      "feed_title": "New facilities / expansion",
       "categories": [
-        "Leadership appointment",
-        "Contract / supply win"
+        "New facility / expansion"
       ],
       "company": "",
-      "score": 9,
+      "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-10T07:46:44+00:00",
-      "fingerprint": "157ffa2118718f155b84980e3a86b1e427e28df0"
+      "published": "2026-06-11T19:31:32+00:00",
+      "fingerprint": "da8c6f9d375453c9ae24541bd72aefe1f9de0e7d"
     },
     {
       "title": "China\u2019s Jingye Group launches consultations with UK govt over nationalization of British Steel, demanding compensation from UK for investment losses - Global Times",
@@ -398,6 +397,21 @@
       "likely_roles": "",
       "published": "2026-06-10T10:34:43+00:00",
       "fingerprint": "56e3ddd8023e8bf554a1d8844e2a70ad10a68af5"
+    },
+    {
+      "title": "Empire Metals MD says Pitfield flowsheet is a 'defining moment' - Proactive Investors",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXhHTm9aVzNEenhRZTVkQjM1Q2tFQnd3di1sUjNpQVRRYWNVRm0zajdxVlZKNlFXUjh3bnh3NkxKMURPczFBMUdZRl90MnJZR21DNXd1R3FFaXFvcEhZRlhUS2R6MjhYNmZkSFBlTVg1UGtWaEEyekQwSXphbnI0c3dYVlExRVY5cTZRWWU1eVhHMHVacGFTTWZiQ2NISTBCWGROcjFOMWJfMGl3dzB6WEhHWG1LQ3hjSzNMQU94Qy1JS1d5?oc=5",
+      "source": "Proactive Investors",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXhHTm9aVzNEenhRZTVkQjM1Q2tFQnd3di1sUjNpQVRRYWNVRm0zajdxVlZKNlFXUjh3bnh3NkxKMURPczFBMUdZRl90MnJZR21DNXd1R3FFaXFvcEhZRlhUS2R6MjhYNmZkSFBlTVg1UGtWaEEyekQwSXphbnI0c3dYVlExRVY5cTZRWWU1eVhHMHVacGFTTWZiQ2NISTBCWGROcjFOMWJfMGl3dzB6WEhHWG1LQ3hjSzNMQU94Qy1JS1d5?oc=5\" target=\"_blank\">Empire Metals MD says Pitfield flowsheet is a 'defining moment'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive Investors</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T09:50:00+00:00",
+      "fingerprint": "ea1b11943865c651cf641a7a2e40338202db300c"
     }
   ]
 }
