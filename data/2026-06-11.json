@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T13:09:13.654779+00:00",
+  "generated_at": "2026-06-11T18:32:34.972302+00:00",
   "date": "2026-06-11",
-  "count": 20,
+  "count": 24,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,40 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "China\u2019s Jingye seeks compensation from UK over British Steel takeover - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmhfZVZmRHJqY3IyQWpnN2RzcW1TVnMwY3lyZHE4NEFoY3RVVXFYUGtLbmJxTDdjRXltc3A0UFlaWDdHX0FiSFhZeTVScEFVbXZRWngzREcyd0dCZjJyYmQyZnRKX0RhcHNLRUlZYmVsbXVhVURxdmpIS3ZJaGdQQ3FlM2Rqck5yQzRZMldwa1k2RVhDc0MzWW9mUlljbGRSQmc?oc=5",
+      "source": "The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmhfZVZmRHJqY3IyQWpnN2RzcW1TVnMwY3lyZHE4NEFoY3RVVXFYUGtLbmJxTDdjRXltc3A0UFlaWDdHX0FiSFhZeTVScEFVbXZRWngzREcyd0dCZjJyYmQyZnRKX0RhcHNLRUlZYmVsbXVhVURxdmpIS3ZJaGdQQ3FlM2Rqck5yQzRZMldwa1k2RVhDc0MzWW9mUlljbGRSQmc?oc=5\" target=\"_blank\">China\u2019s Jingye seeks compensation from UK over British Steel takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "British Steel",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T15:29:00+00:00",
+      "fingerprint": "f6008e53beadc0e50fd40ad670cf272203152ec8"
+    },
+    {
+      "title": "Jingye Steel seeks compensation from Britain over British Steel takeover - MSN",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGFjTkQ3Q2tMUnIwdzJhXzZJSXFXYmJzb05PRGZpZ3dZLU9QaDdveS1yQXFRRHVncF9lMUd2alJRTFNxekJZWm5MVXhzTW0tM0szM1ZEV3Fmakt3SmJEbnh5T3d0U2l4R2E5ZXI2Z3hTMUlPeEJraHYwbF9odzJWT2xHZE84UHlMbVhpOHpPZ2xKQTEyODZ5R09BZlVKS0N3Mk90RHRIZ0J4MmRnZW44azFsazFtcmEtWV9HM19Mbw?oc=5",
+      "source": "MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGFjTkQ3Q2tMUnIwdzJhXzZJSXFXYmJzb05PRGZpZ3dZLU9QaDdveS1yQXFRRHVncF9lMUd2alJRTFNxekJZWm5MVXhzTW0tM0szM1ZEV3Fmakt3SmJEbnh5T3d0U2l4R2E5ZXI2Z3hTMUlPeEJraHYwbF9odzJWT2xHZE84UHlMbVhpOHpPZ2xKQTEyODZ5R09BZlVKS0N3Mk90RHRIZ0J4MmRnZW44azFsazFtcmEtWV9HM19Mbw?oc=5\" target=\"_blank\">Jingye Steel seeks compensation from Britain over British Steel takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "British Steel",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T11:56:42+00:00",
+      "fingerprint": "f3e4410f36bc69a15d414a661af30fe0918f411f"
+    },
     {
       "title": "British Steel's Chinese owner demands compensation after UK takeover - eNCA",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTU0WmNyZ2swa3k5b1plb01YR2pFVGE3ODd2UkVESjNFR2dwbmxiZUlWOWlaSlJoWkkwSVpwOVRRcVlGY2swTXRCRHp2Sk9rZmNYR3BUTE1UaUlESmxOTElQNmlEYWl0bjgtOVdod0wwNWwySm8tV2tWREhsNjEwOGEyYUsyVXR5TUZZVWhKMTNqZ1hxVW44LWNuTnNFdw?oc=5",
@@ -27,7 +61,7 @@
       "score": 9,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-11T11:33:11+00:00",
+      "published": "2026-06-11T11:33:27+00:00",
       "fingerprint": "fe717300cb5ca00786214e0ef1b9ed4dfdce4056"
     },
     {
@@ -46,40 +80,6 @@
       "likely_roles": "",
       "published": "2026-06-11T11:10:00+00:00",
       "fingerprint": "be01fc9e6112306e2f61a58f9ae3a2c25d619947"
-    },
-    {
-      "title": "China\u2019s Jingye seeks compensation from UK over British Steel takeover - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmhfZVZmRHJqY3IyQWpnN2RzcW1TVnMwY3lyZHE4NEFoY3RVVXFYUGtLbmJxTDdjRXltc3A0UFlaWDdHX0FiSFhZeTVScEFVbXZRWngzREcyd0dCZjJyYmQyZnRKX0RhcHNLRUlZYmVsbXVhVURxdmpIS3ZJaGdQQ3FlM2Rqck5yQzRZMldwa1k2RVhDc0MzWW9mUlljbGRSQmc?oc=5",
-      "source": "The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmhfZVZmRHJqY3IyQWpnN2RzcW1TVnMwY3lyZHE4NEFoY3RVVXFYUGtLbmJxTDdjRXltc3A0UFlaWDdHX0FiSFhZeTVScEFVbXZRWngzREcyd0dCZjJyYmQyZnRKX0RhcHNLRUlZYmVsbXVhVURxdmpIS3ZJaGdQQ3FlM2Rqck5yQzRZMldwa1k2RVhDc0MzWW9mUlljbGRSQmc?oc=5\" target=\"_blank\">China\u2019s Jingye seeks compensation from UK over British Steel takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "Acquisition / M&A"
-      ],
-      "company": "British Steel",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-11T09:23:00+00:00",
-      "fingerprint": "f6008e53beadc0e50fd40ad670cf272203152ec8"
-    },
-    {
-      "title": "Jingye Steel seeks compensation from Britain over British Steel takeover - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGhMOTNkcFl4NFZ3SXpSZ3k0elhVM1dILVY5Tm9vd05CMDA4amRpc3pXMzJRRElEMl8xandoUlJ3ZFhwcmNKZEJidGIzT3pkdlpGWUo1cU92LTVmbmE3ZWFxS0JIcHdZQ2dKMU1FVTJJNFU4ZkIxMGR5dVB1VmNLUm9INkx4S3FIYkctWlRaQjFxRmw1VW1fay03UU52ckNIUXFSdmZRNmxzMUFPcDVZZFhR?oc=5",
-      "source": "Reuters",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGhMOTNkcFl4NFZ3SXpSZ3k0elhVM1dILVY5Tm9vd05CMDA4amRpc3pXMzJRRElEMl8xandoUlJ3ZFhwcmNKZEJidGIzT3pkdlpGWUo1cU92LTVmbmE3ZWFxS0JIcHdZQ2dKMU1FVTJJNFU4ZkIxMGR5dVB1VmNLUm9INkx4S3FIYkctWlRaQjFxRmw1VW1fay03UU52ckNIUXFSdmZRNmxzMUFPcDVZZFhR?oc=5\" target=\"_blank\">Jingye Steel seeks compensation from Britain over British Steel takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "Acquisition / M&A"
-      ],
-      "company": "British Steel",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-11T07:11:53+00:00",
-      "fingerprint": "f3e4410f36bc69a15d414a661af30fe0918f411f"
     },
     {
       "title": "Mayor of Wimborne Minster re-elected for a third term - Yahoo News UK",
@@ -134,10 +134,10 @@
       "fingerprint": "157ffa2118718f155b84980e3a86b1e427e28df0"
     },
     {
-      "title": "China\u2019s Jingye Group launches consultation with UK govt over British Steel nationalization, demanding compensation from UK for investment losses - Global Times",
+      "title": "China\u2019s Jingye Group launches consultations with UK govt over nationalization of British Steel, demanding compensation from UK for investment losses - Global Times",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WbTB3d0Z2Z3h0MlJER0k5cmltWTdZZGdmZFhXZzBNTEJvUEpka0lsS1dod3h2LWJuNnBERzB1Skh2eDNXLWpFRXI3N19hZFdIMkRLV1hiUUQyVkpsXzI3TWRB?oc=5",
       "source": "Global Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WbTB3d0Z2Z3h0MlJER0k5cmltWTdZZGdmZFhXZzBNTEJvUEpka0lsS1dod3h2LWJuNnBERzB1Skh2eDNXLWpFRXI3N19hZFdIMkRLV1hiUUQyVkpsXzI3TWRB?oc=5\" target=\"_blank\">China\u2019s Jingye Group launches consultation with UK govt over British Steel nationalization, demanding compensation from UK for investment losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WbTB3d0Z2Z3h0MlJER0k5cmltWTdZZGdmZFhXZzBNTEJvUEpka0lsS1dod3h2LWJuNnBERzB1Skh2eDNXLWpFRXI3N19hZFdIMkRLV1hiUUQyVkpsXzI3TWRB?oc=5\" target=\"_blank\">China\u2019s Jingye Group launches consultations with UK govt over nationalization of British Steel, demanding compensation from UK for investment losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>",
       "feed_group": "company",
       "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
       "categories": [
@@ -149,7 +149,7 @@
       "rationale": "",
       "likely_roles": "",
       "published": "2026-06-11T07:57:00+00:00",
-      "fingerprint": "a864403cd386588dc13d08bbfbf3a0b4d3cd4f8d"
+      "fingerprint": "8e70ed06ead67779aa202325de110b0c96257d9d"
     },
     {
       "title": "Medite Smartply Part Of Coillte Group Is To Invest \u20ac75M In It's Clonmel Manufacturing Facility - Tipp Mid West Radio",
@@ -170,9 +170,9 @@
     },
     {
       "title": "UK Government Plans to Nationalize British Steel; Jingye Steel Demands Compensation for Investment Losses - AASTOCKS.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DS1h4X1VpVnktb3YwcXBzNktMMXB0RjlDSXN3NkVHSTI3cVoxUGIxZDJGLU1KazZYcnNLNWwydDdtTC1iaFYyVkx5NXZfT0FlTER3MDBYVnZ3NEJURDFLbVlXOW01dmZPcF9FMGpWQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXlHcE1vSm53YzlQSWdYa0tOcHBqOC13dVBiZFdTbElQbWdyd2JyQ2ExaE9nenRrUXhEUWpLcVhQZnFmQ0psQTBDY3A2a0VETXRRaG9qZHA0b1BQNGxIQVZ1d09Na0VZMldJaXdjMTFmWUU5OGtoR1lCTjNnZzFwM21rcU9Ydw?oc=5",
       "source": "AASTOCKS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1DS1h4X1VpVnktb3YwcXBzNktMMXB0RjlDSXN3NkVHSTI3cVoxUGIxZDJGLU1KazZYcnNLNWwydDdtTC1iaFYyVkx5NXZfT0FlTER3MDBYVnZ3NEJURDFLbVlXOW01dmZPcF9FMGpWQQ?oc=5\" target=\"_blank\">UK Government Plans to Nationalize British Steel; Jingye Steel Demands Compensation for Investment Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXlHcE1vSm53YzlQSWdYa0tOcHBqOC13dVBiZFdTbElQbWdyd2JyQ2ExaE9nenRrUXhEUWpLcVhQZnFmQ0psQTBDY3A2a0VETXRRaG9qZHA0b1BQNGxIQVZ1d09Na0VZMldJaXdjMTFmWUU5OGtoR1lCTjNnZzFwM21rcU9Ydw?oc=5\" target=\"_blank\">UK Government Plans to Nationalize British Steel; Jingye Steel Demands Compensation for Investment Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
       "feed_group": "company",
       "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
       "categories": [
@@ -186,21 +186,21 @@
       "fingerprint": "a19d4a6d533262f7d5fcbb69d33241ec2fa08a20"
     },
     {
-      "title": "Paul Magnier praises Soudal-Quickstep teammates after third Giro d'Italia sprint win - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNb1k2VVpCTGFnM0NpRUd0YzRDOGpnZ3BQaldWU1ZhNmg0dU1LSjQxVGVKUXM5M3ZoUGUtU0ZBNE05R1dXd09rY2k2NWUyME1VMkdzZEZqbVdiWVl1VkRTcWYyMnU0dWh0dVlrSlBGcGtFSzJaaF9DZjlNaGc0N3lha2tUN2Raa2kwbWl5djE5UWw1cnJ0aHBFeWU5WmpWVUNqR0w3SVhyVm1aRGdaMDU0OW5PMHpIcDIwa2dkMWFLaWx5Wnc2V1dxRDVJVzhRczFTQlByVWdZTTVJNEtVS1VlcUxkT2tDQzNMQVBUelZzNzdEX1NCRjZWanNYbFNnQW5fTFVhWU11SHdQY0VDa2dTTEpCaGdBNFBIbnYtWTZfcW9ZbTkyX0xMUUVMa3ZpZU9HTGYwVWdSZ2JORy0wTTJKLWlobWZfLW1TSVNoMkw2TWlPOEJKYl9YcjFKOXcxem1BbmJhcHpB?oc=5",
-      "source": "MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxNb1k2VVpCTGFnM0NpRUd0YzRDOGpnZ3BQaldWU1ZhNmg0dU1LSjQxVGVKUXM5M3ZoUGUtU0ZBNE05R1dXd09rY2k2NWUyME1VMkdzZEZqbVdiWVl1VkRTcWYyMnU0dWh0dVlrSlBGcGtFSzJaaF9DZjlNaGc0N3lha2tUN2Raa2kwbWl5djE5UWw1cnJ0aHBFeWU5WmpWVUNqR0w3SVhyVm1aRGdaMDU0OW5PMHpIcDIwa2dkMWFLaWx5Wnc2V1dxRDVJVzhRczFTQlByVWdZTTVJNEtVS1VlcUxkT2tDQzNMQVBUelZzNzdEX1NCRjZWanNYbFNnQW5fTFVhWU11SHdQY0VDa2dTTEpCaGdBNFBIbnYtWTZfcW9ZbTkyX0xMUUVMa3ZpZU9HTGYwVWdSZ2JORy0wTTJKLWlobWZfLW1TSVNoMkw2TWlPOEJKYl9YcjFKOXcxem1BbmJhcHpB?oc=5\" target=\"_blank\">Paul Magnier praises Soudal-Quickstep teammates",
-      "feed_group": "company",
-      "feed_title": "Sealants, Adhesives & Waterproofing: Iso Chemie \u2026 Soudal (8)",
+      "title": "Topps Tiles launches new Trade app to save time on the job - Installer Online",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2VhQ21MUmFiM3RlRnZVV09aRGRxWlRXVk1JVDM4elhvcDNRS0stSzAyYnNOdXdQNG45U1RhZThZQ1pkN3I5MkNjS1l3MTBCMllncWp3ckZNblU1d2lvdTdjRm9uNTZsTFNaLU5UeXBnTWJqeWgtOGdPRjJ4OG4yTVJtUkNqTVhobTFDNE53TmtDS0pLcHFzblU5M2NXMEU?oc=5",
+      "source": "Installer Online",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2VhQ21MUmFiM3RlRnZVV09aRGRxWlRXVk1JVDM4elhvcDNRS0stSzAyYnNOdXdQNG45U1RhZThZQ1pkN3I5MkNjS1l3MTBCMllncWp3ckZNblU1d2lvdTdjRm9uNTZsTFNaLU5UeXBnTWJqeWgtOGdPRjJ4OG4yTVJtUkNqTVhobTFDNE53TmtDS0pLcHFzblU5M2NXMEU?oc=5\" target=\"_blank\">Topps Tiles launches new Trade app to save time on the job</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Installer Online</font>",
+      "feed_group": "sector",
+      "feed_title": "Flooring & Tiles \u2014 sector news",
       "categories": [
-        "Investment / funding"
+        "New product launch"
       ],
-      "company": "Soudal",
-      "score": 7,
+      "company": "Topps Tiles",
+      "score": 6,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-10T07:00:30+00:00",
-      "fingerprint": "2a0b2dcfd852157ba67a887e972dd28803d72629"
+      "published": "2026-06-11T13:36:08+00:00",
+      "fingerprint": "db64240177f0dc36fba3dd9f85e59d3add6c4814"
     },
     {
       "title": "Forterra CFO to step down as firm launches search for successor - Insider Media Ltd",
@@ -220,10 +220,40 @@
       "fingerprint": "9c85603c54ff3dd3be943d952503c2ed2b2c0a1e"
     },
     {
-      "title": "Northern Lights Defines Large Deep-Seated Copper Porphyry Intrusion with Correlated Anomalous Copper Geochemistry at Mt Horetzky Through Advanced 3D Magnetic Modelling - TheNewswire",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOU0pPTVI4c0UzeEpwLW9xRWUydG1yMGIyOXdPSXBLMkpBaDNkTHFELVctS0tfQ1JLdG0xN0EzN2FVWU40UWhyd0xYTFpZZzRfVHM3REtYTXdQRHY3UWp4MmlqSXRqNDkzS2M2NXJMc2xTam9XT1ppYV9fWXViWldvRHAxa09jaDhyV1JBV04wZVFody12TWF5VDJHYmtqM1ZKYUJaZjd4U3lYQTEtM2pIRVhlR1RNSXhMYUFoTG1QTElRV3R4YVZGWW1uZE4tdFBIUHRMZ3VXeUh2NC1sZ0QwU1hXMnNtQmRFR3l6cVViNkN1WktONEVQV2RmQzIxX1FweEJDV2pKU1ZHeHlONnZYWDRKQ2RBaUs4M2wyMkhNVGtDaHdjdnJfRDUwMXpzYlVQZFVOaFlvN1dzTmtNN0xBSnM3NFY4eUxV?oc=5",
-      "source": "TheNewswire",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxOU0pPTVI4c0UzeEpwLW9xRWUydG1yMGIyOXdPSXBLMkpBaDNkTHFELVctS0tfQ1JLdG0xN0EzN2FVWU40UWhyd0xYTFpZZzRfVHM3REtYTXdQRHY3UWp4MmlqSXRqNDkzS2M2NXJMc2xTam9XT1ppYV9fWXViWldvRHAxa09jaDhyV1JBV04wZVFody12TWF5VDJHYmtqM1ZKYUJaZjd4U3lYQTEtM2pIRVhlR1RNSXhMYUFoTG1QTElRV3R4YVZGWW1uZE4tdFBIUHRMZ3VXeUh2NC1sZ0QwU1hXMnNtQmRFR3l6cVViNkN1WktONEVQV2RmQzIxX1FweEJDV2pKU1ZHeHlONnZYWDRKQ2RBaUs4M2wyMkhNVGtDaHdjdnJfRDUwMXpzYlVQZFVOaFlvN1dzTmtNN0xBSnM3NFY4eUxV?oc=5\" target=\"_blank\">Northern Lights Defines Large Deep-Seated Copper Porphyry Intrusion with Correlated Ano",
+      "title": "British Steel signs new Scunthorpe United shirt sponsorship deal - Grimsby Live",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHJncEZVakljMzZxdmFvV3dUNWdJM0EzalNaeXhBdENXcUxrWDBWeE5DelNDTzZOckFXbDFZUWtXY25MNXVhQjB6c1BVWmZQTEZjUzNWc1Q0WXRGbGVJRTRlWXFZN2N6czRpQlEwMXhXOVFFOUF0ZlBQQUdOLXFLYmJpN0M0SFJ2UmVrN0VxZHdYQVBGcF9KazlR0gGfAUFVX3lxTE1YeDZwdEpmVHprcDJ6Mmt6RUd5WlN1SGlrM09BVTJwd2h5Vmo0Mk9RTWh3eDZIVFE0VGlTWXRkX0JLaktpS25Jd2dxQngya2wtSENhQXdmVmZKOW1EX0NzRHoxTndKSnVRZWJqcUlscW9ZY0RubUt1Q2M3dWhPejBFeWhiZlRRR1Excm14aURYV1dxZnh5b0J5Z09XS0xvSQ?oc=5",
+      "source": "Grimsby Live",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHJncEZVakljMzZxdmFvV3dUNWdJM0EzalNaeXhBdENXcUxrWDBWeE5DelNDTzZOckFXbDFZUWtXY25MNXVhQjB6c1BVWmZQTEZjUzNWc1Q0WXRGbGVJRTRlWXFZN2N6czRpQlEwMXhXOVFFOUF0ZlBQQUdOLXFLYmJpN0M0SFJ2UmVrN0VxZHdYQVBGcF9KazlR0gGfAUFVX3lxTE1YeDZwdEpmVHprcDJ6Mmt6RUd5WlN1SGlrM09BVTJwd2h5Vmo0Mk9RTWh3eDZIVFE0VGlTWXRkX0JLaktpS25Jd2dxQngya2wtSENhQXdmVmZKOW1EX0NzRHoxTndKSnVRZWJqcUlscW9ZY0RubUt1Q2M3dWhPejBFeWhiZlRRR1Excm14aURYV1dxZnh5b0J5Z09XS0xvSQ?oc=5\" target=\"_blank\">British Steel signs new Scunthorpe United shirt sponsorship deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "British Steel",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T15:42:00+00:00",
+      "fingerprint": "7399a784861f34eacc58d8212970f998b621c1cf"
+    },
+    {
+      "title": "Medite Smartply to invest \u20ac75 million in manufacturing operations - Builders' Merchants News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1ZfRW1xTWNwd2ozOW5ubnFqLXpraFFsb1RweXEyN2NhOV9aTGRkbmxwUEhoVjM2NG5pcXl6bnhsRVJHc0FnU2JYaXZidUFUTXZUYWFiZW5RRWlmQ2NTZC1VUVVwOHMwNlpYbFpjREcyczhmQVVrSnRyRmtlS1o3MUJKNTVpd2ZGNTlGb1NMVnVJTEQwUm5hSUlScG9Gb296dlVYLVo3UHBseWJ5VWJHQ0c2aw?oc=5",
+      "source": "Builders' Merchants News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1ZfRW1xTWNwd2ozOW5ubnFqLXpraFFsb1RweXEyN2NhOV9aTGRkbmxwUEhoVjM2NG5pcXl6bnhsRVJHc0FnU2JYaXZidUFUTXZUYWFiZW5RRWlmQ2NTZC1VUVVwOHMwNlpYbFpjREcyczhmQVVrSnRyRmtlS1o3MUJKNTVpd2ZGNTlGb1NMVnVJTEQwUm5hSUlScG9Gb296dlVYLVo3UHBseWJ5VWJHQ0c2aw?oc=5\" target=\"_blank\">Medite Smartply to invest \u20ac75 million in manufacturing operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
+      "feed_group": "company",
+      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
+      "categories": [],
+      "company": "Medite Smartply",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T15:35:14+00:00",
+      "fingerprint": "e702cc9a3c8368f974911f7dffe9df4eba54132e"
+    },
+    {
+      "title": "Iceland\u2019s Northern Lights Tourism Surges Adventure Travel and Sustainability Take Center Stage - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90TWd2a2pVc2RqQnprYVNicUxkR0otcnZUckIyNVEyTlJiZ25jcU9BX3g3ZTdzbTJqNllEOGZsS3A1OGt0cXQ2RU5rWi1IZTYyOHdacDJ1YjJ2NmFpUG9PYXUtN3VubXhxS0tlMVJn?oc=5",
+      "source": "Travel And Tour World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE90TWd2a2pVc2RqQnprYVNicUxkR0otcnZUckIyNVEyTlJiZ25jcU9BX3g3ZTdzbTJqNllEOGZsS3A1OGt0cXQ2RU5rWi1IZTYyOHdacDJ1YjJ2NmFpUG9PYXUtN3VubXhxS0tlMVJn?oc=5\" target=\"_blank\">Iceland\u2019s Northern Lights Tourism Surges Adventure Travel and Sustainability Take Center Stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
       "feed_group": "company",
       "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
       "categories": [],
@@ -231,8 +261,53 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-11T11:32:57+00:00",
+      "published": "2026-06-11T15:23:21+00:00",
+      "fingerprint": "d8eb4903358ffdade7144138a08d98667ccdb3b6"
+    },
+    {
+      "title": "Chinese demand compensation for British Steel nationalisation - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblB5N1h5T2VNZVVQV3hsR0lwVVNJeGtRZERza2RXUlNnYjlQSDZzSDFIdUNiRlk3NEtiaF9abDQ0N0doZElnY1ctZ1FUSFVXdXplWi13R2sycmhwdFR0UXozNmdLVzRZcFpPejBhWW1Uei1pdWVRNHF2elRZcFBWNjctZjFfQW9JX3I0ZHlyTXkwUG1mbVRzRlVXb1RLRDZ1S29WX3d0WEpHcHJQ?oc=5",
+      "source": "The Telegraph",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOblB5N1h5T2VNZVVQV3hsR0lwVVNJeGtRZERza2RXUlNnYjlQSDZzSDFIdUNiRlk3NEtiaF9abDQ0N0doZElnY1ctZ1FUSFVXdXplWi13R2sycmhwdFR0UXozNmdLVzRZcFpPejBhWW1Uei1pdWVRNHF2elRZcFBWNjctZjFfQW9JX3I0ZHlyTXkwUG1mbVRzRlVXb1RLRDZ1S29WX3d0WEpHcHJQ?oc=5\" target=\"_blank\">Chinese demand compensation for British Steel nationalisation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "British Steel",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T14:55:00+00:00",
+      "fingerprint": "50ed73eff6c12e1a409f53adec522236ca4e73c9"
+    },
+    {
+      "title": "Northern Lights Defines Large Deep-Seated Copper Porphyry Intrusion with Correlated Anomalous Copper Geochemistry at Mt Horetzky Through Advanced 3D Magnetic Modelling - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZWppUjdCRG5Kcy1XRHJod091bHZYSi1ZM0kwdEw0TkpVdFZHcXItc2JGSjFVVkpSeFAya0MxdV9CX2k1Y2VrOWlxM2ZEeDlDclVEWF9SbWxNNmNrT0FFX1lWQlBzWVJyRE56ZG5feTY5d2lsY2E1V01lN3FjSm1PZ3hGNmtlT0N5dE9VWldsTnJUd21aTUR1WmdlcnRVMGJWR2I0TWdUdThULWx6MGlBd0l0Sk1heDVEWHVycVZxRC00aXE1UFhWdlUtWHZETXhJRnc3bFlBYUdkWmh6TmNScFMtanpKbmMtQnVOd0dGbS02Tk8tNXY1T05CczdMRGlyLW9KNWtva2Q0b2Zfb09CQmF0d0x3T3hxYzJBVWVuMA?oc=5",
+      "source": "Investing News Network",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPZWppUjdCRG5Kcy1XRHJod091bHZYSi1ZM0kwdEw0TkpVdFZHcXItc2JGSjFVVkpSeFAya0MxdV9CX2k1Y2VrOWlxM2ZEeDlDclVEWF9SbWxNNmNrT0FFX1lWQlBzWVJyRE56ZG5feTY5d2lsY2E1V01lN3FjSm1PZ3hGNmtlT0N5dE9VWldsTnJUd21aTUR1WmdlcnRVMGJWR2I0TWdUdThULWx6MGlBd0l0Sk1heDVEWHVycVZxRC00aXE1UFhWdlUtWHZETXhJRnc3bFlBYUdkWmh6TmNScFMtanpKbmMtQnVOd0dGbS02Tk8tNXY1T05CczdMRGlyLW9KNWtva2Q0b2Zfb09CQmF0d0x3T3hxYzJBVWVuMA?oc=5\" target=\"_blank\">Northern Lights Defines Large Deep-Seated Copper Porphyry Intrusion with Correlated Anomalous Copper Geochemistry at Mt Horetzky Through Adva",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T13:13:32+00:00",
       "fingerprint": "38a64326a9c0b7d43429db314795269bff757baa"
+    },
+    {
+      "title": "British Steel nationalization bill advances to House of Lords - SteelOrbis",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkdHZzFYcjVYdncwU1BETFB3Tk9fQ0ZQUkNDNlpQbXp1cTNTMERLckdNdVV1V3RlRGVwT1lXUHJ3YV9oV1pTdGFqWUlWWjFpT1QyNFU1OE9WY2VBOEdFNmJPbG9OeUF2RXVmUkFTczdVNGtiSXRuQU40dllrbWlFUWVJUjVoU3k4VnZlZmZjcHYyWHJQc0Jydk5vbGptR3QzZDU2MmlyQXczc2xDaVFYU20wYUtuR3RXRjlmYk9kclo?oc=5",
+      "source": "SteelOrbis",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkdHZzFYcjVYdncwU1BETFB3Tk9fQ0ZQUkNDNlpQbXp1cTNTMERLckdNdVV1V3RlRGVwT1lXUHJ3YV9oV1pTdGFqWUlWWjFpT1QyNFU1OE9WY2VBOEdFNmJPbG9OeUF2RXVmUkFTczdVNGtiSXRuQU40dllrbWlFUWVJUjVoU3k4VnZlZmZjcHYyWHJQc0Jydk5vbGptR3QzZDU2MmlyQXczc2xDaVFYU20wYUtuR3RXRjlmYk9kclo?oc=5\" target=\"_blank\">British Steel nationalization bill advances to House of Lords</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SteelOrbis</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "British Steel",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T11:02:20+00:00",
+      "fingerprint": "0ffc72bf790c9830e059b89a1d5af1f2d4a7b91e"
     },
     {
       "title": "British Steel returns to the front of our shirts in 2026-27 - Scunthorpe United FC",
@@ -248,6 +323,21 @@
       "likely_roles": "",
       "published": "2026-06-11T11:00:00+00:00",
       "fingerprint": "aa44234be4d2e3c1f336c8e20247c8142efc2d18"
+    },
+    {
+      "title": "Wonderfield Group posts record UK kiosk sales as sushi demand grows - Grocery Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJhUWtTUG5RajRqLUhKTDRBbThwak4xNWdYYUpVU1VhQnhwTm9rZEVRbTQxVlZad1dYeHpxNC1nemNaRWJzd190eWtQeTlUU1pkWFNSUlhmRjZrbks2TGc4eEs1c2JhQ25TLWVGRjZtelk3UGFSQ2tDQ2RnTXA5Z2pmeU5iM2s2cmxSZE82SGNmWFdIbFIxSWF4VjZrcVlkQ2ZrOGtvN2tPMWJ3MUgxTFBn?oc=5",
+      "source": "Grocery Gazette",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJhUWtTUG5RajRqLUhKTDRBbThwak4xNWdYYUpVU1VhQnhwTm9rZEVRbTQxVlZad1dYeHpxNC1nemNaRWJzd190eWtQeTlUU1pkWFNSUlhmRjZrbks2TGc4eEs1c2JhQ25TLWVGRjZtelk3UGFSQ2tDQ2RnTXA5Z2pmeU5iM2s2cmxSZE82SGNmWFdIbFIxSWF4VjZrcVlkQ2ZrOGtvN2tPMWJ3MUgxTFBn?oc=5\" target=\"_blank\">Wonderfield Group posts record UK kiosk sales as sushi demand grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grocery Gazette</font>",
+      "feed_group": "company",
+      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
+      "categories": [],
+      "company": "Record UK",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-11T08:45:34+00:00",
+      "fingerprint": "124401b4e38ab25010cd62053e69c864959c655b"
     },
     {
       "title": "Jingye Steel Seeks Compensation from UK Government Over British Steel Control - Devdiscourse",
@@ -308,36 +398,6 @@
       "likely_roles": "",
       "published": "2026-06-10T10:34:43+00:00",
       "fingerprint": "56e3ddd8023e8bf554a1d8844e2a70ad10a68af5"
-    },
-    {
-      "title": "Daily Brief Energy/Materials: James Hardie Industries Plc, Iron Ore, Eqt Corp, Waaree Energies, Crude Oil, VAALCO Energy, ADF Group , Zephyr Energy and more - Smartkarma",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQVU1RUGtQSjV2S2tHMVg0M1k0Nmo5Ym8wMGllQVQ4RXJ2S2NLZF9fMklodGw3SEI3eWpTRzRBYUF5ZU5KU2JxZ09mSUVPZUV3QnUxMURka1pNN3hvQ0Mtc1hpeE5JaHhsYkh4LXhzZEFCenFRdktQdkdkRjF4QjlJQUY3WlQ0My1JcTNMVzdNUEVkdTM4TVd6OG4yX2dLWFpLbTZ4LU5hYWsxY3hiNVRZM01RWUhYMV85Nng5aFhjNVFPWmtKZ3huQzJUWmdGbVpvZTVMZEE5X3puVDQ1SVFiWGZLN3dpaWV6NFh4Tzc1STNoSWFiYVpIclJlRWJJNnBlVWxlLVZPbDlocm9DMW5Ub0k5VXdHaVc4SmpPQXVB?oc=5",
-      "source": "Smartkarma",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQVU1RUGtQSjV2S2tHMVg0M1k0Nmo5Ym8wMGllQVQ4RXJ2S2NLZF9fMklodGw3SEI3eWpTRzRBYUF5ZU5KU2JxZ09mSUVPZUV3QnUxMURka1pNN3hvQ0Mtc1hpeE5JaHhsYkh4LXhzZEFCenFRdktQdkdkRjF4QjlJQUY3WlQ0My1JcTNMVzdNUEVkdTM4TVd6OG4yX2dLWFpLbTZ4LU5hYWsxY3hiNVRZM01RWUhYMV85Nng5aFhjNVFPWmtKZ3huQzJUWmdGbVpvZTVMZEE5X3puVDQ1SVFiWGZLN3dpaWV6NFh4Tzc1STNoSWFiYVpIclJlRWJJNnBlVWxlLVZPbDlocm9DMW5Ub0k5VXdHaVc4SmpPQXVB?oc=5\" target=\"_blank\">Daily Brief Energy/Materials: James Hardie Industries Plc, Iron Ore, Eqt Corp, Waaree Energies, Crude Oil, VAALCO Energy, ADF Group , Zephyr En",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-10T02:01:16+00:00",
-      "fingerprint": "5a7afffc3b8629fa66968307c3543ed7bbdc0e34"
-    },
-    {
-      "title": "Empire Metals MD says Pitfield flowsheet is a 'defining moment' - Proactive Investors",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXhHTm9aVzNEenhRZTVkQjM1Q2tFQnd3di1sUjNpQVRRYWNVRm0zajdxVlZKNlFXUjh3bnh3NkxKMURPczFBMUdZRl90MnJZR21DNXd1R3FFaXFvcEhZRlhUS2R6MjhYNmZkSFBlTVg1UGtWaEEyekQwSXphbnI0c3dYVlExRVY5cTZRWWU1eVhHMHVacGFTTWZiQ2NISTBCWGROcjFOMWJfMGl3dzB6WEhHWG1LQ3hjSzNMQU94Qy1JS1d5?oc=5",
-      "source": "Proactive Investors",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXhHTm9aVzNEenhRZTVkQjM1Q2tFQnd3di1sUjNpQVRRYWNVRm0zajdxVlZKNlFXUjh3bnh3NkxKMURPczFBMUdZRl90MnJZR21DNXd1R3FFaXFvcEhZRlhUS2R6MjhYNmZkSFBlTVg1UGtWaEEyekQwSXphbnI0c3dYVlExRVY5cTZRWWU1eVhHMHVacGFTTWZiQ2NISTBCWGROcjFOMWJfMGl3dzB6WEhHWG1LQ3hjSzNMQU94Qy1JS1d5?oc=5\" target=\"_blank\">Empire Metals MD says Pitfield flowsheet is a 'defining moment'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive Investors</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-11T09:50:27+00:00",
-      "fingerprint": "ea1b11943865c651cf641a7a2e40338202db300c"
     }
   ]
 }
