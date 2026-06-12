@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-12T12:43:55.959672+00:00",
+  "generated_at": "2026-06-12T17:28:21.811060+00:00",
   "date": "2026-06-12",
-  "count": 30,
+  "count": 35,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,40 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "New BMW M Concept Neue Klasse Coming Soon: Specs, price and release info - Autotrader",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOS0tS0JaWUtGc19JQWlGVkFsQjQ2NnVEazktWmFMbkVWQ2FCbE9PSHpoWWU4emRvNENvQkRWT0R6ZTRVbmJSVzJkTlA2clV5c2dTVjVsa25IdVgtcXo5YkNOc0VteUlwSU5PVTVNNmVJTkN3a0luWkxMOUN0cXVOYjFDNEEtYjFKei04OWxyR2FwdWdTb3RocHllSmRYeF95bXBBOW1DVjlBRlFEOXgwMG53?oc=5",
+      "source": "Autotrader",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOOS0tS0JaWUtGc19JQWlGVkFsQjQ2NnVEazktWmFMbkVWQ2FCbE9PSHpoWWU4emRvNENvQkRWT0R6ZTRVbmJSVzJkTlA2clV5c2dTVjVsa25IdVgtcXo5YkNOc0VteUlwSU5PVTVNNmVJTkN3a0luWkxMOUN0cXVOYjFDNEEtYjFKei04OWxyR2FwdWdTb3RocHllSmRYeF95bXBBOW1DVjlBRlFEOXgwMG53?oc=5\" target=\"_blank\">New BMW M Concept Neue Klasse Coming Soon: Specs, price and release info</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autotrader</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "Klasse",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T13:48:50+00:00",
+      "fingerprint": "f2b24245f3c9be58dd7e375ca9cc2e9c533641c9"
+    },
+    {
+      "title": "Wimborne Minster Folk Festival kicks off - Dorset View",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KaTVmQVhpQ2FCZ0JOd1Y0Z2lHVmxPZkdLMy1sY1l6NGJLMHlhUjYyVlZnMDI4NmM5QlVoLXVnamw0QWhqNHFuNGFIeHJkZEgtMzBzY1M4X2l4Ry15QmhlMzU5eHl5dG9hcHdST1FFUXJERHY4?oc=5",
+      "source": "Dorset View",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5KaTVmQVhpQ2FCZ0JOd1Y0Z2lHVmxPZkdLMy1sY1l6NGJLMHlhUjYyVlZnMDI4NmM5QlVoLXVnamw0QWhqNHFuNGFIeHJkZEgtMzBzY1M4X2l4Ry15QmhlMzU5eHl5dG9hcHdST1FFUXJERHY4?oc=5\" target=\"_blank\">Wimborne Minster Folk Festival kicks off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dorset View</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "Minster",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T13:04:30+00:00",
+      "fingerprint": "532fc6ca6a8a10b1ec5d1b56c6029625e7367e6d"
+    },
     {
       "title": "'Puffy' super-Neptune emerges 383 light-years away with a density of just 0.4 g/cm\u00b3 - Phys.org",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOUHVzSnNWdjFwSkc0Q0dOSFdjLU9Cc0V6QW5FRXZHUTZMSXZUZ3dpeDhmWGtTeUNBR1dmNzBpYXUxdFJ5cnBxeUthV0R6V1AybUtmMEhhR3VhSzExNjR0WFVWQ1pWUEYtS0dpeXlGZVJwVlpoODdz?oc=5",
@@ -44,25 +78,8 @@
       "score": 9,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-12T08:18:29+00:00",
+      "published": "2026-06-12T08:28:28+00:00",
       "fingerprint": "bfb0e4089265e79a6e0a87a09310cde7299560b9"
-    },
-    {
-      "title": "China\u2019s Jingye is seeking compensation from the UK over the takeover of British Steel - GMK Center",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGhPVkt4aEsydFdWZGZFelVURUtZZTZuY2ZhcHJ2QlVwSll5V2c0ZHFHUFpTNjdQX0VSdDcyXzAxbjlJaEVVRV93aUhXbVJwcVJjRVhycTc5Y2k5UUFNYVQ5b3lXc0xrWWxIOTUwUm5XTGs3ZjIzdURSd3hHMTBKUVFtUjFXOGN5dkt5bVYyN3VmRUh0bjNJUkstOG9vYnpPZC1hRlh6VTFybDJBdUZFeXJvTdIBuAFBVV95cUxNY0ljRW1KcTR2MnRYdDJ1OXNULWJWZ0FJdEp3Mjg3MzU5MkdUcmZNUHhnc0FfenNCV3N1b2V6aEFpbXZvNWRBY21qbkZ1OVEzOTU1SkRodDF0ZkNfZlludG9YOGxkMUlpcVNTV0hJcFdDZEp4ajV5RVRyd3VCeXltS0g1NTF2bVpDVlJwX1ZmZ3YzUkxnMERvcXo2WnJrR3R5MEU3YWJkY1BKWkZtM0o3QmJORkdraUNt?oc=5",
-      "source": "GMK Center",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGhPVkt4aEsydFdWZGZFelVURUtZZTZuY2ZhcHJ2QlVwSll5V2c0ZHFHUFpTNjdQX0VSdDcyXzAxbjlJaEVVRV93aUhXbVJwcVJjRVhycTc5Y2k5UUFNYVQ5b3lXc0xrWWxIOTUwUm5XTGs3ZjIzdURSd3hHMTBKUVFtUjFXOGN5dkt5bVYyN3VmRUh0bjNJUkstOG9vYnpPZC1hRlh6VTFybDJBdUZFeXJvTdIBuAFBVV95cUxNY0ljRW1KcTR2MnRYdDJ1OXNULWJWZ0FJdEp3Mjg3MzU5MkdUcmZNUHhnc0FfenNCV3N1b2V6aEFpbXZvNWRBY21qbkZ1OVEzOTU1SkRodDF0ZkNfZlludG9YOGxkMUlpcVNTV0hJcFdDZEp4ajV5RVRyd3VCeXltS0g1NTF2bVpDVlJwX1ZmZ3YzUkxnMERvcXo2WnJrR3R5MEU3YWJkY1BKWkZtM0o3QmJORkdraUNt?oc=5\" target=\"_blank\">China\u2019s Jingye is seeking compensat",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "Acquisition / M&A"
-      ],
-      "company": "British Steel",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-12T07:14:59+00:00",
-      "fingerprint": "df1c156e1b45d1e00e69962e2c3a526bf5113e8b"
     },
     {
       "title": "Jingye to seek compensation over British Steel takeover - Grimsby Live",
@@ -202,6 +219,40 @@
       "fingerprint": "8e70ed06ead67779aa202325de110b0c96257d9d"
     },
     {
+      "title": "Neptune Digital Assets Provides Update on its Investment in SpaceX - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTE2YUFGVlYwbzdDcEhJUUNwUUVoT2NfR00zYi1LVVhxQjN4aXg0YXg0MENlVUNyWmtQV0ZNcC02b2dXZ3ZDSml2VlNrUjBXNW9VQVcxWXBZem9MbXRBSW82MTZUMHhXMndnaXF1V0VlaG9oZmZUcUczQW9vYTJmWmQwRHdtRzcyMzFZLXVVeWxHVHZIakJMRG1UczdhVkZtQXZZdHpXUnA0c095NXFESWxPTDNVMWlGY2Y0?oc=5",
+      "source": "marketscreener.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTE2YUFGVlYwbzdDcEhJUUNwUUVoT2NfR00zYi1LVVhxQjN4aXg0YXg0MENlVUNyWmtQV0ZNcC02b2dXZ3ZDSml2VlNrUjBXNW9VQVcxWXBZem9MbXRBSW82MTZUMHhXMndnaXF1V0VlaG9oZmZUcUczQW9vYTJmWmQwRHdtRzcyMzFZLXVVeWxHVHZIakJMRG1UczdhVkZtQXZZdHpXUnA0c095NXFESWxPTDNVMWlGY2Y0?oc=5\" target=\"_blank\">Neptune Digital Assets Provides Update on its Investment in SpaceX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "feed_group": "company",
+      "feed_title": "Kitchens & Bathrooms: MKM Building Suppl \u2026 Q4 Bathrooms (10)",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "Neptune",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T15:16:02+00:00",
+      "fingerprint": "9ba362a4812cc34f3c984f907465a674d557dddb"
+    },
+    {
+      "title": "Neptune's SpaceX Investment Commences Trading on NASDAQ - TMX Newsfile",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0FOWjhIak1wMWxvWUtWQmVFZ05uVmd3bTJFVEcxd1FNTWdZQUJaRG9ES0tMSnFGVWZCRGJFd09WUVgxN0tnV1BfejkxTGk4V3k1Um1lWVVnXzNmakNwcTA3c3NEdXQ2OWNERkR2b3hzdHg3NHNYR1lpZDNXNnl2Mi1IdE5UQU1VT3E4QkNIMS1Wd2tST0t4bXBKOFhBUVU?oc=5",
+      "source": "TMX Newsfile",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0FOWjhIak1wMWxvWUtWQmVFZ05uVmd3bTJFVEcxd1FNTWdZQUJaRG9ES0tMSnFGVWZCRGJFd09WUVgxN0tnV1BfejkxTGk4V3k1Um1lWVVnXzNmakNwcTA3c3NEdXQ2OWNERkR2b3hzdHg3NHNYR1lpZDNXNnl2Mi1IdE5UQU1VT3E4QkNIMS1Wd2tST0t4bXBKOFhBUVU?oc=5\" target=\"_blank\">Neptune's SpaceX Investment Commences Trading on NASDAQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TMX Newsfile</font>",
+      "feed_group": "company",
+      "feed_title": "Kitchens & Bathrooms: MKM Building Suppl \u2026 Q4 Bathrooms (10)",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "Neptune",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T13:00:00+00:00",
+      "fingerprint": "b1f670627a8963723f5e6b53c1358a7ed5141461"
+    },
+    {
       "title": "Industry Spotlight: Stephen McMillan, strategic partnerships leader, Philips - Home | Digital Health",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHhqUHBnZjVCREtNQm1IYm96WGRSd01EOFd6T1hPUFFNdE1MamxIajNvbVhqUUtNV2ZmWkZTM2lyZGhQVnRfQmoxdmVhZWZtQ0RTczE5b2QwZTZsYnYxVDhZYkwtOWI5Z2dOTFktd096VFFhLXBuWWo1RE5LQ1JaRWR6Y21SMnFBbzdDR3JtaU1qVGx6dWlpM3NXSXVjVHpMODZrOUtkRzBDM0t3SGE4d2J3?oc=5",
       "source": "Home | Digital Health",
@@ -220,9 +271,9 @@
     },
     {
       "title": "UK Government Plans to Nationalize British Steel; Jingye Steel Demands Compensation for Investment Losses - AASTOCKS.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV21zZWlpY0l4bEdKN2Q3YmUxbGZackNUemNYUEVWOUltMDhObTdGOHQyTE9rTENaU3ZOQ3hwMFY4Yl9OYV9KUWlXVDJpWVJxU2V3VVpqaXBOSm1lUUFOajVvdlllM0JpekZlTzJLcWNoc3hfQ05GaDhYa1pzLTQtUlVKTDBlQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXlHcE1vSm53YzlQSWdYa0tOcHBqOC13dVBiZFdTbElQbWdyd2JyQ2ExaE9nenRrUXhEUWpLcVhQZnFmQ0psQTBDY3A2a0VETXRRaG9qZHA0b1BQNGxIQVZ1d09Na0VZMldJaXdjMTFmWUU5OGtoR1lCTjNnZzFwM21rcU9Ydw?oc=5",
       "source": "AASTOCKS.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNV21zZWlpY0l4bEdKN2Q3YmUxbGZackNUemNYUEVWOUltMDhObTdGOHQyTE9rTENaU3ZOQ3hwMFY4Yl9OYV9KUWlXVDJpWVJxU2V3VVpqaXBOSm1lUUFOajVvdlllM0JpekZlTzJLcWNoc3hfQ05GaDhYa1pzLTQtUlVKTDBlQQ?oc=5\" target=\"_blank\">UK Government Plans to Nationalize British Steel; Jingye Steel Demands Compensation for Investment Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXlHcE1vSm53YzlQSWdYa0tOcHBqOC13dVBiZFdTbElQbWdyd2JyQ2ExaE9nenRrUXhEUWpLcVhQZnFmQ0psQTBDY3A2a0VETXRRaG9qZHA0b1BQNGxIQVZ1d09Na0VZMldJaXdjMTFmWUU5OGtoR1lCTjNnZzFwM21rcU9Ydw?oc=5\" target=\"_blank\">UK Government Plans to Nationalize British Steel; Jingye Steel Demands Compensation for Investment Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
       "feed_group": "company",
       "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
       "categories": [
@@ -287,6 +338,66 @@
       "fingerprint": "9c85603c54ff3dd3be943d952503c2ed2b2c0a1e"
     },
     {
+      "title": "Georg Fischer COOL-FIT 4.0: Pre-insulated piping for demanding cooling applications - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUzA2bWVXaWM5ZWVoRWtmb2t0YXBXYk01WFRuNE80WDRfVEVtN2gzODUtLW9POVlWM0FzMzRSek9OanFtZ19qdGdoNm1pT0gwZ1FaZWthSVhkWWRiaEdQcTVxYTA5Rm9YVXVBVE1CYXFWNkJicUJaLVFwTk1USW1vZDBDSHR0SnRRMm9rNTZKTndGejh2c0pnNUxDczJRQ3V6X3ZwdE9kWGNYcGFBZ1A2dlp3VTVlSk80UVFIQmZ2UjhGb0F1bEZZ?oc=5",
+      "source": "AD HOC NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNUzA2bWVXaWM5ZWVoRWtmb2t0YXBXYk01WFRuNE80WDRfVEVtN2gzODUtLW9POVlWM0FzMzRSek9OanFtZ19qdGdoNm1pT0gwZ1FaZWthSVhkWWRiaEdQcTVxYTA5Rm9YVXVBVE1CYXFWNkJicUJaLVFwTk1USW1vZDBDSHR0SnRRMm9rNTZKTndGejh2c0pnNUxDczJRQ3V6X3ZwdE9kWGNYcGFBZ1A2dlp3VTVlSk80UVFIQmZ2UjhGb0F1bEZZ?oc=5\" target=\"_blank\">Georg Fischer COOL-FIT 4.0: Pre-insulated piping for demanding cooling applications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+      "feed_group": "company",
+      "feed_title": "HVAC & Building Services: Frese \u2026 Heat Exchange Grou (11)",
+      "categories": [],
+      "company": "Georg Fischer",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T16:25:31+00:00",
+      "fingerprint": "df589f9a082cc4237acbcf6e53e0bd055b340c3e"
+    },
+    {
+      "title": "The Northern Lights Could Appear Farther South Than Usual Tonight\u2014Here's How to See Them - marthastewart.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ1o0WmRKVG5NcFdOT0JCbl8xdzRIUEk4dmNJV3BILWxrLW1BUE9sNFQ5eDFLRnBvOEZ0b1lxMl9WMzE0T1p2V2k0TS03dmVKbVJYakthSWVtX0haQmk0OFZ5YTI1eVRPMVBwUnM4Q0FZX05tOU1ac2RXUUhSc3JaalY3VQ?oc=5",
+      "source": "marthastewart.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ1o0WmRKVG5NcFdOT0JCbl8xdzRIUEk4dmNJV3BILWxrLW1BUE9sNFQ5eDFLRnBvOEZ0b1lxMl9WMzE0T1p2V2k0TS03dmVKbVJYakthSWVtX0haQmk0OFZ5YTI1eVRPMVBwUnM4Q0FZX05tOU1ac2RXUUhSc3JaalY3VQ?oc=5\" target=\"_blank\">The Northern Lights Could Appear Farther South Than Usual Tonight\u2014Here's How to See Them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marthastewart.com</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T16:06:22+00:00",
+      "fingerprint": "ba330411f5e49f26bfdfcee9ca94c292d02de955"
+    },
+    {
+      "title": "SIG Roofing Returns to InstallerSHOW 2026 - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FZmFweU1ENG5SaWRuWmctNHU3QU9XX3F2Z1JWRzVudzd5RDkzSXFyR2ZhR0VjdDk4UVFTM2ZxcV9YVWRnZG5NTExyeEszUXBKcUJtLTYzTVFrTFN0V2x1Szk2RWZxNW55UDNjN2ZJckFhMUxqc2FLdA?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9FZmFweU1ENG5SaWRuWmctNHU3QU9XX3F2Z1JWRzVudzd5RDkzSXFyR2ZhR0VjdDk4UVFTM2ZxcV9YVWRnZG5NTExyeEszUXBKcUJtLTYzTVFrTFN0V2x1Szk2RWZxNW55UDNjN2ZJckFhMUxqc2FLdA?oc=5\" target=\"_blank\">SIG Roofing Returns to InstallerSHOW 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
+      "categories": [],
+      "company": "SIG Roofing",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T14:45:57+00:00",
+      "fingerprint": "54fe3787063d88c0ff774a75dc1f488ca99d24e6"
+    },
+    {
+      "title": "Northern Lights Forecast Upgraded: Strong Chance Of Seeing Aurora In These States This Weekend - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2RBTkxxZF9pdzNfSmloelZxeExLMnJjRlNoR3NjdXhSUEJyVEoxbVpZTGFpdTBqX3ZjM3BNRlhrdHhiRENQaHV0amc4RUFPZF9YaHlWOXVSeXJleFUtTjZ4UFE4eXY4d2NlLTl6REN6b3c3Sk1mYUZJMUJHbWhMakZ4SDVjbHpiVWcxWEpPc2NFYVp1Z0lxWGtWRmRIY0I2TUF5WkNNRVRVNjZicVlJRXJKenBGc3Buc1c5UVVDbjFyNlRUamJRcEJsMEx3WS0zTGc?oc=5",
+      "source": "Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2RBTkxxZF9pdzNfSmloelZxeExLMnJjRlNoR3NjdXhSUEJyVEoxbVpZTGFpdTBqX3ZjM3BNRlhrdHhiRENQaHV0amc4RUFPZF9YaHlWOXVSeXJleFUtTjZ4UFE4eXY4d2NlLTl6REN6b3c3Sk1mYUZJMUJHbWhMakZ4SDVjbHpiVWcxWEpPc2NFYVp1Z0lxWGtWRmRIY0I2TUF5WkNNRVRVNjZicVlJRXJKenBGc3Buc1c5UVVDbjFyNlRUamJRcEJsMEx3WS0zTGc?oc=5\" target=\"_blank\">Northern Lights Forecast Upgraded: Strong Chance Of Seeing Aurora In These States This Weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T13:17:53+00:00",
+      "fingerprint": "3cc11a0e3124791d2abcad831b7deb9ef7226e70"
+    },
+    {
       "title": "\u201cWe cannot afford public money diverted away from our communities to corporations\u201d campaigners respond to corporate threat over British Steel nationalisation - Global Justice Now",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQdVZEVzc5aEZXeUhLVFNPR0xLekpLd1N4VU9wSXhBdnRyWE9rRmd5Q2VkTFNOTG1yWGFUdGs0blV2YWVteWlyODJEYmphZHJjVjBjbXBNZk5NU2ZtUlhhWEFzWFNseUpISFBJbUk4RFJoRzZDbUFtMjdMVWUwM3pOeEFSNl9TOGE5Sm05Ui05OFRnT0VQamF5ZkJ6OWhudVctekZyV21ZcVV6M0d4c2FqMC1zb1pGckxLMmpveVNURmk5ZndEc3kycEJmYlBURndqZmxPVEl5UG1OYVZVLTZpd3p5SVlVQUJBNTJyb3lfZy1tVVc0aUhxYks4ejNudzlqMEZZdzFLeU5qVl9nYTRvNTVCREdtMHZVNEdYWHBQYw?oc=5",
       "source": "Global Justice Now",
@@ -347,6 +458,21 @@
       "fingerprint": "ee84be834f52c665d5ef93f21e6920875ffd4c21"
     },
     {
+      "title": "Deadly crash blocks I-295 lanes in Jacksonville at Philips Highway | FIRST ALERT TRAFFIC - Action News Jax",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGxtYm5ITTVZTzV1ZVlnUTBSVTk2eE85cFA2a0V5bXo0ZE93UHR2b1JlMVg2UFFIcXprd2hNSlNWZ19jQXdHUVJ4aFZTQ1BqU0NVSVA3SFFXTEVaY1VQaHR6cWw4dGllRkkzdl9FSFJiNmVYQl96NTFnSWlQUnZ5N29BcGJHQk91T0ljenNqU1FBUXZqVkIxdVlRT1V2dnJ2MHhNN21Kb2Q2SENORy1QVk9mUUQyX3ZQRGNXMVZvaWs4TnpvQ2lvT1l1cko2TG04ZVVLZlNGdjEyN2Qtbnl5bzNjRdIB9wFBVV95cUxOR2JRWUZIV0E3UnlRVkY5djZZSUJfeXdWUXhtQmdaUWZ1c2xZRmpac0prR2VGSkRIMWZhbkk1aWpBcmdrQVlVNUNmbFRESjNjc29ZT3RzV1VlRUVyX1VodTR2N0c1MlNIZHFvNE5BSG1CR2I4c0ZSblBGbktzRm8yTzlUV3k2Rkl4eThfdGVqejdXSU83Rm82bTQzeUQ1TlVZWkhzd1BzQkpKRUZhR0xTbzNhUnoxMkNFOVFDZENCb2dvTk02Tzg5NW1lbUVTdXZnTnJmTVowMkw5S0NmMThGLWxJamRRQl9ZR0JSSUg4Y1RHcXVyb0Jv?oc=5",
+      "source": "Action News Jax",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGxtYm5ITTVZTzV1ZVlnUTBSVTk2eE85cFA2a0V5bXo0ZE93UHR2b1JlMVg2UFFIcXprd2hNSlNWZ19jQXdHUVJ4aFZTQ1BqU0NVSVA3SFFXTEVaY1VQaHR6cWw4dGllRkkzdl9FSFJiNmVYQl96NTFnSWlQUnZ5N29BcGJHQk91T0ljenNqU1FBUXZqVkIxdVlRT1V2dnJ2MHhNN21Kb2Q2SENORy1QVk9mUUQyX3ZQRGNXMVZvaWs4TnpvQ2lvT1l1cko2TG04ZVVLZlNGdjEyN2Qtbnl5bzNjRdIB9wFBVV95cUxOR2JRWUZIV0E3UnlRVkY5djZZSUJfeXdWUXhtQmdaUWZ1c2xZRmpac0prR2VGSkRIMWZhbkk1aWpBcmdrQVlVNUNmbFRESjNjc29ZT3RzV1VlRUVyX1VodTR2N0c1MlNIZHFvNE5BSG1CR2I4c0ZSblBGbktzRm8yTzlUV3k2Rkl4eThfdGVqejdXSU83Rm82bTQzeUQ1TlVZWkhzd1BzQkpKRUZhR0xTbzNhUn",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Philips",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-12T09:56:21+00:00",
+      "fingerprint": "f3eb6a723c1355429cc1eb70ce905ea3e588f283"
+    },
+    {
       "title": "Swap points for rewards with Worcester Bosch this summer - registeredgasengineer.co.uk",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdlNlVjVnM1FWOWpXN01SRXk0VW0zb1JFSkFPemdINkZ6enVhZ3o2SWdKVGVYX3RWcHJCUGFGaFg0UlVtdkhtOVB3WU5qZUxMLUNkRWl6TXVNMlVoMV9WaGIyQ2YzbUdIRFFPa3dyR3B6UmpHLUhDQXZmYjdwZ3VpMXN6aTJrU1BCejFyY2lPbHFDOWpjRjdyMg?oc=5",
       "source": "registeredgasengineer.co.uk",
@@ -362,10 +488,10 @@
       "fingerprint": "88d2dd1e1d86db175757c3bfc452b7dd12fc7863"
     },
     {
-      "title": "Jingye seeks \u00a31bn payout over British Steel nationalisation - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTlRzNWxuN0R1WWFqUlBGbGhQTC0zb3d2MWRuN1ozSEtXTnBJM0p3aDN6R2QwdFhTYUh4Vzg0S3RGQUtLTUZrQVdjTnNXbjk0SjJSTWZveGI2YkxING5SSmpXVlNIMnpscUxvUXZrMGt0TWhoMEJfZ3ZGTkhjZnVUQXFQVE1JMEZDbjdidHFfUnhiM1Y3dUdmWGF0azI3emtVY2pmeWxBZFlFR01kYW0wTnAxV1RqaHp5MXJqMTF5bGtQQ09ISldYWVg5dnhpRGhmREl0N1pNcFVjd1NRNndsMEZpV2l1MUZMWUREWlZWbmg5dw?oc=5",
-      "source": "MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTlRzNWxuN0R1WWFqUlBGbGhQTC0zb3d2MWRuN1ozSEtXTnBJM0p3aDN6R2QwdFhTYUh4Vzg0S3RGQUtLTUZrQVdjTnNXbjk0SjJSTWZveGI2YkxING5SSmpXVlNIMnpscUxvUXZrMGt0TWhoMEJfZ3ZGTkhjZnVUQXFQVE1JMEZDbjdidHFfUnhiM1Y3dUdmWGF0azI3emtVY2pmeWxBZFlFR01kYW0wTnAxV1RqaHp5MXJqMTF5bGtQQ09ISldYWVg5dnhpRGhmREl0N1pNcFVjd1NRNndsMEZpV2l1MUZMWUREWlZWbmg5dw?oc=5\" target=\"_blank\">Jingye seeks \u00a31bn payout over British Steel nationalisation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "title": "Sir Jeremy Wright: government scrutiny and the future of British steel - Kenilworth Nub News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajNSbk1yQXZITU1Renk4SzBwMDFMUzlvZmNqSHZ0NnlZQnBoSExFTDZRY0d5TVA1TzV5bFgyV19vOVlYaXNQaC1JUU0tN2FSQW1xak0wdnRfVjltVERzSEI0cDc2QXRaZUs3bW5iU0xNN0h0alRub0dpMzBqOVlCVkkwQ0xGbi1VUHJNVkV2bXBPZEtPOW1CckUwbXNXenJnTzEtOUVfd3VReVBwWnlUSDAwQTdDSHpF?oc=5",
+      "source": "Kenilworth Nub News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajNSbk1yQXZITU1Renk4SzBwMDFMUzlvZmNqSHZ0NnlZQnBoSExFTDZRY0d5TVA1TzV5bFgyV19vOVlYaXNQaC1JUU0tN2FSQW1xak0wdnRfVjltVERzSEI0cDc2QXRaZUs3bW5iU0xNN0h0alRub0dpMzBqOVlCVkkwQ0xGbi1VUHJNVkV2bXBPZEtPOW1CckUwbXNXenJnTzEtOUVfd3VReVBwWnlUSDAwQTdDSHpF?oc=5\" target=\"_blank\">Sir Jeremy Wright: government scrutiny and the future of British steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kenilworth Nub News</font>",
       "feed_group": "company",
       "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
       "categories": [],
@@ -373,8 +499,8 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-11T21:21:32+00:00",
-      "fingerprint": "fa9d2a304f1ef52fddd6217367468b604bf52cc3"
+      "published": "2026-06-12T05:45:00+00:00",
+      "fingerprint": "f69160b1b8afc4628da83a02bb7ea2bfa7497911"
     },
     {
       "title": "British Steel signs new Scunthorpe United shirt sponsorship deal - Grimsby Live",
@@ -422,36 +548,6 @@
       "fingerprint": "50ed73eff6c12e1a409f53adec522236ca4e73c9"
     },
     {
-      "title": "Northern Lights Defines Large Deep-Seated Copper Porphyry Intrusion with Correlated Anomalous Copper Geochemistry at Mt Horetzky Through Advanced 3D Magnetic Modelling - Investing News Network",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZWppUjdCRG5Kcy1XRHJod091bHZYSi1ZM0kwdEw0TkpVdFZHcXItc2JGSjFVVkpSeFAya0MxdV9CX2k1Y2VrOWlxM2ZEeDlDclVEWF9SbWxNNmNrT0FFX1lWQlBzWVJyRE56ZG5feTY5d2lsY2E1V01lN3FjSm1PZ3hGNmtlT0N5dE9VWldsTnJUd21aTUR1WmdlcnRVMGJWR2I0TWdUdThULWx6MGlBd0l0Sk1heDVEWHVycVZxRC00aXE1UFhWdlUtWHZETXhJRnc3bFlBYUdkWmh6TmNScFMtanpKbmMtQnVOd0dGbS02Tk8tNXY1T05CczdMRGlyLW9KNWtva2Q0b2Zfb09CQmF0d0x3T3hxYzJBVWVuMA?oc=5",
-      "source": "Investing News Network",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPZWppUjdCRG5Kcy1XRHJod091bHZYSi1ZM0kwdEw0TkpVdFZHcXItc2JGSjFVVkpSeFAya0MxdV9CX2k1Y2VrOWlxM2ZEeDlDclVEWF9SbWxNNmNrT0FFX1lWQlBzWVJyRE56ZG5feTY5d2lsY2E1V01lN3FjSm1PZ3hGNmtlT0N5dE9VWldsTnJUd21aTUR1WmdlcnRVMGJWR2I0TWdUdThULWx6MGlBd0l0Sk1heDVEWHVycVZxRC00aXE1UFhWdlUtWHZETXhJRnc3bFlBYUdkWmh6TmNScFMtanpKbmMtQnVOd0dGbS02Tk8tNXY1T05CczdMRGlyLW9KNWtva2Q0b2Zfb09CQmF0d0x3T3hxYzJBVWVuMA?oc=5\" target=\"_blank\">Northern Lights Defines Large Deep-Seated Copper Porphyry Intrusion with Correlated Anomalous Copper Geochemistry at Mt Horetzky Through Adva",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-11T13:13:32+00:00",
-      "fingerprint": "38a64326a9c0b7d43429db314795269bff757baa"
-    },
-    {
-      "title": "British Steel nationalization bill advances to House of Lords - SteelOrbis",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkdHZzFYcjVYdncwU1BETFB3Tk9fQ0ZQUkNDNlpQbXp1cTNTMERLckdNdVV1V3RlRGVwT1lXUHJ3YV9oV1pTdGFqWUlWWjFpT1QyNFU1OE9WY2VBOEdFNmJPbG9OeUF2RXVmUkFTczdVNGtiSXRuQU40dllrbWlFUWVJUjVoU3k4VnZlZmZjcHYyWHJQc0Jydk5vbGptR3QzZDU2MmlyQXczc2xDaVFYU20wYUtuR3RXRjlmYk9kclo?oc=5",
-      "source": "SteelOrbis",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkdHZzFYcjVYdncwU1BETFB3Tk9fQ0ZQUkNDNlpQbXp1cTNTMERLckdNdVV1V3RlRGVwT1lXUHJ3YV9oV1pTdGFqWUlWWjFpT1QyNFU1OE9WY2VBOEdFNmJPbG9OeUF2RXVmUkFTczdVNGtiSXRuQU40dllrbWlFUWVJUjVoU3k4VnZlZmZjcHYyWHJQc0Jydk5vbGptR3QzZDU2MmlyQXczc2xDaVFYU20wYUtuR3RXRjlmYk9kclo?oc=5\" target=\"_blank\">British Steel nationalization bill advances to House of Lords</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SteelOrbis</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [],
-      "company": "British Steel",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-11T11:02:20+00:00",
-      "fingerprint": "0ffc72bf790c9830e059b89a1d5af1f2d4a7b91e"
-    },
-    {
       "title": "British Steel returns to the front of our shirts in 2026-27 - Scunthorpe United FC",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSURHMFZFMU9LMUU5WmxITEJJb1pXZzRJM1JqSzIyajVmN1FBRTlWX0NyUXotRjE2TUZnTkpVOURQODVzSlRpdndGMXFxNkZXS0o4dDM1c3h4X1ZvN2JGOVdqVno3MHM2MXNLMUdBUkRJRENLaDN2a3JPa3NYR2NfckRlTWxlTTJYS1BhNFVseWVHcmhvbG1Uc0NZOVZMTzYyUDVWejdQVFd2TjZ3X05VRQ?oc=5",
       "source": "Scunthorpe United FC",
@@ -465,21 +561,6 @@
       "likely_roles": "",
       "published": "2026-06-11T11:00:00+00:00",
       "fingerprint": "aa44234be4d2e3c1f336c8e20247c8142efc2d18"
-    },
-    {
-      "title": "Wonderfield Group posts record UK kiosk sales as sushi demand grows - Grocery Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJhUWtTUG5RajRqLUhKTDRBbThwak4xNWdYYUpVU1VhQnhwTm9rZEVRbTQxVlZad1dYeHpxNC1nemNaRWJzd190eWtQeTlUU1pkWFNSUlhmRjZrbks2TGc4eEs1c2JhQ25TLWVGRjZtelk3UGFSQ2tDQ2RnTXA5Z2pmeU5iM2s2cmxSZE82SGNmWFdIbFIxSWF4VjZrcVlkQ2ZrOGtvN2tPMWJ3MUgxTFBn?oc=5",
-      "source": "Grocery Gazette",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJhUWtTUG5RajRqLUhKTDRBbThwak4xNWdYYUpVU1VhQnhwTm9rZEVRbTQxVlZad1dYeHpxNC1nemNaRWJzd190eWtQeTlUU1pkWFNSUlhmRjZrbks2TGc4eEs1c2JhQ25TLWVGRjZtelk3UGFSQ2tDQ2RnTXA5Z2pmeU5iM2s2cmxSZE82SGNmWFdIbFIxSWF4VjZrcVlkQ2ZrOGtvN2tPMWJ3MUgxTFBn?oc=5\" target=\"_blank\">Wonderfield Group posts record UK kiosk sales as sushi demand grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Grocery Gazette</font>",
-      "feed_group": "company",
-      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
-      "categories": [],
-      "company": "Record UK",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-11T08:45:34+00:00",
-      "fingerprint": "124401b4e38ab25010cd62053e69c864959c655b"
     },
     {
       "title": "Jingye Steel Seeks Compensation from UK Government Over British Steel Control - Devdiscourse",
