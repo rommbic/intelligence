@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T18:14:44.769618+00:00",
+  "generated_at": "2026-06-15T20:08:54.033001+00:00",
   "date": "2026-06-15",
-  "count": 15,
+  "count": 18,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -112,8 +112,25 @@
       "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-15T11:00:44+00:00",
+      "published": "2026-06-15T14:35:13+00:00",
       "fingerprint": "71eb39d1ee5217d603857374448771f5eaf57836"
+    },
+    {
+      "title": "Kingspan Light + Air Partnership Brings Lifecycle Support for Building Systems - USGlass Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFZ1OW9lX0E3MUgtZWpKbV9wLVN6Mnk1MGdkUkZTdmtWQ3dEZWlxbWlVNFVZeXNpRVFuQzVtQ2xfNzVKeG9nclFRam5obk4ybHZfbzBxbGhZNEtoeEVZcll4OERHcExHNFVxSlZ2Umt1MVhGYURXTHFJQ3hQVF9KUzMzZGNCOEFRMWtGc3kwZmpCVUlBbUNGVHV3VHdKR0tYWE9Kd25jWQ?oc=5",
+      "source": "USGlass Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFZ1OW9lX0E3MUgtZWpKbV9wLVN6Mnk1MGdkUkZTdmtWQ3dEZWlxbWlVNFVZeXNpRVFuQzVtQ2xfNzVKeG9nclFRam5obk4ybHZfbzBxbGhZNEtoeEVZcll4OERHcExHNFVxSlZ2Umt1MVhGYURXTHFJQ3hQVF9KUzMzZGNCOEFRMWtGc3kwZmpCVUlBbUNGVHV3VHdKR0tYWE9Kd25jWQ?oc=5\" target=\"_blank\">Kingspan Light + Air Partnership Brings Lifecycle Support for Building Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USGlass Magazine</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [
+        "Contract / supply win"
+      ],
+      "company": "Kingspan",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-15T18:29:03+00:00",
+      "fingerprint": "4bc7eb5a2056235b1ac2cf869f252dc5ca59e45a"
     },
     {
       "title": "Jingye Statement on British Steel: \u201cOur Investments Have Not Been Recognized, We Are Seeking Compensation\u201d - megaproject.com",
@@ -131,6 +148,23 @@
       "likely_roles": "",
       "published": "2026-06-14T09:48:10+00:00",
       "fingerprint": "b67bf4723cec03257f2481e9f0ec79a88b702106"
+    },
+    {
+      "title": "Former Medtronic CCO Torod Neptune launches advisory firm - Medical Design & Outsourcing",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUdnMnhBVTRxTmJURHRQdXlod3pnbWNCZzh5UDRYUUZ1LWx4NEdhQkUtdm1SbkdwWFNNTlpWRWdwTWJmZjExMDZXYlNEaWNLZEhyZk4xOGY1d3VIdVEwUjJtb3ozWFcwbWY5cGRGN2IzVHRNWHh0eWpIM0FwZWwzcnk0c3dyNUVPVVlGQXJKZUxBam5IZkE?oc=5",
+      "source": "Medical Design & Outsourcing",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUdnMnhBVTRxTmJURHRQdXlod3pnbWNCZzh5UDRYUUZ1LWx4NEdhQkUtdm1SbkdwWFNNTlpWRWdwTWJmZjExMDZXYlNEaWNLZEhyZk4xOGY1d3VIdVEwUjJtb3ozWFcwbWY5cGRGN2IzVHRNWHh0eWpIM0FwZWwzcnk0c3dyNUVPVVlGQXJKZUxBam5IZkE?oc=5\" target=\"_blank\">Former Medtronic CCO Torod Neptune launches advisory firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Design & Outsourcing</font>",
+      "feed_group": "company",
+      "feed_title": "Kitchens & Bathrooms: MKM Building Suppl \u2026 Q4 Bathrooms (10)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Neptune",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-15T18:28:44+00:00",
+      "fingerprint": "3141f29818cb7b7b252db9d97e6f16bb963f6431"
     },
     {
       "title": "STARK backs Regional Building Foundation - Builders Merchants Journal",
@@ -165,6 +199,21 @@
       "likely_roles": "",
       "published": "2026-06-15T09:25:48+00:00",
       "fingerprint": "a7665b210d0a279c3651e757ddac956a52d8f7a5"
+    },
+    {
+      "title": "GS Exterior Experts Announces New James Hardie\u00ae Color Additions for Siding, Trim, and Soffit Products - EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaVJNNE9JdS0yT2F0ODhKWnhjWHpjNU9xVjZpVWc0Skw5UzdxWDM0MDlHMDFrbjl6Y0tyakxSZXZ1cDNBcEhxOVNXOEpIdG92TUxhRzZ4Zmd5alEyR0FBdE9qeFBQZ3k1V0I1SDJoVVVQT0k3M0FoWU82U0VHc2xNNmdPVEJhM21mY1ZPRDRPQXVObnlwMVJRVDVyQjYwUi1vS0lBcjhHbnZrcHBNS3ZGZlN6b3Qxd2xsd3B5UlZWWXp0bWwzdHFjU2NuRUVzTWROWXViR3I1TEtIYTVTZ0E?oc=5",
+      "source": "EIN Presswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaVJNNE9JdS0yT2F0ODhKWnhjWHpjNU9xVjZpVWc0Skw5UzdxWDM0MDlHMDFrbjl6Y0tyakxSZXZ1cDNBcEhxOVNXOEpIdG92TUxhRzZ4Zmd5alEyR0FBdE9qeFBQZ3k1V0I1SDJoVVVQT0k3M0FoWU82U0VHc2xNNmdPVEJhM21mY1ZPRDRPQXVObnlwMVJRVDVyQjYwUi1vS0lBcjhHbnZrcHBNS3ZGZlN6b3Qxd2xsd3B5UlZWWXp0bWwzdHFjU2NuRUVzTWROWXViR3I1TEtIYTVTZ0E?oc=5\" target=\"_blank\">GS Exterior Experts Announces New James Hardie\u00ae Color Additions for Siding, Trim, and Soffit Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN Presswire</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-15T18:57:00+00:00",
+      "fingerprint": "54ef6f84f0cb987960f193c7e82c4f31d8a923d7"
     },
     {
       "title": "Auto-Fasteners launches online platform to improve ordering - Motor Trade News",
