@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-16T16:06:48.220382+00:00",
+  "generated_at": "2026-06-16T19:58:38.805411+00:00",
   "date": "2026-06-16",
-  "count": 23,
+  "count": 27,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "New Native Teams and Robert Walters Report Reveals How AI Is Reshaping Global Hiring Corridors - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObUNSNW1rMnctNVhuWm9lMDNaV29Ia3RsT3JlWk8xVlFOb2M3bnA4azM3TDMxdnM5TnJCZVdxWU9TNW9PVUtISjlGNGYwVGZIWlJsQVg1bzBEVV9hNWRMWFpEUUxkREd3d1pOaDNlY2o2VGVNRDJkUERZakI2NUVlWlRocDVrQTMyLU4zMXNrUm80N1lzZC02cFBPaUVPNm9uNDBBS3NUVnhDTWVtRVpZVEcxSWhtb2M?oc=5",
+      "source": "Unite.AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObUNSNW1rMnctNVhuWm9lMDNaV29Ia3RsT3JlWk8xVlFOb2M3bnA4azM3TDMxdnM5TnJCZVdxWU9TNW9PVUtISjlGNGYwVGZIWlJsQVg1bzBEVV9hNWRMWFpEUUxkREd3d1pOaDNlY2o2VGVNRDJkUERZakI2NUVlWlRocDVrQTMyLU4zMXNrUm80N1lzZC02cFBPaUVPNm9uNDBBS3NUVnhDTWVtRVpZVEcxSWhtb2M?oc=5\" target=\"_blank\">New Native Teams and Robert Walters Report Reveals How AI Is Reshaping Global Hiring Corridors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
+      "categories": [
+        "Hiring / job creation"
+      ],
+      "company": "Walters",
+      "score": 10,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-16T18:53:36+00:00",
+      "fingerprint": "c054a4b6ead5b9318f31d570460451b4f98150bc"
+    },
     {
       "title": "Wimborne Minster Folk Festival continues to thrive - Dorset View",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkx1NVk1YUFEVTFqSVpCb0F4cFVlcXREOXlNb2w2VlQ4SmlDQ1BENVpqYnFVNS1YVW1Ibmp1QTFBcDdIZTlzbFFIZXNnWkpGLS1kekcxS0xSX0pwckZNNUl5QU5YZzAzSUcxSjBZMjRybC1QWlBMaUdPSHdXejd2aG9n?oc=5",
@@ -80,6 +97,23 @@
       "likely_roles": "",
       "published": "2026-06-15T14:35:13+00:00",
       "fingerprint": "71eb39d1ee5217d603857374448771f5eaf57836"
+    },
+    {
+      "title": "Philips Sonicare DiamondClean Smart 9700 raises the bar for connected oral care - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWFGaGNwaWRzZFJpTklTS2NPQktSWlFVUUM4Z0V4a2RlOHpoU3A5aDgtTFRmdWtEeXBKbTZTLVd2VlJMbzBBWTNmRlFzTlhXRllTQW5xLUR5QnVvSkE2eDhnSUxmbU1nTDB0TFZ1OXlBVlAzWjlpOXVkTGVMaXdfZnBRQk15bWZISTlFVmNGWEVBUV9SSlpEeFRMM2JTcUNGMVNIdWROUE9PRFE0aEhVVFhBRjdZTlk0Yk1ra2ZOalBSeENrc1F2OTdSQmlfQQ?oc=5",
+      "source": "AD HOC NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxONWFGaGNwaWRzZFJpTklTS2NPQktSWlFVUUM4Z0V4a2RlOHpoU3A5aDgtTFRmdWtEeXBKbTZTLVd2VlJMbzBBWTNmRlFzTlhXRllTQW5xLUR5QnVvSkE2eDhnSUxmbU1nTDB0TFZ1OXlBVlAzWjlpOXVkTGVMaXdfZnBRQk15bWZISTlFVmNGWEVBUV9SSlpEeFRMM2JTcUNGMVNIdWROUE9PRFE0aEhVVFhBRjdZTlk0Yk1ra2ZOalBSeENrc1F2OTdSQmlfQQ?oc=5\" target=\"_blank\">Philips Sonicare DiamondClean Smart 9700 raises the bar for connected oral care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "Philips",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-16T19:25:02+00:00",
+      "fingerprint": "99315be0d692a137308aee8d9e259d3076e393af"
     },
     {
       "title": "BIOI Minster calls for investment, innovation, export-led growth at brand of \u201cYear Awards 2026\u201d - | Associated Press Of Pakistan",
@@ -150,6 +184,23 @@
       "fingerprint": "f40aae69557ada6c83812bede99d71d01a3bc29a"
     },
     {
+      "title": "Kingspan Launches Daylighting Design Guide and Hub to Support Building Performance and Occupant Well-Being - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEZma3d6eUtkLTFEeG00YUVJOTBQSzg0OG9KN0g4RDhYMWxrUHdQa1RnQlFqMXFhMGhVNThsLTFTWU9jbWtVSkF0aXpjcjBuenpKbG9KZnR2NnNEdG9Rd1BtWVdLN19DdmlLVGZaMVByRkRnOGpNYi0wbjVRWVJUUExCSDBKNmhlcXYwVEl2VjhiQVRQaWJtUUw1RXAwdHBiZ0lMMnFaRGhxVVU?oc=5",
+      "source": "The National Law Review",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEZma3d6eUtkLTFEeG00YUVJOTBQSzg0OG9KN0g4RDhYMWxrUHdQa1RnQlFqMXFhMGhVNThsLTFTWU9jbWtVSkF0aXpjcjBuenpKbG9KZnR2NnNEdG9Rd1BtWVdLN19DdmlLVGZaMVByRkRnOGpNYi0wbjVRWVJUUExCSDBKNmhlcXYwVEl2VjhiQVRQaWJtUUw1RXAwdHBiZ0lMMnFaRGhxVVU?oc=5\" target=\"_blank\">Kingspan Launches Daylighting Design Guide and Hub to Support Building Performance and Occupant Well-Being</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Kingspan",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-16T17:54:36+00:00",
+      "fingerprint": "50ca8128498b30375777825d3aa108f24bd735d9"
+    },
+    {
       "title": "All of Philips Hue\u2019s new products for June are available starting today - Hueblog.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0tLOUhGNjJrTEl2RE9OT1FyOGhhRkFKSU9hZ0tvV0ItdWtpQlAxUVZPTG5yVlBPSmVpdFk1RWJsZzNZSGFIZkxIR2I5V2d6ZTVGZDBPR1lCeVFXemZJSkV3bGRoZmpiWHJoMVdvQjctdUxVVzRUdG1ZREdRcDBwcy1sd1hMUWo3a2JLLS13TWpVY1FGNFRIOUFPNGFpY2hTd0M5WQ?oc=5",
       "source": "Hueblog.com",
@@ -184,6 +235,23 @@
       "fingerprint": "3141f29818cb7b7b252db9d97e6f16bb963f6431"
     },
     {
+      "title": "BMW M unveils bold electric Neue Klasse concept at Le Mans - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWDl6VV9sZXVXbkNiLWxkNFhuYVlaUm9yYklEYVNOSHBPX2JSYUtCTWU4WjZsSEN4c2ZkQV9WRjhDN05KOEs0YzIyd0xZTmg2Vy10Yi1YU210SExTQkV1cFRabWROdkkycHhTMDBsVzBWTnY2LWpqcmJ4OGdpcWdJWm5WWTlyTlk4UzRIMFRralNDMzNPZnU1U29CRjNTZ1FJbG8yUXAxVW9HUkxORHFQRDVISUNkYWktMEk4dHVPUVdvNW9Eb3Rla0xVU3UzWTczamJVTG82LXJyRk55eVhhZF9xVDl4eW15cGdrUzBtOGN6dw?oc=5",
+      "source": "MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWDl6VV9sZXVXbkNiLWxkNFhuYVlaUm9yYklEYVNOSHBPX2JSYUtCTWU4WjZsSEN4c2ZkQV9WRjhDN05KOEs0YzIyd0xZTmg2Vy10Yi1YU210SExTQkV1cFRabWROdkkycHhTMDBsVzBWTnY2LWpqcmJ4OGdpcWdJWm5WWTlyTlk4UzRIMFRralNDMzNPZnU1U29CRjNTZ1FJbG8yUXAxVW9HUkxORHFQRDVISUNkYWktMEk4dHVPUVdvNW9Eb3Rla0xVU3UzWTczamJVTG82LXJyRk55eVhhZF9xVDl4eW15cGdrUzBtOGN6dw?oc=5\" target=\"_blank\">BMW M unveils bold electric Neue Klasse concept at Le Mans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Klasse",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-15T10:59:52+00:00",
+      "fingerprint": "37d12d28d8d5557740f32641cd8bd99144310488"
+    },
+    {
       "title": "STARK backs Regional Building Foundation - Builders Merchants Journal",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXBUd2JNYVgtZi1temlTM3RaZG1JeTFWTEhmXzZfXzBXbHRiM0lwWmYwaXN2RWdRcEU1anVFWUdLYW81eU1IZTNiRlR3NmcwUTdfd1YtYlBKM1VuV2Y1S3RsdWFhdVFhYmZzTlExM21BdDBiaE93c04zSVZyUU14OWN3TEs?oc=5",
       "source": "Builders Merchants Journal",
@@ -216,6 +284,38 @@
       "likely_roles": "",
       "published": "2026-06-15T09:23:37+00:00",
       "fingerprint": "a7665b210d0a279c3651e757ddac956a52d8f7a5"
+    },
+    {
+      "title": "ABC deal brings Suncrete masonry and hardscape capacity, distribution - Concrete Products",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDVqVExPUFp1cC0wekxLd2JzWFZQTnQwMFNIYVh5TGxvWW03X1paWXZEX1lvMUtKUzE4S2ZPR3VMRThpbGowNG11amtsOGlldktwUGp0RzJHWjcwYTBJQVczbjFFUVZFX0t3NWtrMWJfRnJrWHRURDA2eFRjbFVKNTVscVdGUE54bUhLYUI0Z0t6cDFyS2VUa2IwNnJUT09vUVl2a1JIa0c2MTg0ZVJVSTczYnotQXdwU2NV?oc=5",
+      "source": "Concrete Products",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMDVqVExPUFp1cC0wekxLd2JzWFZQTnQwMFNIYVh5TGxvWW03X1paWXZEX1lvMUtKUzE4S2ZPR3VMRThpbGowNG11amtsOGlldktwUGp0RzJHWjcwYTBJQVczbjFFUVZFX0t3NWtrMWJfRnJrWHRURDA2eFRjbFVKNTVscVdGUE54bUhLYUI0Z0t6cDFyS2VUa2IwNnJUT09vUVl2a1JIa0c2MTg0ZVJVSTczYnotQXdwU2NV?oc=5\" target=\"_blank\">ABC deal brings Suncrete masonry and hardscape capacity, distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Concrete Products</font>",
+      "feed_group": "company",
+      "feed_title": "Landscaping & External: Brett Landscaping \u2026 SureSet UK (12)",
+      "categories": [],
+      "company": "Hardscape",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-16T16:33:22+00:00",
+      "fingerprint": "714362515d080e314f4b0aab09c076c8f4ec4bb8"
+    },
+    {
+      "title": "Universal Fitters Launches National Flooring Fitter Network - Issuewire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWl3Y0JhcGpjWkx5dGdpOFJYenhDbHNfVlA0cVBNdTBRRHA0WVY1WlRGWXFTRzRONFMxNWNpZW1ab0lxNjlWM3RkajBWcHN2MTF3QTdRbHN0dVNpSXBwbGtCRm5lZXFLYUZSWWIweW85Q2pMeFBROTFfQS1oanotb3BmMkVhdkU4cS1XckxEU0ZjS3JMcEV6Ykk5WUR4RlI2UmZ3eg?oc=5",
+      "source": "Issuewire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWl3Y0JhcGpjWkx5dGdpOFJYenhDbHNfVlA0cVBNdTBRRHA0WVY1WlRGWXFTRzRONFMxNWNpZW1ab0lxNjlWM3RkajBWcHN2MTF3QTdRbHN0dVNpSXBwbGtCRm5lZXFLYUZSWWIweW85Q2pMeFBROTFfQS1oanotb3BmMkVhdkU4cS1XckxEU0ZjS3JMcEV6Ykk5WUR4RlI2UmZ3eg?oc=5\" target=\"_blank\">Universal Fitters Launches National Flooring Fitter Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Issuewire</font>",
+      "feed_group": "sector",
+      "feed_title": "Flooring & Tiles \u2014 sector news",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-16T15:28:22+00:00",
+      "fingerprint": "462c3806b8855c4c7646e8498dd7d8c1b46e72f4"
     },
     {
       "title": "Free BINGO added to Street Fair by Northern Lights Casino - MBC Radio",
@@ -261,21 +361,6 @@
       "likely_roles": "",
       "published": "2026-06-16T08:14:50+00:00",
       "fingerprint": "11473f3067fadde51f288442d4e21704dc52e9e9"
-    },
-    {
-      "title": "Northern Lights \u2013 June 2026 - Pacific Union Conference",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11WkpxQkFFQVlJX2NhUmUxTnJmaVplNDB6N2k4U3ZVRlNSdEZ6YnJuWkZRQ0o3UklIOW9FdUJscERRckFvUE1ISGh5SjFHd2xMMWR2RjZBeHhPRXdfMnVUWTU0blRkemF5VUtYWjRXMA?oc=5",
-      "source": "Pacific Union Conference",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE11WkpxQkFFQVlJX2NhUmUxTnJmaVplNDB6N2k4U3ZVRlNSdEZ6YnJuWkZRQ0o3UklIOW9FdUJscERRckFvUE1ISGh5SjFHd2xMMWR2RjZBeHhPRXdfMnVUWTU0blRkemF5VUtYWjRXMA?oc=5\" target=\"_blank\">Northern Lights \u2013 June 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pacific Union Conference</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-16T07:01:00+00:00",
-      "fingerprint": "cd26a1fec3f5bf941ab1419609399b9614029ddb"
     },
     {
       "title": "Genuit Group named among Europe\u2019s Climate Leaders 2026 by Financial Times - Water Magazine",
@@ -368,21 +453,6 @@
       "likely_roles": "",
       "published": "2026-06-15T10:36:52+00:00",
       "fingerprint": "edc352f55b20a7849d4a85fd796d225cd8e0fdf4"
-    },
-    {
-      "title": "Insulation carbon calculator launched in UK first - labmweekly.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcG9kN0JKNVI5eGxBZmxPdm9ra2ZtSGR0bUwxZFBYNkJNY0RLU3ZxNFZlSDBXMmJrZlVXX1NFcjFYM01kaXJwTm5rdEFMRHplQ0ZKaTVfV0xja29Id2NzVEhhOVE1UnA1SlZPb3NyVXVxcFN0Y3dSZ1c4N0ZJRV9iWA?oc=5",
-      "source": "labmweekly.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcG9kN0JKNVI5eGxBZmxPdm9ra2ZtSGR0bUwxZFBYNkJNY0RLU3ZxNFZlSDBXMmJrZlVXX1NFcjFYM01kaXJwTm5rdEFMRHplQ0ZKaTVfV0xja29Id2NzVEhhOVE1UnA1SlZPb3NyVXVxcFN0Y3dSZ1c4N0ZJRV9iWA?oc=5\" target=\"_blank\">Insulation carbon calculator launched in UK first</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">labmweekly.co.uk</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-15T06:00:00+00:00",
-      "fingerprint": "9e71f390c928eee53346b455c7c5130ecdbc4d98"
     }
   ]
 }
