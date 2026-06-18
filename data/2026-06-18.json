@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T18:14:00.087334+00:00",
+  "generated_at": "2026-06-18T22:35:07.645619+00:00",
   "date": "2026-06-18",
-  "count": 33,
+  "count": 31,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -28,8 +28,25 @@
       "score": 10,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-18T13:29:43+00:00",
+      "published": "2026-06-18T13:36:01+00:00",
       "fingerprint": "f84f7953e8e07c2d15f6dd366f02f35f4d5383ba"
+    },
+    {
+      "title": "Walters State releases President\u2019s and Deans Lists - Claiborne Progress",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUZkTTdNM3Z6bzVPQURZT1RWSVVhYmUzczd0TDZhWmU4OFE5X25LelpFcVNVNVBQMTN1QTJiY2tuMzNLUmxqWmdDMGVtZjk1SDhBRW96dkNMSV9qQlJEeWUzTTRjUWJIelZfbGZ1b0lMUVFPOUtVRHhnNUhWRjhTQU96OHc5ZVRITi02SURhMVRQSnEycVE?oc=5",
+      "source": "Claiborne Progress",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUZkTTdNM3Z6bzVPQURZT1RWSVVhYmUzczd0TDZhWmU4OFE5X25LelpFcVNVNVBQMTN1QTJiY2tuMzNLUmxqWmdDMGVtZjk1SDhBRW96dkNMSV9qQlJEeWUzTTRjUWJIelZfbGZ1b0lMUVFPOUtVRHhnNUhWRjhTQU96OHc5ZVRITi02SURhMVRQSnEycVE?oc=5\" target=\"_blank\">Walters State releases President\u2019s and Deans Lists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Claiborne Progress</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "Walters",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T22:08:44+00:00",
+      "fingerprint": "3dc78dace044542d03f0a1b0b22addae28cb2ae0"
     },
     {
       "title": "BMW opens Neue Klasse reservations early; car business margin forecast unexpectedly cut in half - digitimes",
@@ -83,39 +100,21 @@
       "fingerprint": "d18a71d18c117cdee531820d3e34987b144fa3a0"
     },
     {
-      "title": "Philips Hue expands its Play lamp collection \u2013 but its new smart switches are what you\u2019ll be most excited about - t3.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0xXTE80X215R3pCVjBINGQyWlNybjZUQ2Y1ejFoMkM5Y0lDZ1pZeVA4ZEhzcFdESlpIeDJPQmRCRHRVam5STVByamRPV0ZOTVhEWm5YclpfN1FwVlYwMTVva2RGaHpJX1FMTFBfZ0Ftc1Nub1BxR1prQ1JmdG1vbHNVcS03aUxNaGFjUWtiNEpLY01KNXBKNDVvRGZYMGdMT3JKcEJlbGhOdlluU3NJSFVaVHVKaEpMdGp1LTc4aFB5eFJjRmVzQlllTHNkVER1ZUxpWHROR3RuU054SjdRbmhpcUc?oc=5",
-      "source": "t3.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0xXTE80X215R3pCVjBINGQyWlNybjZUQ2Y1ejFoMkM5Y0lDZ1pZeVA4ZEhzcFdESlpIeDJPQmRCRHRVam5STVByamRPV0ZOTVhEWm5YclpfN1FwVlYwMTVva2RGaHpJX1FMTFBfZ0Ftc1Nub1BxR1prQ1JmdG1vbHNVcS03aUxNaGFjUWtiNEpLY01KNXBKNDVvRGZYMGdMT3JKcEJlbGhOdlluU3NJSFVaVHVKaEpMdGp1LTc4aFB5eFJjRmVzQlllTHNkVER1ZUxpWHROR3RuU054SjdRbmhpcUc?oc=5\" target=\"_blank\">Philips Hue expands its Play lamp collection \u2013 but its new smart switches are what you\u2019ll be most excited about</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">t3.com</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "title": "The Newry export-focused manufacturer is creating 30 new jobs as it scales production following a surge in international demand - Belfast News Letter",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaXN4OUp5TnRFaVVUdExJNkIwajhhVXpad2xjUHVsQzlOMnZqSWFvNWlPQ1NsOHpaX0dQN3Y2czFZZno0cmxfTVZnWGtmM3Y0eEh4eExISW9fa19vQWNRdTJwRk1pV3JLS1FSU3NndlZieTZSblRRYUJzeV9pWFBkYTkzOEhjVGhKNXljRzEtNWtreG1ETjFpSE14WGxaR2F1VkNvM1BPSWZpZ0FkUHZHN3JoajJ3Zk90OHVUek1uU0RHdnZqb25Sb2tRUlp5M0R1QXV1eUdlYWk2WEdtdmtiSENVRHNBcW9aalcwUTBiMHBkWHB6M2NPY0Q1VWRlbDhXdUdhVlhkOHhMQXhGQVRoeVlsREYzTDdLUzVvbFJEbW92WGtYb3BwSlVXRGV1ZnEzU1E?oc=5",
+      "source": "Belfast News Letter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxPaXN4OUp5TnRFaVVUdExJNkIwajhhVXpad2xjUHVsQzlOMnZqSWFvNWlPQ1NsOHpaX0dQN3Y2czFZZno0cmxfTVZnWGtmM3Y0eEh4eExISW9fa19vQWNRdTJwRk1pV3JLS1FSU3NndlZieTZSblRRYUJzeV9pWFBkYTkzOEhjVGhKNXljRzEtNWtreG1ETjFpSE14WGxaR2F1VkNvM1BPSWZpZ0FkUHZHN3JoajJ3Zk90OHVUek1uU0RHdnZqb25Sb2tRUlp5M0R1QXV1eUdlYWk2WEdtdmtiSENVRHNBcW9aalcwUTBiMHBkWHB6M2NPY0Q1VWRlbDhXdUdhVlhkOHhMQXhGQVRoeVlsREYzTDdLUzVvbFJEbW92WGtYb3BwSlVXRGV1ZnEzU1E?oc=5\" target=\"_blank\">The Newry export-focused manufacturer is creating 30 new jobs as it scales production following a surge in internati",
+      "feed_group": "signal",
+      "feed_title": "Manufacturing capacity",
       "categories": [
-        "New facility / expansion"
+        "Hiring / job creation"
       ],
-      "company": "Philips",
+      "company": "",
       "score": 9,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-17T10:30:00+00:00",
-      "fingerprint": "8965d0f5f186dff72c065de280f621d118dd938a"
-    },
-    {
-      "title": "Soudal Quick-Step launches a satellite partnership with Italian junior team with \"an excellent reputation\" - CyclingUpToDate.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQallXT3AtSUpSZUZBY3cyYnpJTWdLMFN3Vm5qZVJaUWg3NUhGd1pmQWplQ04tb0NOVlpueTRqUWlBblh2azFiSlBFZnZfS1ZzUDB1TWpGNzV4ekhoTWpNbV9DUWlNVEt0aW9sVTZpUllnTEVQQ0p1eDFfTUxPTlpPdlE3Rk9vdElUaG1kYzV2OHlsdGVnU2dNWmZKdnpaaWlhSHl2N1lIRy1LZ0M0ZzE4YUJoS0RpSmZaYzNwQjN5U2QzZ19fZ3lNOW5maDZmUUItXzA1T0xNQQ?oc=5",
-      "source": "CyclingUpToDate.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQallXT3AtSUpSZUZBY3cyYnpJTWdLMFN3Vm5qZVJaUWg3NUhGd1pmQWplQ04tb0NOVlpueTRqUWlBblh2azFiSlBFZnZfS1ZzUDB1TWpGNzV4ekhoTWpNbV9DUWlNVEt0aW9sVTZpUllnTEVQQ0p1eDFfTUxPTlpPdlE3Rk9vdElUaG1kYzV2OHlsdGVnU2dNWmZKdnpaaWlhSHl2N1lIRy1LZ0M0ZzE4YUJoS0RpSmZaYzNwQjN5U2QzZ19fZ3lNOW5maDZmUUItXzA1T0xNQQ?oc=5\" target=\"_blank\">Soudal Quick-Step launches a satellite partnership with Italian junior team with \"an excellent reputation\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CyclingUpToDate.com</font>",
-      "feed_group": "company",
-      "feed_title": "Sealants, Adhesives & Waterproofing: Iso Chemie \u2026 Soudal (8)",
-      "categories": [
-        "Contract / supply win",
-        "New product launch"
-      ],
-      "company": "Soudal",
-      "score": 8,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T07:02:36+00:00",
-      "fingerprint": "3379817016d176fe4f022405dbd428dad181400a"
+      "published": "2026-06-17T13:54:00+00:00",
+      "fingerprint": "773977913d8ed023029d2df2d69dcc5d964ca4ba"
     },
     {
       "title": "BMW unveils its first fully electric performance sedan at Le Mans the M Concept Neue Klasse - supercarblondie.com",
@@ -169,6 +168,23 @@
       "fingerprint": "1e9714cdd3defa0dbc4839005a664216dde30ba6"
     },
     {
+      "title": "Philips Launches IntelliVue PM 6000, an Entry-Level Patient Monitor Range - Id\u00e9al Investisseur",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1pySS1IZGQwdV9sci1LYUJ6OVFzbm5ZaEZjOEh5bVFDRmUwcFZud3hrRXpjdjlmYVo2YWUxOS0yOWFOM3hDTlZFQTd5NGRYcWZXVEFIbjdZN3ZXQjJsWU9jZ3dBWnJEeWJnenJCY3ZGV1puSVUySVJpUEduUldnVEhTSnpzNGkxTElHb3pIWl9DWWVBUVpLazF6U29TUmRPcExOS1lXRHhoNzRQY3ZPVnRMdTBwXzFYamdWTTBqS3BQX3E1OXNfblBiTQ?oc=5",
+      "source": "Id\u00e9al Investisseur",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1pySS1IZGQwdV9sci1LYUJ6OVFzbm5ZaEZjOEh5bVFDRmUwcFZud3hrRXpjdjlmYVo2YWUxOS0yOWFOM3hDTlZFQTd5NGRYcWZXVEFIbjdZN3ZXQjJsWU9jZ3dBWnJEeWJnenJCY3ZGV1puSVUySVJpUEduUldnVEhTSnpzNGkxTElHb3pIWl9DWWVBUVpLazF6U29TUmRPcExOS1lXRHhoNzRQY3ZPVnRMdTBwXzFYamdWTTBqS3BQX3E1OXNfblBiTQ?oc=5\" target=\"_blank\">Philips Launches IntelliVue PM 6000, an Entry-Level Patient Monitor Range</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Id\u00e9al Investisseur</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Philips",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T07:15:00+00:00",
+      "fingerprint": "70c9907251ed56c8a858ebda5303b366cc26fb91"
+    },
+    {
       "title": "BMW M unveils radical Concept Neue Klasse - Wanted Online",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWhta1JqMmxhSExsM19lYmZqS3ppUE9QS2RjLVJlTlFXekg5eF9mWHFRZ2VHLWNxVUUwcTBXb0hGY0ppNUxOYldXUUdBMm11dHg2WFEzVHkxWk5BVHpnNDRqSEVaQkE0VmFNQXhKVWJzNzZNdjlocXJKZkRmSVdCaGVlREZoMFo4VFRENjZ4bjZjZjluSEJLSQ?oc=5",
       "source": "Wanted Online",
@@ -184,6 +200,51 @@
       "likely_roles": "",
       "published": "2026-06-18T03:00:00+00:00",
       "fingerprint": "295b8a9b5ad90812cb18f57ea39d75b3883e4136"
+    },
+    {
+      "title": "Northern Lights Forecast: Some States May See Aurora Thursday Night - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaWpnTUVvcWRNZzU2X1h4bjV6bU9Uak5uWGpWY2Z6X21zZkt6V185cFNvTHVBc2NCNWVFWWg2MENXYnFJUEg4NU1GSHdlU2JpdjBZc2gzZ1oxdzZYUkxsbW1kZWw0TjM1bzNrbGozME8wRnVMRzNzMklsUzQ2Y19wU0lXa21xTnRPNHRWSHFyX3ZPNGhTVWVpR2R1MU9qRHFKN3M5NjJhUVFJeVJqdmVpaGt2RF9hWWZvWlVYWjFVY2RnLVk?oc=5",
+      "source": "Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaWpnTUVvcWRNZzU2X1h4bjV6bU9Uak5uWGpWY2Z6X21zZkt6V185cFNvTHVBc2NCNWVFWWg2MENXYnFJUEg4NU1GSHdlU2JpdjBZc2gzZ1oxdzZYUkxsbW1kZWw0TjM1bzNrbGozME8wRnVMRzNzMklsUzQ2Y19wU0lXa21xTnRPNHRWSHFyX3ZPNGhTVWVpR2R1MU9qRHFKN3M5NjJhUVFJeVJqdmVpaGt2RF9hWWZvWlVYWjFVY2RnLVk?oc=5\" target=\"_blank\">Northern Lights Forecast: Some States May See Aurora Thursday Night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T21:58:27+00:00",
+      "fingerprint": "e9567e00f7a8fcdbfc4608874321d2b8cca6a18a"
+    },
+    {
+      "title": "James Hardie Industries plc (JHX) AGM Aug 20, 2026 \u2014 Board, CEO Pay, Auditor Vote - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1JmQUJra05PVmxLZGhZOHpWU2o2WFlxVjk1OFpkeHlNTW9KSGFjZkR3Y2F2VzQ3bDVSeFhLOVJnX3JEU0JTbHo5MGNLVmRQbkdudGEyVVNNRDl3cXh6ZjB2UTJVMzBzUkZEenJ2QzJxQjY3QXRFRHpTLURNWVJEd0NOaW9VSkdlbXlvV1NkQnNRcm1Pb0NiOGxabjlIR0JBQV8zOEpXMkRzUmxuVENpczJDSVRmbzdzTU5WQTM5elJoQQ?oc=5",
+      "source": "Stock Titan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1JmQUJra05PVmxLZGhZOHpWU2o2WFlxVjk1OFpkeHlNTW9KSGFjZkR3Y2F2VzQ3bDVSeFhLOVJnX3JEU0JTbHo5MGNLVmRQbkdudGEyVVNNRDl3cXh6ZjB2UTJVMzBzUkZEenJ2QzJxQjY3QXRFRHpTLURNWVJEd0NOaW9VSkdlbXlvV1NkQnNRcm1Pb0NiOGxabjlIR0JBQV8zOEpXMkRzUmxuVENpczJDSVRmbzdzTU5WQTM5elJoQQ?oc=5\" target=\"_blank\">James Hardie Industries plc (JHX) AGM Aug 20, 2026 \u2014 Board, CEO Pay, Auditor Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T20:10:32+00:00",
+      "fingerprint": "dd4f4955c0a7fefae4d576b48eb97275962929f0"
+    },
+    {
+      "title": "Why James Hardie\u2019s HardiePlank Siding keeps showing up on remodeler shortlists - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnlSelFZSDB3UzBqTzNJVGp2YzRhNE16Z0Q4X09UTUZkNUFyanVuUlo3NzNjUkljc0s3TEwtMHIzNWlNbW45VGlwX1pfTWEtMWlDS2lUNDJIWDR6eDdweTlsdU1abE5YVGlFS2g0NFpzSHItd1BDdUZfRUlTX2Jtb2t5WUJmb1JJaUdEQU5XQ0lPd3M1cjdHM3E5Q2Z3bjI0RzhsNFdlVWx6OW9iSHk3LU5tdEhnZnhURG9IcVhVdENaZWh5?oc=5",
+      "source": "AD HOC NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnlSelFZSDB3UzBqTzNJVGp2YzRhNE16Z0Q4X09UTUZkNUFyanVuUlo3NzNjUkljc0s3TEwtMHIzNWlNbW45VGlwX1pfTWEtMWlDS2lUNDJIWDR6eDdweTlsdU1abE5YVGlFS2g0NFpzSHItd1BDdUZfRUlTX2Jtb2t5WUJmb1JJaUdEQU5XQ0lPd3M1cjdHM3E5Q2Z3bjI0RzhsNFdlVWx6OW9iSHk3LU5tdEhnZnhURG9IcVhVdENaZWh5?oc=5\" target=\"_blank\">Why James Hardie\u2019s HardiePlank Siding keeps showing up on remodeler shortlists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T19:44:14+00:00",
+      "fingerprint": "6a3648b47315248109b9d69e15b14fb13dea34a3"
     },
     {
       "title": "Why Georg Fischer\u2019s LiquidCore quietly targets the heat problem in data centers - AD HOC NEWS",
@@ -398,66 +459,6 @@
       "fingerprint": "0530a92232ef2c4a07bfd18e9867446ca10272df"
     },
     {
-      "title": "[Form 4] James Hardie Industries plc Insider Trading Activity - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjNOdEdfRHg5MW9Sb09xelJCcjh0VXplMU1Ed1djdjlaLThTdHFfcEpCbWdYUzUxRW1UQTAyd0VodEFqUVFPTFIwTkdEYXc5bmFUc3pock90amZBMlFCQktXbHJBbEpIZk1SRlRFS09UYmxNUDc0S2pLdWZSejhZamVoQW9GakpzZE1CX2ppRjBkMXZTWGNIelU1dHluTnFYQ29DZ0tmTFN5OHFoN3dLMHhMbGVxVFJUSTBvZw?oc=5",
-      "source": "Stock Titan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjNOdEdfRHg5MW9Sb09xelJCcjh0VXplMU1Ed1djdjlaLThTdHFfcEpCbWdYUzUxRW1UQTAyd0VodEFqUVFPTFIwTkdEYXc5bmFUc3pock90amZBMlFCQktXbHJBbEpIZk1SRlRFS09UYmxNUDc0S2pLdWZSejhZamVoQW9GakpzZE1CX2ppRjBkMXZTWGNIelU1dHluTnFYQ29DZ0tmTFN5OHFoN3dLMHhMbGVxVFJUSTBvZw?oc=5\" target=\"_blank\">[Form 4] James Hardie Industries plc Insider Trading Activity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T21:58:02+00:00",
-      "fingerprint": "b660918835cfb6f49ee126e4b44a76738954a689"
-    },
-    {
-      "title": "James Hardie (NYSE: JHX) CFO exercises options and receives new equity awards - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0ROdW5qdjN4RVBvempWS0piTVl2UzBjaFVIdnVaLTJtbXZIZVlkdENpeTFFWXFJSUkwU0hSMk12U2tST1UtZ1Q0SVZFSkEweUR4ZGRlWjJUN2RyTkE4Y091SDJGTnNDai0tN01pdGVKckpjTWFQbDdPamJjUkotTWJtcGFYWUFXM2dLNlhNRlNzTmNZUUpINEJ2RTE1enlPMGg2SmxqbnMyb0ZLeDFBV0hGRmZuREFUR096Xw?oc=5",
-      "source": "Stock Titan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0ROdW5qdjN4RVBvempWS0piTVl2UzBjaFVIdnVaLTJtbXZIZVlkdENpeTFFWXFJSUkwU0hSMk12U2tST1UtZ1Q0SVZFSkEweUR4ZGRlWjJUN2RyTkE4Y091SDJGTnNDai0tN01pdGVKckpjTWFQbDdPamJjUkotTWJtcGFYWUFXM2dLNlhNRlNzTmNZUUpINEJ2RTE1enlPMGg2SmxqbnMyb0ZLeDFBV0hGRmZuREFUR096Xw?oc=5\" target=\"_blank\">James Hardie (NYSE: JHX) CFO exercises options and receives new equity awards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T21:57:46+00:00",
-      "fingerprint": "918f5b80901b948c5e4fb8026c1ae12673092d8e"
-    },
-    {
-      "title": "James Hardie (NYSE: JHX) COO awarded RSUs and stock options under FY27 plan - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTDJpdVp5dFp0UUlmVWVJd0Q0V1RISi03eHo1S21WamNQb1Mxa1p2dUpVY3U1aUVUTklnRXQ0Mmd6LXg0SlhlVzNHMnhDUF9Nekg5eXhwOFNVM0xLWFFxWFRhSnBzYkw1SzVZMF9FbVE2QTRVaktTNlhaZlpPOXN0YlNlS01UbS1yMzN3ekRTYjY3YXhxQ05RWEdidW05VnVJR0lBazRUSEJ3Q3E1Q2tDc1N3eEZPRzlwNEJkYQ?oc=5",
-      "source": "Stock Titan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNTDJpdVp5dFp0UUlmVWVJd0Q0V1RISi03eHo1S21WamNQb1Mxa1p2dUpVY3U1aUVUTklnRXQ0Mmd6LXg0SlhlVzNHMnhDUF9Nekg5eXhwOFNVM0xLWFFxWFRhSnBzYkw1SzVZMF9FbVE2QTRVaktTNlhaZlpPOXN0YlNlS01UbS1yMzN3ekRTYjY3YXhxQ05RWEdidW05VnVJR0lBazRUSEJ3Q3E1Q2tDc1N3eEZPRzlwNEJkYQ?oc=5\" target=\"_blank\">James Hardie (NYSE: JHX) COO awarded RSUs and stock options under FY27 plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T21:57:28+00:00",
-      "fingerprint": "785a9a23ce7e21578290a6e83aaf61a3cf72a35a"
-    },
-    {
-      "title": "James Hardie (JHX) NA president receives RSU and option awards in FY 2027 plan - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPREhXRlhyTzFLSkt5V2RqTmgwR1dMS2xhUEFlM3BIZFNrR29xck9ITllrdE55NFdNUWtNazgxckJUcUdLQ3hBVHJvczZjVlpCOW1JeTFEX1lrRE5yWFR3OU1lN09ZMF84TTdrd0VPOUpmTDZMZGQ5b0g2MTZPVUpiMG13US1OcFpFdDdncjFEcWRHdlpsOE9Ubl81OUpnclhOa0RRLUhxbTI0eU1zVnFjRGVMTENBQk05SnhNQw?oc=5",
-      "source": "Stock Titan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPREhXRlhyTzFLSkt5V2RqTmgwR1dMS2xhUEFlM3BIZFNrR29xck9ITllrdE55NFdNUWtNazgxckJUcUdLQ3hBVHJvczZjVlpCOW1JeTFEX1lrRE5yWFR3OU1lN09ZMF84TTdrd0VPOUpmTDZMZGQ5b0g2MTZPVUpiMG13US1OcFpFdDdncjFEcWRHdlpsOE9Ubl81OUpnclhOa0RRLUhxbTI0eU1zVnFjRGVMTENBQk05SnhNQw?oc=5\" target=\"_blank\">James Hardie (JHX) NA president receives RSU and option awards in FY 2027 plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T21:57:15+00:00",
-      "fingerprint": "82a55b2248821c9831348ffa3147950836ddc8bf"
-    },
-    {
       "title": "India-UK trade pact: 85% of India's exports out of British steel measures - Rediff",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQemt4eHBpVlZ6Z1dSSnBKa285cXpndl9RSFJfX2NFY0ZmelFNZjZfdUNNTk1MeHp4UUFUY1hhaVdIeVR2V3pLSGVsbjVZc3NzZy1nSlplVU90bXdUeE04QmljU0otdHlpbUFtbUl0Y2N2Q0V3QU5BMHBDUjN2Q2xSc3hwZ2w3OGtQMEo0ZnJSdkpfUHNwUmV0dkdMS3R3dG14U0M1QkhTS0lGb0t4UEJqTFlJdmxWelM5V2xJRlhJRjVyd1R3RW1KcExacFLSAc8BQVVfeXFMT1ptdEVlLUYxeWZIRUhqdDVNcVc1Y2xST1FwNzNqb1VfdmY3RE1FRGNIaEpEUkZTUUtXNUdaVk5rcXRhMy1udHo0OWlfcklmNXZmY2xyZjA3dkNOQS10X1lSNkFjeURSX3FqZ2JhSG1uellwV0tZZ1k5YjJnajB3VmltTktZVGw1R3BESzZEVXlod2RVUGQzY3VMSDFRNmFRTlJySlFoU1d2blZ5VWFtcmRNOHMzZTE4QVl3Rmx1alU5RjIzWjc4TEd4am9ubUU4?oc=5",
       "source": "Rediff",
@@ -486,36 +487,6 @@
       "likely_roles": "",
       "published": "2026-06-17T11:22:00+00:00",
       "fingerprint": "aaa228c47d5bf4c3a83ecb52a9fda2995a39e5d1"
-    },
-    {
-      "title": "European missile manufacturer MBDA to work with Luch Design Bureau on Neptune-2 - \u0413\u043e\u043b\u043e\u0432\u043d\u0435 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUc4Q1BiekJTVXlmT0FrMi1RcGlMbkxkcVFUcnVyS1NGWDVpZl9SOGZXS1dFaTJRTXdSREhGX3pXa3Y2TTJOUWpPaml3alczQ3M3NUh3ZXZINDNOSXV2dGJweWdQaVNna2drYmZONC12NmVWdU5WNmt0N3NvQzdYRWpvYzVGZVNhTm5fV3BkTEloSXU1ZVBIQjZJM2JrelRRdnc4aDhaN2lRUEVESDhZRXlR0gG3AUFVX3lxTE5hLWxVMU51bE5sYzQzTU5nLVo3c3BabGt0aFZSYUFwdE1jRzcwemRXR3hqTEtqODE0ZHdBcGNkUGR6UUZsSVZoT01RZmM4eEZ0OFlLRjdwVjBzT1ZwUUMydktGcWNCOHhhM05sYkFHNE9CVE5iMnB4SS1UMTQ2blFxYzZFM2hxME1UUzZEVXpTZVhRVGxNNEhFRmRhd0Nhc1lRaEVfLUxobm1EUU5FVENZcU54WmV4RQ?oc=5",
-      "source": "\u0413\u043e\u043b\u043e\u0432\u043d\u0435 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUc4Q1BiekJTVXlmT0FrMi1RcGlMbkxkcVFUcnVyS1NGWDVpZl9SOGZXS1dFaTJRTXdSREhGX3pXa3Y2TTJOUWpPaml3alczQ3M3NUh3ZXZINDNOSXV2dGJweWdQaVNna2drYmZONC12NmVWdU5WNmt0N3NvQzdYRWpvYzVGZVNhTm5fV3BkTEloSXU1ZVBIQjZJM2JrelRRdnc4aDhaN2lRUEVESDhZRXlR0gG3AUFVX3lxTE5hLWxVMU51bE5sYzQzTU5nLVo3c3BabGt0aFZSYUFwdE1jRzcwemRXR3hqTEtqODE0ZHdBcGNkUGR6UUZsSVZoT01RZmM4eEZ0OFlLRjdwVjBzT1ZwUUMydktGcWNCOHhhM05sYkFHNE9CVE5iMnB4SS1UMTQ2blFxYzZFM2hxME1UUzZEVXpTZVhRVGxNNEhFRmRhd0Nhc1lRaEVfLUxobm1EUU5FVENZcU54WmV4RQ?oc=5\" target=\"_blank\">European missile manufacturer MBDA to",
-      "feed_group": "company",
-      "feed_title": "Kitchens & Bathrooms: MKM Building Suppl \u2026 Q4 Bathrooms (10)",
-      "categories": [],
-      "company": "Neptune",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T08:51:00+00:00",
-      "fingerprint": "d91fd8e2d34d962a296b37f96766ac1bccb9f618"
-    },
-    {
-      "title": "The James Hardie Rule is what happens when trust breaks - AFR",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjJoU3BEd25KZnNYY2dLTFRtNjdtM18tLWM1ZGc1LWlxVGVoYUJOTjA2d1dlc3pSNVpmaXhDbUN2QjljaWY0WjQ3YU9RbUE1Y2FvNkJhR2lCUnNuVXM0dmtNaEJ6Wm9JTGd5MzVwUFdTWHJ1VUJWa2M0aVV6OUctNE9rNE5MQ1huSVNlSlJlRzNDdXRSR3ZiTzI2WE1wOUZXMEtycDhR?oc=5",
-      "source": "AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjJoU3BEd25KZnNYY2dLTFRtNjdtM18tLWM1ZGc1LWlxVGVoYUJOTjA2d1dlc3pSNVpmaXhDbUN2QjljaWY0WjQ3YU9RbUE1Y2FvNkJhR2lCUnNuVXM0dmtNaEJ6Wm9JTGd5MzVwUFdTWHJ1VUJWa2M0aVV6OUctNE9rNE5MQ1huSVNlSlJlRzNDdXRSR3ZiTzI2WE1wOUZXMEtycDhR?oc=5\" target=\"_blank\">The James Hardie Rule is what happens when trust breaks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFR</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T06:35:00+00:00",
-      "fingerprint": "16f6d58eab0fed1d2b805c46e1c41c038b2a53a7"
     },
     {
       "title": "Titus Welliver\u2019s Crime Thriller Is the Only True 'Bosch' Replacement - MovieWeb",
