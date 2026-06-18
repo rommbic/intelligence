@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T12:36:35.193584+00:00",
+  "generated_at": "2026-06-18T18:14:00.087334+00:00",
   "date": "2026-06-18",
-  "count": 32,
+  "count": 33,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,24 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "IT recycling hub opens in Wimborne Minster - Dorset View",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IbkhPOUliNkhaemZkUi1ueGtmS3lDRXlyalg5MHpiUTR3VjJ4dmhZTkpjcnl0ZVBzVG5IUnIzWlNxYlZBcGs1YmdmTk82VlVYMGFYbTZmVGlZOC1ONWpWVlhLeHVhZEFEdHlaYklXZnhvQXFhZjk4?oc=5",
+      "source": "Dorset View",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1IbkhPOUliNkhaemZkUi1ueGtmS3lDRXlyalg5MHpiUTR3VjJ4dmhZTkpjcnl0ZVBzVG5IUnIzWlNxYlZBcGs1YmdmTk82VlVYMGFYbTZmVGlZOC1ONWpWVlhLeHVhZEFEdHlaYklXZnhvQXFhZjk4?oc=5\" target=\"_blank\">IT recycling hub opens in Wimborne Minster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dorset View</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
+      "categories": [
+        "New facility / expansion",
+        "Acquisition / M&A"
+      ],
+      "company": "Minster",
+      "score": 10,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T13:29:43+00:00",
+      "fingerprint": "f84f7953e8e07c2d15f6dd366f02f35f4d5383ba"
+    },
     {
       "title": "BMW opens Neue Klasse reservations early; car business margin forecast unexpectedly cut in half - digitimes",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTODNfM1UwV0VEWkZZQ2s3eXFJT1FaUGdfb0NuekNlWnJWUEZ1eVJXVVFhMWF4YVRvZUl3dkZIVG1pOElxZ1RVajBoMzRZVk1vNE9IN1lJbVN0RTJCSEt5dk5iTTRET2tBdlJzbXBxS0d4RVlNZDBLQV9DX1IwRmc?oc=5",
@@ -65,40 +83,6 @@
       "fingerprint": "d18a71d18c117cdee531820d3e34987b144fa3a0"
     },
     {
-      "title": "Verona Area Community Theater's production of 'Annie' opens this weekend - WKOW",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSUY1bXloS0I2Q3lEaGJubGhXYnBCZ2pHMURtUV9xT0I1bVdjN1J3eHNqcHNkYU9uOVJvclJ4amQ4aG1tOGVMcjZIUXhtWXc2bHhYSWpqMmF1TklvOEZSS0htVDd0TTVJVmp6bEU2bF9CMFByWDZPcXY4OHBTY3BPWlhicnNXaTB1cUFxaVF6YzlRUDFBLUlHTVVndUdBcnRXUjhNZmpvUU9lSUpjODRXQzh4enl4aUFSNzRfT3ppMHpOaVVGd1FQM0lLOFRKT3hyQzhuNFh1eHFVbE10?oc=5",
-      "source": "WKOW",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSUY1bXloS0I2Q3lEaGJubGhXYnBCZ2pHMURtUV9xT0I1bVdjN1J3eHNqcHNkYU9uOVJvclJ4amQ4aG1tOGVMcjZIUXhtWXc2bHhYSWpqMmF1TklvOEZSS0htVDd0TTVJVmp6bEU2bF9CMFByWDZPcXY4OHBTY3BPWlhicnNXaTB1cUFxaVF6YzlRUDFBLUlHTVVndUdBcnRXUjhNZmpvUU9lSUpjODRXQzh4enl4aUFSNzRfT3ppMHpOaVVGd1FQM0lLOFRKT3hyQzhuNFh1eHFVbE10?oc=5\" target=\"_blank\">Verona Area Community Theater's production of 'Annie' opens this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKOW</font>",
-      "feed_group": "company",
-      "feed_title": "Flooring & Tiles: Unilin \u2026 Zimmer + Rohde (10)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Verona",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T15:08:00+00:00",
-      "fingerprint": "5326b4bb12b0b93e71737ee717fc75e3b7da907e"
-    },
-    {
-      "title": "The Newry export-focused manufacturer is creating 30 new jobs as it scales production following a surge in international demand - Belfast News Letter",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaXN4OUp5TnRFaVVUdExJNkIwajhhVXpad2xjUHVsQzlOMnZqSWFvNWlPQ1NsOHpaX0dQN3Y2czFZZno0cmxfTVZnWGtmM3Y0eEh4eExISW9fa19vQWNRdTJwRk1pV3JLS1FSU3NndlZieTZSblRRYUJzeV9pWFBkYTkzOEhjVGhKNXljRzEtNWtreG1ETjFpSE14WGxaR2F1VkNvM1BPSWZpZ0FkUHZHN3JoajJ3Zk90OHVUek1uU0RHdnZqb25Sb2tRUlp5M0R1QXV1eUdlYWk2WEdtdmtiSENVRHNBcW9aalcwUTBiMHBkWHB6M2NPY0Q1VWRlbDhXdUdhVlhkOHhMQXhGQVRoeVlsREYzTDdLUzVvbFJEbW92WGtYb3BwSlVXRGV1ZnEzU1E?oc=5",
-      "source": "Belfast News Letter",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxPaXN4OUp5TnRFaVVUdExJNkIwajhhVXpad2xjUHVsQzlOMnZqSWFvNWlPQ1NsOHpaX0dQN3Y2czFZZno0cmxfTVZnWGtmM3Y0eEh4eExISW9fa19vQWNRdTJwRk1pV3JLS1FSU3NndlZieTZSblRRYUJzeV9pWFBkYTkzOEhjVGhKNXljRzEtNWtreG1ETjFpSE14WGxaR2F1VkNvM1BPSWZpZ0FkUHZHN3JoajJ3Zk90OHVUek1uU0RHdnZqb25Sb2tRUlp5M0R1QXV1eUdlYWk2WEdtdmtiSENVRHNBcW9aalcwUTBiMHBkWHB6M2NPY0Q1VWRlbDhXdUdhVlhkOHhMQXhGQVRoeVlsREYzTDdLUzVvbFJEbW92WGtYb3BwSlVXRGV1ZnEzU1E?oc=5\" target=\"_blank\">The Newry export-focused manufacturer is creating 30 new jobs as it scales production following a surge in internati",
-      "feed_group": "signal",
-      "feed_title": "Manufacturing capacity",
-      "categories": [
-        "Hiring / job creation"
-      ],
-      "company": "",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T13:54:00+00:00",
-      "fingerprint": "773977913d8ed023029d2df2d69dcc5d964ca4ba"
-    },
-    {
       "title": "Philips Hue expands its Play lamp collection \u2013 but its new smart switches are what you\u2019ll be most excited about - t3.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0xXTE80X215R3pCVjBINGQyWlNybjZUQ2Y1ejFoMkM5Y0lDZ1pZeVA4ZEhzcFdESlpIeDJPQmRCRHRVam5STVByamRPV0ZOTVhEWm5YclpfN1FwVlYwMTVva2RGaHpJX1FMTFBfZ0Ftc1Nub1BxR1prQ1JmdG1vbHNVcS03aUxNaGFjUWtiNEpLY01KNXBKNDVvRGZYMGdMT3JKcEJlbGhOdlluU3NJSFVaVHVKaEpMdGp1LTc4aFB5eFJjRmVzQlllTHNkVER1ZUxpWHROR3RuU054SjdRbmhpcUc?oc=5",
       "source": "t3.com",
@@ -134,10 +118,27 @@
       "fingerprint": "3379817016d176fe4f022405dbd428dad181400a"
     },
     {
-      "title": "PPDS unveils \u2018thinnest and lightest\u2019 digital signage display to date - UltraSlim Philips Signage 7000 Series - Emerce",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQclcxSDgyV0tlS2ItX3M0YnpJejZSOWZzeTU1aVdoeW9xSEtPUnpnWV9iOEpmaDZ6Z1JPWW9JM1Q4UnRQU0JZSjJSdDhDdWYxSWFGQlFOV3VyMVVpbGxvUDhzM1MzajQyQ0RkcUc1UzFhV1piS19mMER3NFQxRGpzN3FRZkFFbWJYVDhCXzNiVlJENEYwTEh4SnZYaFRxa0s1MWYwdnNBV09CQjBOVTRURk85aFBZZ3FtU2VnN0ticm9kaDVFekhxVDFJaw?oc=5",
-      "source": "Emerce",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQclcxSDgyV0tlS2ItX3M0YnpJejZSOWZzeTU1aVdoeW9xSEtPUnpnWV9iOEpmaDZ6Z1JPWW9JM1Q4UnRQU0JZSjJSdDhDdWYxSWFGQlFOV3VyMVVpbGxvUDhzM1MzajQyQ0RkcUc1UzFhV1piS19mMER3NFQxRGpzN3FRZkFFbWJYVDhCXzNiVlJENEYwTEh4SnZYaFRxa0s1MWYwdnNBV09CQjBOVTRURk85aFBZZ3FtU2VnN0ticm9kaDVFekhxVDFJaw?oc=5\" target=\"_blank\">PPDS unveils \u2018thinnest and lightest\u2019 digital signage display to date - UltraSlim Philips Signage 7000 Series</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Emerce</font>",
+      "title": "BMW unveils its first fully electric performance sedan at Le Mans the M Concept Neue Klasse - supercarblondie.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hRW8xMGpiTl85QXNsSUdhTVBoejQ2eEwzYWtSODl3Y3FYX3lfXzJRMmFqd2NjNmxKN2pmZ0dFY1dsZDVpZ2VKbHF1ZFZPTTkzSWVGTlJyQmQ1anU5SG9oSWhZM1VfazFHQnFGcW4wS1BnaGYyU0hDWnBvaw?oc=5",
+      "source": "supercarblondie.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5hRW8xMGpiTl85QXNsSUdhTVBoejQ2eEwzYWtSODl3Y3FYX3lfXzJRMmFqd2NjNmxKN2pmZ0dFY1dsZDVpZ2VKbHF1ZFZPTTkzSWVGTlJyQmQ1anU5SG9oSWhZM1VfazFHQnFGcW4wS1BnaGYyU0hDWnBvaw?oc=5\" target=\"_blank\">BMW unveils its first fully electric performance sedan at Le Mans the M Concept Neue Klasse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">supercarblondie.com</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Klasse",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T14:03:00+00:00",
+      "fingerprint": "cfeea38d906936a07ec8357cc03cbc29c1b993ce"
+    },
+    {
+      "title": "PPDS launches UltraSlim Philips Signage 7000 Series at InfoComm 2026 - Inavate Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0ZteFlhSGtYTkhmX04tMGtVREdoclZmalJmYUtUSTBKX0gtX0Y3bTEtYS1ya3kzdGZ1YjRYM3prQmJYZE11MHlpbzRONmN5OFFnTXpGdmE3WFdqRU92dEVwSGw0YzI2OXFJNkdCX2diM3pkTmJpN2tfQnFCRFRBWmJSVzN0X2ZBZ2hnTWV0YWxQTEp4NDBGa3Btc1BIWWxVNlYzRl9EdExJVDBsU09SNi0tYm5Xejhs?oc=5",
+      "source": "Inavate Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0ZteFlhSGtYTkhmX04tMGtVREdoclZmalJmYUtUSTBKX0gtX0Y3bTEtYS1ya3kzdGZ1YjRYM3prQmJYZE11MHlpbzRONmN5OFFnTXpGdmE3WFdqRU92dEVwSGw0YzI2OXFJNkdCX2diM3pkTmJpN2tfQnFCRFRBWmJSVzN0X2ZBZ2hnTWV0YWxQTEp4NDBGa3Btc1BIWWxVNlYzRl9EdExJVDBsU09SNi0tYm5Xejhs?oc=5\" target=\"_blank\">PPDS launches UltraSlim Philips Signage 7000 Series at InfoComm 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inavate Magazine</font>",
       "feed_group": "company",
       "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
       "categories": [
@@ -147,8 +148,8 @@
       "score": 6,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-18T10:48:57+00:00",
-      "fingerprint": "c8db6108d82c843942d88735fdd41b9bd1f5ac56"
+      "published": "2026-06-18T13:31:03+00:00",
+      "fingerprint": "f6a6646f920713e584de39ca49f95037f35e410f"
     },
     {
       "title": "Frontline Bathrooms Launches New Price Crash Brochure - Insight DIY",
@@ -168,23 +169,6 @@
       "fingerprint": "1e9714cdd3defa0dbc4839005a664216dde30ba6"
     },
     {
-      "title": "BMW Launches First Neue Klasse iX3 Electric SUV in South Korea - chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXgzQjV5VHRNMkE0NDlNQllCSkdpZk5sQlZ3UldOMndwSHBpVGdzako5alJtWE1wTWx0UTV2Z3I2c1ZHa285N0x4MWdGMHZzV21yNzRsUUpoVE9wa1B3d1JuNW5Ob1NZSlJ0T0pUQTM1V2dyNV9Xa2JHSkRDOVlkVFBVMDZQNmhT?oc=5",
-      "source": "chosun.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXgzQjV5VHRNMkE0NDlNQllCSkdpZk5sQlZ3UldOMndwSHBpVGdzako5alJtWE1wTWx0UTV2Z3I2c1ZHa285N0x4MWdGMHZzV21yNzRsUUpoVE9wa1B3d1JuNW5Ob1NZSlJ0T0pUQTM1V2dyNV9Xa2JHSkRDOVlkVFBVMDZQNmhT?oc=5\" target=\"_blank\">BMW Launches First Neue Klasse iX3 Electric SUV in South Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chosun.com</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "Klasse",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T07:54:48+00:00",
-      "fingerprint": "bf745c14b73c22272590bcebecd38726e827e028"
-    },
-    {
       "title": "BMW M unveils radical Concept Neue Klasse - Wanted Online",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWhta1JqMmxhSExsM19lYmZqS3ppUE9QS2RjLVJlTlFXekg5eF9mWHFRZ2VHLWNxVUUwcTBXb0hGY0ppNUxOYldXUUdBMm11dHg2WFEzVHkxWk5BVHpnNDRqSEVaQkE0VmFNQXhKVWJzNzZNdjlocXJKZkRmSVdCaGVlREZoMFo4VFRENjZ4bjZjZjluSEJLSQ?oc=5",
       "source": "Wanted Online",
@@ -202,21 +186,81 @@
       "fingerprint": "295b8a9b5ad90812cb18f57ea39d75b3883e4136"
     },
     {
-      "title": "Philips Introduces IntelliVue Patient Monitor 6000 Series - Medical Product Outsourcing",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0xxclJDLWxFd3ZUYUFSYl9KRGtUT3QySXhfMlpOUHdCeUs4V0VrR0N5WU5iMTA4RDlHZk9TRWFvMENPN3N0czZBWlY1VzhKU0ZBd2drdzRPTWtxRThqRFA1ZmVzYW1ZQVFKLXpnSWFGdjBRTVpYYXdadGhIZU9HTjdzSWhaMVFMRWpQVEE2eVNIVzRGbl9mblJPRzU?oc=5",
-      "source": "Medical Product Outsourcing",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0xxclJDLWxFd3ZUYUFSYl9KRGtUT3QySXhfMlpOUHdCeUs4V0VrR0N5WU5iMTA4RDlHZk9TRWFvMENPN3N0czZBWlY1VzhKU0ZBd2drdzRPTWtxRThqRFA1ZmVzYW1ZQVFKLXpnSWFGdjBRTVpYYXdadGhIZU9HTjdzSWhaMVFMRWpQVEE2eVNIVzRGbl9mblJPRzU?oc=5\" target=\"_blank\">Philips Introduces IntelliVue Patient Monitor 6000 Series</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical Product Outsourcing</font>",
+      "title": "Why Georg Fischer\u2019s LiquidCore quietly targets the heat problem in data centers - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVYtamN1cDFMNjJ1ZzZ0SUpUMEN0b3JIVnItX3RHdFcwR01EYUxtTVh4bHVoMExJRXhkVDVOY0htOFQxSnk4ZEdzbHRJUzRuNVRiY01BaTZWeWxycVJ0MzByMTJPOVJPYTNsZ01jUGZwUGdMVzBiTFNWdEUxb3RvdXJ5TXRqSDF0Y0s3WHFsY1V6ZUQ0YzZQTzlKZ0J5ZzVPazFmanJZVDlyWGZFNFZhLWJCbEhpR05UTEYzUlo5Z1drRzU2bXFvb29B?oc=5",
+      "source": "AD HOC NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVYtamN1cDFMNjJ1ZzZ0SUpUMEN0b3JIVnItX3RHdFcwR01EYUxtTVh4bHVoMExJRXhkVDVOY0htOFQxSnk4ZEdzbHRJUzRuNVRiY01BaTZWeWxycVJ0MzByMTJPOVJPYTNsZ01jUGZwUGdMVzBiTFNWdEUxb3RvdXJ5TXRqSDF0Y0s3WHFsY1V6ZUQ0YzZQTzlKZ0J5ZzVPazFmanJZVDlyWGZFNFZhLWJCbEhpR05UTEYzUlo5Z1drRzU2bXFvb29B?oc=5\" target=\"_blank\">Why Georg Fischer\u2019s LiquidCore quietly targets the heat problem in data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+      "feed_group": "company",
+      "feed_title": "HVAC & Building Services: Frese \u2026 Heat Exchange Grou (11)",
+      "categories": [],
+      "company": "Georg Fischer",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T16:33:52+00:00",
+      "fingerprint": "564ac89e59eb26a055c0be0cacaf09db2ce95f26"
+    },
+    {
+      "title": "Northern Lights Forecast: Aurora Borealis Could Be Visible From 8 States - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1M1S3R1Y2hsT0I3bGtzWHJxRWtHaHVWMDZsYzA4Q3NvX2tLOWlVaG9BN2tER0pnRUozb1VjQ0ZzWU56Y2UyM0ZZRHhTZUdzLWVWTWRFb2lUN2dTQTRmb2VRMTh2RlVrd3BsVnJuLS16Q2x2SFY2elNxR2FPb2JaNGd2XzAzMUNT?oc=5",
+      "source": "Yahoo News UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1M1S3R1Y2hsT0I3bGtzWHJxRWtHaHVWMDZsYzA4Q3NvX2tLOWlVaG9BN2tER0pnRUozb1VjQ0ZzWU56Y2UyM0ZZRHhTZUdzLWVWTWRFb2lUN2dTQTRmb2VRMTh2RlVrd3BsVnJuLS16Q2x2SFY2elNxR2FPb2JaNGd2XzAzMUNT?oc=5\" target=\"_blank\">Northern Lights Forecast: Aurora Borealis Could Be Visible From 8 States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
       "feed_group": "company",
       "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T16:09:26+00:00",
+      "fingerprint": "146814d22fd55b2dbbafccd86e9db2b6334025a3"
+    },
+    {
+      "title": "UK Government \u2018strongly minded\u2019 to nationalise British Steel - British Steel",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdTcxMy1LaTk1RVN2S3paVWREMlJSWHJQd1RFekVJTjlkUEU0QUJjY3lDYlJ0Q2RMVTJtSFF1WWc2OHFYNVEwVUJlU1k0LVJsdFRzMnI5RGlMTnlxcnRuUVhBd0pBQldSUDRxOWpKbzhqeFVVNTJROEtwMi1HRlhFTTh4Mkl3ZEtzRXVJQmZSbkNYYlNZ?oc=5",
+      "source": "British Steel",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdTcxMy1LaTk1RVN2S3paVWREMlJSWHJQd1RFekVJTjlkUEU0QUJjY3lDYlJ0Q2RMVTJtSFF1WWc2OHFYNVEwVUJlU1k0LVJsdFRzMnI5RGlMTnlxcnRuUVhBd0pBQldSUDRxOWpKbzhqeFVVNTJROEtwMi1HRlhFTTh4Mkl3ZEtzRXVJQmZSbkNYYlNZ?oc=5\" target=\"_blank\">UK Government \u2018strongly minded\u2019 to nationalise British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">British Steel</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "British Steel",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T14:16:41+00:00",
+      "fingerprint": "22ba15accb518fdd96aa7e3fd847f66abfa933e6"
+    },
+    {
+      "title": "NFRC Launches New Campaign, Don\u2019t Fall for Fragile - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEpSNElGYU9LejZZUkMtR3NKd2l1bzN2WnI3SkJhekpMNW9fcDlRVUVHUVViSEh2WUtqM2tJTi1qdVJBRFRGam4wQVRrM2VtUVI2eUVwc0Z0ZEFPXzNUSVc3Y3NiTXkzVDkxN0k1V1RxLTdhZ0RBRjhzTU9sa29nUFF3?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEpSNElGYU9LejZZUkMtR3NKd2l1bzN2WnI3SkJhekpMNW9fcDlRVUVHUVViSEh2WUtqM2tJTi1qdVJBRFRGam4wQVRrM2VtUVI2eUVwc0Z0ZEFPXzNUSVc3Y3NiTXkzVDkxN0k1V1RxLTdhZ0RBRjhzTU9sa29nUFF3?oc=5\" target=\"_blank\">NFRC Launches New Campaign, Don\u2019t Fall for Fragile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "signal",
+      "feed_title": "New product launches",
       "categories": [
         "New product launch"
       ],
-      "company": "Philips",
-      "score": 6,
+      "company": "",
+      "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-17T14:10:19+00:00",
-      "fingerprint": "cf7d943063b5c9b2bc77f2b77d9c3b55d3a27982"
+      "published": "2026-06-18T13:54:57+00:00",
+      "fingerprint": "0f051a53abeb06d61ea816cb34296a8a4fb1c3ab"
+    },
+    {
+      "title": "Farrow & Ball's new 'it' paint colour for the kitchen \u2013 forget sulking room pink, this is the pink to be in the know about - Ideal Home",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmlZMlY3eF9yS2h4Qy1kT3Y4WjR4dmhsZGduS2lXcTdTS1pzWXVFLU1FVE9kN3d4UlROdmVEaWNiV2ZFRUZkUGppMllyYmIySDl1am9DZ1F3cjRtOGpiZXNBNmgyWTkyM1o4cGV0TTVvSlM3bS1LSEl1eWpPb1FjbkZmbw?oc=5",
+      "source": "Ideal Home",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmlZMlY3eF9yS2h4Qy1kT3Y4WjR4dmhsZGduS2lXcTdTS1pzWXVFLU1FVE9kN3d4UlROdmVEaWNiV2ZFRUZkUGppMllyYmIySDl1am9DZ1F3cjRtOGpiZXNBNmgyWTkyM1o4cGV0TTVvSlM3bS1LSEl1eWpPb1FjbkZmbw?oc=5\" target=\"_blank\">Farrow & Ball's new 'it' paint colour for the kitchen \u2013 forget sulking room pink, this is the pink to be in the know about</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ideal Home</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Curtis Furniture \u2026 Frazer Simpson (11)",
+      "categories": [],
+      "company": "Farrow & Ball",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T13:15:00+00:00",
+      "fingerprint": "a2d317714a5edfd2fcac2e1e8ed11c9ad86f5949"
     },
     {
       "title": "Five new easyJet routes from Newcastle Airport including prime Northern Lights spot - Chronicle Live",
@@ -234,6 +278,21 @@
       "fingerprint": "7e517345050a1890d1d1973a9cab155d2e1a1cba"
     },
     {
+      "title": "Northern Lights Announces Start of Summer Exploration Campaign at the Pup Copper Project - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMUh5R2ZQQ1ZOQ2Q2c0l2SGRyX0dKYThoc2NyVzNtc21LX28zR2lpQngxSXZzNDRHYmxwQVlmVk5oNmV1dGdrOF9uX00tS1NSWWFQMkFKUVNOa0N1aDYzNkFXRVU5QU5zRnJqbzlEeDFKMVlyX2hkZUtuYzNIWUhvUWJSWXhVYXFMS3pTZVpMQXhRVklja3l0WERkVEtfZ0JXUWRKTWtrOUQ0c1B3cXFnVEUzOW9ha19xcklUWUdEaHhqRXcwSlpIeFBCakpOOVdhaVMwOXhiRVlDRzJyQVFGSkMyVURpZWFyN0NfM1Iyc2hfLXI4c3ZV?oc=5",
+      "source": "TradingView",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMUh5R2ZQQ1ZOQ2Q2c0l2SGRyX0dKYThoc2NyVzNtc21LX28zR2lpQngxSXZzNDRHYmxwQVlmVk5oNmV1dGdrOF9uX00tS1NSWWFQMkFKUVNOa0N1aDYzNkFXRVU5QU5zRnJqbzlEeDFKMVlyX2hkZUtuYzNIWUhvUWJSWXhVYXFMS3pTZVpMQXhRVklja3l0WERkVEtfZ0JXUWRKTWtrOUQ0c1B3cXFnVEUzOW9ha19xcklUWUdEaHhqRXcwSlpIeFBCakpOOVdhaVMwOXhiRVlDRzJyQVFGSkMyVURpZWFyN0NfM1Iyc2hfLXI4c3ZV?oc=5\" target=\"_blank\">Northern Lights Announces Start of Summer Exploration Campaign at the Pup Copper Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T11:30:20+00:00",
+      "fingerprint": "68e90de3d2ffb17faf7a477502889258ff61e5ea"
+    },
+    {
       "title": "Burckhardt Compression To Supply LCO2 Carrier For Northern Lights CCS Project - Carbon Herald",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXRuV3Y1ZUJXM1JLR08zV2lwaVlCNFRfNVBwSlZhd1NHNVRRVHloVUtESkpGa1d4bnRGVEoxQXpDX2JJNFFVZ2Qxc1lVVUYxSnZHNFNoc3dHUlctNGNNc0hpcVN4TkZNV2o1TjNOVWhPdFMxa2ZVSDhfRld4dUxraU1YMGoxb1E4Nmk3RXMxVkFIWmhielVXbHpNdDNKamxXeEVuZTR3?oc=5",
       "source": "Carbon Herald",
@@ -245,7 +304,7 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-18T10:37:10+00:00",
+      "published": "2026-06-18T11:11:41+00:00",
       "fingerprint": "6b5ea08ebfec9a1a44c80afed2f85b238da32d59"
     },
     {
@@ -279,21 +338,6 @@
       "fingerprint": "218a0e2f3ca95d52f62513141a8d8bee093c4232"
     },
     {
-      "title": "Government \u2018Strongly Minded\u2019 to Fully Nationalise British Steel - Guido Fawkes",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUxsa3B0aHJiSUdZc2dCZ0FBWVMyU1lOZUMzMmNLM0tnX0x6eUp6ZExBbkVlTjhKYmRsbDdfUlVKdlpBc201anJ0VEpnbDJaZUpJZ3dGTDM0b0RKRzBlOTlBRW9nSjBETVZFdVZmU3JuYlpwVjVwanRuX05VNzVZTzdZZlk4eWFzVmtocjluS1ItMWhJSGdGOTRYemY5UQ?oc=5",
-      "source": "Guido Fawkes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcUxsa3B0aHJiSUdZc2dCZ0FBWVMyU1lOZUMzMmNLM0tnX0x6eUp6ZExBbkVlTjhKYmRsbDdfUlVKdlpBc201anJ0VEpnbDJaZUpJZ3dGTDM0b0RKRzBlOTlBRW9nSjBETVZFdVZmU3JuYlpwVjVwanRuX05VNzVZTzdZZlk4eWFzVmtocjluS1ItMWhJSGdGOTRYemY5UQ?oc=5\" target=\"_blank\">Government \u2018Strongly Minded\u2019 to Fully Nationalise British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Guido Fawkes</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [],
-      "company": "British Steel",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T09:51:00+00:00",
-      "fingerprint": "e99fdfa4af68dff4a4c2d7628ecb61ba3d5ab2bb"
-    },
-    {
       "title": "Britain 'strongly minded' to nationalise British Steel says government - Yahoo Finance UK",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTY1eHdmOG1qRWlEaFE3U0hvcHNDM0xsWDN0SEV0elFRTm11ZEVseFUxajlmN21VUm53U1M3V3A5bWZxa0d1cmZfbXhiRW5xRWFjNWE1TWJDOW5GdVZIdHRVWENINzQtd1JfdVo0NG5HOE02WVl0TjhuYVRlcVl4S3dhMHRQQTI1M0k5YWZnSVhVdWhHN0l3?oc=5",
       "source": "Yahoo Finance UK",
@@ -309,19 +353,19 @@
       "fingerprint": "20e6783c0345f0f83d0270d063f471685cf9f87b"
     },
     {
-      "title": "Burckhardt Compression secures milestone order for first industrial scale Liquefied CO\u2082 carrier supporting Northern Lights CCS project - Mynewsdesk",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNb1d0M18yRmhMVDRwbzBUSUtScXhja2Jhc0d4ZkVHWHVESGZsSDdVVFRNdzNrSjJXWFoybFM0STRDLURjQU1FMVBnMXZTMmJoUkVhbzJGUWo4SnFtY1dpeTlkYTVVb1ppYWt2cEE1YW8xVDYtWlpIMWpOZnNZSkdHOW5kc1BvWC1Rd1dXWlRlNG9XSEFsbEFCb2NoVGJJb0d0bUYtQ0lIbVZ2X2s4Z1RaRFZmb2lyelV6RlU5elhtT0QwN3BHQWg2YnFFX2dwVzQxWjFZcVZOZGRLMV9tNzRyeEJycEQza2FRVExQb2VYVE5LbmRuSVA4b0p0ZTNCS2tVX3ZzMDdJbnJOQ0FCM0hmMkM3eGVJc1ZDaUpuU1dZZTdHQ1Bjcy1zcy1xWV9PbzJwamhRVmNFOUJNUTJaT0lhckNsREw4dUpmMXRjamlRNS1oX3NpeTduTVB3S0xKMG1SbGl0QlZZR0hvZEJwN3g3VzNDbTAzRDV3Nm9uNU5DZVcxTWNFTlVUTG5mTmVxcTRo?oc=5",
-      "source": "Mynewsdesk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikANBVV95cUxNb1d0M18yRmhMVDRwbzBUSUtScXhja2Jhc0d4ZkVHWHVESGZsSDdVVFRNdzNrSjJXWFoybFM0STRDLURjQU1FMVBnMXZTMmJoUkVhbzJGUWo4SnFtY1dpeTlkYTVVb1ppYWt2cEE1YW8xVDYtWlpIMWpOZnNZSkdHOW5kc1BvWC1Rd1dXWlRlNG9XSEFsbEFCb2NoVGJJb0d0bUYtQ0lIbVZ2X2s4Z1RaRFZmb2lyelV6RlU5elhtT0QwN3BHQWg2YnFFX2dwVzQxWjFZcVZOZGRLMV9tNzRyeEJycEQza2FRVExQb2VYVE5LbmRuSVA4b0p0ZTNCS2tVX3ZzMDdJbnJOQ0FCM0hmMkM3eGVJc1ZDaUpuU1dZZTdHQ1Bjcy1zcy1xWV9PbzJwamhRVmNFOUJNUTJaT0lhckNsREw4dUpmMXRjamlRNS1oX3NpeTduTVB3S0xKMG1SbGl0QlZZR0hvZEJwN3g3VzNDbTAzRDV3Nm9uNU5DZVcxTWNFTlVUTG5mTmVxcTRo?oc=5\" target=",
+      "title": "UK GOVERMENT STRONGLY MINDED TO BRING BRITISH STEEL INTO PUBLIC OWNERSHIP - STATEMENT - news.cgtn.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54cTJQU0s0MEFxMENJR0Z0Z1Q3Vndlc3g5Sm9UUVNNTktGTXduN0R3TzBRNEI2WnZzRTlndW96TXZOZW5nY1hCYy1HRHd4MzZFTm1ZX1Vsem1acndTaF9kVDN6ZGxWVVlBLS1iVEJ3?oc=5",
+      "source": "news.cgtn.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE54cTJQU0s0MEFxMENJR0Z0Z1Q3Vndlc3g5Sm9UUVNNTktGTXduN0R3TzBRNEI2WnZzRTlndW96TXZOZW5nY1hCYy1HRHd4MzZFTm1ZX1Vsem1acndTaF9kVDN6ZGxWVVlBLS1iVEJ3?oc=5\" target=\"_blank\">UK GOVERMENT STRONGLY MINDED TO BRING BRITISH STEEL INTO PUBLIC OWNERSHIP - STATEMENT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cgtn.com</font>",
       "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
       "categories": [],
-      "company": "Northern Lights",
+      "company": "British Steel",
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-18T08:40:59+00:00",
-      "fingerprint": "44e0e074a9b496925592ec0dfad308730c088961"
+      "published": "2026-06-18T08:57:22+00:00",
+      "fingerprint": "3f650cdf99e14c7ee87fbdb529dc6cba35447bd8"
     },
     {
       "title": "Warsaw to Troms\u00f8 Arctic Travel Explosion as LOT Unlocks Epic Northern Lights Adventure Flights for Ultimate Winter Travel Experience - Travel And Tour World",
@@ -337,6 +381,21 @@
       "likely_roles": "",
       "published": "2026-06-18T08:27:58+00:00",
       "fingerprint": "409c7fb3745792bb0e1861c2d0c61c3e60d46a07"
+    },
+    {
+      "title": "'Landmark year' \u2013 overseas capital drives record UK healthcare transactions - Healthcare Management Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTB4aDZ5WjJvdHFkSnd0MDFWcW1xNmdLWFZOSkdfYkpZb21uajBDckRUYWdfbFhLU3JSMC0yMGYxN1IySkI2NXh5TGhReFhEdUxtTFU5YVFxb21HUE1YdWR5MGhUTWl3NnBSZE1Kd1g4QkNISHZNcXpXdHBycG1FYXVEN252aElqWm1YeElGbmRHV1JoZTRDbGowYjlmWlFZdHlNTmlB?oc=5",
+      "source": "Healthcare Management Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTB4aDZ5WjJvdHFkSnd0MDFWcW1xNmdLWFZOSkdfYkpZb21uajBDckRUYWdfbFhLU3JSMC0yMGYxN1IySkI2NXh5TGhReFhEdUxtTFU5YVFxb21HUE1YdWR5MGhUTWl3NnBSZE1Kd1g4QkNISHZNcXpXdHBycG1FYXVEN252aElqWm1YeElGbmRHV1JoZTRDbGowYjlmWlFZdHlNTmlB?oc=5\" target=\"_blank\">'Landmark year' \u2013 overseas capital drives record UK healthcare transactions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare Management Magazine</font>",
+      "feed_group": "company",
+      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
+      "categories": [],
+      "company": "Record UK",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-18T07:38:28+00:00",
+      "fingerprint": "0530a92232ef2c4a07bfd18e9867446ca10272df"
     },
     {
       "title": "[Form 4] James Hardie Industries plc Insider Trading Activity - Stock Titan",
@@ -399,21 +458,6 @@
       "fingerprint": "82a55b2248821c9831348ffa3147950836ddc8bf"
     },
     {
-      "title": "Director of James Hardie (NYSE: JHX) receives 1,070-share award - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1lMdndIUzFCeW9GQkJLTUNNYjJHMnFxUm1NVHJuWDNXS21Uekc0QWIxTXE2d096Zk8wUDVDRUNJeGozbllrbjJHQTJFdjh1UGhLVkV5TWlNSGFoOWZXSmZIU2dVMEQ1RnhFU2Q3OWdlMWhMWUVDb3dMdGhwTUFMZUdycTBQTEFJa042anNPVFgwdjB5NkcwNjVHQkg5NFFvWmpadEJtd3RKQk15YVRWUE5ZOE1pYXRVY2hmVw?oc=5",
-      "source": "Stock Titan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1lMdndIUzFCeW9GQkJLTUNNYjJHMnFxUm1NVHJuWDNXS21Uekc0QWIxTXE2d096Zk8wUDVDRUNJeGozbllrbjJHQTJFdjh1UGhLVkV5TWlNSGFoOWZXSmZIU2dVMEQ1RnhFU2Q3OWdlMWhMWUVDb3dMdGhwTUFMZUdycTBQTEFJa042anNPVFgwdjB5NkcwNjVHQkg5NFFvWmpadEJtd3RKQk15YVRWUE5ZOE1pYXRVY2hmVw?oc=5\" target=\"_blank\">Director of James Hardie (NYSE: JHX) receives 1,070-share award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T20:45:58+00:00",
-      "fingerprint": "0f2c8d9d4e444c8698ee69aaeb79a70906af7dd9"
-    },
-    {
       "title": "India-UK trade pact: 85% of India's exports out of British steel measures - Rediff",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQemt4eHBpVlZ6Z1dSSnBKa285cXpndl9RSFJfX2NFY0ZmelFNZjZfdUNNTk1MeHp4UUFUY1hhaVdIeVR2V3pLSGVsbjVZc3NzZy1nSlplVU90bXdUeE04QmljU0otdHlpbUFtbUl0Y2N2Q0V3QU5BMHBDUjN2Q2xSc3hwZ2w3OGtQMEo0ZnJSdkpfUHNwUmV0dkdMS3R3dG14U0M1QkhTS0lGb0t4UEJqTFlJdmxWelM5V2xJRlhJRjVyd1R3RW1KcExacFLSAc8BQVVfeXFMT1ptdEVlLUYxeWZIRUhqdDVNcVc1Y2xST1FwNzNqb1VfdmY3RE1FRGNIaEpEUkZTUUtXNUdaVk5rcXRhMy1udHo0OWlfcklmNXZmY2xyZjA3dkNOQS10X1lSNkFjeURSX3FqZ2JhSG1uellwV0tZZ1k5YjJnajB3VmltTktZVGw1R3BESzZEVXlod2RVUGQzY3VMSDFRNmFRTlJySlFoU1d2blZ5VWFtcmRNOHMzZTE4QVl3Rmx1alU5RjIzWjc4TEd4am9ubUU4?oc=5",
       "source": "Rediff",
@@ -472,36 +516,6 @@
       "likely_roles": "",
       "published": "2026-06-17T06:35:00+00:00",
       "fingerprint": "16f6d58eab0fed1d2b805c46e1c41c038b2a53a7"
-    },
-    {
-      "title": "Following James Hardie\u2019s Azek blowback, ASX gives investors power to vote down capital raisings for major deals - AFR",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWlBtQzE2M3l1WFZjQjBRa2NVWEw0SHJQV0Q5STNVNk5DWFZCY21jdzZNdlgxZjBzMHVsRy03MGkzTzhLcm9EZi1lZVdOcl9xam5wd0ZTeGRrU2VGa3R4V2cybC1TVDRxZVBJM3dRTU9MeHhPNWZBdEY0ZFB6MEtaYVBHSnFSeGdtMEpqaVhKM09qd2Y4bjB4dHFvak8tUFVaLUM3dnpmOG0yUkJmVmJMRTJsbmEyZWNwbmtTdUVRX2NTTGNKZzBOQzFBVk5tdHNqZ0E?oc=5",
-      "source": "AFR",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWlBtQzE2M3l1WFZjQjBRa2NVWEw0SHJQV0Q5STNVNk5DWFZCY21jdzZNdlgxZjBzMHVsRy03MGkzTzhLcm9EZi1lZVdOcl9xam5wd0ZTeGRrU2VGa3R4V2cybC1TVDRxZVBJM3dRTU9MeHhPNWZBdEY0ZFB6MEtaYVBHSnFSeGdtMEpqaVhKM09qd2Y4bjB4dHFvak8tUFVaLUM3dnpmOG0yUkJmVmJMRTJsbmEyZWNwbmtTdUVRX2NTTGNKZzBOQzFBVk5tdHNqZ0E?oc=5\" target=\"_blank\">Following James Hardie\u2019s Azek blowback, ASX gives investors power to vote down capital raisings for major deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFR</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T03:35:00+00:00",
-      "fingerprint": "31d37cae36e76bd2ccb80a3bd0225e510a985983"
-    },
-    {
-      "title": "Augusta County Sheriff\u2019s Office searching for runaway teen - WHSV",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHVac1d0LWF0MkZDUlpleVhEdDUybjFORkt4ZWJSZC13T1p6SUJLSC0tNTR6ZVE2d1h0aDBZbFgwdk95Ym9jOXlrcDZMWUxJdHYxbzZNb1l2YmdJZ3lVNEhpeEFBZXplT1ZqalJVVVVfZTRwUjdacmdOT1RzZWxid3hOeUFHR0hoeXdfWHlPWQ?oc=5",
-      "source": "WHSV",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHVac1d0LWF0MkZDUlpleVhEdDUybjFORkt4ZWJSZC13T1p6SUJLSC0tNTR6ZVE2d1h0aDBZbFgwdk95Ym9jOXlrcDZMWUxJdHYxbzZNb1l2YmdJZ3lVNEhpeEFBZXplT1ZqalJVVVVfZTRwUjdacmdOT1RzZWxid3hOeUFHR0hoeXdfWHlPWQ?oc=5\" target=\"_blank\">Augusta County Sheriff\u2019s Office searching for runaway teen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHSV</font>",
-      "feed_group": "company",
-      "feed_title": "Flooring & Tiles: Unilin \u2026 Zimmer + Rohde (10)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-17T17:00:00+00:00",
-      "fingerprint": "c05a6ff67143e16661e2d609eb847a2a72c853d6"
     },
     {
       "title": "Titus Welliver\u2019s Crime Thriller Is the Only True 'Bosch' Replacement - MovieWeb",
