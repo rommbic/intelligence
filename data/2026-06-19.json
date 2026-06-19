@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T16:28:22.642619+00:00",
+  "generated_at": "2026-06-19T20:30:31.643127+00:00",
   "date": "2026-06-19",
-  "count": 35,
+  "count": 27,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,58 +13,6 @@
     "New product launch"
   ],
   "items": [
-    {
-      "title": "IT recycling hub opens in Wimborne Minster - Dorset View",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IbkhPOUliNkhaemZkUi1ueGtmS3lDRXlyalg5MHpiUTR3VjJ4dmhZTkpjcnl0ZVBzVG5IUnIzWlNxYlZBcGs1YmdmTk82VlVYMGFYbTZmVGlZOC1ONWpWVlhLeHVhZEFEdHlaYklXZnhvQXFhZjk4?oc=5",
-      "source": "Dorset View",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1IbkhPOUliNkhaemZkUi1ueGtmS3lDRXlyalg5MHpiUTR3VjJ4dmhZTkpjcnl0ZVBzVG5IUnIzWlNxYlZBcGs1YmdmTk82VlVYMGFYbTZmVGlZOC1ONWpWVlhLeHVhZEFEdHlaYklXZnhvQXFhZjk4?oc=5\" target=\"_blank\">IT recycling hub opens in Wimborne Minster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dorset View</font>",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
-      "categories": [
-        "New facility / expansion",
-        "Acquisition / M&A"
-      ],
-      "company": "Minster",
-      "score": 10,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T13:36:01+00:00",
-      "fingerprint": "f84f7953e8e07c2d15f6dd366f02f35f4d5383ba"
-    },
-    {
-      "title": "BMW opens Neue Klasse reservations early; car business margin forecast unexpectedly cut in half - digitimes",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTODNfM1UwV0VEWkZZQ2s3eXFJT1FaUGdfb0NuekNlWnJWUEZ1eVJXVVFhMWF4YVRvZUl3dkZIVG1pOElxZ1RVajBoMzRZVk1vNE9IN1lJbVN0RTJCSEt5dk5iTTRET2tBdlJzbXBxS0d4RVlNZDBLQV9DX1IwRmc?oc=5",
-      "source": "digitimes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBTODNfM1UwV0VEWkZZQ2s3eXFJT1FaUGdfb0NuekNlWnJWUEZ1eVJXVVFhMWF4YVRvZUl3dkZIVG1pOElxZ1RVajBoMzRZVk1vNE9IN1lJbVN0RTJCSEt5dk5iTTRET2tBdlJzbXBxS0d4RVlNZDBLQV9DX1IwRmc?oc=5\" target=\"_blank\">BMW opens Neue Klasse reservations early; car business margin forecast unexpectedly cut in half</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Klasse",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T06:41:59+00:00",
-      "fingerprint": "5de3fe7ef4305672a6d29690c7a722048e2ee53a"
-    },
-    {
-      "title": "[News] Philips Hue Expands Portfolio with Wired Switches and Play Lamps - LEDinside",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iUDhBZlBrSW5hZFYxcTU4dk1Ob1R0MWFQaVAyQlBzVGhQaVVwbEpJSUpoT203ckZveG5xUFNZOV9Rc1NKVjJuTWtZVFNkb0VmeGJmck5OQmpRcXU0RDhjaXFXQ2hLQQ?oc=5",
-      "source": "LEDinside",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iUDhBZlBrSW5hZFYxcTU4dk1Ob1R0MWFQaVAyQlBzVGhQaVVwbEpJSUpoT203ckZveG5xUFNZOV9Rc1NKVjJuTWtZVFNkb0VmeGJmck5OQmpRcXU0RDhjaXFXQ2hLQQ?oc=5\" target=\"_blank\">[News] Philips Hue Expands Portfolio with Wired Switches and Play Lamps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LEDinside</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Philips",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T06:24:50+00:00",
-      "fingerprint": "54960d92f1735ca0a8af390e2d7e8f9a06eea521"
-    },
     {
       "title": "Infocomm 2026: PPDS Launches Ultraslim Philips Signage 7000 Series - Sixteen:Nine",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0VEMXZDOXRkZ1AzV3hoX3pJdjhTSHFFamY2a2ktZUhnNjU4c3g0dkx3bXc5T0k2TmdkWGhRUEFkYXQ2OTk0Z2dISFd3anQzc3dTX1hXQzFYM1B2aEE0akFQS2xZWjZyTTR3OGRWS2pHc1pKX1lyR005S3ZseHo1ajBJN09JTlFWZUY2T1FPNm5Jbm1xQzRiUVFYTXBFeG5r?oc=5",
@@ -79,7 +27,7 @@
       "score": 6,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-19T10:27:44+00:00",
+      "published": "2026-06-19T10:45:44+00:00",
       "fingerprint": "2845a4b8680ffc2d1ab7e35e787c8a4532251db1"
     },
     {
@@ -348,23 +296,6 @@
       "fingerprint": "146814d22fd55b2dbbafccd86e9db2b6334025a3"
     },
     {
-      "title": "NFRC Launches New Campaign, Don\u2019t Fall for Fragile - Roofing Today",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEpSNElGYU9LejZZUkMtR3NKd2l1bzN2WnI3SkJhekpMNW9fcDlRVUVHUVViSEh2WUtqM2tJTi1qdVJBRFRGam4wQVRrM2VtUVI2eUVwc0Z0ZEFPXzNUSVc3Y3NiTXkzVDkxN0k1V1RxLTdhZ0RBRjhzTU9sa29nUFF3?oc=5",
-      "source": "Roofing Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEpSNElGYU9LejZZUkMtR3NKd2l1bzN2WnI3SkJhekpMNW9fcDlRVUVHUVViSEh2WUtqM2tJTi1qdVJBRFRGam4wQVRrM2VtUVI2eUVwc0Z0ZEFPXzNUSVc3Y3NiTXkzVDkxN0k1V1RxLTdhZ0RBRjhzTU9sa29nUFF3?oc=5\" target=\"_blank\">NFRC Launches New Campaign, Don\u2019t Fall for Fragile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
-      "feed_group": "signal",
-      "feed_title": "New product launches",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T13:54:57+00:00",
-      "fingerprint": "0f051a53abeb06d61ea816cb34296a8a4fb1c3ab"
-    },
-    {
       "title": "Farrow & Ball's new 'it' paint colour for the kitchen \u2013 forget sulking room pink, this is the pink to be in the know about - Ideal Home",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmlZMlY3eF9yS2h4Qy1kT3Y4WjR4dmhsZGduS2lXcTdTS1pzWXVFLU1FVE9kN3d4UlROdmVEaWNiV2ZFRUZkUGppMllyYmIySDl1am9DZ1F3cjRtOGpiZXNBNmgyWTkyM1o4cGV0TTVvSlM3bS1LSEl1eWpPb1FjbkZmbw?oc=5",
       "source": "Ideal Home",
@@ -380,21 +311,6 @@
       "fingerprint": "a2d317714a5edfd2fcac2e1e8ed11c9ad86f5949"
     },
     {
-      "title": "Burckhardt Compression secures milestone order for first industrial scale liquefied CO\u2082 carrier supporting Northern Lights CCS project - Hydrocarbon Processing",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRDZCSzFoQ0RLU3N0eHRhb2lTVGZTTnFibWcxeEhCZm1qNjV4eFZQUnpOcEJ1a2VXTU50bEF1NDFQdUcxS0gxUlk5VnNDU2UxQ2hOdDhaekFySXJ3eFJBWXJqSEVHQmsxX1MzdUx1QU5iTFFINW1KU2RDWDAzbmFvWGJtYkJLSkt2c294WWtQMTRyYVVmQThmYjNiU1VlZUg3YUFCRjJYNVlhOTlDZVZHSk50eGIybWVQQlRkWm5XcFFwUnVwX3U5cXdnVEdSSDNJZERtR2ZRR3A3amJjQ05RdzJ5R2F3UWZZWXVfRXNIZE5weWFGZG5PNWh5NkFjU0lZc1Z1NzdBNzVmcW52ekkwaUtkMjA?oc=5",
-      "source": "Hydrocarbon Processing",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPRDZCSzFoQ0RLU3N0eHRhb2lTVGZTTnFibWcxeEhCZm1qNjV4eFZQUnpOcEJ1a2VXTU50bEF1NDFQdUcxS0gxUlk5VnNDU2UxQ2hOdDhaekFySXJ3eFJBWXJqSEVHQmsxX1MzdUx1QU5iTFFINW1KU2RDWDAzbmFvWGJtYkJLSkt2c294WWtQMTRyYVVmQThmYjNiU1VlZUg3YUFCRjJYNVlhOTlDZVZHSk50eGIybWVQQlRkWm5XcFFwUnVwX3U5cXdnVEdSSDNJZERtR2ZRR3A3amJjQ05RdzJ5R2F3UWZZWXVfRXNIZE5weWFGZG5PNWh5NkFjU0lZc1Z1NzdBNzVmcW52ekkwaUtkMjA?oc=5\" target=\"_blank\">Burckhardt Compression secures milestone order for first industrial scale liquefied CO\u2082 carrier supporting Northern Lights CCS project</a>&nbsp;&nbsp;<font ",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T13:02:36+00:00",
-      "fingerprint": "44e0e074a9b496925592ec0dfad308730c088961"
-    },
-    {
       "title": "Five new easyJet routes from Newcastle Airport including prime Northern Lights spot - Chronicle Live",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTRlWHhkdFJ2c1JGZklmSGQ0VTc2dlZRNEVpQ3VLRFVOYVctYWxUN2dxb3VBQ0U1S3lCM2ROOVg4c084NDBSTzRPa0FjdXA5Mm82ME9GX1gtbGFBVlVseE9GQW8xZ29wX0Q5WWJSakhHVEZfWEkzZlRmRVlFVHFxYWl1d2hjLW04aTdfRFdpMkZ6VTVtRXhRN1ZTbkVvSlXSAaQBQVVfeXFMTUQyeU1WRm5zT182WHNpcnF5a3JuWE5QZ204YmNMMlozOUtqRHJ6ZFNkTEUzX1FrVlVSbUN3NFE1ZXNjcnRkSDJvMEE2SzRBV0Z1MmlRUnlMSEZLMnNVbVVHZ3hTbl9yRWFrMExjQVRyREhrS2RmSU9XR3Rqd2hNdlR3Tm9IdTl5U1Q1NGJjMDllSEFLRFhNNlpYMlR4ZFN6N29ZR2k?oc=5",
       "source": "Chronicle Live",
@@ -408,36 +324,6 @@
       "likely_roles": "",
       "published": "2026-06-18T11:35:00+00:00",
       "fingerprint": "7e517345050a1890d1d1973a9cab155d2e1a1cba"
-    },
-    {
-      "title": "Burckhardt Compression To Supply LCO2 Carrier For Northern Lights CCS Project - Carbon Herald",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXRuV3Y1ZUJXM1JLR08zV2lwaVlCNFRfNVBwSlZhd1NHNVRRVHloVUtESkpGa1d4bnRGVEoxQXpDX2JJNFFVZ2Qxc1lVVUYxSnZHNFNoc3dHUlctNGNNc0hpcVN4TkZNV2o1TjNOVWhPdFMxa2ZVSDhfRld4dUxraU1YMGoxb1E4Nmk3RXMxVkFIWmhielVXbHpNdDNKamxXeEVuZTR3?oc=5",
-      "source": "Carbon Herald",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXRuV3Y1ZUJXM1JLR08zV2lwaVlCNFRfNVBwSlZhd1NHNVRRVHloVUtESkpGa1d4bnRGVEoxQXpDX2JJNFFVZ2Qxc1lVVUYxSnZHNFNoc3dHUlctNGNNc0hpcVN4TkZNV2o1TjNOVWhPdFMxa2ZVSDhfRld4dUxraU1YMGoxb1E4Nmk3RXMxVkFIWmhielVXbHpNdDNKamxXeEVuZTR3?oc=5\" target=\"_blank\">Burckhardt Compression To Supply LCO2 Carrier For Northern Lights CCS Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carbon Herald</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T11:11:41+00:00",
-      "fingerprint": "6b5ea08ebfec9a1a44c80afed2f85b238da32d59"
-    },
-    {
-      "title": "Burckhardt supplies tech for Northern Lights first liquefied CO2 carrier - gasworld",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3A0Y2NLcktELVdMWHpqR0VBek5GemVHTm82UFhVUy12WkRpa2tJQ0pSX1d1VnRKaGFnaTU5bnJzazJKNXZvdHY4cjFJa3FVTlYyQ0VtQWxtMHpGRlFlRW9qdC1sOU9HMmV5eG5mSWVQNVdBdEg1c0RQQ2RRUUxNem54LUFaMTk3Ni02c2RZemdwUVlSdS11d0JDRFdCMThXc2FFc0h5Z0kyaEh6ZEk0cTgyd2FwbEdKQzNEVg?oc=5",
-      "source": "gasworld",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3A0Y2NLcktELVdMWHpqR0VBek5GemVHTm82UFhVUy12WkRpa2tJQ0pSX1d1VnRKaGFnaTU5bnJzazJKNXZvdHY4cjFJa3FVTlYyQ0VtQWxtMHpGRlFlRW9qdC1sOU9HMmV5eG5mSWVQNVdBdEg1c0RQQ2RRUUxNem54LUFaMTk3Ni02c2RZemdwUVlSdS11d0JDRFdCMThXc2FFc0h5Z0kyaEh6ZEk0cTgyd2FwbEdKQzNEVg?oc=5\" target=\"_blank\">Burckhardt supplies tech for Northern Lights first liquefied CO2 carrier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gasworld</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T10:32:17+00:00",
-      "fingerprint": "528350e06e0a354cae5f6a4210b76bc22cbc9821"
     },
     {
       "title": "British Steel\u2019s Future in Focus as UK Eyes Public Ownership - Kalkine Media",
@@ -470,21 +356,6 @@
       "fingerprint": "20e6783c0345f0f83d0270d063f471685cf9f87b"
     },
     {
-      "title": "'Landmark year' \u2013 overseas capital drives record UK healthcare transactions - Healthcare Management Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTB4aDZ5WjJvdHFkSnd0MDFWcW1xNmdLWFZOSkdfYkpZb21uajBDckRUYWdfbFhLU3JSMC0yMGYxN1IySkI2NXh5TGhReFhEdUxtTFU5YVFxb21HUE1YdWR5MGhUTWl3NnBSZE1Kd1g4QkNISHZNcXpXdHBycG1FYXVEN252aElqWm1YeElGbmRHV1JoZTRDbGowYjlmWlFZdHlNTmlB?oc=5",
-      "source": "Healthcare Management Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTB4aDZ5WjJvdHFkSnd0MDFWcW1xNmdLWFZOSkdfYkpZb21uajBDckRUYWdfbFhLU3JSMC0yMGYxN1IySkI2NXh5TGhReFhEdUxtTFU5YVFxb21HUE1YdWR5MGhUTWl3NnBSZE1Kd1g4QkNISHZNcXpXdHBycG1FYXVEN252aElqWm1YeElGbmRHV1JoZTRDbGowYjlmWlFZdHlNTmlB?oc=5\" target=\"_blank\">'Landmark year' \u2013 overseas capital drives record UK healthcare transactions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare Management Magazine</font>",
-      "feed_group": "company",
-      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
-      "categories": [],
-      "company": "Record UK",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T07:38:28+00:00",
-      "fingerprint": "0530a92232ef2c4a07bfd18e9867446ca10272df"
-    },
-    {
       "title": "Lone Star Funds Completes Sale of Building Materials Manufacturer Xella to Holcim - citybiz",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0JHbnhKbU5CdEh5VUJrbnFNb2oyNUNqQXhyZVN0dG1yVHBnbjB3TzFHbkhQYXBmc1RuZHBZZHpqU0xiY2I1SkVYTGUteTMybFlrTE5TRU16TzRyQWdNelFMUndLcWNwT3lNZFpITTFNUlpPaTJERGJ4YTczeGwzZy1ZS1F0LTNrT3c5Nm5ubkZEMDhzMy00SjlGT0JPSXRPS0YybGlweGVJeEhUQUFCaHZ2Vmd2MXREbWRzLQ?oc=5",
       "source": "citybiz",
@@ -500,10 +371,10 @@
       "fingerprint": "9a73c6040dfedc2f7f2b42d0f32a3e2f646d324d"
     },
     {
-      "title": "A.I.S. Resources Announces Private Placement Financing with Strategic Investor - The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTG5VWGZhczZ2V3phTGJBZENhR2ZaWUpOX1pEWXZxT2NMdVFmSnhCbWloY3pPWExUaG9DY05ROVl3bTRBSHgxRE5ycGY0ekR3OVNkWUV0Q0lqUE5yUW1ZVXROUFo2T1Q4SjQwLURPREJuOVlvTzEySVVwMXRXWlRtUkM5QXhBN1U3eENDWlNXSm0wYTNKdS1waDlaZkl2S1g0cC14RzMxX2tKTm1ISmRSQktGbFUxR1lGZE9WSks2SUpLRnh2Q2hoZThwVlhUcWZGV1Q5T3AtSDNVMk85bUtWTzZRVdIB6AFBVV95cUxQbDNJbGxGcFVuTWxlcUJMeU81dzNPNm1DTVN2OFZMcW5Ed3o3c29YRW9FUmJ4Vm9zdV95aWZMTzZhQmhwdkMzaE9IdFZ0RC0yaldPdXBjNHFac1NmUHVRM3Q0eC1lalJZLXA3TXR1RW1Kekp5bmhpYnlNOEFRRDJ2MDBld3FqWEFmX3YxVmN6c0VYcXBRSGFWSTIwR0l4SmlJUFFNbTlzTmNjOE1uVXY2aGhXaFRmNGpDUHRxeWVheTI4d1hsOHpQMHZxcFdRZ05iMGJtZ3Nudk1ZZFhDcnh4Zzd6eVFzZU54?oc=5",
-      "source": "The Manila Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTG5VWGZhczZ2V3phTGJBZENhR2ZaWUpOX1pEWXZxT2NMdVFmSnhCbWloY3pPWExUaG9DY05ROVl3bTRBSHgxRE5ycGY0ekR3OVNkWUV0Q0lqUE5yUW1ZVXROUFo2T1Q4SjQwLURPREJuOVlvTzEySVVwMXRXWlRtUkM5QXhBN1U3eENDWlNXSm0wYTNKdS1waDlaZkl2S1g0cC14RzMxX2tKTm1ISmRSQktGbFUxR1lGZE9WSks2SUpLRnh2Q2hoZThwVlhUcWZGV1Q5T3AtSDNVMk85bUtWTzZRVdIB6AFBVV95cUxQbDNJbGxGcFVuTWxlcUJMeU81dzNPNm1DTVN2OFZMcW5Ed3o3c29YRW9FUmJ4Vm9zdV95aWZMTzZhQmhwdkMzaE9IdFZ0RC0yaldPdXBjNHFac1NmUHVRM3Q0eC1lalJZLXA3TXR1RW1Kekp5bmhpYnlNOEFRRDJ2MDBld3FqWEFmX3YxVmN6c0VYcXBRSGFWSTIwR0l4SmlJUFFNbTlzTmNjOE1uVXY2aGhXaF",
+      "title": "A.I.S. Resources Announces Private Placement Financing with Strategic Investor - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmREQmNmWHhuVk1zRV9tVVhDYzlmQS04X2lSQ0JDb2dmbUxYSmg1eWt2TlBqYXdCMHgzbGJUSkZxcmhLNFpRVjBjVldoYnlVak93Tm5sWUZkdWpiUkdUWFIyblRGU3JTZ1RvN0dhWlRTb3B1RzE1cXpFcDVBdXlQVHJmejdYLXJEQ0RUYmkwNF9YenAtTkFKWkZlNEt3YThXMUpJeGdTbHVGT2hxNDNvbFc5YVhjdkR0MmlLQ0pYdlk0eVI5Q0NURlJYaEtyTzV6R1dPaW9XT19KRFc2bU8zZzBBUQ?oc=5",
+      "source": "GlobeNewswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmREQmNmWHhuVk1zRV9tVVhDYzlmQS04X2lSQ0JDb2dmbUxYSmg1eWt2TlBqYXdCMHgzbGJUSkZxcmhLNFpRVjBjVldoYnlVak93Tm5sWUZkdWpiUkdUWFIyblRGU3JTZ1RvN0dhWlRTb3B1RzE1cXpFcDVBdXlQVHJmejdYLXJEQ0RUYmkwNF9YenAtTkFKWkZlNEt3YThXMUpJeGdTbHVGT2hxNDNvbFc5YVhjdkR0MmlLQ0pYdlk0eVI5Q0NURlJYaEtyTzV6R1dPaW9XT19KRFc2bU8zZzBBUQ?oc=5\" target=\"_blank\">A.I.S. Resources Announces Private Placement Financing with Strategic Investor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
       "feed_group": "company",
       "feed_title": "Merchants & Distribution: About Roofing Supp \u2026 Beesley & Fildes (9)",
       "categories": [],
@@ -511,7 +382,7 @@
       "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-19T10:50:26+00:00",
+      "published": "2026-06-19T10:30:00+00:00",
       "fingerprint": "26d00e5c354a42927b09c0f2a9621de86d84a342"
     },
     {
