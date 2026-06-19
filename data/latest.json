@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T13:04:07.601856+00:00",
+  "generated_at": "2026-06-19T16:28:22.642619+00:00",
   "date": "2026-06-19",
-  "count": 36,
+  "count": 35,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -30,23 +30,6 @@
       "likely_roles": "",
       "published": "2026-06-18T13:36:01+00:00",
       "fingerprint": "f84f7953e8e07c2d15f6dd366f02f35f4d5383ba"
-    },
-    {
-      "title": "Walters State releases President\u2019s and Deans Lists - Claiborne Progress",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUZkTTdNM3Z6bzVPQURZT1RWSVVhYmUzczd0TDZhWmU4OFE5X25LelpFcVNVNVBQMTN1QTJiY2tuMzNLUmxqWmdDMGVtZjk1SDhBRW96dkNMSV9qQlJEeWUzTTRjUWJIelZfbGZ1b0lMUVFPOUtVRHhnNUhWRjhTQU96OHc5ZVRITi02SURhMVRQSnEycVE?oc=5",
-      "source": "Claiborne Progress",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUZkTTdNM3Z6bzVPQURZT1RWSVVhYmUzczd0TDZhWmU4OFE5X25LelpFcVNVNVBQMTN1QTJiY2tuMzNLUmxqWmdDMGVtZjk1SDhBRW96dkNMSV9qQlJEeWUzTTRjUWJIelZfbGZ1b0lMUVFPOUtVRHhnNUhWRjhTQU96OHc5ZVRITi02SURhMVRQSnEycVE?oc=5\" target=\"_blank\">Walters State releases President\u2019s and Deans Lists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Claiborne Progress</font>",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Walters",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T22:08:44+00:00",
-      "fingerprint": "3dc78dace044542d03f0a1b0b22addae28cb2ae0"
     },
     {
       "title": "BMW opens Neue Klasse reservations early; car business margin forecast unexpectedly cut in half - digitimes",
@@ -117,6 +100,23 @@
       "fingerprint": "64db4a86af7e9305835027246052a509287c04fe"
     },
     {
+      "title": "PPDS Unveils UltraSlim Philips Signage 7000 Series In Las Vegas - Live Design Online",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2hVbExsS3pRNWNSeFdOSlZFS1lJUldJNDNxWFdOU2s3bHExNlMxQWQtMGxFQWJtZmg4MEJJYkJCbWFlQTF5S0w2UldjYllTTUhZLXdpaG9abkppMk1NREN0VkZUd05TZ3BPMFpjMk11cGpSZjk5N2tJMWxPNVpYRzZoV2dyY2RRVW5XQ0lnTk5BWFl4NU5HREFIdHh1QXBvU0VLVnVRS3hoSTdpR1NHWGZqVE5pNU5zVkFURjYyTlduTEduMjhHa29HTk0?oc=5",
+      "source": "Live Design Online",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2hVbExsS3pRNWNSeFdOSlZFS1lJUldJNDNxWFdOU2s3bHExNlMxQWQtMGxFQWJtZmg4MEJJYkJCbWFlQTF5S0w2UldjYllTTUhZLXdpaG9abkppMk1NREN0VkZUd05TZ3BPMFpjMk11cGpSZjk5N2tJMWxPNVpYRzZoV2dyY2RRVW5XQ0lnTk5BWFl4NU5HREFIdHh1QXBvU0VLVnVRS3hoSTdpR1NHWGZqVE5pNU5zVkFURjYyTlduTEduMjhHa29HTk0?oc=5\" target=\"_blank\">PPDS Unveils UltraSlim Philips Signage 7000 Series In Las Vegas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Design Online</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Philips",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-19T08:48:40+00:00",
+      "fingerprint": "3d7d461f1c9b1fad9578e59eb4de99727f8622fc"
+    },
+    {
       "title": "BMW unveils its first fully electric performance sedan at Le Mans the M Concept Neue Klasse - supercarblondie.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hRW8xMGpiTl85QXNsSUdhTVBoejQ2eEwzYWtSODl3Y3FYX3lfXzJRMmFqd2NjNmxKN2pmZ0dFY1dsZDVpZ2VKbHF1ZFZPTTkzSWVGTlJyQmQ1anU5SG9oSWhZM1VfazFHQnFGcW4wS1BnaGYyU0hDWnBvaw?oc=5",
       "source": "supercarblondie.com",
@@ -168,44 +168,25 @@
       "fingerprint": "1e9714cdd3defa0dbc4839005a664216dde30ba6"
     },
     {
-      "title": "Philips Launches IntelliVue PM 6000, an Entry-Level Patient Monitor Range - Id\u00e9al Investisseur",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1pySS1IZGQwdV9sci1LYUJ6OVFzbm5ZaEZjOEh5bVFDRmUwcFZud3hrRXpjdjlmYVo2YWUxOS0yOWFOM3hDTlZFQTd5NGRYcWZXVEFIbjdZN3ZXQjJsWU9jZ3dBWnJEeWJnenJCY3ZGV1puSVUySVJpUEduUldnVEhTSnpzNGkxTElHb3pIWl9DWWVBUVpLazF6U29TUmRPcExOS1lXRHhoNzRQY3ZPVnRMdTBwXzFYamdWTTBqS3BQX3E1OXNfblBiTQ?oc=5",
-      "source": "Id\u00e9al Investisseur",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1pySS1IZGQwdV9sci1LYUJ6OVFzbm5ZaEZjOEh5bVFDRmUwcFZud3hrRXpjdjlmYVo2YWUxOS0yOWFOM3hDTlZFQTd5NGRYcWZXVEFIbjdZN3ZXQjJsWU9jZ3dBWnJEeWJnenJCY3ZGV1puSVUySVJpUEduUldnVEhTSnpzNGkxTElHb3pIWl9DWWVBUVpLazF6U29TUmRPcExOS1lXRHhoNzRQY3ZPVnRMdTBwXzFYamdWTTBqS3BQX3E1OXNfblBiTQ?oc=5\" target=\"_blank\">Philips Launches IntelliVue PM 6000, an Entry-Level Patient Monitor Range</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Id\u00e9al Investisseur</font>",
+      "title": "UK government \u2018strongly minded\u2019 to nationalise British Steel - The Manufacturer",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkpMaXNBODZtSHdxbHdHZmhUNTRyQlhYam1CX09lejBVWWxzNzdYbnlzWEdMVkdQeEFRX1pUSmpLcnBzTk0wNkVDNk9ON2prSTBWTEhaeFBDbWhqS3FRRjNEVVoyRzJqZU1fQTl4RDlFY0tteTZwcVY4VlZIckVqcXk5MWlCb1VTZkZOcC1CRUtWdmhCVHI4UERlSFBfZEpwU3c?oc=5",
+      "source": "The Manufacturer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkpMaXNBODZtSHdxbHdHZmhUNTRyQlhYam1CX09lejBVWWxzNzdYbnlzWEdMVkdQeEFRX1pUSmpLcnBzTk0wNkVDNk9ON2prSTBWTEhaeFBDbWhqS3FRRjNEVVoyRzJqZU1fQTl4RDlFY0tteTZwcVY4VlZIckVqcXk5MWlCb1VTZkZOcC1CRUtWdmhCVHI4UERlSFBfZEpwU3c?oc=5\" target=\"_blank\">UK government \u2018strongly minded\u2019 to nationalise British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manufacturer</font>",
       "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "Philips",
-      "score": 6,
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "British Steel",
+      "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-18T07:15:00+00:00",
-      "fingerprint": "70c9907251ed56c8a858ebda5303b366cc26fb91"
-    },
-    {
-      "title": "BMW M unveils radical Concept Neue Klasse - Wanted Online",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWhta1JqMmxhSExsM19lYmZqS3ppUE9QS2RjLVJlTlFXekg5eF9mWHFRZ2VHLWNxVUUwcTBXb0hGY0ppNUxOYldXUUdBMm11dHg2WFEzVHkxWk5BVHpnNDRqSEVaQkE0VmFNQXhKVWJzNzZNdjlocXJKZkRmSVdCaGVlREZoMFo4VFRENjZ4bjZjZjluSEJLSQ?oc=5",
-      "source": "Wanted Online",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWhta1JqMmxhSExsM19lYmZqS3ppUE9QS2RjLVJlTlFXekg5eF9mWHFRZ2VHLWNxVUUwcTBXb0hGY0ppNUxOYldXUUdBMm11dHg2WFEzVHkxWk5BVHpnNDRqSEVaQkE0VmFNQXhKVWJzNzZNdjlocXJKZkRmSVdCaGVlREZoMFo4VFRENjZ4bjZjZjluSEJLSQ?oc=5\" target=\"_blank\">BMW M unveils radical Concept Neue Klasse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wanted Online</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "Klasse",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T03:00:00+00:00",
-      "fingerprint": "295b8a9b5ad90812cb18f57ea39d75b3883e4136"
+      "published": "2026-06-19T14:18:49+00:00",
+      "fingerprint": "22ba15accb518fdd96aa7e3fd847f66abfa933e6"
     },
     {
       "title": "Darwin Group hands over first-of-its-kind temporary theatre facility at Doncaster Royal Infirmary - Building Better Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2VLLUZUZVA3amlQdGkxZ01DaDl6OFQxd2NIVE95QmFtbzh4aVdiRFFLTkU0VHo4VU9LWDRZSVBSLWg5UlllNS10TjlGeERvenJwaGk2X2FHV0ozMFRwSnU0RHNyOS1xTXd1VEpSZ21JM081Y3JubFFaUjlUdHZISXo1U1dnYXhVUzNGT2ZzR0dnQjlTc3FnUw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDdZRGt6NHlZdXRLenpDemFQUnhRNWRtaXRNTTZNV3llVXg0X0JnQ2lfd1gxOS1CQ1B2MV8wUUtyZENKLW1QZThrZkFTVmR6R0N1MlpOeXBiOVMxbkxVc2d4aGxyVkY2NXlSaGdZTHFZNldqX0lvaW9nd3NrVE1Sb3dQNFR4Mk9lTWJWd21QZWtPUUk?oc=5",
       "source": "Building Better Healthcare",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2VLLUZUZVA3amlQdGkxZ01DaDl6OFQxd2NIVE95QmFtbzh4aVdiRFFLTkU0VHo4VU9LWDRZSVBSLWg5UlllNS10TjlGeERvenJwaGk2X2FHV0ozMFRwSnU0RHNyOS1xTXd1VEpSZ21JM081Y3JubFFaUjlUdHZISXo1U1dnYXhVUzNGT2ZzR0dnQjlTc3FnUw?oc=5\" target=\"_blank\">Darwin Group hands over first-of-its-kind temporary theatre facility at Doncaster Royal Infirmary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Building Better Healthcare</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDdZRGt6NHlZdXRLenpDemFQUnhRNWRtaXRNTTZNV3llVXg0X0JnQ2lfd1gxOS1CQ1B2MV8wUUtyZENKLW1QZThrZkFTVmR6R0N1MlpOeXBiOVMxbkxVc2d4aGxyVkY2NXlSaGdZTHFZNldqX0lvaW9nd3NrVE1Sb3dQNFR4Mk9lTWJWd21QZWtPUUk?oc=5\" target=\"_blank\">Darwin Group hands over first-of-its-kind temporary theatre facility at Doncaster Royal Infirmary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Building Better Healthcare</font>",
       "feed_group": "company",
       "feed_title": "Offsite & Modular: Cygnum Building Of \u2026 Format Steel Build (8)",
       "categories": [],
@@ -228,7 +209,7 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-19T09:46:50+00:00",
+      "published": "2026-06-19T09:46:45+00:00",
       "fingerprint": "442b6cb8188615dee8cd7979ee3d31dd5a7a65f4"
     },
     {
@@ -367,21 +348,6 @@
       "fingerprint": "146814d22fd55b2dbbafccd86e9db2b6334025a3"
     },
     {
-      "title": "UK Government \u2018strongly minded\u2019 to nationalise British Steel - British Steel",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdTcxMy1LaTk1RVN2S3paVWREMlJSWHJQd1RFekVJTjlkUEU0QUJjY3lDYlJ0Q2RMVTJtSFF1WWc2OHFYNVEwVUJlU1k0LVJsdFRzMnI5RGlMTnlxcnRuUVhBd0pBQldSUDRxOWpKbzhqeFVVNTJROEtwMi1HRlhFTTh4Mkl3ZEtzRXVJQmZSbkNYYlNZ?oc=5",
-      "source": "British Steel",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdTcxMy1LaTk1RVN2S3paVWREMlJSWHJQd1RFekVJTjlkUEU0QUJjY3lDYlJ0Q2RMVTJtSFF1WWc2OHFYNVEwVUJlU1k0LVJsdFRzMnI5RGlMTnlxcnRuUVhBd0pBQldSUDRxOWpKbzhqeFVVNTJROEtwMi1HRlhFTTh4Mkl3ZEtzRXVJQmZSbkNYYlNZ?oc=5\" target=\"_blank\">UK Government \u2018strongly minded\u2019 to nationalise British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">British Steel</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [],
-      "company": "British Steel",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-18T14:16:41+00:00",
-      "fingerprint": "22ba15accb518fdd96aa7e3fd847f66abfa933e6"
-    },
-    {
       "title": "NFRC Launches New Campaign, Don\u2019t Fall for Fragile - Roofing Today",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEpSNElGYU9LejZZUkMtR3NKd2l1bzN2WnI3SkJhekpMNW9fcDlRVUVHUVViSEh2WUtqM2tJTi1qdVJBRFRGam4wQVRrM2VtUVI2eUVwc0Z0ZEFPXzNUSVc3Y3NiTXkzVDkxN0k1V1RxLTdhZ0RBRjhzTU9sa29nUFF3?oc=5",
       "source": "Roofing Today",
@@ -414,10 +380,10 @@
       "fingerprint": "a2d317714a5edfd2fcac2e1e8ed11c9ad86f5949"
     },
     {
-      "title": "Northern Lights Announces Start of Summer Exploration Campaign at the Pup Copper Project - Investing News Network",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDdrbDEyaEdscDRqMEpKdUFucU1TeXNhZDJxdlpnbWV0N2ZnNHlnbm1fblF6WHNyS2pDaUhyeHRuWTBxVnBSNGVIN0pTNmF6bmdROEFBTUxhemxVT2lydUZJSXVvNWVCUF9pb0JnanhrZHV6SUpOdk5ualFRUlJySUtsZ1pTNlo0bHFla2hBN1gzTGN6aGRBM2U1cnVQTEthbGtzbXhtazhBbXRwQnBOTEhxMENzQQ?oc=5",
-      "source": "Investing News Network",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDdrbDEyaEdscDRqMEpKdUFucU1TeXNhZDJxdlpnbWV0N2ZnNHlnbm1fblF6WHNyS2pDaUhyeHRuWTBxVnBSNGVIN0pTNmF6bmdROEFBTUxhemxVT2lydUZJSXVvNWVCUF9pb0JnanhrZHV6SUpOdk5ualFRUlJySUtsZ1pTNlo0bHFla2hBN1gzTGN6aGRBM2U1cnVQTEthbGtzbXhtazhBbXRwQnBOTEhxMENzQQ?oc=5\" target=\"_blank\">Northern Lights Announces Start of Summer Exploration Campaign at the Pup Copper Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing News Network</font>",
+      "title": "Burckhardt Compression secures milestone order for first industrial scale liquefied CO\u2082 carrier supporting Northern Lights CCS project - Hydrocarbon Processing",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRDZCSzFoQ0RLU3N0eHRhb2lTVGZTTnFibWcxeEhCZm1qNjV4eFZQUnpOcEJ1a2VXTU50bEF1NDFQdUcxS0gxUlk5VnNDU2UxQ2hOdDhaekFySXJ3eFJBWXJqSEVHQmsxX1MzdUx1QU5iTFFINW1KU2RDWDAzbmFvWGJtYkJLSkt2c294WWtQMTRyYVVmQThmYjNiU1VlZUg3YUFCRjJYNVlhOTlDZVZHSk50eGIybWVQQlRkWm5XcFFwUnVwX3U5cXdnVEdSSDNJZERtR2ZRR3A3amJjQ05RdzJ5R2F3UWZZWXVfRXNIZE5weWFGZG5PNWh5NkFjU0lZc1Z1NzdBNzVmcW52ekkwaUtkMjA?oc=5",
+      "source": "Hydrocarbon Processing",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPRDZCSzFoQ0RLU3N0eHRhb2lTVGZTTnFibWcxeEhCZm1qNjV4eFZQUnpOcEJ1a2VXTU50bEF1NDFQdUcxS0gxUlk5VnNDU2UxQ2hOdDhaekFySXJ3eFJBWXJqSEVHQmsxX1MzdUx1QU5iTFFINW1KU2RDWDAzbmFvWGJtYkJLSkt2c294WWtQMTRyYVVmQThmYjNiU1VlZUg3YUFCRjJYNVlhOTlDZVZHSk50eGIybWVQQlRkWm5XcFFwUnVwX3U5cXdnVEdSSDNJZERtR2ZRR3A3amJjQ05RdzJ5R2F3UWZZWXVfRXNIZE5weWFGZG5PNWh5NkFjU0lZc1Z1NzdBNzVmcW52ekkwaUtkMjA?oc=5\" target=\"_blank\">Burckhardt Compression secures milestone order for first industrial scale liquefied CO\u2082 carrier supporting Northern Lights CCS project</a>&nbsp;&nbsp;<font ",
       "feed_group": "company",
       "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
       "categories": [],
@@ -425,8 +391,8 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-18T12:47:09+00:00",
-      "fingerprint": "68e90de3d2ffb17faf7a477502889258ff61e5ea"
+      "published": "2026-06-18T13:02:36+00:00",
+      "fingerprint": "44e0e074a9b496925592ec0dfad308730c088961"
     },
     {
       "title": "Five new easyJet routes from Newcastle Airport including prime Northern Lights spot - Chronicle Live",
@@ -547,6 +513,21 @@
       "likely_roles": "",
       "published": "2026-06-19T10:50:26+00:00",
       "fingerprint": "26d00e5c354a42927b09c0f2a9621de86d84a342"
+    },
+    {
+      "title": "Replacement For OSRAM Sylvania H4-64196 By Technical Precision Is Compatible With Osram Sylvania 2 Pack - aviglianonews.it",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazgwTnoyZHNFVlk2UmxLUHg2SEh6LVZ5eWxfOWR4MEtGZUdXYm81OHJQYTNlSkQ3R3hlTFZqTDVPRGVxVlZSX1JZRkJaNElRYkRVRmZQWDdwWnpWMXdnXzd2bmdlMFUtblEtb0ozR2pkV0U1N0Nlb3dreklnd2Nia2FsOXdGVkNkazFhYWVyUzNzMXJmc0lkVlcwbmxhX0k?oc=5",
+      "source": "aviglianonews.it",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOazgwTnoyZHNFVlk2UmxLUHg2SEh6LVZ5eWxfOWR4MEtGZUdXYm81OHJQYTNlSkQ3R3hlTFZqTDVPRGVxVlZSX1JZRkJaNElRYkRVRmZQWDdwWnpWMXdnXzd2bmdlMFUtblEtb0ozR2pkV0U1N0Nlb3dreklnd2Nia2FsOXdGVkNkazFhYWVyUzNzMXJmc0lkVlcwbmxhX0k?oc=5\" target=\"_blank\">Replacement For OSRAM Sylvania H4-64196 By Technical Precision Is Compatible With Osram Sylvania 2 Pack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aviglianonews.it</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-19T08:32:26+00:00",
+      "fingerprint": "353ec26edf113580909000ea9498cfeefae7123a"
     },
     {
       "title": "Omega Oil and Gas Shareholders Approve Placement Ratification and Director Share Issues at General Meeting - Kalkine",
