@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T10:32:47.029693+00:00",
+  "generated_at": "2026-06-25T16:10:53.662112+00:00",
   "date": "2026-06-25",
-  "count": 31,
+  "count": 36,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Signify Expands Philips Hue Portfolio with New Entertainment Lamps and Smarter Candle Bulbs - AndroidGuys",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejRpY0Y1RmtNck1ZUzJDVllaa3FWYWlHQ0hITWhmMUJxWkVBZDZNQ1F0dnQzLVFHdHF4X3hwRG5wQmxJaTI3amNsVFMzVVBTX0prZ2VsMFRXeHdEczZLYU1HWHppWGdMcDlXOHdTVFFTTWVJdVM3ejVnX3I5WVQtcHpsdko4NzM3YnhBdGtmM1BxTHl0eEFON3JHTE1aNVdsalQ4b2tWNUtqSVlXSlp5V3dfMURhQlJORUlWUw?oc=5",
+      "source": "AndroidGuys",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNejRpY0Y1RmtNck1ZUzJDVllaa3FWYWlHQ0hITWhmMUJxWkVBZDZNQ1F0dnQzLVFHdHF4X3hwRG5wQmxJaTI3amNsVFMzVVBTX0prZ2VsMFRXeHdEczZLYU1HWHppWGdMcDlXOHdTVFFTTWVJdVM3ejVnX3I5WVQtcHpsdko4NzM3YnhBdGtmM1BxTHl0eEFON3JHTE1aNVdsalQ4b2tWNUtqSVlXSlp5V3dfMURhQlJORUlWUw?oc=5\" target=\"_blank\">Signify Expands Philips Hue Portfolio with New Entertainment Lamps and Smarter Candle Bulbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AndroidGuys</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "Philips",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-25T14:00:17+00:00",
+      "fingerprint": "1cba9fb1007f519bb73a91c4eba54d4b81363f84"
+    },
     {
       "title": "Verona VFD mourns firefighter Timmy Sewell; cause of death not released - WCTI",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX29kMkh4cEN0dHZkcUZIc1hMWFZsSkhicGNSRDBfYzJfV3BDdEpRSUpGWGNsZkF1QVpNVHpUeVl3RFV4TVFZejFDeGt4a2RmMUVSbm0xeDN0Z2ZtVTI2aFBsdUo2MUpqSHpEWnV1VS00dzBMbkl0MUpqSGhfLXNaSDJKNFJ5Smd1SExFanpxQTNkRjJaWUJLNnk5WXJSQlBLOVE?oc=5",
@@ -63,23 +80,6 @@
       "likely_roles": "",
       "published": "2026-06-24T08:23:40+00:00",
       "fingerprint": "550d10ab833c7e6d4752caa30da9cae45ab01923"
-    },
-    {
-      "title": "Walters opens up on finals horror injury - Fox Sports",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWl3Z2RsVU5LT2psM3o1QkE4Mk80SnNPSDFoOTBNMFRZTzdLTm9BeGV1eVc1S09lTDhqbkIyckxuOWtSb0xVRVBoMWlwaUJDM2xnSEQ1RVdDMWNwWlNiOHRmVDhCQlhVLXJBTWJnM29XZ0JBZHdpRnBqR1o5blM0Ri1aQnp2ZUYxSEh2c0xBQmllTHhabl93Uw?oc=5",
-      "source": "Fox Sports",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWl3Z2RsVU5LT2psM3o1QkE4Mk80SnNPSDFoOTBNMFRZTzdLTm9BeGV1eVc1S09lTDhqbkIyckxuOWtSb0xVRVBoMWlwaUJDM2xnSEQ1RVdDMWNwWlNiOHRmVDhCQlhVLXJBTWJnM29XZ0JBZHdpRnBqR1o5blM0Ri1aQnp2ZUYxSEh2c0xBQmllTHhabl93Uw?oc=5\" target=\"_blank\">Walters opens up on finals horror injury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Sports</font>",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Walters",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-24T07:25:43+00:00",
-      "fingerprint": "d54bb7a6a24720254add48e97b8faf65986d1b86"
     },
     {
       "title": "Sustainable building materials manufacturer opens first UK factory - \u201cWe have found Sheffield to be a very supportive place to have a start-up\u201d - Insider Media Ltd",
@@ -150,23 +150,6 @@
       "fingerprint": "e282f2b07a108e28ebe7c3025c69adac095a104d"
     },
     {
-      "title": "Southern Ropes UK expands with new Gosport facility - The Manufacturer",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnZXV3dZOW13anFqejBkZFdIcmpfSFdqX3lXdmNoa2VHN19jMDB2azlLTXY0MEhKR3BsRERTM0dsQWYtNFRzcFpldklfdlloRGlCQk90VkRmUXZWTk8tVXgzbGFHOTRCN3Y3czE4a015a2dvOTB5REJXaVNZLWU3TFJGZm1rVWVZc2R3NXFiM0FpY1I3VkhJMw?oc=5",
-      "source": "The Manufacturer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnZXV3dZOW13anFqejBkZFdIcmpfSFdqX3lXdmNoa2VHN19jMDB2azlLTXY0MEhKR3BsRERTM0dsQWYtNFRzcFpldklfdlloRGlCQk90VkRmUXZWTk8tVXgzbGFHOTRCN3Y3czE4a015a2dvOTB5REJXaVNZLWU3TFJGZm1rVWVZc2R3NXFiM0FpY1I3VkhJMw?oc=5\" target=\"_blank\">Southern Ropes UK expands with new Gosport facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manufacturer</font>",
-      "feed_group": "signal",
-      "feed_title": "New facilities / expansion",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "",
-      "score": 8,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-24T03:15:36+00:00",
-      "fingerprint": "d1245293bf5e405155ed7132cabb30c6d1b5af57"
-    },
-    {
       "title": "Italy's Quantum Leap: Classiq and TEA TEK Group Announce Landmark Partnership to Empower ... - Caledonian Record",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOME9YUjJ1cElEcDZLckN4dkxWbzZ3eURFd1p6NjZSbGxZdmV0LUgySmRrYkN6Y0VsUGFJTTBoVlh3eUNIX2R5VkkzZ21RMTB5SzVWSE5hWmNNd2xvenExdEhpMWZ4NHN6MjdZSjdBRVFhZ25LRHZhVVlTRDItYlhQblRKa29LRkRDNDBkOGhhMXByX2dNb2MtSENZWlJuSXI4dEJMWGZTTTlkdV96cGhiN3dRdXR0ZkVoRjMyQmxyS0FzcXY4NW4yQkJfOE9IOTRKcVgwSkV0OTZSNEg2MWJNNmJWRDhFU2ZfNTQ2bUpRdk1wRXpGc1JHUFlfaDl4Zw?oc=5",
       "source": "Caledonian Record",
@@ -235,6 +218,74 @@
       "fingerprint": "27fb4a3c77eec9b09b4fe0bc7e26b5914282e108"
     },
     {
+      "title": "Holcim UK wins concrete supply contract for Digbeth apartments scheme - Insider Media Ltd",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmRBUEpyVlE3UzZtQl8xWlBTTm11YWxoZ0IyZm5iekJoaGg5N3pBck5PakhuN1FUeFh6NE9HNVNmQnRBcmFuTTF0b0xSSzBidjJFNWEzZ0ktYjczTUxwUEdaT0ZJbnFEMHJ6c19VdFdxZnNaVFYtVUw4Q2lzYnlDZDYyM0dFWW1SdFU0b3NxX1ZTZ2VZTmMyRVhmNnpBQncwZG91ZTFJblRpRjhHZm5pbHFR?oc=5",
+      "source": "Insider Media Ltd",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmRBUEpyVlE3UzZtQl8xWlBTTm11YWxoZ0IyZm5iekJoaGg5N3pBck5PakhuN1FUeFh6NE9HNVNmQnRBcmFuTTF0b0xSSzBidjJFNWEzZ0ktYjczTUxwUEdaT0ZJbnFEMHJ6c19VdFdxZnNaVFYtVUw4Q2lzYnlDZDYyM0dFWW1SdFU0b3NxX1ZTZ2VZTmMyRVhmNnpBQncwZG91ZTFJblRpRjhHZm5pbHFR?oc=5\" target=\"_blank\">Holcim UK wins concrete supply contract for Digbeth apartments scheme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Media Ltd</font>",
+      "feed_group": "sector",
+      "feed_title": "Masonry, Concrete & Heavyside \u2014 sector news",
+      "categories": [
+        "Contract / supply win"
+      ],
+      "company": "Holcim UK",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-24T05:00:00+00:00",
+      "fingerprint": "25355fe2756d0f4e0456121e4c8f14215bceac73"
+    },
+    {
+      "title": "Warsaw, Troms\u00f8, Poland and Norway Unite as LOT Polish Airlines Launches New Winter Route for Northern Lights Tourism and Arctic Adventures - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84dHk1NHRGSmkxcHp2TWpXSmJHdzc2X1VaUWgtWkFDVWpTVkU1b3plaGhlQlQtV0xrMllteEdQeE45QVZmcU45bUxrLUpiUFpCSE45ODdBSmxOUXk0ZzhZdkY5dzBqYXFQQTJKS0p3?oc=5",
+      "source": "Travel And Tour World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE84dHk1NHRGSmkxcHp2TWpXSmJHdzc2X1VaUWgtWkFDVWpTVkU1b3plaGhlQlQtV0xrMllteEdQeE45QVZmcU45bUxrLUpiUFpCSE45ODdBSmxOUXk0ZzhZdkY5dzBqYXFQQTJKS0p3?oc=5\" target=\"_blank\">Warsaw, Troms\u00f8, Poland and Norway Unite as LOT Polish Airlines Launches New Winter Route for Northern Lights Tourism and Arctic Adventures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Northern Lights",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-25T13:15:52+00:00",
+      "fingerprint": "7caf29e3a9219997c91cd31165d0ff2f2d5df25f"
+    },
+    {
+      "title": "Jacobs named supplier on UK government infrastructure framework - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXlvVlI1YzJzaW9jVndpeS14ZHNmODM4U0pCd2R0M0xvRFpWbjMzcFlNdm1Ka1BRRGtnUVZaVzB1SldaMlk0NU96NlZTUWxCMUk1OHk2WlhnbkhmczM4dzFfZWx4ODF1Uzh5a0tzdE5DQkw0ZjJ2REw2djItUl9WOFV2MEVKcE42ZDU1RnRYZHhSUFVWREtQa1VEUmt5dzQ4YmhIT0tVbklaUlM5a1RRM1kwaVkzcGJMVFRJNQ?oc=5",
+      "source": "Investing.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXlvVlI1YzJzaW9jVndpeS14ZHNmODM4U0pCd2R0M0xvRFpWbjMzcFlNdm1Ka1BRRGtnUVZaVzB1SldaMlk0NU96NlZTUWxCMUk1OHk2WlhnbkhmczM4dzFfZWx4ODF1Uzh5a0tzdE5DQkw0ZjJ2REw2djItUl9WOFV2MEVKcE42ZDU1RnRYZHhSUFVWREtQa1VEUmt5dzQ4YmhIT0tVbklaUlM5a1RRM1kwaVkzcGJMVFRJNQ?oc=5\" target=\"_blank\">Jacobs named supplier on UK government infrastructure framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "feed_group": "signal",
+      "feed_title": "Contract / supply wins",
+      "categories": [
+        "Contract / supply win"
+      ],
+      "company": "",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-25T11:32:21+00:00",
+      "fingerprint": "75550d127826a44f62846bc9ef828d23349844cb"
+    },
+    {
+      "title": "Jacobs named supplier on UK government construction services framework - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPekVjZktReDUyYmxJcmVyNU9pZm5fNXJ5Q0pYQWhUT0RmSVpnWFJMYkJfMFFIX3NDajZyRkF2dWVGcWZrV3hvMU1ZeEpJczEtZkV0eGt5aDJ2eGhGSXUyek5meXp2MklBaVhzSEdJMjhfdDNsRnZGb1lNWWZyRXBQNVI4cEpsblJlZGgzdGlad0QyVFMyWUMzWFhUa01aM2x4Mzk5Y0swaUs4MWp3YXhiRU1ON0kwTmJCQzJtdA?oc=5",
+      "source": "TipRanks",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPekVjZktReDUyYmxJcmVyNU9pZm5fNXJ5Q0pYQWhUT0RmSVpnWFJMYkJfMFFIX3NDajZyRkF2dWVGcWZrV3hvMU1ZeEpJczEtZkV0eGt5aDJ2eGhGSXUyek5meXp2MklBaVhzSEdJMjhfdDNsRnZGb1lNWWZyRXBQNVI4cEpsblJlZGgzdGlad0QyVFMyWUMzWFhUa01aM2x4Mzk5Y0swaUs4MWp3YXhiRU1ON0kwTmJCQzJtdA?oc=5\" target=\"_blank\">Jacobs named supplier on UK government construction services framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "feed_group": "signal",
+      "feed_title": "Contract / supply wins",
+      "categories": [
+        "Contract / supply win"
+      ],
+      "company": "",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-25T10:59:05+00:00",
+      "fingerprint": "cb531fe9c0247e46a80beab8bfc0792a6be9916c"
+    },
+    {
       "title": "Neptune Aviation launches next-generation airtanker programme with first Airbus A319 - Aviation24.be",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYm9jdEFfRUxabFZ0SDhIQnNDbE0zWWdjQWpVcDJUTnB6N3ZtRENfS2NldXJNRmpja1RPc2Nmbl8tMWloZDV0LW9yRGd4REdrbk9EUVlYWndUdDBmRWxSS3VnNE9Gd05wcVFQc3JrOWFBeUtPdFU0YWxHT3NHbUIwMkxGQnhPVmVPSFRZZnZJczBmTzYyNXFfUEt6RTRURHlaNTY4OHBVTWNlU0lybXFfdV85VFFER3Npcld2MS1LWHVyQks5VTh2OTcweG5xWTVZNDdiLVNKVXdjMUh1YXBR0gHkAUFVX3lxTE8wVkJyRlV6Z3RjWlUxdmFTMV8xdERNODF1VEFZLUptNHFWTWRvaFdkRzJoYkZNLVZMeHU0V1FCN2tIcGZmclFfZmpySUU4Sk1vMnRRQXRlTlZEb0ZzTXhMOGh6RmxzQ3F4UjBDTlVrMFRhZTlCOUJPTlItMFc5ajNXZ2dMRzdaY0xwY21JYWotb1hVeG1mRFI5WkdZMVY4RFFGOENvSXQ1a2xzZndqeUhnOE9pZXdCLWVEUTZqRHMySHREY0NVRW9lVVBzV1ozS1otc1ZuYnBJeDYySWdNWkhmTkN3Qg?oc=5",
       "source": "Aviation24.be",
@@ -286,19 +337,79 @@
       "fingerprint": "858eb30c7b926637f2f39c25bf07b69d285b4119"
     },
     {
-      "title": "Hosepipe ban map: Is my area under restrictions during record UK heatwave? - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeExQSWxyci00YUwzeU53SzJWX2hvSnBvM3NTWEg0Uno0RllUbUhqZ3huVzJ3c3VrUlpVTmRkeVJWcHhmVHlSMEViT21XcHdDNW9HOWNtblBtZUhTRXRaaGRscHpqRFFzeEZFLW85QUdkd2ItOThwVkp2dGl5aGQ5WEhUZEdrbUZYYWd1REtrV2JmSFREcUx3dExES1BhZllxZFN1djBnOHRiczBK?oc=5",
-      "source": "The Independent",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeExQSWxyci00YUwzeU53SzJWX2hvSnBvM3NTWEg0Uno0RllUbUhqZ3huVzJ3c3VrUlpVTmRkeVJWcHhmVHlSMEViT21XcHdDNW9HOWNtblBtZUhTRXRaaGRscHpqRFFzeEZFLW85QUdkd2ItOThwVkp2dGl5aGQ5WEhUZEdrbUZYYWd1REtrV2JmSFREcUx3dExES1BhZllxZFN1djBnOHRiczBK?oc=5\" target=\"_blank\">Hosepipe ban map: Is my area under restrictions during record UK heatwave?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+      "title": "James Hardie Industries consensus picture midweek, shares tracked on NYSE and ASX - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk1UekdMY2xLQmUzaFBPcTRmcWZmaUNNOHdzakN2SjRrb05KSG1pN0VpUlMwTDdyeW11dGk4OFhhU2dPNEFrNElmbFFfMkRZeVFZSWUySEVERE5sTVdMdlZSUVl0d2YySWtfclZEQ1dKNnY1X21tWnpwenRpRi1ldXl4aEN2LU93NDhaelR5TkUtdUhjcDVSem1SWnhBQ0ZwSUJNQmtkMlNBcTFFa1E5eXNIZEcxVnAzcjBQZHlmMjNGRkFseUZEcVJyOA?oc=5",
+      "source": "Ad-hoc-news.de",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYk1UekdMY2xLQmUzaFBPcTRmcWZmaUNNOHdzakN2SjRrb05KSG1pN0VpUlMwTDdyeW11dGk4OFhhU2dPNEFrNElmbFFfMkRZeVFZSWUySEVERE5sTVdMdlZSUVl0d2YySWtfclZEQ1dKNnY1X21tWnpwenRpRi1ldXl4aEN2LU93NDhaelR5TkUtdUhjcDVSem1SWnhBQ0ZwSUJNQmtkMlNBcTFFa1E5eXNIZEcxVnAzcjBQZHlmMjNGRkFseUZEcVJyOA?oc=5\" target=\"_blank\">James Hardie Industries consensus picture midweek, shares tracked on NYSE and ASX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
       "feed_group": "company",
-      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
       "categories": [],
-      "company": "Record UK",
+      "company": "James Hardie",
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-25T09:14:00+00:00",
-      "fingerprint": "65b42780edb10330a58b4d76cc01ade604d1461d"
+      "published": "2026-06-25T14:24:53+00:00",
+      "fingerprint": "f0a3025760c6bf64e8a71ac3e7a124effa0fc84c"
+    },
+    {
+      "title": "James Hardie (ASX:JHX) Stock Surges as Buyers Step In \u2014 Housing Play Back in Focus - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmlKalc1UGlkYnlhQjZJcFU0VVNkT3MtY1JVVEk2LWtsTzNvamRIcFBjbUo1Q2ktWEFkeU9CX2ZWRG1lYThlNmxLZDNoUzVaWGtsODJpaHdqZjJ3TExaaGRGQlpmNWJRTnF3ZHNWWTJwLUhlaV9zclhRTzk3YkwyTnNIblNnSWpqM2x5RzZJUHd6Tm1maURidVExckVIUkc3aUloU1lISmpPVTNqNmk4dUhqNVlyVTBPQ3c?oc=5",
+      "source": "Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmlKalc1UGlkYnlhQjZJcFU0VVNkT3MtY1JVVEk2LWtsTzNvamRIcFBjbUo1Q2ktWEFkeU9CX2ZWRG1lYThlNmxLZDNoUzVaWGtsODJpaHdqZjJ3TExaaGRGQlpmNWJRTnF3ZHNWWTJwLUhlaV9zclhRTzk3YkwyTnNIblNnSWpqM2x5RzZJUHd6Tm1maURidVExckVIUkc3aUloU1lISmpPVTNqNmk4dUhqNVlyVTBPQ3c?oc=5\" target=\"_blank\">James Hardie (ASX:JHX) Stock Surges as Buyers Step In \u2014 Housing Play Back in Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-25T13:17:00+00:00",
+      "fingerprint": "1614d47a2f322ccc405e58e2603abe5aa80b5207"
+    },
+    {
+      "title": "James Hardie Industries (ASX:JHX) Rallies as Housing-Linked Growth Optimism ReturnsCategory: Industrials - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYVA3Sk5aazNwR2I4YVBZMkRTRVZKR0xtdDVjSVNGWUFUeWh1UWF2cW9XZV84d3BLdk52cVFrNWl4dDhaUGhNQUVreldWNWxVMzNZNkg0OEx6SmltaERSb1cwS21hOTVNcTBQdmJ3eU5nNmVtNXQwdjh2SGhDcDRYMDg1S0d0UU04WFZSWVFST2pjUHBIdV9NMHhtVVd2UFFHc2JESFBQTUhMU0RYcGxuRFlHVGVwWHFFZ1Ezel9XcjFKaV83LXNwV1Qxb09sSmQzNEFIcEt4bw?oc=5",
+      "source": "Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYVA3Sk5aazNwR2I4YVBZMkRTRVZKR0xtdDVjSVNGWUFUeWh1UWF2cW9XZV84d3BLdk52cVFrNWl4dDhaUGhNQUVreldWNWxVMzNZNkg0OEx6SmltaERSb1cwS21hOTVNcTBQdmJ3eU5nNmVtNXQwdjh2SGhDcDRYMDg1S0d0UU04WFZSWVFST2pjUHBIdV9NMHhtVVd2UFFHc2JESFBQTUhMU0RYcGxuRFlHVGVwWHFFZ1Ezel9XcjFKaV83LXNwV1Qxb09sSmQzNEFIcEt4bw?oc=5\" target=\"_blank\">James Hardie Industries (ASX:JHX) Rallies as Housing-Linked Growth Optimism ReturnsCategory: Industrials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-25T12:48:00+00:00",
+      "fingerprint": "36df2492dec8ac53477176500232a9857889b164"
+    },
+    {
+      "title": "First Scottish flights to 'Gateway to the Arctic' to see Northern Lights - The Scotsman",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3dQU0lkY3JBX1ExVEVyTnNYeXJuUVNzTzM4RjQ0cWNkZHdiVUoyMGszRlMxOTZfdGRNMGVfSzZ2VGhFZ2xfMEctdkdNTUx4b3ZrT0tXVVFMOFpfNndLUGU2bmhzNTlzdTdobTBnWnVQYWxJN1hvN3BMbGt6aUZFQmJyTjhCd3hpSjFrd3hwWTFrc0Q0RGpBdVpJUUk0UmZleUlGU1JOVFBSejFfMDZxS2dWNFk2RENPQXo3bW05Nk1ZbmwxVTFtbU9KUEtrdUJXQmFEa0Y5X21rTGhOTDlQLUs2ZGpJUQ?oc=5",
+      "source": "The Scotsman",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3dQU0lkY3JBX1ExVEVyTnNYeXJuUVNzTzM4RjQ0cWNkZHdiVUoyMGszRlMxOTZfdGRNMGVfSzZ2VGhFZ2xfMEctdkdNTUx4b3ZrT0tXVVFMOFpfNndLUGU2bmhzNTlzdTdobTBnWnVQYWxJN1hvN3BMbGt6aUZFQmJyTjhCd3hpSjFrd3hwWTFrc0Q0RGpBdVpJUUk0UmZleUlGU1JOVFBSejFfMDZxS2dWNFk2RENPQXo3bW05Nk1ZbmwxVTFtbU9KUEtrdUJXQmFEa0Y5X21rTGhOTDlQLUs2ZGpJUQ?oc=5\" target=\"_blank\">First Scottish flights to 'Gateway to the Arctic' to see Northern Lights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Scotsman</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-25T11:09:00+00:00",
+      "fingerprint": "f4e5308d568101299a23e980524f582d76f17810"
+    },
+    {
+      "title": "Classiq & TEA TEK Group Launch 128-Qubit Hub In Naples - Quantum Zeitgeist",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vOWFoVW9ZcUh2YUF3dmRFanZYbUU2MjdGLXR0aF95Z01rWFdLbDVycUhwVExXQWxsSUZtMTBLQ01HQ2t2VktnZG5xQUdFeEZsSEFvd3RicXZzelF0aHRCNDBtTXVmZw?oc=5",
+      "source": "Quantum Zeitgeist",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vOWFoVW9ZcUh2YUF3dmRFanZYbUU2MjdGLXR0aF95Z01rWFdLbDVycUhwVExXQWxsSUZtMTBLQ01HQ2t2VktnZG5xQUdFeEZsSEFvd3RicXZzelF0aHRCNDBtTXVmZw?oc=5\" target=\"_blank\">Classiq & TEA TEK Group Launch 128-Qubit Hub In Naples</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: Sydenhams \u2026 Tippers (11)",
+      "categories": [],
+      "company": "Tek Group",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-25T08:57:01+00:00",
+      "fingerprint": "1d402fd5dcdec271d6c41ec1b545674b5a18e787"
     },
     {
       "title": "Kingspan Sustainability Report Signals Building Shift - Roofing Contractor",
@@ -421,21 +532,6 @@
       "fingerprint": "9f5fceb31d45451704df331d2e85227660f42cb4"
     },
     {
-      "title": "The Northern Lights Kit | Pre-order now - Aberdeen FC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZnB0RTJkaWN5RFExNWJyU2ZXWUpkSU9rMXZDczd5QTV1V2g3MC11ZkJIbmZkOHh1VnVfd2c4WnViYkZGeHVydUhhcFh4RXdUMXItbU11LTZ2Q1RHUjdlaHVlWVpJc1VRemhCalY3WXBySnU0SFE?oc=5",
-      "source": "Aberdeen FC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1iZnB0RTJkaWN5RFExNWJyU2ZXWUpkSU9rMXZDczd5QTV1V2g3MC11ZkJIbmZkOHh1VnVfd2c4WnViYkZGeHVydUhhcFh4RXdUMXItbU11LTZ2Q1RHUjdlaHVlWVpJc1VRemhCalY3WXBySnU0SFE?oc=5\" target=\"_blank\">The Northern Lights Kit | Pre-order now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aberdeen FC</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-24T10:45:07+00:00",
-      "fingerprint": "e40e576f54e58eb793047b420ccc3e508cacb18a"
-    },
-    {
       "title": "British steel fabricators are calling for the new steel measures to be revised - GMK Center",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1J1T2J0NlYyMzhkcW9va2o3UFJLcGp3bDV4T0U4YXpvc3FZdEFEMm83TFlPNEVPOW1YNk1GNG52ZnMwYkpaRWg3OHpoWUxlWTRJVXc5WER2TWpRZGJZTEV4cEpXMHdrTzc1YjlCcGlUSEJqRkZIQTB0NWpIVDliVnpPNm1LMjF6TlZLd21scjJZVlU3TDJidmpvNzg5dm5RbFdzNHZYWm5Fd9IBrwFBVV95cUxPWjR4S0dHaEVzWjdTdWZQeS0tTlU1dF8wRmFIaXB5MU9NazlkNHBjV1VfVVlZWTZnUjNvaWJHTktnQ19nNktEVm5DVUs3dUhTM05hWGVwT25fcDZwZkZEblVOZThDTXlQUEp1cGRPQWhRNGo4ZGdTaUxSSVU1QnZLT2tMWDl3TWkydjFBTFpldFNHTEJkb3NONkdBYkhrcGJmZ1ZWNGxaLXNVTlk4TUdv?oc=5",
       "source": "GMK Center",
@@ -464,21 +560,6 @@
       "likely_roles": "",
       "published": "2026-06-24T06:00:00+00:00",
       "fingerprint": "9a32dbc3f04b2f92fb09d98b8417bfac9c2a0a58"
-    },
-    {
-      "title": "The COOL-FIT 4.0 from Georg Fischer AG - pre-insulated piping for tight plant spaces - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV2RZUHBBQlhtR2hjOHJLSC1OdThWSG1ybnN3OWZzQkhfc2tFZlAxYlEzWFhpNmc3aGpPZG4wanV1MXZXdDVSbmFyN2lZVG9VbjVjaldaUEhEYjVDUnczZmV2ZEE3cVZQazFyY2ZXdjRlb1Zkczg3ZFl0eHhhM2tTSV9zS3FHTnItaFlqZlY4aUtXV0NsOHpsQktpazd4d0ZNYlFCa2w3akYzaXpsNldNTkUya0p5Smw1aFdmSmJfeG1GaXJpbjVN?oc=5",
-      "source": "Ad-hoc-news.de",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQV2RZUHBBQlhtR2hjOHJLSC1OdThWSG1ybnN3OWZzQkhfc2tFZlAxYlEzWFhpNmc3aGpPZG4wanV1MXZXdDVSbmFyN2lZVG9VbjVjaldaUEhEYjVDUnczZmV2ZEE3cVZQazFyY2ZXdjRlb1Zkczg3ZFl0eHhhM2tTSV9zS3FHTnItaFlqZlY4aUtXV0NsOHpsQktpazd4d0ZNYlFCa2w3akYzaXpsNldNTkUya0p5Smw1aFdmSmJfeG1GaXJpbjVN?oc=5\" target=\"_blank\">The COOL-FIT 4.0 from Georg Fischer AG - pre-insulated piping for tight plant spaces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
-      "feed_group": "company",
-      "feed_title": "HVAC & Building Services: Frese \u2026 Heat Exchange Grou (11)",
-      "categories": [],
-      "company": "Georg Fischer",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-24T01:44:55+00:00",
-      "fingerprint": "c073c6d488d627b8a9c074b0083052dbe658000d"
     },
     {
       "title": "US glue maker swoops on AIM-listed manufacturer in \u00a3659m deal - City AM",
