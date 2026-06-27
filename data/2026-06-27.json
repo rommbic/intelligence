@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T11:03:20.497626+00:00",
+  "generated_at": "2026-06-27T13:56:10.088322+00:00",
   "date": "2026-06-27",
-  "count": 22,
+  "count": 20,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -30,23 +30,6 @@
       "likely_roles": "",
       "published": "2026-06-26T10:59:48+00:00",
       "fingerprint": "1500a90276b64adb3e71168002743228add3fb81"
-    },
-    {
-      "title": "City Opens Kevin Walters Plaza in Downtown Winnipeg - ChrisD.ca",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9abXNMdW01OHVyWG8wR1d1M09EcDBlaTc0MDJnbjc1REJCNDRuZVFGcjZoamJtcGFtbzZscDNnOHI5X1RhbjF1Vzh2cGNXcXpMZXZyUWlWUWpUVHJ3SVJWSTY0YmVWV3RPc2tkZi1KVQ?oc=5",
-      "source": "ChrisD.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9abXNMdW01OHVyWG8wR1d1M09EcDBlaTc0MDJnbjc1REJCNDRuZVFGcjZoamJtcGFtbzZscDNnOHI5X1RhbjF1Vzh2cGNXcXpMZXZyUWlWUWpUVHJ3SVJWSTY0YmVWV3RPc2tkZi1KVQ?oc=5\" target=\"_blank\">City Opens Kevin Walters Plaza in Downtown Winnipeg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChrisD.ca</font>",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Walters",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T16:51:17+00:00",
-      "fingerprint": "5fad78142935f07d98f5fff44866facfb4fd2cc3"
     },
     {
       "title": "James Hardie stock initiated at Overweight by Stephens on merger synergies - Investing.com UK",
@@ -194,6 +177,36 @@
       "fingerprint": "98f954d77dc0e8185166fc0bb97f2b421d2dc055"
     },
     {
+      "title": "James Hardie (JHX) fully redeems US$400M 5.00% senior unsecured notes - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2pvQ0lRM0xjNWtfYzZwVmo2X3JDM3pFQkhYM1NnZ21sYUhPT2djanRXOVcyQm40SURnbDQ5YUFGZXpaYk1zT2RNQTJISWFqRWxqLTJJeS1LMkNJWFc5bGJYeHpza01aNEVSZVhQbGg4eFQ4b291Z0k4aDhNb3JwSDBwejN1QjhiaTk5M0N1WTVDNXJsY09ZRzFPdWZkb3ZIYjY4ZFY4SXp3eFp0X2puTFdBNEk5dw?oc=5",
+      "source": "Stock Titan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2pvQ0lRM0xjNWtfYzZwVmo2X3JDM3pFQkhYM1NnZ21sYUhPT2djanRXOVcyQm40SURnbDQ5YUFGZXpaYk1zT2RNQTJISWFqRWxqLTJJeS1LMkNJWFc5bGJYeHpza01aNEVSZVhQbGg4eFQ4b291Z0k4aDhNb3JwSDBwejN1QjhiaTk5M0N1WTVDNXJsY09ZRzFPdWZkb3ZIYjY4ZFY4SXp3eFp0X2puTFdBNEk5dw?oc=5\" target=\"_blank\">James Hardie (JHX) fully redeems US$400M 5.00% senior unsecured notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-26T10:07:04+00:00",
+      "fingerprint": "843bfcbd768c97f4398460abccaa2809b30436d7"
+    },
+    {
+      "title": "James Hardie redeems $400M 5.00% senior notes due 2028 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjdqWXpoSExiOE1wQV9JWEx0MUxVRlo5Y2xHOUVueFhqVlNCVUplTXRvWFdvZ0NKdTRSVmMwQTBqbUQxZUQtYnhUbzM5UUNIMWNjQUZhQ0o4UFMydGJtUTZsX0MwY0FVSC0ySmxRbkRMa3d4UmhZWFhXdU1uVTljbFRrWFB3aWkzZHR0NXM4U1FoazNheldxTlFRYkplTU05bjZNbl85bHp2dHZaM0FleW1IYi0?oc=5",
+      "source": "TradingView",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjdqWXpoSExiOE1wQV9JWEx0MUxVRlo5Y2xHOUVueFhqVlNCVUplTXRvWFdvZ0NKdTRSVmMwQTBqbUQxZUQtYnhUbzM5UUNIMWNjQUZhQ0o4UFMydGJtUTZsX0MwY0FVSC0ySmxRbkRMa3d4UmhZWFhXdU1uVTljbFRrWFB3aWkzZHR0NXM4U1FoazNheldxTlFRYkplTU05bjZNbl85bHp2dHZaM0FleW1IYi0?oc=5\" target=\"_blank\">James Hardie redeems $400M 5.00% senior notes due 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-26T10:03:05+00:00",
+      "fingerprint": "9114daf6e521a55f8fba8531fed6c8a17f3c6727"
+    },
+    {
       "title": "James Hardie Industries (JHX) Completes $400M Redemption of Seni - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGFFcDh3bXd2aWJabnQ0cWRNVFhpMC01aHBhM0hqVGl4ZzIwdGVoSXNaeUpSMWNrQndqNXBoSHJPckZ1UjFvdjVsSVhuYzNKTUNNZ2ZpajNZQlRKcExSMlNpT3FoY19EWFRVUzM4Y18zRk11SGRPQlhmalFxVFhNR2dQZk43U1hCbWFyMkFlQ0ZKLVJSeVN5QXcwcUxUb0FUMjlKWGZrQWVWTE1m?oc=5",
       "source": "GuruFocus",
@@ -267,51 +280,6 @@
       "likely_roles": "",
       "published": "2026-06-26T02:54:00+00:00",
       "fingerprint": "188ff92f321edb7c30face552cdd002569d16384"
-    },
-    {
-      "title": "James Hardie redeems $400 million senior notes due 2028 - Investing.com UK",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUtLT3Z0WHVRaFlsRmRNclcwdVVHWU9hRm1LYlAtMkdGalJCQzVSWUpTSHI2OHVZcjNnU0ZoYjI0V0lfV1YyYXJ4bjRpSEhEeGlGaEZfRDNERWZ4OVpRbzZaUmxrNllsQWxfVkdRdGcyOGl3WW1qdG94ME5lVlpKY3dXQV9fbDRFVmlBc1o1R0lLYlB4Sml0aUN1TUg2V2c3aGNsTXZBcmhVaFNsNWZocFdNVjBfOVZ5bmNtU2t6Q0tLVnREUFE?oc=5",
-      "source": "Investing.com UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUtLT3Z0WHVRaFlsRmRNclcwdVVHWU9hRm1LYlAtMkdGalJCQzVSWUpTSHI2OHVZcjNnU0ZoYjI0V0lfV1YyYXJ4bjRpSEhEeGlGaEZfRDNERWZ4OVpRbzZaUmxrNllsQWxfVkdRdGcyOGl3WW1qdG94ME5lVlpKY3dXQV9fbDRFVmlBc1o1R0lLYlB4Sml0aUN1TUg2V2c3aGNsTXZBcmhVaFNsNWZocFdNVjBfOVZ5bmNtU2t6Q0tLVnREUFE?oc=5\" target=\"_blank\">James Hardie redeems $400 million senior notes due 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T01:52:01+00:00",
-      "fingerprint": "463e3839603aeb8ea689e7d6b560cecfc0faa17b"
-    },
-    {
-      "title": "Met Office Issues Storm Warning Following Record UK Heatwave - sekbernews.id",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96X3AyWlBwQWdOQ19XRkVrd3JGTWVMSW10eHVlNmwzdnRkZTdYTU9VUk5lQmVLLW9pUlMtTEpGbFdGb0ZlTWUtaHhPaEtacXNfb3JZWENYemNWQk9Cb3ktN3M3RXpZZXpYUXBwWA?oc=5",
-      "source": "sekbernews.id",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE96X3AyWlBwQWdOQ19XRkVrd3JGTWVMSW10eHVlNmwzdnRkZTdYTU9VUk5lQmVLLW9pUlMtTEpGbFdGb0ZlTWUtaHhPaEtacXNfb3JZWENYemNWQk9Cb3ktN3M3RXpZZXpYUXBwWA?oc=5\" target=\"_blank\">Met Office Issues Storm Warning Following Record UK Heatwave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sekbernews.id</font>",
-      "feed_group": "company",
-      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
-      "categories": [],
-      "company": "Record UK",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T01:28:56+00:00",
-      "fingerprint": "578fe4fdd01e0ae2314a6ca70f3324818ad2e9fe"
-    },
-    {
-      "title": "Breedon Group PLC Actuals & Estimates (GETTEX:CQB0) - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN2F6SXdIalFZN1FKRUtPd3JQaThiZU9ZQldaai1hR0p2MWFIQjF4V3A4Y1ZpekZyem9QMDctQ2ZWdFdRNVZ5bVRtb1JRSkx2N3dHTExrVEZSYmdxOWlEOW1PclFOYUYtcnFsTXUtZ09YMktGcGsyVkp1Y3ZNUzVZLXA4UHZaRUVEMVFTeDIzemZ6aW1XXzNmb3VoVnBwRFk?oc=5",
-      "source": "TradingView",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN2F6SXdIalFZN1FKRUtPd3JQaThiZU9ZQldaai1hR0p2MWFIQjF4V3A4Y1ZpekZyem9QMDctQ2ZWdFdRNVZ5bVRtb1JRSkx2N3dHTExrVEZSYmdxOWlEOW1PclFOYUYtcnFsTXUtZ09YMktGcGsyVkp1Y3ZNUzVZLXA4UHZaRUVEMVFTeDIzemZ6aW1XXzNmb3VoVnBwRFk?oc=5\" target=\"_blank\">Breedon Group PLC Actuals & Estimates (GETTEX:CQB0)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "feed_group": "company",
-      "feed_title": "Roofing & Rooflights: Blackdown Greenroo \u2026 Cardinal Steels (10)",
-      "categories": [],
-      "company": "Breedon Group",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T00:43:51+00:00",
-      "fingerprint": "efc4410714b0720dcc83299164340f6fab37fa1e"
     },
     {
       "title": "It\u2019s the End of an Era for Netflix\u2019s \u2018Bosch\u2019 Replacement as Final Chapter Nears - Collider",
