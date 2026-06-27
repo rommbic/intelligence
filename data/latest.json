@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T19:30:51.545547+00:00",
+  "generated_at": "2026-06-27T22:10:00.888644+00:00",
   "date": "2026-06-27",
-  "count": 17,
+  "count": 16,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,40 +13,6 @@
     "New product launch"
   ],
   "items": [
-    {
-      "title": "City Opens Kevin Walters Plaza in Downtown Winnipeg - ChrisD.ca",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9abXNMdW01OHVyWG8wR1d1M09EcDBlaTc0MDJnbjc1REJCNDRuZVFGcjZoamJtcGFtbzZscDNnOHI5X1RhbjF1Vzh2cGNXcXpMZXZyUWlWUWpUVHJ3SVJWSTY0YmVWV3RPc2tkZi1KVQ?oc=5",
-      "source": "ChrisD.ca",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9abXNMdW01OHVyWG8wR1d1M09EcDBlaTc0MDJnbjc1REJCNDRuZVFGcjZoamJtcGFtbzZscDNnOHI5X1RhbjF1Vzh2cGNXcXpMZXZyUWlWUWpUVHJ3SVJWSTY0YmVWV3RPc2tkZi1KVQ?oc=5\" target=\"_blank\">City Opens Kevin Walters Plaza in Downtown Winnipeg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChrisD.ca</font>",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Walters",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T16:51:17+00:00",
-      "fingerprint": "5fad78142935f07d98f5fff44866facfb4fd2cc3"
-    },
-    {
-      "title": "James Hardie stock initiated at Overweight by Stephens on merger synergies - Investing.com UK",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQzIyVmQ3eEJpSjd4WGNpNjVkSnlONEVHRFJtZHZ4QTZpeUhYWEY4SjN3OXpILWxpbkgzMGNkMGZoYVBIX1RzamZ6YmwtOUxrVHF4dXRNbzJfcUdYcVVEbEgwZFZOM2lzX0JrbTItY0tlLVpTei1ubEZNQzFqNUdqMWhsWFlUVHpfbWt5WDBWZ1FVOUh5WTlpNzdyYU5JR0U3T0FCOHlJc0NLWVNRWW1YNmIzUEcwb0pET2pYbkF1Q21raVFYaFlnWTV2STAyM1FxVGpnaXhubk50MWZvSFJ4eg?oc=5",
-      "source": "Investing.com UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQzIyVmQ3eEJpSjd4WGNpNjVkSnlONEVHRFJtZHZ4QTZpeUhYWEY4SjN3OXpILWxpbkgzMGNkMGZoYVBIX1RzamZ6YmwtOUxrVHF4dXRNbzJfcUdYcVVEbEgwZFZOM2lzX0JrbTItY0tlLVpTei1ubEZNQzFqNUdqMWhsWFlUVHpfbWt5WDBWZ1FVOUh5WTlpNzdyYU5JR0U3T0FCOHlJc0NLWVNRWW1YNmIzUEcwb0pET2pYbkF1Q21raVFYaFlnWTV2STAyM1FxVGpnaXhubk50MWZvSFJ4eg?oc=5\" target=\"_blank\">James Hardie stock initiated at Overweight by Stephens on merger synergies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [
-        "Acquisition / M&A"
-      ],
-      "company": "James Hardie",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T15:36:55+00:00",
-      "fingerprint": "1147cb8b8c4eab634f3e8da2579b705704451263"
-    },
     {
       "title": "Students have bold vision for future of Wimborne Minster - Dorset View",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQczB1RFB2WmZFYWNVNjNBM1N4WWJRWm10QlBBMUZ1LTNtZkhsek50YzVmSWdWcVN5SlRHNGwyTHM5TnlKV1FuX2s3Q3VtZzBiX3JHNEpMQk1YcjRpcmpZV2lNekFDQXhFLWQ3R0Y1TWN3QXk0QkE3eTB0S0REWXhTUm5DTTFsVmk5MlE?oc=5",
@@ -63,6 +29,23 @@
       "likely_roles": "",
       "published": "2026-06-26T12:06:45+00:00",
       "fingerprint": "c8ecdfd3f92ec402bede8d26f3150d557e0ef4af"
+    },
+    {
+      "title": "James Hardie stock initiated at Overweight by Stephens on merger synergies - Investing.com UK",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHE3WGtKV3Q1SE8xbmM5aElwMUFPLXRXeHFneU1kaWJBMThweUgtTDBLNU50NS1SVFRxUEdLLVozaUxFRmNETl9ycE12b3RZS3hRcWN0cmd6R0tkTUlOcUNGcVltZmlNN3puNDFmLTRoaHdMUUV5OGJtTUtpb2FYR2wzT2ZvQ3ZqRnFpWFlIaFZsMWVCTl9Qb1pGWjNFRUNNcmw4U0hSemdPUldNZVlsRU1oNWxTSUxiUk9WUXJiWFVJT1E1NF9fQ093Z1pKdGR6?oc=5",
+      "source": "Investing.com UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHE3WGtKV3Q1SE8xbmM5aElwMUFPLXRXeHFneU1kaWJBMThweUgtTDBLNU50NS1SVFRxUEdLLVozaUxFRmNETl9ycE12b3RZS3hRcWN0cmd6R0tkTUlOcUNGcVltZmlNN3puNDFmLTRoaHdMUUV5OGJtTUtpb2FYR2wzT2ZvQ3ZqRnFpWFlIaFZsMWVCTl9Qb1pGWjNFRUNNcmw4U0hSemdPUldNZVlsRU1oNWxTSUxiUk9WUXJiWFVJT1E1NF9fQ093Z1pKdGR6?oc=5\" target=\"_blank\">James Hardie stock initiated at Overweight by Stephens on merger synergies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "James Hardie",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-26T11:52:00+00:00",
+      "fingerprint": "1147cb8b8c4eab634f3e8da2579b705704451263"
     },
     {
       "title": "Cn Enters Track Supply Agreement With Voestalpine Railway Systems - megaproject.com",
@@ -97,6 +80,21 @@
       "likely_roles": "",
       "published": "2026-06-26T15:25:41+00:00",
       "fingerprint": "e440f116185c2fcd1496b2090cf4dcb9b73c534a"
+    },
+    {
+      "title": "Aurora Expeditions Sets New Arctic Adventure Routes for 2026\u20132027 Focused on Northern Lights and Remote Polar Exploration - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zMXhHT3NFbWhTTFl0TFQwNWMwd3hjdDZjVUN6elJlU3g3di1HZ2VhTEV2dHRmTDA1LV9zdGYtTV9JU3ZINFZqV25kM3BwYndKZFdSQ2FRNUFkVDRXWFllMDVYaE1aYUV1YnFyMnp3?oc=5",
+      "source": "Travel And Tour World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9zMXhHT3NFbWhTTFl0TFQwNWMwd3hjdDZjVUN6elJlU3g3di1HZ2VhTEV2dHRmTDA1LV9zdGYtTV9JU3ZINFZqV25kM3BwYndKZFdSQ2FRNUFkVDRXWFllMDVYaE1aYUV1YnFyMnp3?oc=5\" target=\"_blank\">Aurora Expeditions Sets New Arctic Adventure Routes for 2026\u20132027 Focused on Northern Lights and Remote Polar Exploration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-27T19:20:48+00:00",
+      "fingerprint": "ec5618e532856bf281ffc186f504b00d89eb42bf"
     },
     {
       "title": "Northern Lights Forecast: 9 States May See The Aurora Saturday Night - Forbes",
@@ -142,6 +140,21 @@
       "likely_roles": "",
       "published": "2026-06-27T09:26:31+00:00",
       "fingerprint": "3846e986f8801b024792cc3345d5362bc33fd216"
+    },
+    {
+      "title": "James Hardie Industries Initiated at Overweight by Stephens & Co. - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmcwQlRELTFhX2UxNnZheTBIYUF3WE5lZ0VqSnFUa1BWWHJBRVptY0gwd1FpQnVfQkQzSW5lRkl2UGZvRlgxMmJrZ3hsU01tM1FRN21QdUJPUURzTG9pa0pRbTB4Sl91cFluaUdQU0NBOTJRQ25tTmpRWndkZi0telJRUTlkaTA0MFZyN3lNSkhFXzdpV3BXNWszcXJxbmRJbkZCSVBONA?oc=5",
+      "source": "Moomoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmcwQlRELTFhX2UxNnZheTBIYUF3WE5lZ0VqSnFUa1BWWHJBRVptY0gwd1FpQnVfQkQzSW5lRkl2UGZvRlgxMmJrZ3hsU01tM1FRN21QdUJPUURzTG9pa0pRbTB4Sl91cFluaUdQU0NBOTJRQ25tTmpRWndkZi0telJRUTlkaTA0MFZyN3lNSkhFXzdpV3BXNWszcXJxbmRJbkZCSVBONA?oc=5\" target=\"_blank\">James Hardie Industries Initiated at Overweight by Stephens & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-26T22:26:41+00:00",
+      "fingerprint": "a3ed0e9a4e4c6de0f3b9307363b84efcea87bf00"
     },
     {
       "title": "Hosepipe ban map: Is my area under restrictions during record UK heatwave? - The Independent",
@@ -204,21 +217,6 @@
       "fingerprint": "98f954d77dc0e8185166fc0bb97f2b421d2dc055"
     },
     {
-      "title": "James Hardie redeems $400M 5.00% senior notes due 2028 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjdqWXpoSExiOE1wQV9JWEx0MUxVRlo5Y2xHOUVueFhqVlNCVUplTXRvWFdvZ0NKdTRSVmMwQTBqbUQxZUQtYnhUbzM5UUNIMWNjQUZhQ0o4UFMydGJtUTZsX0MwY0FVSC0ySmxRbkRMa3d4UmhZWFhXdU1uVTljbFRrWFB3aWkzZHR0NXM4U1FoazNheldxTlFRYkplTU05bjZNbl85bHp2dHZaM0FleW1IYi0?oc=5",
-      "source": "TradingView",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjdqWXpoSExiOE1wQV9JWEx0MUxVRlo5Y2xHOUVueFhqVlNCVUplTXRvWFdvZ0NKdTRSVmMwQTBqbUQxZUQtYnhUbzM5UUNIMWNjQUZhQ0o4UFMydGJtUTZsX0MwY0FVSC0ySmxRbkRMa3d4UmhZWFhXdU1uVTljbFRrWFB3aWkzZHR0NXM4U1FoazNheldxTlFRYkplTU05bjZNbl85bHp2dHZaM0FleW1IYi0?oc=5\" target=\"_blank\">James Hardie redeems $400M 5.00% senior notes due 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T10:03:05+00:00",
-      "fingerprint": "9114daf6e521a55f8fba8531fed6c8a17f3c6727"
-    },
-    {
       "title": "Guardians offer bittersweet announcement regarding injured relief arm - Away Back Gone",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVW5zdXctQ3cxRDFBQ3RDQS1tZzRGcWVXaG5WWUk3MG4tdHBaVHdQMlJqWDBTZ3B6MTNsRF80eXlKU1dwNjdicFd6MmJOcXdnZ2RDNTlNdl9RaDJ2R2xnZEhEVk9relQwUG1iTFJ0TnVCaDY1LXNaakl0SkNGd3psY3BwNFNmZkhHMllRRU5UaGNxVm9JYkVVOEhR?oc=5",
       "source": "Away Back Gone",
@@ -262,21 +260,6 @@
       "likely_roles": "",
       "published": "2026-06-26T19:25:07+00:00",
       "fingerprint": "30f0e3814ec775b66701b96008db8f821c8d0ba2"
-    },
-    {
-      "title": "Cemex supplies lower-carbon cement for one of Europe\u2019s tallest residential buildings - megaproject.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXJ6QldpSDlOQl9IV2xsRUZxNVp6SGh2XzBtcmMxVllqN3haMTBfUzVYeUwwVWE5RGQtaW55YlNic0N3OXNYZndrZW84Q3U4WWwxRU5LNXY2dWV3SURYX0t2WERYWncwTnRnbnRrUmdZV01aQnk0bU1EUzdUTVBMLXQzcjdsdWxTX1Bua0Z0MENzNGFCYWNSQ2pkN3c0Yjlxc3VnSWkwUFBPcm9ZY2FqbGZmMU1IVFZsdnI0?oc=5",
-      "source": "megaproject.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXJ6QldpSDlOQl9IV2xsRUZxNVp6SGh2XzBtcmMxVllqN3haMTBfUzVYeUwwVWE5RGQtaW55YlNic0N3OXNYZndrZW84Q3U4WWwxRU5LNXY2dWV3SURYX0t2WERYWncwTnRnbnRrUmdZV01aQnk0bU1EUzdUTVBMLXQzcjdsdWxTX1Bua0Z0MENzNGFCYWNSQ2pkN3c0Yjlxc3VnSWkwUFBPcm9ZY2FqbGZmMU1IVFZsdnI0?oc=5\" target=\"_blank\">Cemex supplies lower-carbon cement for one of Europe\u2019s tallest residential buildings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">megaproject.com</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T09:46:14+00:00",
-      "fingerprint": "2499ec56c5cbea124e6ed5144c80d8558c776913"
     }
   ]
 }
