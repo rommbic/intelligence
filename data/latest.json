@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T09:44:30.325922+00:00",
+  "generated_at": "2026-06-28T14:00:59.451200+00:00",
   "date": "2026-06-28",
-  "count": 12,
+  "count": 9,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,23 +13,6 @@
     "New product launch"
   ],
   "items": [
-    {
-      "title": "Northern Lights Arctic Exploration Expands With Aurora Expeditions Voyages Across Svalbard and Greenland Waters, All You Need to Know - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OWEkxbTl6UHV5bUxxTTRHZk1scmx1Vk9SdjdfWjZqN3JhOGZwZm1NcWloSGlVWklIbFB2enBzUTJ0NV95VFlCZDIwMGlFeVBmNTlmLVg1d1k2UVdlYlJpeXdzcXFZV2NGcUhuQS1B?oc=5",
-      "source": "Travel And Tour World",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5OWEkxbTl6UHV5bUxxTTRHZk1scmx1Vk9SdjdfWjZqN3JhOGZwZm1NcWloSGlVWklIbFB2enBzUTJ0NV95VFlCZDIwMGlFeVBmNTlmLVg1d1k2UVdlYlJpeXdzcXFZV2NGcUhuQS1B?oc=5\" target=\"_blank\">Northern Lights Arctic Exploration Expands With Aurora Expeditions Voyages Across Svalbard and Greenland Waters, All You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Northern Lights",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-27T13:56:27+00:00",
-      "fingerprint": "06451f2e0117a9c42d759acf27f59f85f326a209"
-    },
     {
       "title": "Cn Enters Track Supply Agreement With Voestalpine Railway Systems - megaproject.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGp0cVJEOVJWbE0wWk9zOTRGWGN3TG54enBPeEpDdDNEUy1xTW1OS0tpR3dxN09sYWlWcFpFX3M0UV9wdEhyRnJDNGNwQ1pwREQ1TllienBSSU5fZ3doendWVzcyY2FvUzU3YUtEVDF1Y3BmQjlteTVrc1c1dE1RSEZOdVJsWXUxaEY0bXdDTEVrQmhTWHlXUEZzczViWlI2eS1KcA?oc=5",
@@ -46,6 +29,21 @@
       "likely_roles": "",
       "published": "2026-06-27T09:44:35+00:00",
       "fingerprint": "5c50a9650bbb2de1f6635f5786bbb9b26da4093c"
+    },
+    {
+      "title": "Kingspan strategy and sector role, shares in building materials focus - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHhyWnVIVmxKTG1XVVJGZnd3SHRVeEYxUkhHUDNXSXhIenI3c2tFZXMwYkszaC1NU2RrV1A3MjktRTBJZVBGbUpnOHRPZHc2bm5xbGdtNGk1cGsteUFTMzdUUHA2ZjhCdVRjLS12aGtzRUZieUVWVUJHZjRDTDRzOEprLTF6cnhZeXJPMWJIRjA3ZEdvdTBfdWVfTzdsdWUyV1ZWZW9HY2YxU0N3OXQxZC0zVFUyYUJaa2MzaUM2ZmkxNHF2UlE?oc=5",
+      "source": "Ad-hoc-news.de",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHhyWnVIVmxKTG1XVVJGZnd3SHRVeEYxUkhHUDNXSXhIenI3c2tFZXMwYkszaC1NU2RrV1A3MjktRTBJZVBGbUpnOHRPZHc2bm5xbGdtNGk1cGsteUFTMzdUUHA2ZjhCdVRjLS12aGtzRUZieUVWVUJHZjRDTDRzOEprLTF6cnhZeXJPMWJIRjA3ZEdvdTBfdWVfTzdsdWUyV1ZWZW9HY2YxU0N3OXQxZC0zVFUyYUJaa2MzaUM2ZmkxNHF2UlE?oc=5\" target=\"_blank\">Kingspan strategy and sector role, shares in building materials focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [],
+      "company": "Kingspan",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-28T10:29:01+00:00",
+      "fingerprint": "5bf792ca92b02821b200a36500918d87d6d18620"
     },
     {
       "title": "Kastar Replacement NiMH Battery For Philips Norelco BodyGroom 7100, BG2040/34, TT2040/32 Razors - 2.4V 1000mAh, Soldered Terminals - Santo Andr\u00e9 BIZ",
@@ -93,36 +91,6 @@
       "fingerprint": "f278e27d27041fd861c09561c4329f4296b29cc4"
     },
     {
-      "title": "Record UK heatwave ends with storms and flight chaos - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSXJHb0prU0RxODBNQUZpTHhIZVdLMlM2UzFZUEZqZm1iRjdmODF2S1VNYmtLVGRDdFZrS2pXSHJIajlJaFJaS1lUcFk4Qkt6WWJvWXIwMS1lMFJyZWE0YkZxejBSdzJuNDctMzFvbVhtTFYxWWdvamtVeGVGenpQM1NHSVA1Yk5CaS1yUzl1VlNQa2RfbEVtQTVMcHNVaGxSUTkweHo4Z1J0cnJqSTdrTmNqMl9rNURlRnJIMWI5UGprWGZmX0RVSjk3X043MEdYTE9TczhnNHhHN2RPbFFhSW1SWmRVQXNib3c?oc=5",
-      "source": "MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSXJHb0prU0RxODBNQUZpTHhIZVdLMlM2UzFZUEZqZm1iRjdmODF2S1VNYmtLVGRDdFZrS2pXSHJIajlJaFJaS1lUcFk4Qkt6WWJvWXIwMS1lMFJyZWE0YkZxejBSdzJuNDctMzFvbVhtTFYxWWdvamtVeGVGenpQM1NHSVA1Yk5CaS1yUzl1VlNQa2RfbEVtQTVMcHNVaGxSUTkweHo4Z1J0cnJqSTdrTmNqMl9rNURlRnJIMWI5UGprWGZmX0RVSjk3X043MEdYTE9TczhnNHhHN2RPbFFhSW1SWmRVQXNib3c?oc=5\" target=\"_blank\">Record UK heatwave ends with storms and flight chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "feed_group": "company",
-      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
-      "categories": [],
-      "company": "Record UK",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-27T21:29:25+00:00",
-      "fingerprint": "121b1b11a9e9b5d4b5ff2a67b7796e7c226db599"
-    },
-    {
-      "title": "Aurora Expeditions Sets New Arctic Adventure Routes for 2026\u20132027 Focused on Northern Lights and Remote Polar Exploration - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zMXhHT3NFbWhTTFl0TFQwNWMwd3hjdDZjVUN6elJlU3g3di1HZ2VhTEV2dHRmTDA1LV9zdGYtTV9JU3ZINFZqV25kM3BwYndKZFdSQ2FRNUFkVDRXWFllMDVYaE1aYUV1YnFyMnp3?oc=5",
-      "source": "Travel And Tour World",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9zMXhHT3NFbWhTTFl0TFQwNWMwd3hjdDZjVUN6elJlU3g3di1HZ2VhTEV2dHRmTDA1LV9zdGYtTV9JU3ZINFZqV25kM3BwYndKZFdSQ2FRNUFkVDRXWFllMDVYaE1aYUV1YnFyMnp3?oc=5\" target=\"_blank\">Aurora Expeditions Sets New Arctic Adventure Routes for 2026\u20132027 Focused on Northern Lights and Remote Polar Exploration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-27T19:20:48+00:00",
-      "fingerprint": "ec5618e532856bf281ffc186f504b00d89eb42bf"
-    },
-    {
       "title": "Northern Lights Forecast: 9 States May See The Aurora Saturday Night - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjdkanViY1ZLdzBRNnVqMWNDZ2lfUTZsT1FiOC1OcVE5M2M5SGc4RVRuN1FCVVlVSFVodWpEUDNrQlFpYUEtcmhBY1MtaTM1MTBIV2VMZDJFVG1xT3hHSllfSld4S1liaWYzeTEtWDBfU2x2WmJ2cXQ0aDhSallJUFVQMVJGdTZ1RVNFTVpncU04OXRTUFNIdkdtU2VROV9CYS10R1FaOG5tRUtMV1RZQXR3MzRiNHpJTHlNU1Y1Vmp2VHM?oc=5",
       "source": "Forbes",
@@ -151,21 +119,6 @@
       "likely_roles": "",
       "published": "2026-06-27T09:26:31+00:00",
       "fingerprint": "3846e986f8801b024792cc3345d5362bc33fd216"
-    },
-    {
-      "title": "James Hardie Industries Initiated at Overweight by Stephens & Co. - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmcwQlRELTFhX2UxNnZheTBIYUF3WE5lZ0VqSnFUa1BWWHJBRVptY0gwd1FpQnVfQkQzSW5lRkl2UGZvRlgxMmJrZ3hsU01tM1FRN21QdUJPUURzTG9pa0pRbTB4Sl91cFluaUdQU0NBOTJRQ25tTmpRWndkZi0telJRUTlkaTA0MFZyN3lNSkhFXzdpV3BXNWszcXJxbmRJbkZCSVBONA?oc=5",
-      "source": "Moomoo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmcwQlRELTFhX2UxNnZheTBIYUF3WE5lZ0VqSnFUa1BWWHJBRVptY0gwd1FpQnVfQkQzSW5lRkl2UGZvRlgxMmJrZ3hsU01tM1FRN21QdUJPUURzTG9pa0pRbTB4Sl91cFluaUdQU0NBOTJRQ25tTmpRWndkZi0telJRUTlkaTA0MFZyN3lNSkhFXzdpV3BXNWszcXJxbmRJbkZCSVBONA?oc=5\" target=\"_blank\">James Hardie Industries Initiated at Overweight by Stephens & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T22:26:41+00:00",
-      "fingerprint": "a3ed0e9a4e4c6de0f3b9307363b84efcea87bf00"
     },
     {
       "title": "Guardians offer bittersweet announcement regarding injured relief arm - Away Back Gone",
