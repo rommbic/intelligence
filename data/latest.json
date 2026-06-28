@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T04:19:01.530756+00:00",
+  "generated_at": "2026-06-28T09:20:48.737096+00:00",
   "date": "2026-06-28",
-  "count": 11,
+  "count": 12,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Northern Lights Arctic Exploration Expands With Aurora Expeditions Voyages Across Svalbard and Greenland Waters, All You Need to Know - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OWEkxbTl6UHV5bUxxTTRHZk1scmx1Vk9SdjdfWjZqN3JhOGZwZm1NcWloSGlVWklIbFB2enBzUTJ0NV95VFlCZDIwMGlFeVBmNTlmLVg1d1k2UVdlYlJpeXdzcXFZV2NGcUhuQS1B?oc=5",
+      "source": "Travel And Tour World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5OWEkxbTl6UHV5bUxxTTRHZk1scmx1Vk9SdjdfWjZqN3JhOGZwZm1NcWloSGlVWklIbFB2enBzUTJ0NV95VFlCZDIwMGlFeVBmNTlmLVg1d1k2UVdlYlJpeXdzcXFZV2NGcUhuQS1B?oc=5\" target=\"_blank\">Northern Lights Arctic Exploration Expands With Aurora Expeditions Voyages Across Svalbard and Greenland Waters, All You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "Northern Lights",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-27T13:56:27+00:00",
+      "fingerprint": "06451f2e0117a9c42d759acf27f59f85f326a209"
+    },
     {
       "title": "Cn Enters Track Supply Agreement With Voestalpine Railway Systems - megaproject.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGp0cVJEOVJWbE0wWk9zOTRGWGN3TG54enBPeEpDdDNEUy1xTW1OS0tpR3dxN09sYWlWcFpFX3M0UV9wdEhyRnJDNGNwQ1pwREQ1TllienBSSU5fZ3doendWVzcyY2FvUzU3YUtEVDF1Y3BmQjlteTVrc1c1dE1RSEZOdVJsWXUxaEY0bXdDTEVrQmhTWHlXUEZzczViWlI2eS1KcA?oc=5",
@@ -29,6 +46,36 @@
       "likely_roles": "",
       "published": "2026-06-27T09:44:35+00:00",
       "fingerprint": "5c50a9650bbb2de1f6635f5786bbb9b26da4093c"
+    },
+    {
+      "title": "Kastar Replacement NiMH Battery For Philips Norelco BodyGroom 7100, BG2040/34, TT2040/32 Razors - 2.4V 1000mAh, Soldered Terminals - Santo Andr\u00e9 BIZ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2RGN19wQ08tTnNhenU1RE1qQVRiRkFsNWtZaUo2NjRFRjFNUHRWekM2cmxJNGUzRS1mczJTT3NTd3pURXNBeTltVmZYaGRla0Rhbkw5TC00S3N4ck40eUlFRnZPeTY3RFkyTU9PdkJxcC1EQzZEd1pJUGFLMUxCa0xHd1Ayd0JlLXppcmZrY0pxMGVvaEE?oc=5",
+      "source": "Santo Andr\u00e9 BIZ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2RGN19wQ08tTnNhenU1RE1qQVRiRkFsNWtZaUo2NjRFRjFNUHRWekM2cmxJNGUzRS1mczJTT3NTd3pURXNBeTltVmZYaGRla0Rhbkw5TC00S3N4ck40eUlFRnZPeTY3RFkyTU9PdkJxcC1EQzZEd1pJUGFLMUxCa0xHd1Ayd0JlLXppcmZrY0pxMGVvaEE?oc=5\" target=\"_blank\">Kastar Replacement NiMH Battery For Philips Norelco BodyGroom 7100, BG2040/34, TT2040/32 Razors - 2.4V 1000mAh, Soldered Terminals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santo Andr\u00e9 BIZ</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Philips",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-28T02:25:48+00:00",
+      "fingerprint": "17d258bf98edd8e04a335c9c7fbef56a0fec2bd7"
+    },
+    {
+      "title": "Record UK heatwave fuels rush for air-conditioned hotels - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY0Q0N0NwMnFOcHZnX21wdXZQYjJqMHB1TUREbm8xNkdHVEVpSWZ2QTQ3Znh5ZEJBYlhJOGI5aUJDdFVrdHlQRndQZkREUjg2UzBTdWU1eDQtNG00ZVVabkN3NWpzdTJ2RzU5d2NFT2VKcHpRbVJVSHlSdDIwQm1idDB2MG56anVxelJlaHVPVDZFRTBDejduX3VBY2Q4T0d6RWFJcHpURzhJWWpwNGpLRTNWdERUVUZaZVloUnVfMkdXY29VT0VQVFljaldrck81X1g0VEFjQ2ZPeXZUT2xERHE1UkE0c3MwcXBrQS1uaw?oc=5",
+      "source": "MSN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY0Q0N0NwMnFOcHZnX21wdXZQYjJqMHB1TUREbm8xNkdHVEVpSWZ2QTQ3Znh5ZEJBYlhJOGI5aUJDdFVrdHlQRndQZkREUjg2UzBTdWU1eDQtNG00ZVVabkN3NWpzdTJ2RzU5d2NFT2VKcHpRbVJVSHlSdDIwQm1idDB2MG56anVxelJlaHVPVDZFRTBDejduX3VBY2Q4T0d6RWFJcHpURzhJWWpwNGpLRTNWdERUVUZaZVloUnVfMkdXY29VT0VQVFljaldrck81X1g0VEFjQ2ZPeXZUT2xERHE1UkE0c3MwcXBrQS1uaw?oc=5\" target=\"_blank\">Record UK heatwave fuels rush for air-conditioned hotels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "feed_group": "company",
+      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
+      "categories": [],
+      "company": "Record UK",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-28T02:19:43+00:00",
+      "fingerprint": "e08be6da8d37309a482f24d26eebceb1309182d1"
     },
     {
       "title": "Aurora Expeditions Elevates Arctic Travel Experience With Multi-Region Northern Lights Expedition Itineraries : Know More - Travel And Tour World",
@@ -74,21 +121,6 @@
       "likely_roles": "",
       "published": "2026-06-27T14:04:13+00:00",
       "fingerprint": "fd5106fe256958a8d7a4f16c4f1fe11e0fa4f792"
-    },
-    {
-      "title": "Record UK heatwave fuels rush for air-conditioned hotels - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY0Q0N0NwMnFOcHZnX21wdXZQYjJqMHB1TUREbm8xNkdHVEVpSWZ2QTQ3Znh5ZEJBYlhJOGI5aUJDdFVrdHlQRndQZkREUjg2UzBTdWU1eDQtNG00ZVVabkN3NWpzdTJ2RzU5d2NFT2VKcHpRbVJVSHlSdDIwQm1idDB2MG56anVxelJlaHVPVDZFRTBDejduX3VBY2Q4T0d6RWFJcHpURzhJWWpwNGpLRTNWdERUVUZaZVloUnVfMkdXY29VT0VQVFljaldrck81X1g0VEFjQ2ZPeXZUT2xERHE1UkE0c3MwcXBrQS1uaw?oc=5",
-      "source": "MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY0Q0N0NwMnFOcHZnX21wdXZQYjJqMHB1TUREbm8xNkdHVEVpSWZ2QTQ3Znh5ZEJBYlhJOGI5aUJDdFVrdHlQRndQZkREUjg2UzBTdWU1eDQtNG00ZVVabkN3NWpzdTJ2RzU5d2NFT2VKcHpRbVJVSHlSdDIwQm1idDB2MG56anVxelJlaHVPVDZFRTBDejduX3VBY2Q4T0d6RWFJcHpURzhJWWpwNGpLRTNWdERUVUZaZVloUnVfMkdXY29VT0VQVFljaldrck81X1g0VEFjQ2ZPeXZUT2xERHE1UkE0c3MwcXBrQS1uaw?oc=5\" target=\"_blank\">Record UK heatwave fuels rush for air-conditioned hotels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "feed_group": "company",
-      "feed_title": "Building Envelope (other): Maple Sunscreening \u2026 Sigmat (13)",
-      "categories": [],
-      "company": "Record UK",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-27T11:59:43+00:00",
-      "fingerprint": "e08be6da8d37309a482f24d26eebceb1309182d1"
     },
     {
       "title": "Full nationalisation of British Steel expected in king\u2019s speech - AOL.com",
@@ -164,21 +196,6 @@
       "likely_roles": "",
       "published": "2026-06-27T10:00:13+00:00",
       "fingerprint": "41ebf33c35b25aae13645828b8b4e3b6ea6f0e05"
-    },
-    {
-      "title": "The great overheating: Europe gets stuck with an \u2018omega block\u2019 weather pattern - The Week",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMEM1cjRKcFlTdThYZHhGc2RGOXNJblZmZE1pcUlKTzVWUDVacEEtay1sTXJxa3RmU0w4UkhuMmJ4VXVjZlcteVp2eHpxenZnSXNvVmFTdXZ2MnNCb2FfbEZHdm8wbE14alNpMGpJLS0?oc=5",
-      "source": "The Week",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMEM1cjRKcFlTdThYZHhGc2RGOXNJblZmZE1pcUlKTzVWUDVacEEtay1sTXJxa3RmU0w4UkhuMmJ4VXVjZlcteVp2eHpxenZnSXNvVmFTdXZ2MnNCb2FfbEZHdm8wbE14alNpMGpJLS0?oc=5\" target=\"_blank\">The great overheating: Europe gets stuck with an \u2018omega block\u2019 weather pattern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Week</font>",
-      "feed_group": "company",
-      "feed_title": "Kitchens & Bathrooms: MKM Building Suppl \u2026 Q4 Bathrooms (10)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-26T19:25:07+00:00",
-      "fingerprint": "30f0e3814ec775b66701b96008db8f821c8d0ba2"
     }
   ]
 }
