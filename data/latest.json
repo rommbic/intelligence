@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T04:06:03.029287+00:00",
+  "generated_at": "2026-06-30T09:51:47.010920+00:00",
   "date": "2026-06-30",
-  "count": 24,
+  "count": 22,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -30,6 +30,23 @@
       "likely_roles": "",
       "published": "2026-06-29T02:59:49+00:00",
       "fingerprint": "aeeb1922a41222224581c7224dc12ede4a7d288e"
+    },
+    {
+      "title": "Kingspan opens the week with a clear consensus picture, shares monitored against building peers - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObVFVSUFpdUZrTFpWMFp5YldZdTA2Y0pxZVoyaTJJOS0tYjcwX2YxbHJyaXhMT3dVNERLNnV1ZHc3MzRxSFp0OFQ3aF8yTzZQbEg2aWgxM2xzTEtSWVU3aGE4N3prdDZjYnhuTHpZbWNMRXNiVFVrZEJhbkxxNnZwT0NDUVYxNExZQVM2REdteW1wU0hHMzFwTXF3ek11Z1o5XzhjeDVxaHk5VnVCQl8tcTc2VXpFa1RjbmtLUGJBVnRtdTBYN0NLeGVn?oc=5",
+      "source": "AD HOC NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObVFVSUFpdUZrTFpWMFp5YldZdTA2Y0pxZVoyaTJJOS0tYjcwX2YxbHJyaXhMT3dVNERLNnV1ZHc3MzRxSFp0OFQ3aF8yTzZQbEg2aWgxM2xzTEtSWVU3aGE4N3prdDZjYnhuTHpZbWNMRXNiVFVrZEJhbkxxNnZwT0NDUVYxNExZQVM2REdteW1wU0hHMzFwTXF3ek11Z1o5XzhjeDVxaHk5VnVCQl8tcTc2VXpFa1RjbmtLUGJBVnRtdTBYN0NLeGVn?oc=5\" target=\"_blank\">Kingspan opens the week with a clear consensus picture, shares monitored against building peers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "Kingspan",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-30T08:09:27+00:00",
+      "fingerprint": "ec603e5ab895a637929703040ed1882039e42d4f"
     },
     {
       "title": "Philips Hue Expands Lineup Wtih New Play Table Lamp And Candle Bulbs - CES | Twice",
@@ -66,23 +83,6 @@
       "fingerprint": "71d98c78ab3ec9983d5725044e0940d1767feea5"
     },
     {
-      "title": "James Hardie opens new People Centre at Carole Park - Architecture & Design",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmN5ZGYzVEJBQmpPYml5WGlualhtMkp4eTk0QkZCUXplVGJCYkQ1ZXFJOHgyQ1ZJSzg4TEtFMVViN25OUUhyUFFicDlwUXdvVXhsdDZPcU9hSFJzWDBUVUZBeWYxWjdlbFdDNHdfZVkwbEdUUnFJZG9feERMX1ZSWlhHMFZZOGQwbk91LUJhOGtVdzltckNfVEJPTUR2akFGOGVnWTZJaWhKT21abDNINXNScTRRSERpRnJRaW5HSzdDeEcxUm5jV2dVdUM4YTVf?oc=5",
-      "source": "Architecture & Design",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmN5ZGYzVEJBQmpPYml5WGlualhtMkp4eTk0QkZCUXplVGJCYkQ1ZXFJOHgyQ1ZJSzg4TEtFMVViN25OUUhyUFFicDlwUXdvVXhsdDZPcU9hSFJzWDBUVUZBeWYxWjdlbFdDNHdfZVkwbEdUUnFJZG9feERMX1ZSWlhHMFZZOGQwbk91LUJhOGtVdzltckNfVEJPTUR2akFGOGVnWTZJaWhKT21abDNINXNScTRRSERpRnJRaW5HSzdDeEcxUm5jV2dVdUM4YTVf?oc=5\" target=\"_blank\">James Hardie opens new People Centre at Carole Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Architecture & Design</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "James Hardie",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-29T02:07:33+00:00",
-      "fingerprint": "e94b8bd979832ac47907c7b69c3de5fe34a79758"
-    },
-    {
       "title": "Cookology and Iceking appoints ASWO as spare parts distributor - ertonline.co.uk",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oY1R2OWZma2g4dUNoQ1JRaU9zbndPcE9jeWk1UW4xZHNaQ3hsTW42QlJ1TUFXSDJncC1fcnpTM2xNUlhfbktKTTZjSnZRdnZwcU11Rms0TkJXYklHdEZmV01QOXBnU3A0aWduaUR0djhPRkEy?oc=5",
       "source": "ertonline.co.uk",
@@ -117,10 +117,44 @@
       "fingerprint": "c7e977a8888a46283812afc7ccb2bc4225b54527"
     },
     {
-      "title": "7 smart home launches from June 2026, featuring Google, Ring, Philips, SwitchBot and more - Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEFKeDFKbXR6RERIeUU2dFBRQVlsZm9idXRKbm9jUFhtNFAwLVdCbU5GQ2lDWmhORVhTR1VvRDA2bFd5NER2OEN1b1VPWXlwZS11Z0VXdXpCam9jR0poeUZCek5YLWx4Ym1yMzg5dThsdGdKR2RERjdaREgzREhIcGhPaVI?oc=5",
-      "source": "Yahoo Tech",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEFKeDFKbXR6RERIeUU2dFBRQVlsZm9idXRKbm9jUFhtNFAwLVdCbU5GQ2lDWmhORVhTR1VvRDA2bFd5NER2OEN1b1VPWXlwZS11Z0VXdXpCam9jR0poeUZCek5YLWx4Ym1yMzg5dThsdGdKR2RERjdaREgzREhIcGhPaVI?oc=5\" target=\"_blank\">7 smart home launches from June 2026, featuring Google, Ring, Philips, SwitchBot and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
+      "title": "The First 34 5K 5120 x 2160 Philips Business Monitor Featuring DLG Technology Launches with Dual Mode, Delivering Versatility for Mixed Workflows. - TheWire.in",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOTHNNM3lIZGFESnVCNXZJNVRIQlpMWGhSZDlLVldxaGlXRWd6Yk1pVW1rdFFmMEcySVVNdUV3NTQzcXpKMFVWc1JITEEyZ1lEdjdEemRmc0xnbVJ4R1lYNWNVMTh3djZEcDhfd1ZrSGdXTGxoTmNWcXZ6VlRVcGw3VWtGWDNOZE41VThvQlJRbVc4THdPbTdJOFVNcUttdFExLVB2OTNJTmVtOEt0RGFuSXB4eVNPQjhQMlFvUkxXS01pendHM3VuWHQ1Yi13MU5HMlNkZ2NDOGVHU013VEtxcEJNU0N6QTh5ZEM2d215bHEybVNEZElYNDFOckhMOEJscGkyZFdSQXJQXzB1YjJBRdIBlgJBVV95cUxOVVh2UUI5cWItZlNaRFJEVVJzQ3hwdEJUU1llM25MWDN1YlVjd3M4SFd2MGNuYS1qaDZKT1Mwd3IxM1dKaG1vcWR4M0xfbVk2YTVreHJnOUhlZ2VvQXlKUDNYZmU2dWlIdmRDMVF2a1BKdzFtNVpHR0ZpZ1p1VlhQaHNSbjFHRk5xZE9ReEZybnRHR3FfSU45d1FSbDBHUmlUX3d5WU84ZzZJa3hCTG1EeG9ESzdnOU5oX05xejA0a0EtVEVTRngxU3F0SUNBQWJTQjVvSUpZNkxJcGk3UGljZ3JvQzZybjB5V041NlBDZ0NkbUxEelFmeHB0X29sQTNRYkNmRHZobmY5bGhOOTB4VlJWNmhlZw?oc=5",
+      "source": "TheWire.in",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOTHNNM3lIZGFESnVCNXZJNVRIQlpMWGhSZDlLVldxaGlXRWd6Yk1pVW1rdFFmMEcySVVNdUV3NTQzcXpKMFVWc1JITEEyZ1lEdjdEemRmc0xnbVJ4R1lYNWNVMTh3djZEcDhfd1ZrSGdXTGxoTmNWcXZ6VlRVcGw3VWtGWDNOZE41VThvQlJRbVc4THdPbTdJOFVNcUttdFExLVB2OTNJTmVtOEt0RGFuSXB4eVNPQjhQMlFvUkxXS01pendHM3VuWHQ1Yi13MU5HMlNkZ2NDOGVHU013VEtxcEJNU0N6QTh5ZEM2d215bHEybVNEZElYNDFOckhMOEJscGkyZFdSQXJQXzB1YjJBRdIBlgJBVV95cUxOVVh2UUI5cWItZlNaRFJEVVJzQ3hwdEJUU1llM25MWDN1YlVjd3M4SFd2MGNuYS1qaDZKT1Mwd3IxM1dKaG1vcWR4M0xfbVk2YTVreHJnOUhlZ2VvQXlKUDNYZmU2dWlIdmRDMVF2a1BKdzFtNVpHR0ZpZ1p1VlhQaHNSbjFHRk",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Philips",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-30T09:20:58+00:00",
+      "fingerprint": "b7fdfdf10d55249f3f7db0c6da13c1809eb588b9"
+    },
+    {
+      "title": "MCCOY CONTRACTORS INVESTS IN NEW MOBILE CONCRETE BATCHING PLANT FOLLOWING PROVEN SUCCESS IN DONCASTER - Construction UK Magazine",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ3BfNUgtZl9HT2ljVFprSEVndmJ1RC1yZzdrRHktSHg5VHBRQnhkR2tYeWliUGo0OGVJVTdOaFZwQnBPYjVDRk5Qam1hb0hIZlUwX056bk5Zam9NekFkQWpLMzlWZ2xvODFQRWZqbjlMVW1EZ0oyendGRTB2VWFLWC1PaTdZVE53OUNYU1dXTklNUFdydE85bFNsZ0lEWnFOQXJxOV9lUGRHU0ZhWFYwTFlOZk5iRXg0cGE0ckhHb2hkdFRLdEZUVTYxMG9MY28?oc=5",
+      "source": "Construction UK Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ3BfNUgtZl9HT2ljVFprSEVndmJ1RC1yZzdrRHktSHg5VHBRQnhkR2tYeWliUGo0OGVJVTdOaFZwQnBPYjVDRk5Qam1hb0hIZlUwX056bk5Zam9NekFkQWpLMzlWZ2xvODFQRWZqbjlMVW1EZ0oyendGRTB2VWFLWC1PaTdZVE53OUNYU1dXTklNUFdydE85bFNsZ0lEWnFOQXJxOV9lUGRHU0ZhWFYwTFlOZk5iRXg0cGE0ckhHb2hkdFRLdEZUVTYxMG9MY28?oc=5\" target=\"_blank\">MCCOY CONTRACTORS INVESTS IN NEW MOBILE CONCRETE BATCHING PLANT FOLLOWING PROVEN SUCCESS IN DONCASTER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction UK Magazine</font>",
+      "feed_group": "sector",
+      "feed_title": "Masonry, Concrete & Heavyside \u2014 sector news",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-30T06:04:40+00:00",
+      "fingerprint": "af1ded48b89e3ad279f7936dc592516f2a3401ab"
+    },
+    {
+      "title": "7 smart home launches from June 2026, featuring Google, Ring, Philips, SwitchBot and more - t3.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qWGpPVzlUX2xuVlE3NUpoaFYyaDlpUzlmY3dBcWxtM2N1ZkF3WHVUXzJiZ1lqTjBMSkQtTERpU0l3RXR2bjl6T0JPdkR0Vm00U3BobVdIWGV0dy02LUZsZUxDRWtlUGhBaFRCLTgzYVJ5NTBRQ1JPRk9jSQ?oc=5",
+      "source": "t3.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5qWGpPVzlUX2xuVlE3NUpoaFYyaDlpUzlmY3dBcWxtM2N1ZkF3WHVUXzJiZ1lqTjBMSkQtTERpU0l3RXR2bjl6T0JPdkR0Vm00U3BobVdIWGV0dy02LUZsZUxDRWtlUGhBaFRCLTgzYVJ5NTBRQ1JPRk9jSQ?oc=5\" target=\"_blank\">7 smart home launches from June 2026, featuring Google, Ring, Philips, SwitchBot and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">t3.com</font>",
       "feed_group": "company",
       "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
       "categories": [
@@ -166,23 +200,6 @@
       "likely_roles": "",
       "published": "2026-06-29T11:00:00+00:00",
       "fingerprint": "1b9d54c6bde8dce11b9c8eaed8fec568154ffea5"
-    },
-    {
-      "title": "Jacobs named supplier on UK construction services framework - MSN",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN25Sd0phdkNvX3FQTkpSbWNFMkNYbGhHOWtuWkVQaTJTeE81WDh4eUdiY19ndENWOFVyRjIyYW9PUFBMdmFDbzZTYVg5Mm13YVVtVTlIVndxZmEzNmpMbmRwMkRCc1U1Ni0yb0hvaEdOcDRTeGd0eVc2NEdhal9UR2dzX29KUmhpNWdXN1ltYWx2U1ZCMDdyX1NhZE9SOXFOQWEtMnhxY1dSeGQz?oc=5",
-      "source": "MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNN25Sd0phdkNvX3FQTkpSbWNFMkNYbGhHOWtuWkVQaTJTeE81WDh4eUdiY19ndENWOFVyRjIyYW9PUFBMdmFDbzZTYVg5Mm13YVVtVTlIVndxZmEzNmpMbmRwMkRCc1U1Ni0yb0hvaEdOcDRTeGd0eVc2NEdhal9UR2dzX29KUmhpNWdXN1ltYWx2U1ZCMDdyX1NhZE9SOXFOQWEtMnhxY1dSeGQz?oc=5\" target=\"_blank\">Jacobs named supplier on UK construction services framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "feed_group": "signal",
-      "feed_title": "Contract / supply wins",
-      "categories": [
-        "Contract / supply win"
-      ],
-      "company": "",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-28T21:13:25+00:00",
-      "fingerprint": "975ac54dd96efe39106b6740e3e57594f1457c40"
     },
     {
       "title": "Northern lights alert: 19 states may see aurora tonight, including VT - Burlington Free Press",
@@ -290,21 +307,6 @@
       "fingerprint": "d672d494751ff837e971909f44916cc531acbc70"
     },
     {
-      "title": "Reykjavik, Tromso Tourism Set for Lift as Aurora Expeditions Showcases Northern Lights Voyages: All You Need to Know - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52eHBjM3VnTENvSk9pYWw5RDNXNk5QU2hsb1dCakRMXzVtQWp5VXFEQU5mRDRvN1o4RHQtaEFCTzVfR0VLanNCU0Q4ODIxTEFwMy1aNnVzVHRmWmNXLWRoeGNUUWRoNkQzSGRxMk5R?oc=5",
-      "source": "Travel And Tour World",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE52eHBjM3VnTENvSk9pYWw5RDNXNk5QU2hsb1dCakRMXzVtQWp5VXFEQU5mRDRvN1o4RHQtaEFCTzVfR0VLanNCU0Q4ODIxTEFwMy1aNnVzVHRmWmNXLWRoeGNUUWRoNkQzSGRxMk5R?oc=5\" target=\"_blank\">Reykjavik, Tromso Tourism Set for Lift as Aurora Expeditions Showcases Northern Lights Voyages: All You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-29T11:57:50+00:00",
-      "fingerprint": "3bd000410439214f92c87ffdbeec05362f52f5d3"
-    },
-    {
       "title": "Record UK heatwave fuels rush for air-conditioned hotels - MSN",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEs4T2VfSkRwRGpqa0FZcXpMVjV4c1dVOFdqaEpUclhBNlktVUF0NklJdDVMamVnMWVJNUozSFZLU2h6NGJkcjBiQVNtdkg5VnF5UVFXVEdyY2FfZTNSandaRnB6ZTlUTWtTSVVuSngteVJDUDJWc0FSMDQtZndtQTFkQUREOTczVDhQb0tVbXQwRU9OdjZHc2o0cFZYQVpkUXBucUJZaDljSUY4VVAwZ2Fla1RUQjZTMG1ibWdSWDhoMXZaTnJPM1NneHNSdkdRNU5Bbkl3bWF2Y1pSTkpF?oc=5",
       "source": "MSN",
@@ -335,21 +337,6 @@
       "fingerprint": "73924ee77ca3cd62d2551b17b6ec552b35d37e96"
     },
     {
-      "title": "The GF Aquasystem from Georg Fischer AG - quiet flow, compact fittings for tight plant rooms - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0l4cE53OENvN1I3T0RRdU42TEtKeV9oNDczY05zbXJZMVhoYmJ0dXpBQ1JiejhsbXNfNTlWYzFlblFSSUFuVlBvUVc0YUZqMVA2SFU4THZqbU1ZbzNYd3plbEttcFotMEtDZURZR3g0MUJjelZBT0FyVG41eE1HcGRZZGJRVTI3V0hjUUZhVW5wVEVvOGMzdnhuT0tBQlBBVEswUzBVenlKOGZENllfTXNJak12TlMxem9rdmN3SmFEQTNnUzg2cy13?oc=5",
-      "source": "AD HOC NEWS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0l4cE53OENvN1I3T0RRdU42TEtKeV9oNDczY05zbXJZMVhoYmJ0dXpBQ1JiejhsbXNfNTlWYzFlblFSSUFuVlBvUVc0YUZqMVA2SFU4THZqbU1ZbzNYd3plbEttcFotMEtDZURZR3g0MUJjelZBT0FyVG41eE1HcGRZZGJRVTI3V0hjUUZhVW5wVEVvOGMzdnhuT0tBQlBBVEswUzBVenlKOGZENllfTXNJak12TlMxem9rdmN3SmFEQTNnUzg2cy13?oc=5\" target=\"_blank\">The GF Aquasystem from Georg Fischer AG - quiet flow, compact fittings for tight plant rooms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-      "feed_group": "company",
-      "feed_title": "HVAC & Building Services: Frese \u2026 Heat Exchange Grou (11)",
-      "categories": [],
-      "company": "Georg Fischer",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-29T03:53:22+00:00",
-      "fingerprint": "7db9efd84366bf118c85fcbaf791f5051726a330"
-    },
-    {
       "title": "Northern Lights Forecast: Aurora Possible In 19 States On Monday Night - Forbes",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdldvdDZwejBKdjlPOER2d2tBUTZmdjFXejd1Wjd4OGdDaUtTbDhwNGdtZG9hdWoxR2wxa2NlYzNHMnBmcUdKUmlRbDBEZVppOVlJaXJlc25OU1ZmYXA2TDlaTE5TaWh6a1pjRlV4R1V3RzB0V1dfcVJnZFloSnRQT19oTUVINm9JLWZwNWM2czRxTHl6a0lmajY5YUhKOFQ1VnpVa19pZE8za2k2dTk5c0pNajhSam1LM2tKQ1RyTXRQTzdlY0hB?oc=5",
       "source": "Forbes",
@@ -363,21 +350,6 @@
       "likely_roles": "",
       "published": "2026-06-29T03:30:00+00:00",
       "fingerprint": "8fdda5a6476a31dd5b01129cb118cef589f7de17"
-    },
-    {
-      "title": "Securities Lawsuit Alert: James Hardie Industries plc. (JHX) - Contact Levi & Korsinsky Before December 23, 2025 - The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGdsTG1yR2t5U0w5V1dNT0tnWWt0UE82TlV5cGhrdUtOLTE2M1diaGtpcnBEdzFXNktmTmFLYVJOclhaWkl5clFXRTVHSHA0MXdqVjNzWUR5S0J1MmVWWFpTZm1HUXRDMEtoX3poaUVsTHg3bE5mSGFYWGlFeDlpd0pQRWM2YUpreTRZWk9NVWNZSWhMTHdmaHVOLXhEeUxKNXgyTy13ZW9xbmJ6VE5HQVNyRQ?oc=5",
-      "source": "The National Law Review",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGdsTG1yR2t5U0w5V1dNT0tnWWt0UE82TlV5cGhrdUtOLTE2M1diaGtpcnBEdzFXNktmTmFLYVJOclhaWkl5clFXRTVHSHA0MXdqVjNzWUR5S0J1MmVWWFpTZm1HUXRDMEtoX3poaUVsTHg3bE5mSGFYWGlFeDlpd0pQRWM2YUpreTRZWk9NVWNZSWhMTHdmaHVOLXhEeUxKNXgyTy13ZW9xbmJ6VE5HQVNyRQ?oc=5\" target=\"_blank\">Securities Lawsuit Alert: James Hardie Industries plc. (JHX) - Contact Levi & Korsinsky Before December 23, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-28T16:31:58+00:00",
-      "fingerprint": "1521e3a88c9b738c4114b0dbce143e74376a3495"
     },
     {
       "title": "Knauf to open 88 mln euro drywall plant in Romania by end-2027 - SeeNews",
