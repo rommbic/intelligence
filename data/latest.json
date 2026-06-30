@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T17:11:30.290220+00:00",
+  "generated_at": "2026-06-30T20:08:06.909048+00:00",
   "date": "2026-06-30",
-  "count": 24,
+  "count": 22,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Philips Hue expands portfolio with wired switches and Play lamps - \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0430\u044f \u0413\u0430\u0437\u0435\u0442\u0430",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWnEzdHJtZHdJRzN6MVBmdi1xenctRUhnQ0tHazNmZXFzRGxXd2FoeVQyeDFzQjZ4UTZKYlYySVh1Sy1sUnZvSWVFQ1ZrV3Y4QVBIbHM2VEhTTVhGWGhUSGMxejAwVW5u?oc=5",
+      "source": "\u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0430\u044f \u0413\u0430\u0437\u0435\u0442\u0430",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWnEzdHJtZHdJRzN6MVBmdi1xenctRUhnQ0tHazNmZXFzRGxXd2FoeVQyeDFzQjZ4UTZKYlYySVh1Sy1sUnZvSWVFQ1ZrV3Y4QVBIbHM2VEhTTVhGWGhUSGMxejAwVW5u?oc=5\" target=\"_blank\">Philips Hue expands portfolio with wired switches and Play lamps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u0430\u044f \u0413\u0430\u0437\u0435\u0442\u0430</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "Philips",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-06-30T18:00:43+00:00",
+      "fingerprint": "5146f8d07fe09a38629a492dc92a072dfef1e01b"
+    },
     {
       "title": "Floris Koopmans appointed president of Unilin Technologies - Floor Covering News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZU1fN3pEM2ZBS1lteE1JazB0cnJJNWFiUlN6QjdMYVdWRnZGSXVsSVZzR25DME9fZk1IbUVFcl91QThfR29BMi13dk1zQldvaTVtMzlfWHpBUEhtV1g2S3V1SVdrRnBoYi1Mb1VFLXVUdVM0a3BYWjdZblh6aXZXM1ZybEhRbXhONzV5ZTZvdXIyZzZ2?oc=5",
@@ -95,7 +112,7 @@
       "score": 7,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-30T13:30:53+00:00",
+      "published": "2026-06-30T13:31:41+00:00",
       "fingerprint": "85a1da8ff93b6b4da553339056df90a3ef44e89b"
     },
     {
@@ -210,21 +227,6 @@
       "fingerprint": "726a0f8580f600c2bc84184765d0f134251fdbfd"
     },
     {
-      "title": "Northern lights alert: 19 states may see aurora tonight, including VT - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUndqb1ZKLVRhSDNESzRyUUFkQTZLczBKZm4yU3VxQnR6Mi0xWmZ1eWRjUFAtbEJYYlRQa200bE1zc04tSGxla09KeFB2TnU0NVA1S0kzQUZGU0xJLWVOU0VnSldJbVQ4alI5eGN6MUpzMjdPOElSbUd3V0FyUmR0dQ?oc=5",
-      "source": "AOL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUndqb1ZKLVRhSDNESzRyUUFkQTZLczBKZm4yU3VxQnR6Mi0xWmZ1eWRjUFAtbEJYYlRQa200bE1zc04tSGxla09KeFB2TnU0NVA1S0kzQUZGU0xJLWVOU0VnSldJbVQ4alI5eGN6MUpzMjdPOElSbUd3V0FyUmR0dQ?oc=5\" target=\"_blank\">Northern lights alert: 19 states may see aurora tonight, including VT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-29T21:38:07+00:00",
-      "fingerprint": "89360cc7085185214a305fd6e7e2445679d1ad90"
-    },
-    {
       "title": "Enterprise value to EBITDA forward of Eco-Tek Group, Inc. \u2013 OTC:ETEK - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZUtFMVRySWREMXI2ejZUVDZ4X28yajF4SUswOFF3Y2JrM2xJNXpWQjJrRVJoUURvRHk0TTdWd3NlTlp2bmlxLUdLclVBdm9wVWhLczZfWTVZdWY5WDQ4QThSR1E3SVM5N3VNWUhPWjFuSXdEaUlfUDlGZk9xUG9ueEtnUWlqaTVrMnRqXzI5M1FjU3VZS3ktTTBlYjJlSlJreGU5c3ZtT0JJQQ?oc=5",
       "source": "TradingView",
@@ -270,21 +272,6 @@
       "fingerprint": "fd59db8dd1552beac70f106a1e136c40a44aaf28"
     },
     {
-      "title": "Northern Lights Festival Bor\u00e9al honours former executive director - Sudbury Star",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSllHQmNDdTVxc2ZUOVNEVGZTeDVCMzVRSXBWUnVjZEJiLU9fM2lwLUJrS1Y3T0NVS19BQ3NNZ0JzbHV3bzhoc3pMQXVsdHBNT1VEVmhUVENEWHFibkZlUWtOMDF6ZmJwM0hTVVhRZm84d3FLRmF5OTlfMkRzQjRxUWNKMXN6WTlyYlFPVXJ3dXpXWEdoWmhoMDFjWmc5dVU2WE5xdVF3YllqMDItelpZ?oc=5",
-      "source": "Sudbury Star",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSllHQmNDdTVxc2ZUOVNEVGZTeDVCMzVRSXBWUnVjZEJiLU9fM2lwLUJrS1Y3T0NVS19BQ3NNZ0JzbHV3bzhoc3pMQXVsdHBNT1VEVmhUVENEWHFibkZlUWtOMDF6ZmJwM0hTVVhRZm84d3FLRmF5OTlfMkRzQjRxUWNKMXN6WTlyYlFPVXJ3dXpXWEdoWmhoMDFjWmc5dVU2WE5xdVF3YllqMDItelpZ?oc=5\" target=\"_blank\">Northern Lights Festival Bor\u00e9al honours former executive director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sudbury Star</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-29T15:59:29+00:00",
-      "fingerprint": "3223f853453f78c3d164fb0109134d36cf9528d4"
-    },
-    {
       "title": "The Northern Lights May Be Visible Across 9 States Tonight\u2014See If Yours Is on the List - marthastewart.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0FkczluRnRsSGRkVC05WWREMFQtWm1rZ2sxVFJyZm1FWTJMQlJYZVIyaEFfTTd6dllQN19GZW1TTVNWU01JVk1OUi1KRFFWck9iZE4tOUw0S2FjS2RoZk1NZUp4M2dNLUM0UnJPTHdqX1JVRFZyY0dxSE1GWHE1R01CclpwYWc?oc=5",
       "source": "marthastewart.com",
@@ -315,21 +302,6 @@
       "fingerprint": "d672d494751ff837e971909f44916cc531acbc70"
     },
     {
-      "title": "Reykjavik, Tromso Tourism Set for Lift as Aurora Expeditions Showcases Northern Lights Voyages: All You Need to Know - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52eHBjM3VnTENvSk9pYWw5RDNXNk5QU2hsb1dCakRMXzVtQWp5VXFEQU5mRDRvN1o4RHQtaEFCTzVfR0VLanNCU0Q4ODIxTEFwMy1aNnVzVHRmWmNXLWRoeGNUUWRoNkQzSGRxMk5R?oc=5",
-      "source": "Travel And Tour World",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE52eHBjM3VnTENvSk9pYWw5RDNXNk5QU2hsb1dCakRMXzVtQWp5VXFEQU5mRDRvN1o4RHQtaEFCTzVfR0VLanNCU0Q4ODIxTEFwMy1aNnVzVHRmWmNXLWRoeGNUUWRoNkQzSGRxMk5R?oc=5\" target=\"_blank\">Reykjavik, Tromso Tourism Set for Lift as Aurora Expeditions Showcases Northern Lights Voyages: All You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-06-29T11:57:50+00:00",
-      "fingerprint": "3bd000410439214f92c87ffdbeec05362f52f5d3"
-    },
-    {
       "title": "Record UK heatwave fuels rush for air-conditioned hotels - MSN",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEs4T2VfSkRwRGpqa0FZcXpMVjV4c1dVOFdqaEpUclhBNlktVUF0NklJdDVMamVnMWVJNUozSFZLU2h6NGJkcjBiQVNtdkg5VnF5UVFXVEdyY2FfZTNSandaRnB6ZTlUTWtTSVVuSngteVJDUDJWc0FSMDQtZndtQTFkQUREOTczVDhQb0tVbXQwRU9OdjZHc2o0cFZYQVpkUXBucUJZaDljSUY4VVAwZ2Fla1RUQjZTMG1ibWdSWDhoMXZaTnJPM1NneHNSdkdRNU5Bbkl3bWF2Y1pSTkpF?oc=5",
       "source": "MSN",
@@ -345,19 +317,19 @@
       "fingerprint": "e08be6da8d37309a482f24d26eebceb1309182d1"
     },
     {
-      "title": "Farrow & Ball\u2019s most popular blue shades that people\u2026 - inkl",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1V0eVBMaGxySlVSRl9qYUE3U2FhTkEtQlZtaThUbzRMckR1cFF6RjlHSHR0RDNoS1ZLT0lsWkdqeDFzVUpVcE1MU2NvUmlvYWVja3hYVlJGSk1XemFmQ1ozb2FpZUVwcHB0LVBHWG1NWmdaZFlZSl9EN1JuN2RwUE5hNHJJdGRlTEFmMXZBZTVGa2RPelNXeHhFc19QUWdZcUlKeDM3Znc4YU5Wb1JTQjlRa3kxcDFBbzZkcV9CWDJFUXRIaXNqTy14Sjk4WUczV3k0c2NKQWNlVXJscVc5WUVn?oc=5",
-      "source": "inkl",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa1V0eVBMaGxySlVSRl9qYUE3U2FhTkEtQlZtaThUbzRMckR1cFF6RjlHSHR0RDNoS1ZLT0lsWkdqeDFzVUpVcE1MU2NvUmlvYWVja3hYVlJGSk1XemFmQ1ozb2FpZUVwcHB0LVBHWG1NWmdaZFlZSl9EN1JuN2RwUE5hNHJJdGRlTEFmMXZBZTVGa2RPelNXeHhFc19QUWdZcUlKeDM3Znc4YU5Wb1JTQjlRa3kxcDFBbzZkcV9CWDJFUXRIaXNqTy14Sjk4WUczV3k0c2NKQWNlVXJscVc5WUVn?oc=5\" target=\"_blank\">Farrow & Ball\u2019s most popular blue shades that people\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inkl</font>",
+      "title": "Replacement Magazine Spring For ATI, GSG, Sig Sauer, Mauser 1911-22 .22LR Pistols - Santo Andr\u00e9 BIZ",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTlnUkdyNElDOFRxaVY3dmhIMktEaVRkYkFESjNBSDdqbkh5NHZWZm54Zi04VVduYUZaZllrdk1GclpxR3JtZWp3Vm5VQWR5Q2Z0SEJQeGJWcXk0SUhjMmlYakJFUDBjX3B4aENSZ1BfOUhqM3VBWWN2U3RLc0x1UGsyejRBbGM1VmNUaVRGamk?oc=5",
+      "source": "Santo Andr\u00e9 BIZ",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTlnUkdyNElDOFRxaVY3dmhIMktEaVRkYkFESjNBSDdqbkh5NHZWZm54Zi04VVduYUZaZllrdk1GclpxR3JtZWp3Vm5VQWR5Q2Z0SEJQeGJWcXk0SUhjMmlYakJFUDBjX3B4aENSZ1BfOUhqM3VBWWN2U3RLc0x1UGsyejRBbGM1VmNUaVRGamk?oc=5\" target=\"_blank\">Replacement Magazine Spring For ATI, GSG, Sig Sauer, Mauser 1911-22 .22LR Pistols</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santo Andr\u00e9 BIZ</font>",
       "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Curtis Furniture \u2026 Frazer Simpson (11)",
+      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
       "categories": [],
-      "company": "Farrow & Ball",
-      "score": 5,
+      "company": "",
+      "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-06-29T08:00:00+00:00",
-      "fingerprint": "73924ee77ca3cd62d2551b17b6ec552b35d37e96"
+      "published": "2026-06-30T19:26:36+00:00",
+      "fingerprint": "339bb2058724ba6b5ad8d012b680b548d33c58df"
     },
     {
       "title": "International Business Machines (IBM) Takes Aim at AI Cyber Risks and Next-Generation Computing With Two Major Announcements - Yahoo Finance",
