@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T14:15:10.324212+00:00",
+  "generated_at": "2026-07-02T19:41:22.122359+00:00",
   "date": "2026-07-02",
-  "count": 30,
+  "count": 34,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -31,6 +31,23 @@
       "fingerprint": "ce73e1e0d15287aece3dc9be47c8d2834dc2347e"
     },
     {
+      "title": "ESI Grips appoints Lyon Cycle as exclusive UK distributor - Cycling Industry News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFZhaXVTTjN5U21VeWlvVmpMTi16Mkx3VndBYUplb19ZeDBhLUdWTUlXRTBKbjZKVUFxQTg0M2QwNUNhSFRvaVBlVVREYmw1OUlTZnI3RDRISm9kRW5zT1lGZk9VaGRPZFFtZTk1aWRIdUF2TXRaQlU5bmtidndYOFF6M1dFTVhhREhSU1BlVXk?oc=5",
+      "source": "Cycling Industry News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFZhaXVTTjN5U21VeWlvVmpMTi16Mkx3VndBYUplb19ZeDBhLUdWTUlXRTBKbjZKVUFxQTg0M2QwNUNhSFRvaVBlVVREYmw1OUlTZnI3RDRISm9kRW5zT1lGZk9VaGRPZFFtZTk1aWRIdUF2TXRaQlU5bmtidndYOFF6M1dFTVhhREhSU1BlVXk?oc=5\" target=\"_blank\">ESI Grips appoints Lyon Cycle as exclusive UK distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cycling Industry News</font>",
+      "feed_group": "sector",
+      "feed_title": "Merchants & Distribution \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T14:32:01+00:00",
+      "fingerprint": "44a9181e25d801824b4569782cb471bc21c16a79"
+    },
+    {
       "title": "VisionWave appoints Stratonex as UK, Europe distributor partner to support commercialization - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbXFJeWFmNnNWSjZmdmFTQnFXeVhvam10dGd3VDI0UFBTNmZiOGlhNU1nTHo5UVRZejdKR0tlVDZYYm1QRDg5blJnODBXV3p2RFhOVV9QZzlDWTlDNWEtVGl0MnI2cXNERlF6TzZEaVdvRl9wMEJCYmNQQnIyWjVMekZBTjZqWlRvV2FtbmFaRFo0bTRFUXNzcUUtV05rQzRseG9kdWQwZFlZLUVCbVpzTWFRYlhPeS1CNU8tSkJ5TzNXVUhFWHNIMmZwcE9XWG92ajh2enYweUFWREEzd0VZUExOa1prTjdm?oc=5",
       "source": "TradingView",
@@ -48,10 +65,27 @@
       "fingerprint": "6694b1a09cfd67b3aa1067dc59da7ff22e0076e6"
     },
     {
-      "title": "A \u2018historic\u2019 FDA clearance raises the question: Is LLM the interface? Or the decision-maker? - STAT",
+      "title": "United Roofing Products appoints Sales Director - Builders' Merchants News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTW91aUhlMmFyMFNSLXVZVGJzQXhDTHJoc1QzTFNOMFZWSzhhR0VaUllQMWxqS05WVUNSSklUcUhsdmN5bTdmWHpGdjdxU0NQQTRoV25GVlRlbFlSU3hCSVdseXFRRXZ6LTRVYTZBTWZndDdTQlh1QV9NUTdZcFFjeU1RVEZLX3R6aWNYcWRoX2wtaU45dERNTURB?oc=5",
+      "source": "Builders' Merchants News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTW91aUhlMmFyMFNSLXVZVGJzQXhDTHJoc1QzTFNOMFZWSzhhR0VaUllQMWxqS05WVUNSSklUcUhsdmN5bTdmWHpGdjdxU0NQQTRoV25GVlRlbFlSU3hCSVdseXFRRXZ6LTRVYTZBTWZndDdTQlh1QV9NUTdZcFFjeU1RVEZLX3R6aWNYcWRoX2wtaU45dERNTURB?oc=5\" target=\"_blank\">United Roofing Products appoints Sales Director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
+      "feed_group": "sector",
+      "feed_title": "Roofing & Rooflights \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T08:52:30+00:00",
+      "fingerprint": "6ceb378f810549b85e2a838463dee83d90dbe18d"
+    },
+    {
+      "title": "A \u2018historic\u2019 FDA clearance raises the question: Is the LLM an interface or the decision-maker? - STAT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmZCMVYtY2ZwbUZUcG1aaU5KNVBoUDN5WWhXakp2SXF2LWh5Y1pDY1Vmay1BOXA0SXZBVHI3VTNuZENwUlE4WjJqUXc2UVJUNWVBeTl2UjhZR0pkNkdCQV9weVh0V0xlYVgxNC1CWUhRUHJwV0tjRG1FYjBObEREYnhNR2c1MndoZmM3Tlk5Z3g5OTlTOURfS2xBaDNoYnloUDdvS2t4M0YyMEJFYkR3?oc=5",
       "source": "STAT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmZCMVYtY2ZwbUZUcG1aaU5KNVBoUDN5WWhXakp2SXF2LWh5Y1pDY1Vmay1BOXA0SXZBVHI3VTNuZENwUlE4WjJqUXc2UVJUNWVBeTl2UjhZR0pkNkdCQV9weVh0V0xlYVgxNC1CWUhRUHJwV0tjRG1FYjBObEREYnhNR2c1MndoZmM3Tlk5Z3g5OTlTOURfS2xBaDNoYnloUDdvS2t4M0YyMEJFYkR3?oc=5\" target=\"_blank\">A \u2018historic\u2019 FDA clearance raises the question: Is LLM the interface? Or the decision-maker?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmZCMVYtY2ZwbUZUcG1aaU5KNVBoUDN5WWhXakp2SXF2LWh5Y1pDY1Vmay1BOXA0SXZBVHI3VTNuZENwUlE4WjJqUXc2UVJUNWVBeTl2UjhZR0pkNkdCQV9weVh0V0xlYVgxNC1CWUhRUHJwV0tjRG1FYjBObEREYnhNR2c1MndoZmM3Tlk5Z3g5OTlTOURfS2xBaDNoYnloUDdvS2t4M0YyMEJFYkR3?oc=5\" target=\"_blank\">A \u2018historic\u2019 FDA clearance raises the question: Is the LLM an interface or the decision-maker?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STAT</font>",
       "feed_group": "company",
       "feed_title": "Flooring & Tiles: Havwoods \u2026 Kajaria UKP (13)",
       "categories": [
@@ -62,7 +96,58 @@
       "rationale": "",
       "likely_roles": "",
       "published": "2026-07-02T10:03:05+00:00",
-      "fingerprint": "416df3343a87160ec1dcb3cd54afe3953ce688a8"
+      "fingerprint": "1624c1f75a41e6d03b35d2f4559fbfd23a373111"
+    },
+    {
+      "title": "Vishay launches multi-turn position sensor for industrial use - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHZ5N1RreUdzM3VYUjQ0Y0pQZmlvNDRGUy1CdU9SaWZUaWI0OGlucDR2Z25ZZjhJLUo3YVZSRjdfMUFaWnM5c2FNNmtWem9iYUtNQklWSTZGbE0zMjJxaWdWZk5lWmZVVjYzUm8wZHB0NlVNaGRHeUhMdEJoQWdUNUtWSWo0ZFprQlpyRWxSazZCQXlIeUp1anY4WTF3T010NmhiZkd5X1prbjVhbjBUZGxyejVzNzZP?oc=5",
+      "source": "Investing.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHZ5N1RreUdzM3VYUjQ0Y0pQZmlvNDRGUy1CdU9SaWZUaWI0OGlucDR2Z25ZZjhJLUo3YVZSRjdfMUFaWnM5c2FNNmtWem9iYUtNQklWSTZGbE0zMjJxaWdWZk5lWmZVVjYzUm8wZHB0NlVNaGRHeUhMdEJoQWdUNUtWSWo0ZFprQlpyRWxSazZCQXlIeUp1anY4WTF3T010NmhiZkd5X1prbjVhbjBUZGxyejVzNzZP?oc=5\" target=\"_blank\">Vishay launches multi-turn position sensor for industrial use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Multi-Turn",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T15:35:36+00:00",
+      "fingerprint": "29e816db44110a728208c22c2f1f07a4f57c29e2"
+    },
+    {
+      "title": "Vishay Intertechnology Introduces 34 PHE Multi-Turn Absolute Position Sensor for High-Accuracy Industrial Motion Control - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLUFBX3hueW12enZ3SXBvRWJlLWtzVG9ob1RGS092Nmk1NTlJcU9JOXRfY1VxNFRTU2RKM181LWZqSGlGbzg5b09hY1Jja21zdzFUNDJqazQ0elJiNFFjYVVyNklxS1doQ2JyNndSdGRwSzEwdjV5cEZoSTQ3RDQyell0RU5TdlVXU1R3LU9ZN196a3BzdVFWc3BWOFk4a3RodzJCVkxBQ3dxZ0tORFFwWjh3d1hFcFRDRFhpb0k3aTdZOEhsV2w1TG1LMXIzWGtTbllDSVExWEY2WkxEX0Y5R2tXTUtZWjh1?oc=5",
+      "source": "Quiver Quantitative",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLUFBX3hueW12enZ3SXBvRWJlLWtzVG9ob1RGS092Nmk1NTlJcU9JOXRfY1VxNFRTU2RKM181LWZqSGlGbzg5b09hY1Jja21zdzFUNDJqazQ0elJiNFFjYVVyNklxS1doQ2JyNndSdGRwSzEwdjV5cEZoSTQ3RDQyell0RU5TdlVXU1R3LU9ZN196a3BzdVFWc3BWOFk4a3RodzJCVkxBQ3dxZ0tORFFwWjh3d1hFcFRDRFhpb0k3aTdZOEhsV2w1TG1LMXIzWGtTbllDSVExWEY2WkxEX0Y5R2tXTUtZWjh1?oc=5\" target=\"_blank\">Vishay Intertechnology Introduces 34 PHE Multi-Turn Absolute Position Sensor for High-Accuracy Industrial Motion Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Multi-Turn",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T15:10:00+00:00",
+      "fingerprint": "2f9b7f9d11a1025254d8705443206502f34dade6"
+    },
+    {
+      "title": "Philips launches world\u2019s first triple-mode IPS gaming monitor, reaching up to 540Hz - Club386",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHk1VGU4S3F4Uy13ZzByeFNmSXU3RHdVenExNU1ZcEtlN3J0X1RXa3hvM1UzUEowenNCNi1OTU1VY1Y4TWc3VVZHNnp2WFZ5c1dVSU5OV1ZaUkhaQVgwclFOTGl3MGRTYld0SVp0NzdEMG5JaV94ZXJKT1VQTXJ2NQ?oc=5",
+      "source": "Club386",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHk1VGU4S3F4Uy13ZzByeFNmSXU3RHdVenExNU1ZcEtlN3J0X1RXa3hvM1UzUEowenNCNi1OTU1VY1Y4TWc3VVZHNnp2WFZ5c1dVSU5OV1ZaUkhaQVgwclFOTGl3MGRTYld0SVp0NzdEMG5JaV94ZXJKT1VQTXJ2NQ?oc=5\" target=\"_blank\">Philips launches world\u2019s first triple-mode IPS gaming monitor, reaching up to 540Hz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Club386</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Philips",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T14:20:00+00:00",
+      "fingerprint": "2b29bb6687c409167402123a3bdcd04bb1897577"
     },
     {
       "title": "Gleeds secures places on \u00a33.5bn framework as supplier - Scottish Construction Now",
@@ -131,6 +216,51 @@
       "likely_roles": "",
       "published": "2026-07-01T09:21:38+00:00",
       "fingerprint": "810a1a431e3e3d3b8ffdd96363680a9b6ded329f"
+    },
+    {
+      "title": "SageMaker AI Outlines Multi-turn Reinforcement Learning Best Practices - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzVNQTFiNFZraUs3R0V0Z0pjSjFCYzRBSGE5bVFNSGkyX2ZIRHZXazRES0pBb0Eya050Y282SGJ1UWxRYzg1QXVXa2VXX0tCV2N4amJKT0N6RWdadDJwY3VXZThZUFNEZERaYjFZbG5JZExuc0xiRUR6TS1tTDRjRGJHY2hUeHNQV25IVWRWVjd6SV9fR3VLcGxBYzFFQjhOWkExbg?oc=5",
+      "source": "Let's Data Science",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzVNQTFiNFZraUs3R0V0Z0pjSjFCYzRBSGE5bVFNSGkyX2ZIRHZXazRES0pBb0Eya050Y282SGJ1UWxRYzg1QXVXa2VXX0tCV2N4amJKT0N6RWdadDJwY3VXZThZUFNEZERaYjFZbG5JZExuc0xiRUR6TS1tTDRjRGJHY2hUeHNQV25IVWRWVjd6SV9fR3VLcGxBYzFFQjhOWkExbg?oc=5\" target=\"_blank\">SageMaker AI Outlines Multi-turn Reinforcement Learning Best Practices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
+      "categories": [],
+      "company": "Multi-Turn",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T17:50:23+00:00",
+      "fingerprint": "3348a83f7a2f42cc20503f0126603409c6635e71"
+    },
+    {
+      "title": "Northern lights could dazzle to start July 4 weekend - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPejN0SFBsWEFsUmJmdldDZ2ExM3czRHZpYTl6Y2wzbXIyZmJacHo5VXkxMHRjSUhUSHgwQVpMNGhZZFY3YlZLOHV1Y1pxd08wU1QxZkNMU2J5VVROZ3R0X1kyZUxkaW9wbWhTV0haY1laRnZiRW5ySU81bkctRWxZbUtlUkVnc0c2RlVyN1dJaUVyd29DTlg3Q3VxVU5rQ3YwX2xQZtIBqgFBVV95cUxPRGF1N1BGTDRvN0RUcVRxY1VQdkF4SHpXTm1CeXZfbUUteVhhY0VBeTFER0RHWUJYUWpjbHdMVDNnelNGSXVMZTRFQThLQUd3ZUhXbXVhODJ1X1J4ZlJDZFdEc0plMjFReEUxQVZMSWNKbVB6MTBuM2NfMGhOXzVrYUdoUS0yVDNFVG5YMms5M2xDd0tQWUlyTkR4Zk03cFdpMFJFLThjTklOQQ?oc=5",
+      "source": "The Hill",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPejN0SFBsWEFsUmJmdldDZ2ExM3czRHZpYTl6Y2wzbXIyZmJacHo5VXkxMHRjSUhUSHgwQVpMNGhZZFY3YlZLOHV1Y1pxd08wU1QxZkNMU2J5VVROZ3R0X1kyZUxkaW9wbWhTV0haY1laRnZiRW5ySU81bkctRWxZbUtlUkVnc0c2RlVyN1dJaUVyd29DTlg3Q3VxVU5rQ3YwX2xQZtIBqgFBVV95cUxPRGF1N1BGTDRvN0RUcVRxY1VQdkF4SHpXTm1CeXZfbUUteVhhY0VBeTFER0RHWUJYUWpjbHdMVDNnelNGSXVMZTRFQThLQUd3ZUhXbXVhODJ1X1J4ZlJDZFdEc0plMjFReEUxQVZMSWNKbVB6MTBuM2NfMGhOXzVrYUdoUS0yVDNFVG5YMms5M2xDd0tQWUlyTkR4Zk03cFdpMFJFLThjTklOQQ?oc=5\" target=\"_blank\">Northern lights could dazzle to start July 4 weekend</a>&nbsp;&nbsp;<font",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T15:50:00+00:00",
+      "fingerprint": "86f3f9545167e8d19f422d0c6e8c3f410b9cd3a4"
+    },
+    {
+      "title": "Vishay Intertechnology 34 PHE Multi-Turn Absolute Position Sensor Delivers High Accuracy and Stability at a Reduced Cost - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSjBINmhlemhwTVlxWE9RNXI2Um9pQnRpSUV5d2hBVDJvaDkxLTZaeWFOYzZhNHI3bS0wT0tHU0dpcTVMOXpQYUVZSEJISVlHdWJ0bTFCM0tIU1VKRlhfTXE4RmZET1JkYXpiVjNsdWRtWHc0ZllIVjdXNmxBWVkyelFjUmxfZ1Z1d2hxdWo5eUh1TUFaYlhubmQ2VzZxcWhQNmdQX29CZXNFVGRXWFl1emxiQnFNN2hvV3pZSkktUlJEbmZGc2dMOXladHJrY3Nma01pTzhvVHhoQkVkVGxEM3VQSkJvX25TT0Q2MjRqazZxaVUtcXBCUW5idTlkQi1tbU5rT3hVbkprbWNySTZvX0F6ZGRDTng0bjZwZkdn0gGjAkFVX3lxTE5aVXFTRjNFMW5xWVBqd3NqSGxNYTFBdU9FNjJReWdvanJkN3RnaU5Yd1drdXBlSVFCY29rUVQwQ0VkbHdGckQ5ekY2ODFNT2s4SGR0NDNpSjQ4Nl9LVzl6LUFtMDJRbmJGQk1YWHFIYjlpMVhOVTFZQ09DWTRoY3FURTRzUVJkY0RrNUVwNW5JbGI1UW9uSm15a2ozc0EzRnJIWU02X0ZENWJxdTJaUGkwcEh3SVF5eGk5T2QxMjEwZDNuaWJmcU1xdldtM2xRYWItcHBxLXVMQld4M0xPU1l4ZVRESWJIbzJVZ281TDVOSURkVkc2LXVLNkgzVGpmekF1VGdlbHNCeDBxTzBsYWFJZTllbU5yY2lHd0R6b1R2Y2wzYw?oc=5",
+      "source": "The Manila Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNSjBINmhlemhwTVlxWE9RNXI2Um9pQnRpSUV5d2hBVDJvaDkxLTZaeWFOYzZhNHI3bS0wT0tHU0dpcTVMOXpQYUVZSEJISVlHdWJ0bTFCM0tIU1VKRlhfTXE4RmZET1JkYXpiVjNsdWRtWHc0ZllIVjdXNmxBWVkyelFjUmxfZ1Z1d2hxdWo5eUh1TUFaYlhubmQ2VzZxcWhQNmdQX29CZXNFVGRXWFl1emxiQnFNN2hvV3pZSkktUlJEbmZGc2dMOXladHJrY3Nma01pTzhvVHhoQkVkVGxEM3VQSkJvX25TT0Q2MjRqazZxaVUtcXBCUW5idTlkQi1tbU5rT3hVbkprbWNySTZvX0F6ZGRDTng0bjZwZkdn0gGjAkFVX3lxTE5aVXFTRjNFMW5xWVBqd3NqSGxNYTFBdU9FNjJReWdvanJkN3RnaU5Yd1drdXBlSVFCY29rUVQwQ0VkbHdGckQ5ekY2ODFNT2s4SGR0NDNpSjQ4Nl9LVzl6LUFtMDJRbmJGQk1YWHFIYjlpMVhOVTFZQ0",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
+      "categories": [],
+      "company": "Multi-Turn",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T15:05:54+00:00",
+      "fingerprint": "935b31f8e573a7667e79e1490fcb8a015b305f3b"
     },
     {
       "title": "Strong Northern Lights Forecast: These 9 States Could See The Aurora Thursday - Forbes",
@@ -238,36 +368,6 @@
       "fingerprint": "f5d2029018cfe039fbd8e71e8d5aec3de8e86aaa"
     },
     {
-      "title": "James Hardie Industries : Proxy Statement and Notice of AGM of 2026 Annual Report PDF file - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEtlWVlZUG5TNVZWN2JYTWZIa1Q4R3h6NHNyeFBmSmNXak5mQnlhbHFYVlEwWUc5RUt4WHhnbDFZSzFQS2lhTWNwWEphRkNCRDA3OXdZQTB2YU9vQV9MNmVNMVZ3S2NCOV9MREhpb3VmaUNJbTNNdk1NOHlnWElveWRYSkJWUF95cXhvVXMtOFVXUGtITVl4WWpHS3pIaVpLc0ZpWmlJd09taFpWVEZTQzA1TDAxc0twRjltaE1WQXFEdVd3NUU2cTRjdUVDVlpsUTV5Uk9McHY?oc=5",
-      "source": "marketscreener.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEtlWVlZUG5TNVZWN2JYTWZIa1Q4R3h6NHNyeFBmSmNXak5mQnlhbHFYVlEwWUc5RUt4WHhnbDFZSzFQS2lhTWNwWEphRkNCRDA3OXdZQTB2YU9vQV9MNmVNMVZ3S2NCOV9MREhpb3VmaUNJbTNNdk1NOHlnWElveWRYSkJWUF95cXhvVXMtOFVXUGtITVl4WWpHS3pIaVpLc0ZpWmlJd09taFpWVEZTQzA1TDAxc0twRjltaE1WQXFEdVd3NUU2cTRjdUVDVlpsUTV5Uk9McHY?oc=5\" target=\"_blank\">James Hardie Industries : Proxy Statement and Notice of AGM of 2026 Annual Report PDF file</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-01T20:59:13+00:00",
-      "fingerprint": "53b989f8f0f26ce9b79b4263183a0aac03b69e77"
-    },
-    {
-      "title": "James Hardie (NYSE: JHX) outlines 2026 AGM agenda and $4.8B net sales - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3FfaXhGUDVDd3p5QUt6VjQtQm5Gcnc0VDlidkdTa1czVll5a3pqbEN3Z2V0dDFBbnpBWkZ5anVEcFlrb2wyS1BpVXRibEQ0Qko0U2picFB3WEVoR0dINkx2dFB5ZDlGU1o2VnZxLWQzU1AtSk5xeWJsOGhHbFYySVdqcjlrNWlqX2R4SEx1Q0x4c3pGNmIxc2JVeVVWd3d5c1IweHMtYk1wSXJTSWdzMEtocE80OF9xSmVLa1h4eXg?oc=5",
-      "source": "Stock Titan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3FfaXhGUDVDd3p5QUt6VjQtQm5Gcnc0VDlidkdTa1czVll5a3pqbEN3Z2V0dDFBbnpBWkZ5anVEcFlrb2wyS1BpVXRibEQ0Qko0U2picFB3WEVoR0dINkx2dFB5ZDlGU1o2VnZxLWQzU1AtSk5xeWJsOGhHbFYySVdqcjlrNWlqX2R4SEx1Q0x4c3pGNmIxc2JVeVVWd3d5c1IweHMtYk1wSXJTSWdzMEtocE80OF9xSmVLa1h4eXg?oc=5\" target=\"_blank\">James Hardie (NYSE: JHX) outlines 2026 AGM agenda and $4.8B net sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-01T20:08:08+00:00",
-      "fingerprint": "44322b4d57917dfc0b840883d1e0ff05cea9dde9"
-    },
-    {
       "title": "Solar storm could mean northern lights across Michigan. See forecast - Lansing State Journal",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc0QzY0hYd3BrYXpJOFdnS1E3bC02Vmk3b0w1MkF0aFVNRHBuUk9MbFdEUzAzMVNhUlNsSjJzWVJNWlpPYkthbUlBbEFtbmI0eUhSb2dqZG5TQS1VTVFMOU5WZ2hRa1dWSmdiSDZTSEV6U2NJYmhOdExpSDdfb01ULVRpRGJaNGd3eWpSMk9zV1JzMWxza1ByeGg3WGZKLU5Tc0tKWlRMekVXLTY1Z1lOa05SOXV0alB2UlN0X0RQdVBIbW8yTDRwLWdvWGQtQU5ZV2ZsbHRiLVlhMWc?oc=5",
       "source": "Lansing State Journal",
@@ -311,21 +411,6 @@
       "likely_roles": "",
       "published": "2026-07-01T17:04:18+00:00",
       "fingerprint": "e8cdef5dd50e596ec9deaf497eb2a80cc654bc8e"
-    },
-    {
-      "title": "Northern Lights Could Dazzle During Fourth of July Week\u2014Here's Where to Look - marthastewart.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1NhbGc4ZmUzYU54Z2p4R1M2R3J6SUhHQnVoVGtreFVUcXhRREVZeHlZWlh3RHdNTTF4TnNtaEc3d2JET3ZfRXFLQjFBcGVsNk5EMHZmNzhrd091SXNGUVZEc3AzaUVhTm56ZkFuUDRmVlFtZ2pPVXkyOFh6WGpEWElnbw?oc=5",
-      "source": "marthastewart.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1NhbGc4ZmUzYU54Z2p4R1M2R3J6SUhHQnVoVGtreFVUcXhRREVZeHlZWlh3RHdNTTF4TnNtaEc3d2JET3ZfRXFLQjFBcGVsNk5EMHZmNzhrd091SXNGUVZEc3AzaUVhTm56ZkFuUDRmVlFtZ2pPVXkyOFh6WGpEWElnbw?oc=5\" target=\"_blank\">Northern Lights Could Dazzle During Fourth of July Week\u2014Here's Where to Look</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marthastewart.com</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-01T14:31:19+00:00",
-      "fingerprint": "2dfafeff9de26dcb25ed5d78c71048fc56b65740"
     },
     {
       "title": "Scunthorpe Steel exhibition celebrates town\u2019s industrial heritage - British Steel",
@@ -433,34 +518,19 @@
       "fingerprint": "103f8283f3f50eebb78f4c467175fcf673d1c903"
     },
     {
-      "title": "Northern Lights Manchester returning to Heaton Park with new festive trail - The Bolton News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDdDZFZsam5pc2NCaW9fX0JWbWhEZ25mQlBiSWQwVE5ub0pTTWgzS0l2RU51cGN0UUdPbU5fSWNOTE5Zdm5xU2QyWXpISVg3YjJFVk1Ma2liTHNlUlVxeHRsSG9qc1A5empGandUWWFyajE4bzdCRm1obVJZRDlndTRBUDJuRl9DNnN2ZGktM1dBOWRoNndCdGpsRQ?oc=5",
-      "source": "The Bolton News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDdDZFZsam5pc2NCaW9fX0JWbWhEZ25mQlBiSWQwVE5ub0pTTWgzS0l2RU51cGN0UUdPbU5fSWNOTE5Zdm5xU2QyWXpISVg3YjJFVk1Ma2liTHNlUlVxeHRsSG9qc1A5empGandUWWFyajE4bzdCRm1obVJZRDlndTRBUDJuRl9DNnN2ZGktM1dBOWRoNndCdGpsRQ?oc=5\" target=\"_blank\">Northern Lights Manchester returning to Heaton Park with new festive trail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Bolton News</font>",
+      "title": "Titus Welliver\u2019s \u201880s-Set \u2018Bosch\u2019 Replacement Gets Season 2 Update Ahead of Series Premiere - Collider",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1EyQ0syRVdkNkJ0a09LNzRRRWFjWVpCVTA2enQwTzNpNmRlaW1lZlo3bWF3Yl9VZWRJbDN2LTJBUHV0S2ptaVBXU0Q4ZUU4Vkp0YmxzZHR5QjdLd3ZSWk90blhWdGh4RFh2VDdhRFM4bzJxMG83NHBiSVczclVhZ3ROVktTck5U?oc=5",
+      "source": "Collider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1EyQ0syRVdkNkJ0a09LNzRRRWFjWVpCVTA2enQwTzNpNmRlaW1lZlo3bWF3Yl9VZWRJbDN2LTJBUHV0S2ptaVBXU0Q4ZUU4Vkp0YmxzZHR5QjdLd3ZSWk90blhWdGh4RFh2VDdhRFM4bzJxMG83NHBiSVczclVhZ3ROVktTck5U?oc=5\" target=\"_blank\">Titus Welliver\u2019s \u201880s-Set \u2018Bosch\u2019 Replacement Gets Season 2 Update Ahead of Series Premiere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Collider</font>",
       "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "feed_title": "Kitchens & Bathrooms: Tavistock Bathroom \u2026 Ultra Finishing (12)",
       "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
+      "company": "",
+      "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-07-01T04:00:00+00:00",
-      "fingerprint": "abb8a225b18f893c0dd0558927766db9cda57ffa"
-    },
-    {
-      "title": "James Hardie builds on siding with a new home design push - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHJmMnExeUxYT2Y4Uk83bnNTcTZvZFh6Y0dKUVlrb1NFWVFMbDFLU0VlVXRDWnk0dl9RZjExby1sQmNOSVlBZFJxZkRiMlczTUI2YS1fREVuUU5nWDQxVmdUQklEYklGdTNaNk1yTVBUMEdCZ3FULXNIbVhlUWJqejRRMEg1aldXNlN2VHpUWnNZUWxUQjhrUElWZGVuQ2c2d19kN1NUNzJpelo5TXNvOUdzTHBKWjA?oc=5",
-      "source": "AD HOC NEWS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHJmMnExeUxYT2Y4Uk83bnNTcTZvZFh6Y0dKUVlrb1NFWVFMbDFLU0VlVXRDWnk0dl9RZjExby1sQmNOSVlBZFJxZkRiMlczTUI2YS1fREVuUU5nWDQxVmdUQklEYklGdTNaNk1yTVBUMEdCZ3FULXNIbVhlUWJqejRRMEg1aldXNlN2VHpUWnNZUWxUQjhrUElWZGVuQ2c2d19kN1NUNzJpelo5TXNvOUdzTHBKWjA?oc=5\" target=\"_blank\">James Hardie builds on siding with a new home design push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-01T03:15:10+00:00",
-      "fingerprint": "c5cdfe1b480e025a89f6479f2f1a053c0e16006c"
+      "published": "2026-07-02T16:56:17+00:00",
+      "fingerprint": "016eb0160c95e6002399b7954d9557cfcb5eee45"
     },
     {
       "title": "Cemex contributes to strategic highway projects across Central Europe - World Cement",
