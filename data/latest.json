@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T03:44:36.511060+00:00",
+  "generated_at": "2026-07-03T09:29:09.693480+00:00",
   "date": "2026-07-03",
-  "count": 30,
+  "count": 29,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -80,6 +80,23 @@
       "likely_roles": "",
       "published": "2026-07-02T21:38:34+00:00",
       "fingerprint": "1624c1f75a41e6d03b35d2f4559fbfd23a373111"
+    },
+    {
+      "title": "Philips unveils a world's first triple-mode gaming monitor designed to be a Swiss Army knife - TweakTown",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLUpqUEhvMGl6dTFpeU5ZUkEzRWdSM3pTbFRtWG5yaUo0bnZubmZLbG1Gb1F3ZllreXh5dzJscUZfZ0U3dVo4UDJwamFDT2dNcndSSTE0Sm9XdHo5UVR2NUVmcGZ1OXlzWEFjNzhwS0hudEM5aThaRTJrVVoxN2lKQ2V5MDhmYUZqQ1NNU2pzUWNzckx1dU1BWGZPZU1ZR0xxSG5OdWRINzUxS29iRlFFYVNpWUFXQ1Y4eHhpRE5odlVqc2pWTWd6MjJ3UHhheVhPS291RkE0Yw?oc=5",
+      "source": "TweakTown",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLUpqUEhvMGl6dTFpeU5ZUkEzRWdSM3pTbFRtWG5yaUo0bnZubmZLbG1Gb1F3ZllreXh5dzJscUZfZ0U3dVo4UDJwamFDT2dNcndSSTE0Sm9XdHo5UVR2NUVmcGZ1OXlzWEFjNzhwS0hudEM5aThaRTJrVVoxN2lKQ2V5MDhmYUZqQ1NNU2pzUWNzckx1dU1BWGZPZU1ZR0xxSG5OdWRINzUxS29iRlFFYVNpWUFXQ1Y4eHhpRE5odlVqc2pWTWd6MjJ3UHhheVhPS291RkE0Yw?oc=5\" target=\"_blank\">Philips unveils a world's first triple-mode gaming monitor designed to be a Swiss Army knife</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TweakTown</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Philips",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-03T04:22:03+00:00",
+      "fingerprint": "17dcf5d80b134710fbd24199347c76d52c72d007"
     },
     {
       "title": "Philips Evnia Launches First Triple-Mode IPS Monitors At Up To A Blistering 540Hz - HotHardware",
@@ -201,6 +218,21 @@
       "fingerprint": "540ee9fcfd91471bae17e472d2adec029a218348"
     },
     {
+      "title": "\u2018Strong\u2019 Northern Lights Alert: 26 States May See Aurora On July 4 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTI2cUYzNDFGazhROGZ0cnVJN2lXNGRudkl3dm04UHpBV085WktVdmdkVHczZ0s2NVk0cGcyaDIwR3NsdVhMQmJUR3VHZTRDc1N5WGlSelI5RXJRMUcxT1RDOHc2WmlaNGpZQ25qUnY4WXhGTzRRQ3ZNUUQxTXpUSDV1aHhoc1FsRDdkWjQwSFFFcWN5Uy1DN0txWnNEa2o1a1FHTlFQYk1QbVdRZ3BiOFZxM0Zhdw?oc=5",
+      "source": "Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTI2cUYzNDFGazhROGZ0cnVJN2lXNGRudkl3dm04UHpBV085WktVdmdkVHczZ0s2NVk0cGcyaDIwR3NsdVhMQmJUR3VHZTRDc1N5WGlSelI5RXJRMUcxT1RDOHc2WmlaNGpZQ25qUnY4WXhGTzRRQ3ZNUUQxTXpUSDV1aHhoc1FsRDdkWjQwSFFFcWN5Uy1DN0txWnNEa2o1a1FHTlFQYk1QbVdRZ3BiOFZxM0Zhdw?oc=5\" target=\"_blank\">\u2018Strong\u2019 Northern Lights Alert: 26 States May See Aurora On July 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Northern Lights",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-03T06:00:00+00:00",
+      "fingerprint": "379f704acf0918abaabd439091e179c6ce6a24a4"
+    },
+    {
       "title": "Geomagnetic storm could cause northern lights to dance in Metro Vancouver - Vancouver Is Awesome",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzdxSzlTQVhqeDVSUTd3cW1GbFhGVHJ1MVhmeUxjV0FCZ1FVMksyMmFKMWwxQjB2T3N4MnpBaTA2eDA5T2txeXd3UGpOanp3SVRiNGtFQXMyaXBvSkphSmRPdGxvbXBuZHBqVkdUUHVyR05vMXNobDZncGlGSENtWkMwNGxXazRyYkVtQ19mb3I1MkxvdndXVk5UM2hQOWs?oc=5",
       "source": "Vancouver Is Awesome",
@@ -217,9 +249,9 @@
     },
     {
       "title": "Northern Lights could dazzle the sky in these states due to solar storm ahead of Fourth of July - FOX Weather",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFNCSU9HY1Z6M0FUMUZJOUJ6RUZpdDEtQlFqTk1nT2E4RWhRMjNyZUdFTF83NnpJam1URVpHMXdtc0dqZFlXVGpiaGx5V0VsdG5sd3ZIRGlqdUVnNHpsRGNEeFF1UWRyOHdGNzlwZDNFWlRNUDcxbDNIX0VjbXd2dFRzQ1ZuOE02V0d6MEpFU2szbkU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFNCSU9HY1Z6M0FUMUZJOUJ6RUZpdDEtQlFqTk1nT2E4RWhRMjNyZUdFTF83NnpJam1URVpHMXdtc0dqZFlXVGpiaGx5V0VsdG5sd3ZIRGlqdUVnNHpsRGNEeFF1UWRyOHdGNzlwZDNFWlRNUDcxbDNIX0VjbXd2dFRzQ1ZuOE02V0d6MEpFU2szbkXSAZgBQVVfeXFMUFdhVW1paHAzZXJqaHN4SDhjSVhBbXJDV1JvdFZ1ampHbFZEZzJQY05xal8yMElEdnMxQzE5RmNDY01rZDJNa3Z3ZWlVWlo5aDlyMWNIVURjdzZZWVhyaGZOdmwtS2dodXZPdi1RRGhLOWg3Z3BrNU5TTy0ta0M5cXdhY290bTFSeldOemJjc19QMkZkd1hwUWM?oc=5",
       "source": "FOX Weather",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFNCSU9HY1Z6M0FUMUZJOUJ6RUZpdDEtQlFqTk1nT2E4RWhRMjNyZUdFTF83NnpJam1URVpHMXdtc0dqZFlXVGpiaGx5V0VsdG5sd3ZIRGlqdUVnNHpsRGNEeFF1UWRyOHdGNzlwZDNFWlRNUDcxbDNIX0VjbXd2dFRzQ1ZuOE02V0d6MEpFU2szbkU?oc=5\" target=\"_blank\">Northern Lights could dazzle the sky in these states due to solar storm ahead of Fourth of July</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFNCSU9HY1Z6M0FUMUZJOUJ6RUZpdDEtQlFqTk1nT2E4RWhRMjNyZUdFTF83NnpJam1URVpHMXdtc0dqZFlXVGpiaGx5V0VsdG5sd3ZIRGlqdUVnNHpsRGNEeFF1UWRyOHdGNzlwZDNFWlRNUDcxbDNIX0VjbXd2dFRzQ1ZuOE02V0d6MEpFU2szbkXSAZgBQVVfeXFMUFdhVW1paHAzZXJqaHN4SDhjSVhBbXJDV1JvdFZ1ampHbFZEZzJQY05xal8yMElEdnMxQzE5RmNDY01rZDJNa3Z3ZWlVWlo5aDlyMWNIVURjdzZZWVhyaGZOdmwtS2dodXZPdi1RRGhLOWg3Z3BrNU5TTy0ta0M5cXdhY290bTFSeldOemJjc19QMkZkd1hwUWM?oc=5\" target=\"_blank\">Northern Lights could dazzle the sky in these states due to solar storm ahead of Fourth of July</a>&nbsp;&nbsp;<font col",
       "feed_group": "company",
       "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
       "categories": [],
@@ -306,21 +338,6 @@
       "fingerprint": "86f3f9545167e8d19f422d0c6e8c3f410b9cd3a4"
     },
     {
-      "title": "Vishay Intertechnology 34 PHE Multi-Turn Absolute Position Sensor Delivers High Accuracy and Stability at a Reduced Cost - The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSjBINmhlemhwTVlxWE9RNXI2Um9pQnRpSUV5d2hBVDJvaDkxLTZaeWFOYzZhNHI3bS0wT0tHU0dpcTVMOXpQYUVZSEJISVlHdWJ0bTFCM0tIU1VKRlhfTXE4RmZET1JkYXpiVjNsdWRtWHc0ZllIVjdXNmxBWVkyelFjUmxfZ1Z1d2hxdWo5eUh1TUFaYlhubmQ2VzZxcWhQNmdQX29CZXNFVGRXWFl1emxiQnFNN2hvV3pZSkktUlJEbmZGc2dMOXladHJrY3Nma01pTzhvVHhoQkVkVGxEM3VQSkJvX25TT0Q2MjRqazZxaVUtcXBCUW5idTlkQi1tbU5rT3hVbkprbWNySTZvX0F6ZGRDTng0bjZwZkdn0gGjAkFVX3lxTE5aVXFTRjNFMW5xWVBqd3NqSGxNYTFBdU9FNjJReWdvanJkN3RnaU5Yd1drdXBlSVFCY29rUVQwQ0VkbHdGckQ5ekY2ODFNT2s4SGR0NDNpSjQ4Nl9LVzl6LUFtMDJRbmJGQk1YWHFIYjlpMVhOVTFZQ09DWTRoY3FURTRzUVJkY0RrNUVwNW5JbGI1UW9uSm15a2ozc0EzRnJIWU02X0ZENWJxdTJaUGkwcEh3SVF5eGk5T2QxMjEwZDNuaWJmcU1xdldtM2xRYWItcHBxLXVMQld4M0xPU1l4ZVRESWJIbzJVZ281TDVOSURkVkc2LXVLNkgzVGpmekF1VGdlbHNCeDBxTzBsYWFJZTllbU5yY2lHd0R6b1R2Y2wzYw?oc=5",
-      "source": "The Manila Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNSjBINmhlemhwTVlxWE9RNXI2Um9pQnRpSUV5d2hBVDJvaDkxLTZaeWFOYzZhNHI3bS0wT0tHU0dpcTVMOXpQYUVZSEJISVlHdWJ0bTFCM0tIU1VKRlhfTXE4RmZET1JkYXpiVjNsdWRtWHc0ZllIVjdXNmxBWVkyelFjUmxfZ1Z1d2hxdWo5eUh1TUFaYlhubmQ2VzZxcWhQNmdQX29CZXNFVGRXWFl1emxiQnFNN2hvV3pZSkktUlJEbmZGc2dMOXladHJrY3Nma01pTzhvVHhoQkVkVGxEM3VQSkJvX25TT0Q2MjRqazZxaVUtcXBCUW5idTlkQi1tbU5rT3hVbkprbWNySTZvX0F6ZGRDTng0bjZwZkdn0gGjAkFVX3lxTE5aVXFTRjNFMW5xWVBqd3NqSGxNYTFBdU9FNjJReWdvanJkN3RnaU5Yd1drdXBlSVFCY29rUVQwQ0VkbHdGckQ5ekY2ODFNT2s4SGR0NDNpSjQ4Nl9LVzl6LUFtMDJRbmJGQk1YWHFIYjlpMVhOVTFZQ0",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
-      "categories": [],
-      "company": "Multi-Turn",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-02T15:05:54+00:00",
-      "fingerprint": "935b31f8e573a7667e79e1490fcb8a015b305f3b"
-    },
-    {
       "title": "Strong Northern Lights Forecast: These 9 States Could See The Aurora Thursday - Forbes",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0kyc3ctQjFGS1p6cmhHQ3VyZm95VE5ycHlIcFNzUVBuSGhadEpHTUxpdkt5YkdzbXlFOXdENm9ybWxPTTZ6enBsSkdwMzY4Ny1IUmJ3bzlyMkRRVmJrTFBUTVE0WnNMbGthSkJmdFF5dHJCRGlud0tmWk5DU0VmVmVMTzN3Tmt6UVRkOVJuYlZGblpBYVlPaG0xRmg2NU1maFVwMVRNcjJjVi1KUk45bkRmcWg1VVdoeDdQUG5pVExSSnhwLUtndXRuYmZnMlpQWVpyVEZaVkNLUmtWNHBVYm5tbFlLWlNHbnk3VEVBNXdPbER5ZWpydWJB?oc=5",
       "source": "Forbes",
@@ -396,21 +413,6 @@
       "fingerprint": "9548fe2cbd3364cee65c9e9f2d83e29aa543a8ff"
     },
     {
-      "title": "James Hardie Industries (ASX:JHX) Updates Corporate Governance Statement - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHcxNzZ2eUFRR1FubDdRTlRPRzF5eWRUZGVlNDJnSktZWEhST3BHWEw2Ri1SU19GSnNmb0l3M2V5UmcxamRKZzlULU5QQzh4TnczWndwNFBkd2dsZldZd1lCUVZKaWtHNkhOQlp2VEU1anlZSmdpZ3QtNFJvUVA0SFNOUUNmVWJ0NFdJd3RUQ2NKTGI4S2pNNUVucVozMElXaXNMVngydi1UWDlnMVhGWGFhUVpmMWdydE44R1ln?oc=5",
-      "source": "Kalkine Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHcxNzZ2eUFRR1FubDdRTlRPRzF5eWRUZGVlNDJnSktZWEhST3BHWEw2Ri1SU19GSnNmb0l3M2V5UmcxamRKZzlULU5QQzh4TnczWndwNFBkd2dsZldZd1lCUVZKaWtHNkhOQlp2VEU1anlZSmdpZ3QtNFJvUVA0SFNOUUNmVWJ0NFdJd3RUQ2NKTGI4S2pNNUVucVozMElXaXNMVngydi1UWDlnMVhGWGFhUVpmMWdydE44R1ln?oc=5\" target=\"_blank\">James Hardie Industries (ASX:JHX) Updates Corporate Governance Statement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-02T01:00:00+00:00",
-      "fingerprint": "f53dec8b8955e7fc93d2ed69e5446f9edb4c9879"
-    },
-    {
       "title": "James Hardie Industries plc ($JHX) CEO 2026 Pay Revealed - Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanFnaXd0cjUzSEl2N0laWnhzd0lHUFJNbngyd1poZ2pfYzkxU2x1V25BUWREeC1RTGcycmRLdVRVeGhVTVlKdTN5aVZpc3dEa0NqRzJmN1VkMjQ4TlhLNWZQU1lMN0J4U0lVSTZ1NVFfclh1cnl1aXJUX1lnSmJCY3hmejRMVkYtbmJVZ2NqYldMal91NDAzZTBvbw?oc=5",
       "source": "Quiver Quantitative",
@@ -426,64 +428,49 @@
       "fingerprint": "f5d2029018cfe039fbd8e71e8d5aec3de8e86aaa"
     },
     {
-      "title": "Solar storm could mean northern lights across Michigan. See forecast - Lansing State Journal",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc0QzY0hYd3BrYXpJOFdnS1E3bC02Vmk3b0w1MkF0aFVNRHBuUk9MbFdEUzAzMVNhUlNsSjJzWVJNWlpPYkthbUlBbEFtbmI0eUhSb2dqZG5TQS1VTVFMOU5WZ2hRa1dWSmdiSDZTSEV6U2NJYmhOdExpSDdfb01ULVRpRGJaNGd3eWpSMk9zV1JzMWxza1ByeGg3WGZKLU5Tc0tKWlRMekVXLTY1Z1lOa05SOXV0alB2UlN0X0RQdVBIbW8yTDRwLWdvWGQtQU5ZV2ZsbHRiLVlhMWc?oc=5",
-      "source": "Lansing State Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc0QzY0hYd3BrYXpJOFdnS1E3bC02Vmk3b0w1MkF0aFVNRHBuUk9MbFdEUzAzMVNhUlNsSjJzWVJNWlpPYkthbUlBbEFtbmI0eUhSb2dqZG5TQS1VTVFMOU5WZ2hRa1dWSmdiSDZTSEV6U2NJYmhOdExpSDdfb01ULVRpRGJaNGd3eWpSMk9zV1JzMWxza1ByeGg3WGZKLU5Tc0tKWlRMekVXLTY1Z1lOa05SOXV0alB2UlN0X0RQdVBIbW8yTDRwLWdvWGQtQU5ZV2ZsbHRiLVlhMWc?oc=5\" target=\"_blank\">Solar storm could mean northern lights across Michigan. See forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lansing State Journal</font>",
+      "title": "Quantum Blockchain clears Sipiem enforcement hurdle - Proactive Investors",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjE2YTBJRWF3Z2xpaU95ODdOWHBaWUYwRmU2dWVuMjZDbXpCR2ZGRWhTQ2V3VkV4SjhBMzNua1p5OWpMUnRhVVFvR1pSLWlSMTc2d0xrLVM1c0F6cGduZVVTblJTSUN0NTd2UHdUNkNRaWVIRUI3UnFjRUpXaWJNOG9OZ1Z0bDVTVzlqTktWMEJkM0Y2YnMyejNBMjFsS0NseE16dmRaZ3JQWE5GVmpGZEN1Tjl2QzlCdWFGUzdsZVRPUQ?oc=5",
+      "source": "Proactive Investors",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjE2YTBJRWF3Z2xpaU95ODdOWHBaWUYwRmU2dWVuMjZDbXpCR2ZGRWhTQ2V3VkV4SjhBMzNua1p5OWpMUnRhVVFvR1pSLWlSMTc2d0xrLVM1c0F6cGduZVVTblJTSUN0NTd2UHdUNkNRaWVIRUI3UnFjRUpXaWJNOG9OZ1Z0bDVTVzlqTktWMEJkM0Y2YnMyejNBMjFsS0NseE16dmRaZ3JQWE5GVmpGZEN1Tjl2QzlCdWFGUzdsZVRPUQ?oc=5\" target=\"_blank\">Quantum Blockchain clears Sipiem enforcement hurdle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive Investors</font>",
       "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-01T17:51:00+00:00",
-      "fingerprint": "5f4e58bca0a5d6fa6e6bb325cd05e37650ea349b"
-    },
-    {
-      "title": "Northern Lights Forecast: Minor Geomagnetic Storms May Help 9 States See The Aurora Wednesday Night - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM2s1VWtOSnNuVUstTjRIQkIzRTloOVpvMU9CMEtIWVhoTjVhZFU2c0NvRTc1NUVFRU9KTkwybUhIeVFseWl6NE1MZ181SHVCQlRDLW1OQXlJVHRXejZ5cDFmcmRielA2M0RlTFYzcUdMUXdfemJIMDdBUXFuVjhHWkpDV0wzeXFlb1VuSTVoY0hVSjkxcWJ4YWtITjd0T2ZFVm0xems4UGNuRlJlRUFLX1hOZnF0a1pDRUthX0VnMWFPZm83VG1DWW5UMHR0VnNOUGc3SVJiS2xrTXA2V09RWVlLV3JDS2tGNll5VA?oc=5",
-      "source": "Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM2s1VWtOSnNuVUstTjRIQkIzRTloOVpvMU9CMEtIWVhoTjVhZFU2c0NvRTc1NUVFRU9KTkwybUhIeVFseWl6NE1MZ181SHVCQlRDLW1OQXlJVHRXejZ5cDFmcmRielA2M0RlTFYzcUdMUXdfemJIMDdBUXFuVjhHWkpDV0wzeXFlb1VuSTVoY0hVSjkxcWJ4YWtITjd0T2ZFVm0xems4UGNuRlJlRUFLX1hOZnF0a1pDRUthX0VnMWFPZm83VG1DWW5UMHR0VnNOUGc3SVJiS2xrTXA2V09RWVlLV3JDS2tGNll5VA?oc=5\" target=\"_blank\">Northern Lights Forecast: Minor Geomagnetic Storms May Help 9 States See The Aurora Wednesday Night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-01T17:09:28+00:00",
-      "fingerprint": "472ba85e0a54fe8e2905c9fe4567f7199a8c8f03"
-    },
-    {
-      "title": "Why Verified Waterproofing and Load Testing Matter for Solar Mounting on Exposed-Fastened Metal Roofs - Solar Power World",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQWtGanVlOEtwMDRvaE81Z3I0SW1VbmpSci1jVVJxR3REcUhoSG9fek9XTDktdVJfZ05jTVpJMzl0alFXaEdVRXlDLUVhMUhaNV81dmhEQkJHZDhxdGRKUjQwTUN6Z2pUdEQ2STJLbEU0OFJoaWo1N0xMWXBlM01ueU1MUzZyX1N6UFJnSk5QLWJyOHhwcDVuWTdaN1Q5VmE3cmNjOExPRGJKM1ZfTUM0dVdpeXpWM3dFTUc0NjlXUF9lQ19malpDRWk0VlpicFpleUxxVllsUFNIMzNaRTBKV3l3?oc=5",
-      "source": "Solar Power World",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQWtGanVlOEtwMDRvaE81Z3I0SW1VbmpSci1jVVJxR3REcUhoSG9fek9XTDktdVJfZ05jTVpJMzl0alFXaEdVRXlDLUVhMUhaNV81dmhEQkJHZDhxdGRKUjQwTUN6Z2pUdEQ2STJLbEU0OFJoaWo1N0xMWXBlM01ueU1MUzZyX1N6UFJnSk5QLWJyOHhwcDVuWTdaN1Q5VmE3cmNjOExPRGJKM1ZfTUM0dVdpeXpWM3dFTUc0NjlXUF9lQ19malpDRWk0VlpicFpleUxxVllsUFNIMzNaRTBKV3l3?oc=5\" target=\"_blank\">Why Verified Waterproofing and Load Testing Matter for Solar Mounting on Exposed-Fastened Metal Roofs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power World</font>",
-      "feed_group": "company",
-      "feed_title": "Other / General: Greenscape Energy \u2026 Talbotts (6)",
-      "categories": [],
-      "company": "Solar Mounting",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-01T17:04:18+00:00",
-      "fingerprint": "e8cdef5dd50e596ec9deaf497eb2a80cc654bc8e"
-    },
-    {
-      "title": "Titus Welliver\u2019s \u201880s-Set \u2018Bosch\u2019 Replacement Gets Season 2 Update Ahead of Series Premiere - Collider",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1EyQ0syRVdkNkJ0a09LNzRRRWFjWVpCVTA2enQwTzNpNmRlaW1lZlo3bWF3Yl9VZWRJbDN2LTJBUHV0S2ptaVBXU0Q4ZUU4Vkp0YmxzZHR5QjdLd3ZSWk90blhWdGh4RFh2VDdhRFM4bzJxMG83NHBiSVczclVhZ3ROVktTck5U?oc=5",
-      "source": "Collider",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1EyQ0syRVdkNkJ0a09LNzRRRWFjWVpCVTA2enQwTzNpNmRlaW1lZlo3bWF3Yl9VZWRJbDN2LTJBUHV0S2ptaVBXU0Q4ZUU4Vkp0YmxzZHR5QjdLd3ZSWk90blhWdGh4RFh2VDdhRFM4bzJxMG83NHBiSVczclVhZ3ROVktTck5U?oc=5\" target=\"_blank\">Titus Welliver\u2019s \u201880s-Set \u2018Bosch\u2019 Replacement Gets Season 2 Update Ahead of Series Premiere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Collider</font>",
-      "feed_group": "company",
-      "feed_title": "Kitchens & Bathrooms: Tavistock Bathroom \u2026 Ultra Finishing (12)",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
       "categories": [],
       "company": "",
       "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-07-02T16:56:17+00:00",
-      "fingerprint": "016eb0160c95e6002399b7954d9557cfcb5eee45"
+      "published": "2026-07-03T06:41:00+00:00",
+      "fingerprint": "de5984ef0e2beabeba44d0b1843f7df95495e2db"
+    },
+    {
+      "title": "Mass Timber & CLT Systems: High Performance Carbon Storage - Architecture & Design",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmxPb2htdXJKa09yUGhBNVpkWm1ZaUdoQU55aERCMDlXMGVxdmRSUEpESFR4OExNc294dVhYUnh0OVlzQlBnc3k0SjhZR2tsSGRUMkVsc0JESUgyc0ZGbm02dkdkOXVXWUJhZGEyMkJtNkxlQ1BCX2VZN1plRFFNUmlzV0FoZURaUlNrYUJtTi1ZNnFFbkJrdWlZTjYxcXYtUjR2amRNRl9EYUdLa2Fj?oc=5",
+      "source": "Architecture & Design",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmxPb2htdXJKa09yUGhBNVpkWm1ZaUdoQU55aERCMDlXMGVxdmRSUEpESFR4OExNc294dVhYUnh0OVlzQlBnc3k0SjhZR2tsSGRUMkVsc0JESUgyc0ZGbm02dkdkOXVXWUJhZGEyMkJtNkxlQ1BCX2VZN1plRFFNUmlzV0FoZURaUlNrYUJtTi1ZNnFFbkJrdWlZTjYxcXYtUjR2amRNRl9EYUdLa2Fj?oc=5\" target=\"_blank\">Mass Timber & CLT Systems: High Performance Carbon Storage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Architecture & Design</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-03T02:27:49+00:00",
+      "fingerprint": "26da9e29936264d09d23249d1f3543851abe6699"
+    },
+    {
+      "title": "Cemex contributes to strategic highway projects across Central Europe - World Cement",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTVIaTA5STQzZUNqUF94aFQ3c1doV205dFZPVFNUUWZEbUgyVHFEajAzdVJVNmhJSFB5LWNid3dYUlFoX0V0SUM1Q3ZJTFJMMV9BRjZUeFZHenk2SzRYa1JHcnlZek4wbmRFeFpmMmRUM1hGdjZDT3BDaS1fdURGZ2dsc0hZcnVDdnF1T3NDdUZESHAtcndsMFMyWGdqOVdGMlNqZ2ZEeng3VTlwQXFLLTBoZ0dwdlF2Tmc?oc=5",
+      "source": "World Cement",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTVIaTA5STQzZUNqUF94aFQ3c1doV205dFZPVFNUUWZEbUgyVHFEajAzdVJVNmhJSFB5LWNid3dYUlFoX0V0SUM1Q3ZJTFJMMV9BRjZUeFZHenk2SzRYa1JHcnlZek4wbmRFeFpmMmRUM1hGdjZDT3BDaS1fdURGZ2dsc0hZcnVDdnF1T3NDdUZESHAtcndsMFMyWGdqOVdGMlNqZ2ZEeng3VTlwQXFLLTBoZ0dwdlF2Tmc?oc=5\" target=\"_blank\">Cemex contributes to strategic highway projects across Central Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-02T09:04:02+00:00",
+      "fingerprint": "b6cabf42fc5c50972ab5d9b7aca1ead1cce8db24"
     }
   ]
 }
