@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T19:27:52.936255+00:00",
+  "generated_at": "2026-07-05T22:08:59.097342+00:00",
   "date": "2026-07-05",
-  "count": 12,
+  "count": 11,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,23 +13,6 @@
     "New product launch"
   ],
   "items": [
-    {
-      "title": "Reactions to the \u201cmodified plans\u201d expansion of Philips Stadium - PSV Inside",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVpiN0tmbVNiWjB5ZlozSi05T3p4U1dCYTBka256dU41SFFFTXR4QklSR0QzbkNIZHJUMERtUDdNUFFfUWN3a3lrYmpoZVc5YTI5U1dMNDV0dWd4czZaeFZjSVd1Q1AwdDRFd05XODRjSTVOcFNkTTRpVXNZMmljTWpnVVQ2eFhzMXRpTXhBNTlVX0RyVGJFdw?oc=5",
-      "source": "PSV Inside",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVpiN0tmbVNiWjB5ZlozSi05T3p4U1dCYTBka256dU41SFFFTXR4QklSR0QzbkNIZHJUMERtUDdNUFFfUWN3a3lrYmpoZVc5YTI5U1dMNDV0dWd4czZaeFZjSVd1Q1AwdDRFd05XODRjSTVOcFNkTTRpVXNZMmljTWpnVVQ2eFhzMXRpTXhBNTlVX0RyVGJFdw?oc=5\" target=\"_blank\">Reactions to the \u201cmodified plans\u201d expansion of Philips Stadium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PSV Inside</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Philips",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-05T06:43:51+00:00",
-      "fingerprint": "92c73749a9a58dce0844c1a533d955df369a5e98"
-    },
     {
       "title": "Northern Lights Forecast: Aurora Could Be Visible In These 8 States Sunday - Forbes",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1hXVEVwajhUNHJ2ZGVuWXEzQkdBSjcyMEsxc2VXSnBvdWFWdWZiY3laak5NU1RLbUlpdmt1WFJqVU5kTmhBQzZIX1RCVWFjRVJBU090Zm1laGk4YkZ2TnlHS2dGUW1ZdjZTcklPbDV4VktrV0h3bExMbUMweTZhTXZKeU9sZHVmMzNhS1VnSURsaHI5WTl6N1VITmV0WW0zeXBvQmdJS3VpR3hSb1NJTDMzOUJZcVhnWlh5WUVyaHFPM0hr?oc=5",
@@ -44,6 +27,21 @@
       "likely_roles": "",
       "published": "2026-07-05T17:40:28+00:00",
       "fingerprint": "bb57f3aa94c5762b6a2fd2c3599010714b4b25a8"
+    },
+    {
+      "title": "James Hardie Industries plc focuses on fiber cement growth as housing markets evolve - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaV9id3pxLTQwT1VIVnJJZnlTVUNqQ3dnMWlFUmdBanc0bjZiblFURDhvMWhCX3JpcXlPcWtQWS0tYzNzSHdTTlh5VWlFZ3BCdlFfX2NwdVMxZ3pZYjd4YVExUkZNMUo0VVBQV01yVXc0a25CNUZlTlRUalZDZEFqU0hydTJrQU9tamlkRy1FdHRpS0hNTFE4Wl94NHJDb1pCTHRyYTZhRl9NYXNmdml2YmUzVzh4Y0ZoTjd3UzM0QUhvZlFFb0cw?oc=5",
+      "source": "AD HOC NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNaV9id3pxLTQwT1VIVnJJZnlTVUNqQ3dnMWlFUmdBanc0bjZiblFURDhvMWhCX3JpcXlPcWtQWS0tYzNzSHdTTlh5VWlFZ3BCdlFfX2NwdVMxZ3pZYjd4YVExUkZNMUo0VVBQV01yVXc0a25CNUZlTlRUalZDZEFqU0hydTJrQU9tamlkRy1FdHRpS0hNTFE4Wl94NHJDb1pCTHRyYTZhRl9NYXNmdml2YmUzVzh4Y0ZoTjd3UzM0QUhvZlFFb0cw?oc=5\" target=\"_blank\">James Hardie Industries plc focuses on fiber cement growth as housing markets evolve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-05T13:46:47+00:00",
+      "fingerprint": "8830c59bd1e1a617ca128c204d175acd276a276f"
     },
     {
       "title": "James Hardie rewards Aaron Erter's failure - Rampart",
@@ -91,21 +89,6 @@
       "fingerprint": "85e2e92f5004a365b88ab291ffe619da912781f9"
     },
     {
-      "title": "8x6ft Winter Aurora Backdrop \u2013 Northern Lights, Snow Mountain, Pine Forest Photo Background For Photography, Parties, Studio - medrussia.org",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWZsWEdoQ0pWVlRtRWNSa09QbkoxeGlabW1vbDdDbUtDcElEUTdaY1JzZ1Z3clN0ai0xTnluYW9oWkVLZks0MlYtVV9RQkM0TkJzWS0wOEEtTXJNaG40bkFnS3g2YnhwdE9OOEMyUmpQM1JlRDI3QXVMSlNTbjFXTGIzUjh2V3Q3SV9aTG4wcHJCMWs4LUtGbWl1TFFIZw?oc=5",
-      "source": "medrussia.org",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbWZsWEdoQ0pWVlRtRWNSa09QbkoxeGlabW1vbDdDbUtDcElEUTdaY1JzZ1Z3clN0ai0xTnluYW9oWkVLZks0MlYtVV9RQkM0TkJzWS0wOEEtTXJNaG40bkFnS3g2YnhwdE9OOEMyUmpQM1JlRDI3QXVMSlNTbjFXTGIzUjh2V3Q3SV9aTG4wcHJCMWs4LUtGbWl1TFFIZw?oc=5\" target=\"_blank\">8x6ft Winter Aurora Backdrop \u2013 Northern Lights, Snow Mountain, Pine Forest Photo Background For Photography, Parties, Studio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">medrussia.org</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-05T04:55:14+00:00",
-      "fingerprint": "2bd1dd243a2ce161fc7db7ccaf732dac1bd746ee"
-    },
-    {
       "title": "Hardie\u2122 Architectural Panel from James Hardie - fiber cement panels targeting US commercial exteri - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWh6UGk1ZHpfcm51WU9ZQnJwYTREWGlLQ1pseF9tT0toYkVkZkpZZjJxbXJ1UV90NlZSNFpwYy1kQV9FUXo5QmFVM0xlQk9Ic295RjI1enlrUnEwMExwVTV6OE01cEs0TkZCUXROUTdud1N6bWhhcGZrbnpsVGhaLVFKUUNnYkpzbHJrRlZYY1p3TGU5c0I4X2ItbnFrMlBxSkU5X2JISy0yYTdBbnVyS0RIYk1odHpJdnhUMEJ3Z3U?oc=5",
       "source": "AD HOC NEWS",
@@ -134,21 +117,6 @@
       "likely_roles": "",
       "published": "2026-07-04T17:30:16+00:00",
       "fingerprint": "3a234a0c16b694a2a806022828dc4c83ead557bb"
-    },
-    {
-      "title": "GALLERY | Here are your photos of the Northern Lights - East Idaho News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTZ4RTh3bVFDN05vRkFvaVcxczZ5dHJ0N1F1eVNtRVlrYXUzVFFyOXMyeDdMUnRtUkpUWWF2VUdRcnRkVzBtdnk0WXR2cU9NR3l4QXlHRFY0U3pVNVdSSFB6ZDhPSTNjYThXRWlCTVNwcEMzSU1lNTZnX3RRSDIzRDZyaFhsRnhhWEJfYUtMSFJRQTNO?oc=5",
-      "source": "East Idaho News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTZ4RTh3bVFDN05vRkFvaVcxczZ5dHJ0N1F1eVNtRVlrYXUzVFFyOXMyeDdMUnRtUkpUWWF2VUdRcnRkVzBtdnk0WXR2cU9NR3l4QXlHRFY0U3pVNVdSSFB6ZDhPSTNjYThXRWlCTVNwcEMzSU1lNTZnX3RRSDIzRDZyaFhsRnhhWEJfYUtMSFJRQTNO?oc=5\" target=\"_blank\">GALLERY | Here are your photos of the Northern Lights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Idaho News</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Northern Lights",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-04T17:09:00+00:00",
-      "fingerprint": "5447e272bab95544381e7688a406349eb6774012"
     },
     {
       "title": "Solar storm lights up Alberta skies as northern lights dazzle Airdrie-area residents - DiscoverAirdrie",
@@ -194,6 +162,21 @@
       "likely_roles": "",
       "published": "2026-07-05T13:15:13+00:00",
       "fingerprint": "f0f3bf72348ba22d7fd911bcc0f5d0bb161833e0"
+    },
+    {
+      "title": "The CEMEX ReadyMix Concrete. A classic building material still shaping US projects - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaV9neThIOEtEVGpoQUR5MWtRREtCczlDbUJnM1hCTnR2WGJPQndJWnFsbU9oV2NXcWloREpnSk9UTHVRV2VEUlhLeU5Wdjd1WFJYNTRfSlhuU1psT0RCQTVwbDJFbXpuZkU1c0dsSnRJcmt0MG5NRkVVQ216Rk5MRjJzYjlYeHppZ2pWWnpMdENuMUdhb0RuNlp6b1ZrTWpsUXotM2lLa2lObUtZZWVIVktGMk5JODJYaDF5MzZVZ1JZdm1KT1FLQV9xUQ?oc=5",
+      "source": "AD HOC NEWS",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNaV9neThIOEtEVGpoQUR5MWtRREtCczlDbUJnM1hCTnR2WGJPQndJWnFsbU9oV2NXcWloREpnSk9UTHVRV2VEUlhLeU5Wdjd1WFJYNTRfSlhuU1psT0RCQTVwbDJFbXpuZkU1c0dsSnRJcmt0MG5NRkVVQ216Rk5MRjJzYjlYeHppZ2pWWnpMdENuMUdhb0RuNlp6b1ZrTWpsUXotM2lLa2lObUtZZWVIVktGMk5JODJYaDF5MzZVZ1JZdm1KT1FLQV9xUQ?oc=5\" target=\"_blank\">The CEMEX ReadyMix Concrete. A classic building material still shaping US projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-05T00:08:09+00:00",
+      "fingerprint": "657ccda557bf0aba14947d086ea5b495015281c0"
     }
   ]
 }
