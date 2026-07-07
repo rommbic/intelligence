@@ -1,13 +1,23 @@
 """Relevance filtering — the heart of noise reduction.
 
-Gate logic per item:
-  1. Recency: published within `recency_hours`.
-  2. Exclude: drop if it contains any exclude keyword.
-  3. Categorise: tag with every signal category whose keywords appear.
-  4. Keep if:
-       - signal / sector feed -> matched a category AND a sector keyword
-       - company-watch feed    -> matched a category OR a sector keyword OR a company
-       - companies_house / careers -> always kept (already pre-qualified)
+Every keyword-feed item must be ABOUT THE CONSTRUCTION-PRODUCTS INDUSTRY: it
+has to contain at least one sector keyword. Naming one of your companies is
+not enough on its own — that's how coincidental collisions (e.g. a "Northern
+Lights" arts story matching a lighting company) used to slip through.
+
+Gate order per item (cheapest checks first):
+  1. Recency: within `recency_hours`.
+  2. Exclude: drop if any exclude keyword appears.
+  3. Geography: drop if a foreign place is named with no UK/Ireland signal.
+  4. SECTOR ANCHOR (hard gate): drop unless a sector keyword appears — this is
+     the "actually about construction products?" check.
+  5. Categorise: tag with every trigger category whose keywords appear.
+  6. Company detection: tag the story with the specific watch-list firm named.
+  7. Keep if:
+       company feed  -> sector-anchor already passed => keep
+       other feeds   -> also requires a trigger category
+  Structured sources (Companies House, careers) bypass all of this — they're
+  pre-qualified at collection time.
 """
 from __future__ import annotations
 
@@ -22,6 +32,19 @@ log = logging.getLogger("pipeline.relevance")
 # Names shorter than this (after normalising) are too generic to match safely,
 # so they're excluded from auto-detection (they're still in their own feed).
 _MIN_NAME_LEN = 6
+
+# Common English words we auto-treat as ambiguous when they appear in a
+# watchlist name. Any watchlist name made ONLY of these words is treated as
+# ambiguous automatically — so future collisions like "Northern Lights" don't
+# need to be manually added to the config. (Curated to construction-adjacent
+# generics that keep cropping up in company names.)
+_COMMON_WORDS = {
+    "northern", "southern", "eastern", "western", "central", "national",
+    "lights", "light", "systems", "solutions", "products", "services",
+    "group", "holdings", "industries", "international", "global", "uk",
+    "direct", "supplies", "partners", "trading", "distribution",
+    "building", "construction", "materials", "premier", "prime", "advanced",
+}
 
 
 def build_company_matcher(companies: list[str]):
@@ -42,6 +65,18 @@ def build_company_matcher(companies: list[str]):
     mapping = {n: c for c, n in cleaned}
     strong = {n: (" " in n) for _, n in cleaned}  # multi-word == strong
     return rx, mapping, strong
+
+
+def _auto_ambiguous(companies: list[str]) -> set[str]:
+    """Any watchlist name made entirely of common English words is ambiguous
+    and needs sector context to count."""
+    out = set()
+    for c in companies:
+        n = normalise(c)
+        words = [w for w in n.split() if w]
+        if words and all(w in _COMMON_WORDS for w in words):
+            out.add(n)
+    return out
 
 
 def _detect_company(text_norm: str, matcher) -> tuple[str, bool]:
@@ -81,11 +116,16 @@ def filter_items(items: list[Item], settings: dict, companies: list[str]) -> lis
     foreign_rx = _compile_geo(geo.get("foreign_keywords", []))
     cutoff = now_utc() - timedelta(hours=settings["recency_hours"])
     matcher = build_company_matcher(companies)
+    # Combine explicitly-flagged ambiguous names with auto-detected ones.
+    ambiguous_norm = {normalise(n) for n in settings.get("ambiguous_companies", [])}
+    ambiguous_norm |= _auto_ambiguous(companies)
+    log.info("Ambiguous names requiring sector context: %d", len(ambiguous_norm))
 
-    kept, dropped = [], 0
+    kept, dropped_geo, dropped_sector, dropped_other = [], 0, 0, 0
     for it in items:
         text = normalise(f"{it.title} {it.summary}")
 
+        # Structured sources are pre-qualified at collection time.
         if it.feed_group in ("companies_house", "careers"):
             if not it.company:
                 it.company = _detect_company(text, matcher)[0]
@@ -93,46 +133,54 @@ def filter_items(items: list[Item], settings: dict, companies: list[str]) -> lis
             continue
 
         if it.published and it.published < cutoff:
-            dropped += 1
+            dropped_other += 1
             continue
         if any(k in text for k in exclude_kws):
-            dropped += 1
+            dropped_other += 1
             continue
 
-        # --- Geography gate: drop items that name a non-UK location and have
-        #     no positive UK signal. Keeps UK or location-neutral stories;
-        #     removes Hong Kong / US-college / other overseas items. ---
+        # 3. Geography gate.
         if require_uk:
             foreign_hit = bool(foreign_rx and foreign_rx.search(text))
             uk_hit = bool(uk_rx and uk_rx.search(text))
             if foreign_hit and not uk_hit:
-                dropped += 1
+                dropped_geo += 1
                 continue
 
-        cats = _matched_categories(text, categories)
+        # 4. HARD SECTOR-KEYWORD REQUIREMENT — the "is this actually about
+        #    construction products?" check. A story with a STRONG (unambiguous,
+        #    multi-word) watchlist company name inherently is about that firm,
+        #    so it satisfies the anchor on its own. Weak or ambiguous names do
+        #    NOT — they need a sector keyword too, which is what stops
+        #    coincidental collisions like "Northern Lights" arts stories.
         sector_hit = any(k in text for k in sector_kws)
         company, strong = _detect_company(text, matcher)
-        # A weak (single-word) name only counts when there's sector context.
-        company_counts = company and (strong or sector_hit or bool(cats))
+        ambiguous = bool(company) and normalise(company) in ambiguous_norm
+        strong_company_anchor = bool(company) and strong and not ambiguous
+        if not (sector_hit or strong_company_anchor):
+            dropped_sector += 1
+            continue
 
-        # Every item must be ANCHORED to our world: it must name one of our
-        # companies OR hit a sector keyword. A trigger category alone (e.g.
-        # "expansion", "hiring", "appoints") is NOT enough on its own — that
-        # was letting college-football "expansions" and generic overseas
-        # "hiring" stories through the company feeds.
-        anchored = sector_hit or bool(company_counts)
+        # 5. Categorise. Ambiguous-name matches are suppressed if there was
+        #    no independent industry context (sector keyword or trigger cat).
+        cats = _matched_categories(text, categories)
+        if ambiguous and not sector_hit and not cats:
+            company, strong = "", False
 
+        # 7. Keep decision. Sector-anchor already passed; company feeds keep;
+        #    other feeds also need a trigger category.
         if it.feed_group == "company":
-            keep = anchored
-        else:  # signal / sector feeds: need a trigger category AND an anchor
-            keep = bool(cats) and anchored
+            keep = True
+        else:
+            keep = bool(cats)
 
         if not keep:
-            dropped += 1
+            dropped_other += 1
             continue
         it.categories = cats
-        it.company = company if company_counts else ""
+        it.company = company
         kept.append(it)
 
-    log.info("Relevance: kept %d, dropped %d", len(kept), dropped)
+    log.info("Relevance: kept %d | dropped: sector=%d geo=%d other=%d",
+             len(kept), dropped_sector, dropped_geo, dropped_other)
     return kept
