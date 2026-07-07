@@ -123,26 +123,58 @@ def main() -> int:
 
     # ------------------------------------------------------------------
     # Step 3: try common patterns for "people at this company"
+    # Prints the raw body of each probe (truncated) so we can SEE the shape
+    # even when it's not what the code expected.
     # ------------------------------------------------------------------
-    print("\n>>> Probing endpoints that may return contacts at this company:")
+    print("\n>>> Probing endpoints for contacts/candidates at this company:")
     found_person_id = None
-    for path in (
+    probes = (
+        f"/candidates?query=company_id:{company_id}",
+        f"/candidates?company_id={company_id}",
+        f"/companies/{company_id}/candidates",
         f"/companies/{company_id}/people",
         f"/companies/{company_id}/contacts",
         f"/companies/{company_id}/relationships",
         f"/people?company_id={company_id}",
         f"/contacts?company_id={company_id}",
-    ):
+    )
+    for path in probes:
         try:
             r = s.get(f"{BASE}{path}", timeout=20)
-            print(f"    {path:55} -> HTTP {r.status_code}")
-            if r.ok and r.text.strip():
-                data = r.json()
-                sample = data if not isinstance(data, dict) else \
-                         (data.get("people") or data.get("contacts") or data.get("results") or data)
-                if isinstance(sample, list) and sample:
-                    show(f"C. First person from {path}", sample[0])
-                    found_person_id = sample[0].get("id") or sample[0].get("person_id")
+            status = f"HTTP {r.status_code}"
+            body_preview = ""
+            data = None
+            if r.text.strip():
+                try:
+                    data = r.json()
+                    # Short preview so we can eyeball the shape
+                    body_preview = json.dumps(redact(data))[:220]
+                except Exception:
+                    body_preview = r.text[:220]
+            print(f"    {path:55} -> {status} | {body_preview}")
+
+            if not r.ok or data is None:
+                continue
+
+            # Only treat as a valid list-of-people if the shape actually is that
+            listing = None
+            if isinstance(data, dict):
+                for key in ("candidates", "people", "contacts", "results"):
+                    v = data.get(key)
+                    if isinstance(v, list):
+                        listing = v
+                        break
+            elif isinstance(data, list):
+                listing = data
+            if listing:
+                first = listing[0]
+                # A person record must have person-shaped fields, not company ones
+                if isinstance(first, dict) and any(
+                    k in first for k in ("job_title", "current_title", "title", "emails", "email")
+                ):
+                    show(f"C. First person from {path}", first)
+                    found_person_id = first.get("id") or first.get("person_id")
+                    print(f"    -> captured person id={found_person_id}")
                     break
         except Exception as exc:
             print(f"    {path} -> exception: {exc}")
@@ -164,8 +196,12 @@ def main() -> int:
                 print(f"    {path:35} -> HTTP {r.status_code}")
                 if r.ok and r.text.strip():
                     detail = r.json()
+                    # Print the RAW top-level field names (not values) — the
+                    # redaction hides values but keeps names visible.
+                    if isinstance(detail, dict):
+                        print(f"    Top-level fields on this record: {sorted(detail.keys())}")
                     show(f"C2. Full person detail from {path}", detail)
-                    # Report presence/absence of email-like fields explicitly
+                    # Detector runs on the RAW data, not the redacted copy
                     email_keys = _find_email_keys(detail)
                     if email_keys:
                         print(f"    -> EMAIL FIELDS FOUND at: {email_keys}")
