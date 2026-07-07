@@ -80,7 +80,7 @@ def main() -> int:
     # Step 1: search for a company by name
     # ------------------------------------------------------------------
     print(f"\n>>> Searching companies for: {SEARCH_NAME!r}")
-    r = s.get(f"{BASE}/companies", params={"query": SEARCH_NAME, "per_page": 3}, timeout=30)
+    r = s.get(f"{BASE}/companies", params={"query": SEARCH_NAME}, timeout=30)
     print(f"    HTTP {r.status_code}")
     if r.status_code == 403:
         print("    -> 403 Forbidden. Check the API key permissions/plan tier.")
