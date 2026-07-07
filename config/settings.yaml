@@ -306,7 +306,7 @@ dashboard_url: "REPLACE_OR_SET_DASHBOARD_URL_SECRET"
 # Disabled by default (set enabled: true after Gmail service account is set up).
 # ---------------------------------------------------------------------
 outreach:
-  enabled: true                # flip to true once Google service account + Loxo key are in secrets
+  enabled: true                 # live — Google service account + Loxo key are in secrets
   inbox: "will@rommbic.co.uk"   # where drafts appear
-  min_score: 8                  # only draft for tier-1/tier-2 signals
+  min_score: 5                  # tier-1/2/3 signals: hiring, appointments, M&A, facilities, contracts, funding
   max_drafts_per_company: 5     # cap per company per signal
