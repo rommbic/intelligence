@@ -49,6 +49,28 @@ exclude_keywords:
   - "match report"
   - celebrity
   - royal family
+  # off-topic culture / identity / arts noise (added after a photo-book story
+  # collided with a company name)
+  - lgbtq
+  - queer
+  - transgender
+  - nonbinary
+  - drag queen
+  - photo book
+  - photography book
+  - kickstarter
+  - photo essay
+
+# ---------------------------------------------------------------------
+# AMBIGUOUS COMPANY NAMES
+# Watch-list names that are also common English phrases (e.g. "Northern
+# Lights"). A bare name match is NOT enough for these — the article must ALSO
+# contain a sector keyword, otherwise the match is ignored. This stops e.g. an
+# aurora/borealis or "Northern Lights" arts story being treated as the lighting
+# company. Add any other colliding names here as you spot them.
+# ---------------------------------------------------------------------
+ambiguous_companies:
+  - Northern Lights
 
 # ---------------------------------------------------------------------
 # GEOGRAPHY GATE  (home region = UK & Ireland)
@@ -128,6 +150,27 @@ geography:
     - "south africa"
     - "ncaa"
     - college football
+    # US / Canada places & regions (added after a US LGBTQ photo-book story
+    # slipped through on a company-name collision)
+    - alaska
+    - yukon
+    - virginia
+    - richmond va
+    - anchorage
+    - fairbanks
+    - "lower 48"
+    - vancouver
+    - "british columbia"
+    - ontario
+    - quebec
+    - ohio
+    - michigan
+    - illinois
+    - arizona
+    - colorado
+    - oregon
+    - washington state
+    - brooklyn
 
 # Proves the story is actually about our industry, not generic UK news.
 sector_keywords:
@@ -256,3 +299,14 @@ email:
 # GitHub (the secret overrides this). Otherwise replace with your live URL, e.g.
 # https://intel.rommbic.co.uk  or  https://<project>.pages.dev
 dashboard_url: "REPLACE_OR_SET_DASHBOARD_URL_SECRET"
+
+# ---------------------------------------------------------------------
+# OUTREACH — Loxo lookup + Gmail draft creation
+# Runs after the daily brief on the same once-per-day cadence.
+# Disabled by default (set enabled: true after Gmail service account is set up).
+# ---------------------------------------------------------------------
+outreach:
+  enabled: false                # flip to true once Google service account + Loxo key are in secrets
+  inbox: "will@rommbic.co.uk"   # where drafts appear
+  min_score: 8                  # only draft for tier-1/tier-2 signals
+  max_drafts_per_company: 5     # cap per company per signal

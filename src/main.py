@@ -52,6 +52,13 @@ def run() -> int:
     if send:
         email_digest.send(items, settings)
         schedule.mark_sent(today)   # record only after the send attempt
+        # 6) OUTREACH — runs on the same once-per-day cadence as the email.
+        # Defensively isolated: failures logged, never raised.
+        try:
+            from .outreach import orchestrator as outreach
+            outreach.run()
+        except Exception:
+            log.exception("Outreach step failed (portal + email are unaffected).")
     log.info("Done.")
     return 0
 

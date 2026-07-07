@@ -50,6 +50,11 @@ jobs:
           CH_API_KEY:        ${{ secrets.CH_API_KEY }}
           USE_CLAUDE:        ${{ secrets.USE_CLAUDE }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Outreach (Loxo -> Gmail drafts). Safe to leave unset while
+          # outreach.enabled is false in settings.yaml.
+          LOXO_API_KEY:            ${{ secrets.LOXO_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT:  ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+          OUTREACH_INBOX:          ${{ secrets.OUTREACH_INBOX }}
         run: python -m src.main
 
       - name: Assemble static site
