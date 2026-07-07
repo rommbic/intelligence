@@ -69,10 +69,28 @@ def _load_todays_signals(settings: dict) -> list[dict]:
         return []
     payload = json.loads(path.read_text(encoding="utf-8"))
     threshold = settings.get("outreach", {}).get("min_score", 8)
-    return [
-        it for it in (payload.get("items") or [])
-        if it.get("score", 0) >= threshold and it.get("company")
-    ]
+    log.info("Outreach filter: reading latest.json from %s (%d items total)",
+             path.resolve(), len(payload.get("items") or []))
+    log.info("Outreach filter: threshold=%s (%s)", threshold, type(threshold).__name__)
+
+    kept: list[dict] = []
+    for it in payload.get("items") or []:
+        score = it.get("score", 0)
+        company = it.get("company", "")
+        passes_score = score >= threshold
+        has_company = bool(company)
+        if passes_score and has_company:
+            kept.append(it)
+        else:
+            # Log the first few rejections with their exact values and types —
+            # this reveals if score is an unexpected type, if company is empty
+            # for items the dashboard shows tagged, etc.
+            if len(kept) < 3 or not passes_score or not has_company:
+                log.info("  REJECTED: score=%r (%s, passes=%s), company=%r (has=%s), title=%r",
+                         score, type(score).__name__, passes_score,
+                         company, has_company, (it.get("title") or "")[:60])
+    log.info("Outreach filter: %d passed", len(kept))
+    return kept
 
 
 def _signal_id(item: dict) -> str:
