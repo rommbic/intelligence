@@ -17,25 +17,28 @@ from typing import Optional
 log = logging.getLogger("outreach.drafter")
 
 
-SYSTEM_PROMPT = """You write outreach emails for Rommbic, the UK's leading \
-retained-search recruitment firm for the construction products industry.
+SYSTEM_PROMPT = """You write outreach emails for Rommbic, the UK's leading retained-search recruitment firm for the construction products industry.
 
-Voice rules (non-negotiable — from the Rommbic brand guide):
-- Straight-talking, confident, slightly blunt. Professional but conversational.
-- Sound like a knowledgeable industry mate, not a corporate sales team.
-- Short sentences. No fluff. No jargon. No 'synergy', 'leveraging', 'passion'.
-- Speak first, explain second. State the observation, then the offer.
-- Signed off from Will at Rommbic.
+Voice rules (non-negotiable, from the Rommbic brand guide):
+- Informal. Sound like a text from a mate who happens to work in recruitment.
+- Straight-talking, confident, slightly blunt. Zero corporate-sales language.
+- No 'synergy', 'leveraging', 'passion', 'exciting news', 'noticed that'.
+- No hedge words: 'just', 'might', 'perhaps', 'thought I'd'.
+- Signed off from Will.
 
-Structure:
-- 3-5 short sentences total.
-- Sentence 1: reference the specific news (paraphrase — no exact article quotes).
-- Sentence 2: connect that to likely hiring implications, briefly.
-- Sentence 3: offer the salary & insights report; ask them to reply if useful.
-- Optional short signoff.
+PUNCTUATION - HARD RULE:
+Only use standard hyphens (-). Never use em dashes (--, —) or en dashes (–).
+If you want a pause, use a comma or start a new sentence. This is strict.
 
-Do NOT invent facts about the recipient or company. Only use what's in the news.
-Do NOT include a footer, disclaimers, or unsubscribe language.
+Structure - TWO SENTENCES ONLY:
+1. One sentence about the news, ending with a note that hiring usually follows.
+2. One short, sharp sentence offering the salary and insights report, reply-to-get.
+
+Example of the RIGHT shape (adapt the news bit; keep the offer sentence tight):
+"Saw the news about [company] [thing that happened] - hiring's usually not far behind.
+Want a copy of our construction products salary and insights report? Just reply and I'll send it."
+
+Do NOT invent facts. Do NOT include a subject line in the body. Do NOT add a sign-off - one is appended automatically.
 """
 
 
@@ -43,16 +46,13 @@ def _fallback_email(recipient_name: str, company: str, article_title: str,
                     article_url: str) -> tuple[str, str]:
     """Deterministic fallback used when Claude is unavailable."""
     first_name = (recipient_name or "").strip().split(" ", 1)[0] or "there"
-    subject = f"Saw the news on {company} — quick thought"
+    subject = f"Saw the news on {company}"
     text = (
         f"Hi {first_name},\n\n"
-        f"Saw the news on {company} — \"{article_title}\". "
-        f"Where there's momentum like this, hiring usually isn't far behind.\n\n"
-        f"We publish a construction products salary & insights report with "
-        f"benchmarks across the sector — happy to send it over if useful. "
-        f"Just reply and I'll fire it across.\n\n"
-        f"Will\n"
-        f"Rommbic"
+        f"Saw the news about {company} - hiring's usually not far behind.\n\n"
+        f"Want a copy of our construction products salary and insights report? "
+        f"Just reply and I'll send it.\n\n"
+        f"Will"
     )
     body_html = f"<p>{escape(text).replace(chr(10)+chr(10), '</p><p>').replace(chr(10), '<br>')}</p>"
     body_html += f'<p style="color:#888;font-size:11px;margin-top:14px">Ref: <a href="{escape(article_url)}">{escape(article_title)}</a></p>'
@@ -85,7 +85,7 @@ SIGNAL TYPE: {', '.join(categories) if categories else 'general activity'}
 
 Return STRICT JSON only, no prose:
 {{
-  "subject": "<short, specific, no clickbait — max 8 words>",
+  "subject": "<short, specific, no clickbait, max 8 words>",
   "body": "<the email body in plain text, no HTML, no signature block>"
 }}"""
 
@@ -104,8 +104,14 @@ Return STRICT JSON only, no prose:
         body = str(data.get("body", "")).strip()
         if not body:
             raise ValueError("empty body from model")
-        # Append fixed sign-off + reference footer (kept out of the AI's control)
-        body = body.rstrip() + "\n\nWill\nRommbic"
+        # Safety net: normalise any smart/em/en dashes to plain hyphens, so the
+        # recipient never sees fancy dashes even if the model slips.
+        for bad, good in (("\u2014", "-"), ("\u2013", "-"),
+                          ("\u2015", "-"), ("--", "-")):
+            subject = subject.replace(bad, good)
+            body = body.replace(bad, good)
+        # Append fixed sign-off. Just "Will" - concise, informal.
+        body = body.rstrip() + "\n\nWill"
         body_html = "<p>" + escape(body).replace("\n\n", "</p><p>").replace("\n", "<br>") + "</p>"
         body_html += (f'<p style="color:#888;font-size:11px;margin-top:14px">'
                       f'Ref: <a href="{escape(article_url)}">{escape(article_title)}</a></p>')

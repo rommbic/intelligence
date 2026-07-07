@@ -148,22 +148,29 @@ def filter_items(items: list[Item], settings: dict, companies: list[str]) -> lis
                 continue
 
         # 4. HARD SECTOR-KEYWORD REQUIREMENT — the "is this actually about
-        #    construction products?" check. A story with a STRONG (unambiguous,
-        #    multi-word) watchlist company name inherently is about that firm,
-        #    so it satisfies the anchor on its own. Weak or ambiguous names do
-        #    NOT — they need a sector keyword too, which is what stops
-        #    coincidental collisions like "Northern Lights" arts stories.
+        #    construction products?" check. Three ways to pass:
+        #      (a) sector keyword directly present
+        #      (b) strong watchlist company name AND a signal category match
+        #          (e.g. "Travis Perkins opens new depot" — passes on company
+        #          name + 'New facility / expansion' category, even though
+        #          "building materials" isn't in the headline)
+        #    A strong company name ALONE is NOT enough — that used to let
+        #    unrelated articles through when they happened to contain a
+        #    watchlist company name as a coincidence (e.g. an AWS blog post
+        #    about "Multi-Turn RL" hit the "Multi-Turn" company by accident).
         sector_hit = any(k in text for k in sector_kws)
         company, strong = _detect_company(text, matcher)
         ambiguous = bool(company) and normalise(company) in ambiguous_norm
-        strong_company_anchor = bool(company) and strong and not ambiguous
-        if not (sector_hit or strong_company_anchor):
+        cats = _matched_categories(text, categories)
+        strong_name_with_signal = (
+            bool(company) and strong and not ambiguous and bool(cats)
+        )
+        if not (sector_hit or strong_name_with_signal):
             dropped_sector += 1
             continue
 
-        # 5. Categorise. Ambiguous-name matches are suppressed if there was
-        #    no independent industry context (sector keyword or trigger cat).
-        cats = _matched_categories(text, categories)
+        # 5. Suppress ambiguous-name matches when there's no independent
+        #    industry context (belt and braces alongside step 4).
         if ambiguous and not sector_hit and not cats:
             company, strong = "", False
 

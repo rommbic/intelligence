@@ -129,6 +129,12 @@ def run() -> dict:
     gmail = GmailDrafter(inbox)
     cap_per_company = outreach_cfg.get("max_drafts_per_company", 5)
 
+    # Per-run caches — Loxo lookups are the slowest step, and multiple signals
+    # about the same company (James Hardie appeared twice in a real run)
+    # shouldn't each fire fresh API calls.
+    company_cache: dict = {}      # normalised name -> matched company (or None)
+    directors_cache: dict = {}    # company_id -> list of director dicts
+
     drafts_created = 0
     prospects_logged = 0
     processed = 0
@@ -140,7 +146,12 @@ def run() -> dict:
         processed += 1
 
         company_name = item.get("company", "")
-        matched = loxo.search_company(company_name)
+        cache_key = company_name.lower().strip()
+        if cache_key in company_cache:
+            matched = company_cache[cache_key]
+        else:
+            matched = loxo.search_company(company_name)
+            company_cache[cache_key] = matched
 
         if not matched:
             if company_name not in existing_prospects:
@@ -158,7 +169,11 @@ def run() -> dict:
             continue
 
         company_id = matched.get("id")
-        directors = loxo.fetch_directors(company_id, cap=cap_per_company)
+        if company_id in directors_cache:
+            directors = directors_cache[company_id]
+        else:
+            directors = loxo.fetch_directors(company_id, cap=cap_per_company)
+            directors_cache[company_id] = directors
         if not directors:
             log.info("No directors found in Loxo for %s", company_name)
             already.add(sid)
