@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T10:07:31.273359+00:00",
+  "generated_at": "2026-07-09T15:22:50.914415+00:00",
   "date": "2026-07-09",
-  "count": 8,
+  "count": 10,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "SILCA appoints Mohawk\u2019s UK as distributor for UK and Ireland - bikebiz.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjZ1ZVo2LWJWNi1CS3dmZU50a1ZnOVJ2Zk9aY0oxTmhYTTlNZVAyZVdhUF9HS0NSdjI5VGhmU181YklUTjRxWGVuTGx5c3BxdzhZU2tfRW4wY0JJMlJOT0dMQm5QSlA0WjM4ODhaTHRWbmdOWGNTZjB1Y19YMkJJWHJLQ2xBZGc?oc=5",
+      "source": "bikebiz.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjZ1ZVo2LWJWNi1CS3dmZU50a1ZnOVJ2Zk9aY0oxTmhYTTlNZVAyZVdhUF9HS0NSdjI5VGhmU181YklUTjRxWGVuTGx5c3BxdzhZU2tfRW4wY0JJMlJOT0dMQm5QSlA0WjM4ODhaTHRWbmdOWGNTZjB1Y19YMkJJWHJLQ2xBZGc?oc=5\" target=\"_blank\">SILCA appoints Mohawk\u2019s UK as distributor for UK and Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bikebiz.com</font>",
+      "feed_group": "sector",
+      "feed_title": "Merchants & Distribution \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-09T11:26:13+00:00",
+      "fingerprint": "9ae491292deba19ae9265850939a75e717d59dd4"
+    },
     {
       "title": "Scunthorpe United unveils new kit featuring British Steel logo - British Steel",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEZjR1lEMWlnWHQwaERLcE5fS1lYcXN4NVN2UEZCdjFVa1NTN0xJVnJsVkpGSXV6bjZvbFdkN0tybDJWeDk5WExpUG01aDFIdzBSaDNYYThZMV9UWUxnVFBhaDlyLVh6ajRpMERlTlNmNTg1VUI4TzhPRjFpZlNHSk9DOEFrUVE2U1FwNF9UZ0dmbmFMcG5HZVhB?oc=5",
@@ -136,6 +153,21 @@
       "likely_roles": "",
       "published": "2026-07-08T21:08:51+00:00",
       "fingerprint": "2a6f4ee23a1c0b91e046965402f68fc7579d8b6f"
+    },
+    {
+      "title": "Cemex SAB de CV focuses on global cement demand as investors watch US exposure - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFQ0OFNrX3hiNGZMOU5rNlBTdVAwUFVfUGR3c3lnS1JCNEZmYWphTXpCLXBWY09DbzBhTlFQT2ZVeTNlYXZfd3BHZnZIRnJ2S2lVUDNXM3pRc093cmY4cDJzcENwbVJUMU4wVHI2YjJYd2F6MUhYWWtiSV92NFpLcW51bnQzVEM5WFVCSXRidndCNE1ySzBCZmJqeHBUOTNiOFNRRU00a3h5ZTdpem5VVm42eURFSEdYSUQyemFPaDRkNWNZbDlz?oc=5",
+      "source": "Ad-hoc-news.de",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFQ0OFNrX3hiNGZMOU5rNlBTdVAwUFVfUGR3c3lnS1JCNEZmYWphTXpCLXBWY09DbzBhTlFQT2ZVeTNlYXZfd3BHZnZIRnJ2S2lVUDNXM3pRc093cmY4cDJzcENwbVJUMU4wVHI2YjJYd2F6MUhYWWtiSV92NFpLcW51bnQzVEM5WFVCSXRidndCNE1ySzBCZmJqeHBUOTNiOFNRRU00a3h5ZTdpem5VVm42eURFSEdYSUQyemFPaDRkNWNZbDlz?oc=5\" target=\"_blank\">Cemex SAB de CV focuses on global cement demand as investors watch US exposure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-08T15:50:59+00:00",
+      "fingerprint": "d97452dac4d559481b054d83b2c404bf15b8952b"
     }
   ]
 }
