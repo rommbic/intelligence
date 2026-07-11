@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T03:01:11.342110+00:00",
+  "generated_at": "2026-07-11T05:49:57.750038+00:00",
   "date": "2026-07-11",
-  "count": 6,
+  "count": 5,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -29,23 +29,6 @@
       "likely_roles": "",
       "published": "2026-07-10T10:00:00+00:00",
       "fingerprint": "7336a714683365154896d26cc08fa67506963d7c"
-    },
-    {
-      "title": "Jacobs named supplier on UK government construction professional services framework - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMnAwZkhmRVdZTUFoNXdaSU1kUnBycWFqXzVxR3FtZnotNWF3TjlFenZDejdGc1VxVmp2WExoTHdrVU83VExfd2xXMjdFeXBHaUo4QzhlVWtOenJhQmNTTHdsNHFTM1pXUTlETndVYmRlREN2QjFoNk12YzlGU2Z3N01uVS1TZw?oc=5",
-      "source": "AOL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMnAwZkhmRVdZTUFoNXdaSU1kUnBycWFqXzVxR3FtZnotNWF3TjlFenZDejdGc1VxVmp2WExoTHdrVU83VExfd2xXMjdFeXBHaUo4QzhlVWtOenJhQmNTTHdsNHFTM1pXUTlETndVYmRlREN2QjFoNk12YzlGU2Z3N01uVS1TZw?oc=5\" target=\"_blank\">Jacobs named supplier on UK government construction professional services framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "feed_group": "signal",
-      "feed_title": "Contract / supply wins",
-      "categories": [
-        "Contract / supply win"
-      ],
-      "company": "",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-10T07:41:53+00:00",
-      "fingerprint": "a67d4be5f2f0423fdf10611c40c9a5687e15bdac"
     },
     {
       "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements - Ars Technica",
