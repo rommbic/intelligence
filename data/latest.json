@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T16:22:55.701100+00:00",
+  "generated_at": "2026-07-14T19:29:14.781027+00:00",
   "date": "2026-07-14",
-  "count": 14,
+  "count": 13,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -29,23 +29,6 @@
       "likely_roles": "",
       "published": "2026-07-13T12:23:34+00:00",
       "fingerprint": "44e5996d8028d931e8a6d7454b52d201a979ad5d"
-    },
-    {
-      "title": "Kingspan stock reflects steady building demand as insulation specialist expands globally - Ad Hoc News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemZrU0ZFT3QtNGZPeVVmY1VOMG5HQUVsdEZtWmNwTHV2SW9YS2c5blhvYTIya0Y2dEp0UkwyM2MxcHV1d1BHa056YVRDNlNlLUZOcTh2LTNhWE1BS3k1dUFfV29kbmlOZUxOZjVuNVNMQUwzZDd3dXJsVEItS3FOMzRzNDRfbEt1VmhxTHMxeGZwRGJ2UjZuOXliT21BbkczeVBLUUk4MngxSDNweWE1NDBWR015SUdVY29HVHRsQ0xTMzlBNHM3ZWl3?oc=5",
-      "source": "Ad Hoc News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQemZrU0ZFT3QtNGZPeVVmY1VOMG5HQUVsdEZtWmNwTHV2SW9YS2c5blhvYTIya0Y2dEp0UkwyM2MxcHV1d1BHa056YVRDNlNlLUZOcTh2LTNhWE1BS3k1dUFfV29kbmlOZUxOZjVuNVNMQUwzZDd3dXJsVEItS3FOMzRzNDRfbEt1VmhxTHMxeGZwRGJ2UjZuOXliT21BbkczeVBLUUk4MngxSDNweWE1NDBWR015SUdVY29HVHRsQ0xTMzlBNHM3ZWl3?oc=5\" target=\"_blank\">Kingspan stock reflects steady building demand as insulation specialist expands globally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad Hoc News</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "Kingspan",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-13T08:33:42+00:00",
-      "fingerprint": "c5233cf38b017f9fc2cf99a23b20210f84c73ee2"
     },
     {
       "title": "Jingye Steel demands full compensation for British Steel takeover - Reuters",
@@ -184,8 +167,8 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wNXBVR19OcTd5UE9yeElLOWZqMF8tb0pTLXNZQk04Ti11NVBtQnQ1NU8wd1I5c3g1djdfdDVJZmRZSHVoOTNEdl91eHpxdGx6VGV1RGxpVTFtYktiRjQ1dkpvbEE4NXV2NzNnU3R5Mzdud1NZNHVlVGRaRjQ?oc=5",
       "source": "Marine Industry News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5wNXBVR19OcTd5UE9yeElLOWZqMF8tb0pTLXNZQk04Ti11NVBtQnQ1NU8wd1I5c3g1djdfdDVJZmRZSHVoOTNEdl91eHpxdGx6VGV1RGxpVTFtYktiRjQ1dkpvbEE4NXV2NzNnU3R5Mzdud1NZNHVlVGRaRjQ?oc=5\" target=\"_blank\">Sherwin-Williams launches Heat-Flex AEB coating to prevent corrosion under insulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marine Industry News</font>",
-      "feed_group": "signal",
-      "feed_title": "New product launches",
+      "feed_group": "sector",
+      "feed_title": "Insulation & Fire Protection \u2014 sector news",
       "categories": [
         "New product launch"
       ],
