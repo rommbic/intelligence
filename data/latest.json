@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T05:38:45.370675+00:00",
+  "generated_at": "2026-07-14T08:18:58.253849+00:00",
   "date": "2026-07-14",
-  "count": 11,
+  "count": 10,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -48,10 +48,10 @@
       "fingerprint": "4abc6552bce2efa126d6d0c5b510fa378727bf5f"
     },
     {
-      "title": "Kingspan stock reflects steady building demand as insulation specialist expands globally - ad-hoc-news.de",
+      "title": "Kingspan stock reflects steady building demand as insulation specialist expands globally - Ad Hoc News",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemZrU0ZFT3QtNGZPeVVmY1VOMG5HQUVsdEZtWmNwTHV2SW9YS2c5blhvYTIya0Y2dEp0UkwyM2MxcHV1d1BHa056YVRDNlNlLUZOcTh2LTNhWE1BS3k1dUFfV29kbmlOZUxOZjVuNVNMQUwzZDd3dXJsVEItS3FOMzRzNDRfbEt1VmhxTHMxeGZwRGJ2UjZuOXliT21BbkczeVBLUUk4MngxSDNweWE1NDBWR015SUdVY29HVHRsQ0xTMzlBNHM3ZWl3?oc=5",
-      "source": "ad-hoc-news.de",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQemZrU0ZFT3QtNGZPeVVmY1VOMG5HQUVsdEZtWmNwTHV2SW9YS2c5blhvYTIya0Y2dEp0UkwyM2MxcHV1d1BHa056YVRDNlNlLUZOcTh2LTNhWE1BS3k1dUFfV29kbmlOZUxOZjVuNVNMQUwzZDd3dXJsVEItS3FOMzRzNDRfbEt1VmhxTHMxeGZwRGJ2UjZuOXliT21BbkczeVBLUUk4MngxSDNweWE1NDBWR015SUdVY29HVHRsQ0xTMzlBNHM3ZWl3?oc=5\" target=\"_blank\">Kingspan stock reflects steady building demand as insulation specialist expands globally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+      "source": "Ad Hoc News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQemZrU0ZFT3QtNGZPeVVmY1VOMG5HQUVsdEZtWmNwTHV2SW9YS2c5blhvYTIya0Y2dEp0UkwyM2MxcHV1d1BHa056YVRDNlNlLUZOcTh2LTNhWE1BS3k1dUFfV29kbmlOZUxOZjVuNVNMQUwzZDd3dXJsVEItS3FOMzRzNDRfbEt1VmhxTHMxeGZwRGJ2UjZuOXliT21BbkczeVBLUUk4MngxSDNweWE1NDBWR015SUdVY29HVHRsQ0xTMzlBNHM3ZWl3?oc=5\" target=\"_blank\">Kingspan stock reflects steady building demand as insulation specialist expands globally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad Hoc News</font>",
       "feed_group": "company",
       "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
       "categories": [
@@ -63,6 +63,23 @@
       "likely_roles": "",
       "published": "2026-07-13T08:33:42+00:00",
       "fingerprint": "c5233cf38b017f9fc2cf99a23b20210f84c73ee2"
+    },
+    {
+      "title": "OurCoop appoints LoweConex to unify refrigeration and HVAC telemetry - Retail Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3d2a1RUdjlEYWg0dGp0V282b1VsZmVZX3plcmZpRzlUQUNWd2czSGFMY1ZDZkVNSTZxRjJYOFdPRXNJaFRwbERhcExoZlZzU2NsUkJBUXp3amUzcFJCQ2FuTEw3OC1rUGhzNk15NlBmQU1ENlN6U0ZibmZrU0ZfM05tSFd4bFA3MllLX2ZzSUFjM245bVFiQjlUeXZRUDZUWDdrM2RUTWJ5c2RCZnlRQmdNNC1IVGFDQ3pYRklWYkc3RkYtTVQwNkptcw?oc=5",
+      "source": "Retail Bulletin",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3d2a1RUdjlEYWg0dGp0V282b1VsZmVZX3plcmZpRzlUQUNWd2czSGFMY1ZDZkVNSTZxRjJYOFdPRXNJaFRwbERhcExoZlZzU2NsUkJBUXp3amUzcFJCQ2FuTEw3OC1rUGhzNk15NlBmQU1ENlN6U0ZibmZrU0ZfM05tSFd4bFA3MllLX2ZzSUFjM245bVFiQjlUeXZRUDZUWDdrM2RUTWJ5c2RCZnlRQmdNNC1IVGFDQ3pYRklWYkc3RkYtTVQwNkptcw?oc=5\" target=\"_blank\">OurCoop appoints LoweConex to unify refrigeration and HVAC telemetry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Bulletin</font>",
+      "feed_group": "sector",
+      "feed_title": "HVAC & Building Services \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-14T08:04:50+00:00",
+      "fingerprint": "12a6845792156fe7eded25524b3bd21506ee2218"
     },
     {
       "title": "Barco appoints AED UK as projection portfolio distributor - AV Magazine",
@@ -97,21 +114,6 @@
       "likely_roles": "",
       "published": "2026-07-13T12:50:00+00:00",
       "fingerprint": "5a636d2289b7cc20063ffdb8b32439bb8206d3d7"
-    },
-    {
-      "title": "Philips Hue promises free Bridge Pro replacements after a rogue update bricked its devices \u2014 and users are impressed - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeUJMTkVmWU01UGxHdEctTEdBLUFNWmRUamVySERlZFZvamhQVm9SWlNrNlR4WENicVhSOVRhbGxNQWtnbVhUcFVXUjl6TTliWjdBTkE1OE9fMVJXbGtsSWFETGY1TmsteHM4bEpoZVJXenVFSWI2b0VmQ0pTZjNOTUNsNnUyWDI1cjBERzlGU3lYZFQ3b202cHBXQUV2NjBTaGh5Q0o1N1BJNUEzV3lfRGpkdzhwZVdNZ3VhSmZJTUsxUWxCRkZDRVlQZVpTdHpXdi1GdGY0d01QZWdiYnpNN3djeUpOMW1GZE5EaA?oc=5",
-      "source": "TechRadar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeUJMTkVmWU01UGxHdEctTEdBLUFNWmRUamVySERlZFZvamhQVm9SWlNrNlR4WENicVhSOVRhbGxNQWtnbVhUcFVXUjl6TTliWjdBTkE1OE9fMVJXbGtsSWFETGY1TmsteHM4bEpoZVJXenVFSWI2b0VmQ0pTZjNOTUNsNnUyWDI1cjBERzlGU3lYZFQ3b202cHBXQUV2NjBTaGh5Q0o1N1BJNUEzV3lfRGpkdzhwZVdNZ3VhSmZJTUsxUWxCRkZDRVlQZVpTdHpXdi1GdGY0d01QZWdiYnpNN3djeUpOMW1GZE5EaA?oc=5\" target=\"_blank\">Philips Hue promises free Bridge Pro replacements after a rogue update bricked its devices \u2014 and users are impressed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
-      "feed_group": "company",
-      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
-      "categories": [],
-      "company": "Philips",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-13T11:59:09+00:00",
-      "fingerprint": "63298605890eb918447ce60a9b900584f7957b26"
     },
     {
       "title": "Sherwin-Williams launches Heat-Flex AEB coating to prevent corrosion under insulation - Marine Industry News",
@@ -174,21 +176,6 @@
       "likely_roles": "",
       "published": "2026-07-13T10:49:08+00:00",
       "fingerprint": "42eefcdda98ddedff3d522de8d129a7ad92a0496"
-    },
-    {
-      "title": "Flammable insulation used in fire hit complex - the Fire Protection Association.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlNxNHd4Q0pfMDRKc2tVTGVzQVZpUmJGekdtNzYwUTJyR0tUOFhwM3MtZ0hSSDN2ZFZnRnFvNmF0UVAyVk5YWVFpTFVFYjVGd1RFbDB1d0E5X0Y5RXZWUHlIMk1GNnRjeGpPMFNQeUlIUFhFNF8xWlZLNS1ub0tPZw?oc=5",
-      "source": "the Fire Protection Association.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlNxNHd4Q0pfMDRKc2tVTGVzQVZpUmJGekdtNzYwUTJyR0tUOFhwM3MtZ0hSSDN2ZFZnRnFvNmF0UVAyVk5YWVFpTFVFYjVGd1RFbDB1d0E5X0Y5RXZWUHlIMk1GNnRjeGpPMFNQeUlIUFhFNF8xWlZLNS1ub0tPZw?oc=5\" target=\"_blank\">Flammable insulation used in fire hit complex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the Fire Protection Association.</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Rockwool \u2026 Superglass (13)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-12T19:40:50+00:00",
-      "fingerprint": "83bda21ab7c959d0f8d76fb3be1a7553fc3bd69b"
     }
   ]
 }
