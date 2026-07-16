@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:23:28.447513+00:00",
+  "generated_at": "2026-07-16T19:22:28.222278+00:00",
   "date": "2026-07-16",
   "count": 10,
   "categories": [
@@ -63,23 +63,6 @@
       "likely_roles": "",
       "published": "2026-07-15T07:50:20+00:00",
       "fingerprint": "aec10b1dfa59b43624baaeea34a9692dae0545b3"
-    },
-    {
-      "title": "Norfolk firm turning emissions into building materials appoints new director - EDP24",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3ZiS3huTkpJRVJ4RFJqOWcxTXRjZWJlNXNYaVhXZ1pBelowVk1UUnlIWUNfcnhLM3pySHE0M1dxQXdoZFJCYURCT0NtQTYtQUhSMFpiSC04UXM4NG0yN3o3SlVsbHM4RnB5RkNUcVdySV9DRG41RHpDd05xQ0dEWDRTMDNwcE5GRmduOFZKTDc3SUczWlE?oc=5",
-      "source": "EDP24",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3ZiS3huTkpJRVJ4RFJqOWcxTXRjZWJlNXNYaVhXZ1pBelowVk1UUnlIWUNfcnhLM3pySHE0M1dxQXdoZFJCYURCT0NtQTYtQUhSMFpiSC04UXM4NG0yN3o3SlVsbHM4RnB5RkNUcVdySV9DRG41RHpDd05xQ0dEWDRTMDNwcE5GRmduOFZKTDc3SUczWlE?oc=5\" target=\"_blank\">Norfolk firm turning emissions into building materials appoints new director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EDP24</font>",
-      "feed_group": "signal",
-      "feed_title": "Leadership appointments",
-      "categories": [
-        "Leadership appointment"
-      ],
-      "company": "",
-      "score": 8,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-15T05:00:00+00:00",
-      "fingerprint": "e5a9ab1275fa701dc98d8c6d4aa4dcfcc2670c9e"
     },
     {
       "title": "Philips Hue promises free Bridge Pro after update bricks devices - The Ambient",
@@ -157,6 +140,21 @@
       "likely_roles": "",
       "published": "2026-07-15T10:15:01+00:00",
       "fingerprint": "e1f061ce20f3cb1ab04fbbc12784c1f4c0c3d436"
+    },
+    {
+      "title": "Foes of Fed independence take aim at enforcement - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTExJZ1E5akFSLTYyUzBCYWN1OTBvS1R4eEhGNmRJcEdvVGN6WWNDMmozMmFjTzJ0NkxGNmJ0dGNSeG9DZlpaVGZkQzJRNExkdy1oWFRlV0dpT3pJSDVnZm5QbTJsWTNfR0VHeGJKT3VxZXhHaWxld3FmaXlFdURnVHZsbm95WHJldGNxdEFCTThtbDBjYmVGYktTaWYzU2FER281YXMteWVLZlo0ZHJJTjIzQlNHTU1VSVE?oc=5",
+      "source": "TradingView",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTExJZ1E5akFSLTYyUzBCYWN1OTBvS1R4eEhGNmRJcEdvVGN6WWNDMmozMmFjTzJ0NkxGNmJ0dGNSeG9DZlpaVGZkQzJRNExkdy1oWFRlV0dpT3pJSDVnZm5QbTJsWTNfR0VHeGJKT3VxZXhHaWxld3FmaXlFdURnVHZsbm95WHJldGNxdEFCTThtbDBjYmVGYktTaWYzU2FER281YXMteWVLZlo0ZHJJTjIzQlNHTU1VSVE?oc=5\" target=\"_blank\">Foes of Fed independence take aim at enforcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-16T17:03:16+00:00",
+      "fingerprint": "ac3c7a5d88c814fa32b77b82ee34656786a4ce3c"
     },
     {
       "title": "SIG plans \u00a3100m programme to increase efficiency as market struggles - Builders Merchants Journal",
