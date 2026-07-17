@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T08:37:04.373978+00:00",
+  "generated_at": "2026-07-17T10:54:29.083070+00:00",
   "date": "2026-07-17",
-  "count": 9,
+  "count": 11,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "China Vows Strong Action Over UK\u2019s Takeover of British Steel - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjJBNnVrSDZadTQ3czNMbTBlVS1TaHJQa081QWtvcWx5ajBYYndRMGdid1M4UFhUR2lZSEV0OTVMWmNmcU4wb09rclg5dzJBYXNLVm5Ic0dKWVp5V09RY2hXOFVNTnkzWHpydUFmVU5RTks2blczV3B5TVJkYVA1V21WRUFsdDhydjBrWGZham51NE9MM2tnN2xacGszNXpFMHpXVVhod2NTc2xodUo3Zg?oc=5",
+      "source": "Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjJBNnVrSDZadTQ3czNMbTBlVS1TaHJQa081QWtvcWx5ajBYYndRMGdid1M4UFhUR2lZSEV0OTVMWmNmcU4wb09rclg5dzJBYXNLVm5Ic0dKWVp5V09RY2hXOFVNTnkzWHpydUFmVU5RTks2blczV3B5TVJkYVA1V21WRUFsdDhydjBrWGZham51NE9MM2tnN2xacGszNXpFMHpXVVhod2NTc2xodUo3Zg?oc=5\" target=\"_blank\">China Vows Strong Action Over UK\u2019s Takeover of British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "British Steel",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-17T09:42:24+00:00",
+      "fingerprint": "a6533816d2cd2cfe32481a000fd31e6feed03ca2"
+    },
     {
       "title": "Could the UK Government takeover of British Steel cause problems for Andy Burnham? - Sky News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFV0anV3UGRnN3VlbUhwSTQ3bnZ3aXh6N1YyV1hHZ2RRYVpSLTZ4R3dCZTFOS1ZCcGk0VkdDVlNBbi1oN3NlZndMdDVXTFlqZlNyNEZnX2NGWjUwdmlPdWdPWnBsVC1rU3pVM0hIRkRNVlE5WWI5V3ZLcnRua3laRWgtZ05YSHFPTVhLUGR2RWFjOTlEMlRUMEZDUHlhNTZOdkRFMmhkVlFjdEh3Z3NFc1Zmbko0Zndv?oc=5",
@@ -29,6 +46,23 @@
       "likely_roles": "",
       "published": "2026-07-16T15:27:09+00:00",
       "fingerprint": "89d97d9fe5275791236066e14679126e11dec63d"
+    },
+    {
+      "title": "China Condemns UK\u2019s Nationalisation Of British Steel, Warns of Investment Fallout - Arise News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQTUxSUdjS0MzaGpEYXhZYkZyb1EzZWRvRlJYMlgwWW4wWkV4QWFPZDhiOFBFdjJQaTgwdTJ6TW5mcjAwQ2pTa1c3WTRDRXZ6NERVaURoaHBBTXlwQ2U2dG12cXdHdC1iVEpycUdESWJOdjdteU5vMjk1V3dTbl9PeVNDNUtEOWVZQ0JNZHR6bkVXRW93MVRuOFpiUFg0Umc3bW1N?oc=5",
+      "source": "Arise News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQTUxSUdjS0MzaGpEYXhZYkZyb1EzZWRvRlJYMlgwWW4wWkV4QWFPZDhiOFBFdjJQaTgwdTJ6TW5mcjAwQ2pTa1c3WTRDRXZ6NERVaURoaHBBTXlwQ2U2dG12cXdHdC1iVEpycUdESWJOdjdteU5vMjk1V3dTbl9PeVNDNUtEOWVZQ0JNZHR6bkVXRW93MVRuOFpiUFg0Umc3bW1N?oc=5\" target=\"_blank\">China Condemns UK\u2019s Nationalisation Of British Steel, Warns of Investment Fallout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arise News</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "British Steel",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-17T09:03:29+00:00",
+      "fingerprint": "b42974305697cab60c4fde07ec24467f17fb2c1c"
     },
     {
       "title": "China Slams UK Nationalisation of British Steel, Warns of Damage to Bilateral Investment Ties - News and Statistics - IndexBox",
@@ -121,7 +155,7 @@
       "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-07-17T06:00:59+00:00",
+      "published": "2026-07-17T06:00:53+00:00",
       "fingerprint": "92f3d2fbcf378ca279870beea6a3d3ba8f58b06a"
     },
     {
