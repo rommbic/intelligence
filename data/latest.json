@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T13:28:15.158070+00:00",
+  "generated_at": "2026-07-18T16:05:26.266110+00:00",
   "date": "2026-07-18",
-  "count": 12,
+  "count": 10,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,24 +13,6 @@
     "New product launch"
   ],
   "items": [
-    {
-      "title": "China warns confidence in UK investment 'undermined\u2019 by British Steel takeover - RFI",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmRBOEpGVG1qdm5IQlRZQXZfOERWVUgwdWllVjhtZHRfbExfYURfbl9qWF8taS1FcE5rNHJ2WElfbkZsS2pLdHhUS1BlWWMxMEROZGY5aGFEMERwMnRNX0hRRS1UVk9JSm9OUHRhaXZUU1dIbXdrdmotRndzSnZsNXQyRWRLSEdNc09Ib1FjX3dCNEZfTVNvRjFmSDQ3R3BCczVZaHluX2piSVY2MWtCN3ZfNk54NV9SSkFPU3d3?oc=5",
-      "source": "RFI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmRBOEpGVG1qdm5IQlRZQXZfOERWVUgwdWllVjhtZHRfbExfYURfbl9qWF8taS1FcE5rNHJ2WElfbkZsS2pLdHhUS1BlWWMxMEROZGY5aGFEMERwMnRNX0hRRS1UVk9JSm9OUHRhaXZUU1dIbXdrdmotRndzSnZsNXQyRWRLSEdNc09Ib1FjX3dCNEZfTVNvRjFmSDQ3R3BCczVZaHluX2piSVY2MWtCN3ZfNk54NV9SSkFPU3d3?oc=5\" target=\"_blank\">China warns confidence in UK investment 'undermined\u2019 by British Steel takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "Acquisition / M&A",
-        "Investment / funding"
-      ],
-      "company": "British Steel",
-      "score": 10,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-17T16:02:11+00:00",
-      "fingerprint": "fb0a0cdca12021b359b436a4d301db70014b0d6f"
-    },
     {
       "title": "China Vows Strong Action Over UK\u2019s Takeover of British Steel - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjJBNnVrSDZadTQ3czNMbTBlVS1TaHJQa081QWtvcWx5ajBYYndRMGdid1M4UFhUR2lZSEV0OTVMWmNmcU4wb09rclg5dzJBYXNLVm5Ic0dKWVp5V09RY2hXOFVNTnkzWHpydUFmVU5RTks2blczV3B5TVJkYVA1V21WRUFsdDhydjBrWGZham51NE9MM2tnN2xacGszNXpFMHpXVVhod2NTc2xodUo3Zg?oc=5",
@@ -145,21 +127,6 @@
       "likely_roles": "",
       "published": "2026-07-17T14:13:00+00:00",
       "fingerprint": "e4836dbf361a7526a4caaf1b37805bd63892eb19"
-    },
-    {
-      "title": "Kingspan stock steadies as insulation leader posts higher 2024 earnings and eyes margin discipline - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZC0xbXhyejR0UXcyMXJ6alJaRmswQWFiX3ZaeTNBZVRsR2pTVGpxODJYTC03eVhfQ3pUUER3ZzNmNFBpWVlVNW84SnE5dUd5UVQ1NGJXbjR6YTFULU1HVkEzaU02Mi1FOWpCMWFWcjR6NVh4bzFaM1lnY1R5RXVsWkxZbkNOckhPNVY1OGNwMUdGWDNsVjVtdVhPSGZXcmJ0SGdESjNXaUdfaFA1Rkl2VG5KVXh3Q0Z2RGM3dzJqVmU0WHRlQnU5SmR3?oc=5",
-      "source": "ad-hoc-news.de",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZC0xbXhyejR0UXcyMXJ6alJaRmswQWFiX3ZaeTNBZVRsR2pTVGpxODJYTC03eVhfQ3pUUER3ZzNmNFBpWVlVNW84SnE5dUd5UVQ1NGJXbjR6YTFULU1HVkEzaU02Mi1FOWpCMWFWcjR6NVh4bzFaM1lnY1R5RXVsWkxZbkNOckhPNVY1OGNwMUdGWDNsVjVtdVhPSGZXcmJ0SGdESjNXaUdfaFA1Rkl2VG5KVXh3Q0Z2RGM3dzJqVmU0WHRlQnU5SmR3?oc=5\" target=\"_blank\">Kingspan stock steadies as insulation leader posts higher 2024 earnings and eyes margin discipline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [],
-      "company": "Kingspan",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-17T03:15:29+00:00",
-      "fingerprint": "2d7410f27ef3dc560398a673517d6775b4b5c1d5"
     },
     {
       "title": "Titus Welliver\u2019s \u201880s-Set \u2018Bosch\u2019 Replacement Is Officially Rewriting History [Exclusive] - Collider",
