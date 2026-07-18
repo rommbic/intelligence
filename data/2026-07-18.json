@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:22:18.545970+00:00",
+  "generated_at": "2026-07-18T10:24:33.503744+00:00",
   "date": "2026-07-18",
   "count": 13,
   "categories": [
@@ -30,23 +30,6 @@
       "likely_roles": "",
       "published": "2026-07-17T16:02:11+00:00",
       "fingerprint": "fb0a0cdca12021b359b436a4d301db70014b0d6f"
-    },
-    {
-      "title": "Could the UK Government takeover of British Steel cause problems for Andy Burnham? - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFV0anV3UGRnN3VlbUhwSTQ3bnZ3aXh6N1YyV1hHZ2RRYVpSLTZ4R3dCZTFOS1ZCcGk0VkdDVlNBbi1oN3NlZndMdDVXTFlqZlNyNEZnX2NGWjUwdmlPdWdPWnBsVC1rU3pVM0hIRkRNVlE5WWI5V3ZLcnRua3laRWgtZ05YSHFPTVhLUGR2RWFjOTlEMlRUMEZDUHlhNTZOdkRFMmhkVlFjdEh3Z3NFc1Zmbko0Zndv?oc=5",
-      "source": "Sky News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFV0anV3UGRnN3VlbUhwSTQ3bnZ3aXh6N1YyV1hHZ2RRYVpSLTZ4R3dCZTFOS1ZCcGk0VkdDVlNBbi1oN3NlZndMdDVXTFlqZlNyNEZnX2NGWjUwdmlPdWdPWnBsVC1rU3pVM0hIRkRNVlE5WWI5V3ZLcnRua3laRWgtZ05YSHFPTVhLUGR2RWFjOTlEMlRUMEZDUHlhNTZOdkRFMmhkVlFjdEh3Z3NFc1Zmbko0Zndv?oc=5\" target=\"_blank\">Could the UK Government takeover of British Steel cause problems for Andy Burnham?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "Acquisition / M&A"
-      ],
-      "company": "British Steel",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-18T04:04:37+00:00",
-      "fingerprint": "89d97d9fe5275791236066e14679126e11dec63d"
     },
     {
       "title": "China Vows Strong Action Over UK\u2019s Takeover of British Steel - Bloomberg.com",
@@ -151,6 +134,21 @@
       "fingerprint": "ee292711218708f7c20a3c4fd71c4a94ecba23e3"
     },
     {
+      "title": "Kingspan stock trades resiliently as insulation leader eyes growth after solid 2024 results - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1NwQ1RfQzJyVV9yQUR6blViclNTT3NNZzhzRHZsMjNFc1JXQ1hJV3pvTklCdm1lS3VjQnlaSDQ0Umd2RE1VME91eUdYN0Y4WnFCU09UZFJIcGdpUGpMNXBvYld2SDQ4LTl6dDVUUjF0eUZEQU40RDVvU1pPVmF2T3hqRndGeUphb25MM280Tjg2ZnBnZEk1LXZOUXVwcVJwakdLUE94SDlIOTJwaDUtVE5fQjBGM29kQk9ES3h4eFlLMWt6REh3aE9SNA?oc=5",
+      "source": "ad-hoc-news.de",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1NwQ1RfQzJyVV9yQUR6blViclNTT3NNZzhzRHZsMjNFc1JXQ1hJV3pvTklCdm1lS3VjQnlaSDQ0Umd2RE1VME91eUdYN0Y4WnFCU09UZFJIcGdpUGpMNXBvYld2SDQ4LTl6dDVUUjF0eUZEQU40RDVvU1pPVmF2T3hqRndGeUphb25MM280Tjg2ZnBnZEk1LXZOUXVwcVJwakdLUE94SDlIOTJwaDUtVE5fQjBGM29kQk9ES3h4eFlLMWt6REh3aE9SNA?oc=5\" target=\"_blank\">Kingspan stock trades resiliently as insulation leader eyes growth after solid 2024 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [],
+      "company": "Kingspan",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-18T08:26:14+00:00",
+      "fingerprint": "dc92b08fc8cb09e6f93acec9da48369d380c7b6c"
+    },
+    {
       "title": "Philips Hue just leaked its major announcements months ahead of schedule - Android Authority",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYm9OdnRTUVdzZVRNMWZDOUd4cFQzVUZTT3RHRmxsOEg3SE5na3pLNUE1cXhScExYOFh1UkVUYzVYU09FWGZKelFrNTNRMnlHTnMyakNBUkF0LVpPZXBQY1FPSl9xM04tSldvT0JOSEJwckNXamhVY3d5YjNPR2FFNjY2VTlpV1Myb0E?oc=5",
       "source": "Android Authority",
@@ -211,10 +209,10 @@
       "fingerprint": "f66ebd6f9f81fc73752dd37667a9be1a2dce8a92"
     },
     {
-      "title": "Foes of Fed independence take aim at enforcement - Breakingviews",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVAzekxTT1FBWkI5bWlJOW96b3RqVkhwUHZLVU83U21BV1BsNmZqMDlwdjlXM3RNRTZxd2dpcEFhNHhkSWtILTlvYnZXSVNLYmhrekdOMHhZWXYyNUdjVzBnRUhhQ1VWWWs0R2xjNkZ4MFQ2S3BobnlhcDBpV2tlYjBOM0pHUEVxZnNrcG9Zb3RrenRJQmJWSmprWW5fME9VQVlHbVJ3T2xDbG45?oc=5",
-      "source": "Breakingviews",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVAzekxTT1FBWkI5bWlJOW96b3RqVkhwUHZLVU83U21BV1BsNmZqMDlwdjlXM3RNRTZxd2dpcEFhNHhkSWtILTlvYnZXSVNLYmhrekdOMHhZWXYyNUdjVzBnRUhhQ1VWWWs0R2xjNkZ4MFQ2S3BobnlhcDBpV2tlYjBOM0pHUEVxZnNrcG9Zb3RrenRJQmJWSmprWW5fME9VQVlHbVJ3T2xDbG45?oc=5\" target=\"_blank\">Foes of Fed independence take aim at enforcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breakingviews</font>",
+      "title": "Foes of Fed independence take aim at enforcement - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOE9scEJGSTdLNDdsRFU0S1lvRXQ2VTJfZUJTS2lUMHVnTjJvYVV0ZWNTRGgySVBCY09sWkNVTHF0ajJZSXRobTd6MUc0MEF5Z3BfMDhJUmtqT3dYU0t6VWFlQTA1Y1lqV0FHWGJZdzd4RHhZaVVQTy1uZFczQnZvT3d1WkFwNnJYVTVXNmo5b05UZ3pEdmh6Wl9WSUN0elMzaUdmMnFDMWRaZWwwSGZKeHpfS2JwalFvT0E?oc=5",
+      "source": "TradingView",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOE9scEJGSTdLNDdsRFU0S1lvRXQ2VTJfZUJTS2lUMHVnTjJvYVV0ZWNTRGgySVBCY09sWkNVTHF0ajJZSXRobTd6MUc0MEF5Z3BfMDhJUmtqT3dYU0t6VWFlQTA1Y1lqV0FHWGJZdzd4RHhZaVVQTy1uZFczQnZvT3d1WkFwNnJYVTVXNmo5b05UZ3pEdmh6Wl9WSUN0elMzaUdmMnFDMWRaZWwwSGZKeHpfS2JwalFvT0E?oc=5\" target=\"_blank\">Foes of Fed independence take aim at enforcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "feed_group": "company",
       "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
       "categories": [],
@@ -222,7 +220,7 @@
       "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-07-16T21:48:18+00:00",
+      "published": "2026-07-17T12:00:00+00:00",
       "fingerprint": "ac3c7a5d88c814fa32b77b82ee34656786a4ce3c"
     }
   ]
