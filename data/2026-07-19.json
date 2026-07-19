@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T16:04:06.079633+00:00",
+  "generated_at": "2026-07-19T19:15:10.915473+00:00",
   "date": "2026-07-19",
-  "count": 3,
+  "count": 4,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -63,6 +63,21 @@
       "likely_roles": "",
       "published": "2026-07-19T02:15:59+00:00",
       "fingerprint": "f245dab5177a87279b32d2ed1c3573b297af0c52"
+    },
+    {
+      "title": "Kingspan stock trades resiliently as insulation leader eyes growth after solid 2024 results - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1NwQ1RfQzJyVV9yQUR6blViclNTT3NNZzhzRHZsMjNFc1JXQ1hJV3pvTklCdm1lS3VjQnlaSDQ0Umd2RE1VME91eUdYN0Y4WnFCU09UZFJIcGdpUGpMNXBvYld2SDQ4LTl6dDVUUjF0eUZEQU40RDVvU1pPVmF2T3hqRndGeUphb25MM280Tjg2ZnBnZEk1LXZOUXVwcVJwakdLUE94SDlIOTJwaDUtVE5fQjBGM29kQk9ES3h4eFlLMWt6REh3aE9SNA?oc=5",
+      "source": "ad-hoc-news.de",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1NwQ1RfQzJyVV9yQUR6blViclNTT3NNZzhzRHZsMjNFc1JXQ1hJV3pvTklCdm1lS3VjQnlaSDQ0Umd2RE1VME91eUdYN0Y4WnFCU09UZFJIcGdpUGpMNXBvYld2SDQ4LTl6dDVUUjF0eUZEQU40RDVvU1pPVmF2T3hqRndGeUphb25MM280Tjg2ZnBnZEk1LXZOUXVwcVJwakdLUE94SDlIOTJwaDUtVE5fQjBGM29kQk9ES3h4eFlLMWt6REh3aE9SNA?oc=5\" target=\"_blank\">Kingspan stock trades resiliently as insulation leader eyes growth after solid 2024 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [],
+      "company": "Kingspan",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-18T08:26:14+00:00",
+      "fingerprint": "dc92b08fc8cb09e6f93acec9da48369d380c7b6c"
     }
   ]
 }
