@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T19:15:10.915473+00:00",
+  "generated_at": "2026-07-19T22:01:12.187596+00:00",
   "date": "2026-07-19",
-  "count": 4,
+  "count": 5,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Chinese firm demands compensation for British Steel takeover - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjJ3b2JOMzVNbG1KMm44VmkyLVlZQzJmajAzTUQtV2lGX2cyazg4YzJ4TkZLLU90TXVzLVJBbTFGdVNFUDAybDJsWGRLaXRuXy1IcDhReTZPdU1UenE4UElLMS1GTHZtSklLaks3c2JEck5JSmcwX2QzX256LXBjLVJZX0otNENtUm5vNWstQzQydDM0cHNURHJCYm8zNlEtNzU5Nnd2NUVCOG9reGc?oc=5",
+      "source": "The Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjJ3b2JOMzVNbG1KMm44VmkyLVlZQzJmajAzTUQtV2lGX2cyazg4YzJ4TkZLLU90TXVzLVJBbTFGdVNFUDAybDJsWGRLaXRuXy1IcDhReTZPdU1UenE4UElLMS1GTHZtSklLaks3c2JEck5JSmcwX2QzX256LXBjLVJZX0otNENtUm5vNWstQzQydDM0cHNURHJCYm8zNlEtNzU5Nnd2NUVCOG9reGc?oc=5\" target=\"_blank\">Chinese firm demands compensation for British Steel takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "British Steel",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-19T19:59:18+00:00",
+      "fingerprint": "beef4373fe576d0e9b05d4660faab0793b79293c"
+    },
     {
       "title": "British Steel Takeover Puts Howden Joinery Stock In Focus - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNekxxanlya0FFN1dRc2swMWtlMC0zM3VsMFlGWDFXSVNXZ09RckFqVXM0U19CeDhGTzhMM2I3TWxORUFsYllXQmV3Q05NczJta1JQMk9PekRvVzBNY1M2a3REYzd0ZEcwNUx0SzhiaERQY3dsaHc3ZzV1eENkTHJBS2Q4NXJvNDdraGdBMGtSM1FUVmpvX0p4NW9vSEdzWlQwR1hoSmFjN1JlTl80SVRkMDJ6bTNUSGhCOW1MRDZGcEo1Zk5uU3JYYUtnb2VuT0ZobXQwaWM5VFM1cHR2a2fSAeMBQVVfeXFMT1h1Z3l4dzRvdER2OEozMnNIc0RRTWtpbnZoZFBCaFJJMDRkUk9DbjloeE1PbllQaU41NkFQQUNHdDYxMVRZUF9idlJrTkVaVVA3NFVjcWdBck1nQnNpU0RBMjNTekk0Tko0Nk9KbmtSd0hHLUxTa1VlNVpPWU8yNE8tclc1dDV2aHhGZENtaGg4Z3ozeDRWUlh3ZXFwcXNFcnVHck1CTU9qTUphd2tHUDJ3QS1zM1ZXc3NhMDVIa3BWUE9GZ01nMGZQalF3Uzh1U3VmdDluekwyZ0tzVkJGbHVuNW8?oc=5",
@@ -65,19 +82,21 @@
       "fingerprint": "f245dab5177a87279b32d2ed1c3573b297af0c52"
     },
     {
-      "title": "Kingspan stock trades resiliently as insulation leader eyes growth after solid 2024 results - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1NwQ1RfQzJyVV9yQUR6blViclNTT3NNZzhzRHZsMjNFc1JXQ1hJV3pvTklCdm1lS3VjQnlaSDQ0Umd2RE1VME91eUdYN0Y4WnFCU09UZFJIcGdpUGpMNXBvYld2SDQ4LTl6dDVUUjF0eUZEQU40RDVvU1pPVmF2T3hqRndGeUphb25MM280Tjg2ZnBnZEk1LXZOUXVwcVJwakdLUE94SDlIOTJwaDUtVE5fQjBGM29kQk9ES3h4eFlLMWt6REh3aE9SNA?oc=5",
-      "source": "ad-hoc-news.de",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1NwQ1RfQzJyVV9yQUR6blViclNTT3NNZzhzRHZsMjNFc1JXQ1hJV3pvTklCdm1lS3VjQnlaSDQ0Umd2RE1VME91eUdYN0Y4WnFCU09UZFJIcGdpUGpMNXBvYld2SDQ4LTl6dDVUUjF0eUZEQU40RDVvU1pPVmF2T3hqRndGeUphb25MM280Tjg2ZnBnZEk1LXZOUXVwcVJwakdLUE94SDlIOTJwaDUtVE5fQjBGM29kQk9ES3h4eFlLMWt6REh3aE9SNA?oc=5\" target=\"_blank\">Kingspan stock trades resiliently as insulation leader eyes growth after solid 2024 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+      "title": "China Warns UK Nationalization of British Steel Could Hurt Investment Ties, Seeks Compensation For Jingye - Tekedia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUxwYWpWenVNSVNQR09qQUtFVGlfT2VseXhPTGdsaDMtWFpCaEJ2UHlSeWNQVEhVM1BvRzdjTFVQM2NjVWpQTFNrUHJMTGtUNGl0dTVma3RfU0F1YWZ3djlXUEd1U3k2QXNseVhBQ280cC1ocXVaOU5EakdmNkN0Ym82T2xJNW1Hc3RXR2dHUDdvR0liMlkzdExoSHQ1Y0gtVnlqc1NqNy1MWHhXOXhld0hBQ2NQdTN3VGNvd1VSSTFtUHJJUmFSdw?oc=5",
+      "source": "Tekedia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUxwYWpWenVNSVNQR09qQUtFVGlfT2VseXhPTGdsaDMtWFpCaEJ2UHlSeWNQVEhVM1BvRzdjTFVQM2NjVWpQTFNrUHJMTGtUNGl0dTVma3RfU0F1YWZ3djlXUEd1U3k2QXNseVhBQ280cC1ocXVaOU5EakdmNkN0Ym82T2xJNW1Hc3RXR2dHUDdvR0liMlkzdExoSHQ1Y0gtVnlqc1NqNy1MWHhXOXhld0hBQ2NQdTN3VGNvd1VSSTFtUHJJUmFSdw?oc=5\" target=\"_blank\">China Warns UK Nationalization of British Steel Could Hurt Investment Ties, Seeks Compensation For Jingye</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tekedia</font>",
       "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [],
-      "company": "Kingspan",
-      "score": 5,
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "British Steel",
+      "score": 7,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-07-18T08:26:14+00:00",
-      "fingerprint": "dc92b08fc8cb09e6f93acec9da48369d380c7b6c"
+      "published": "2026-07-19T16:29:15+00:00",
+      "fingerprint": "c23fa04c96ff9ccd7ca7eb2739f1e44043f44457"
     }
   ]
 }
