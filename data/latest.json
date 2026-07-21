@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T19:40:34.452566+00:00",
+  "generated_at": "2026-07-21T22:09:57.875418+00:00",
   "date": "2026-07-21",
-  "count": 11,
+  "count": 10,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -174,21 +174,6 @@
       "likely_roles": "",
       "published": "2026-07-20T19:16:15+00:00",
       "fingerprint": "77c7ebccc3dba17179945fd8fe5c818878d2e7db"
-    },
-    {
-      "title": "Wavin takes Wavan to City Plumbing - Builders Merchants Journal",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnZXUyUTBZZzRTQjVnMGNSZGdpTldGUEVuakw2QWd4aGJOQnBJaTY3bTFlaDQwZHRrT19uNkE5SkxmS1BGaC1QOF9JZHE4Rkd1alM0LU5jaExYMU5JTVhYVndLeHFxYVJoNXR3SDBKc2JwemxYSkxMVzRtLW8?oc=5",
-      "source": "Builders Merchants Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBnZXUyUTBZZzRTQjVnMGNSZGdpTldGUEVuakw2QWd4aGJOQnBJaTY3bTFlaDQwZHRrT19uNkE5SkxmS1BGaC1QOF9JZHE4Rkd1alM0LU5jaExYMU5JTVhYVndLeHFxYVJoNXR3SDBKc2JwemxYSkxMVzRtLW8?oc=5\" target=\"_blank\">Wavin takes Wavan to City Plumbing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
-      "feed_group": "company",
-      "feed_title": "HVAC & Building Services: Vaillant Group \u2026 Worcester Bosch (12)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-20T11:00:28+00:00",
-      "fingerprint": "a01f653c9eafc203c8d307683973b0e8d44f467c"
     }
   ]
 }
