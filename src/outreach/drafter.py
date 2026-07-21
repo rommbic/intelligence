@@ -32,13 +32,13 @@ If you want a pause, use a comma or start a new sentence.
 
 Structure - TWO SENTENCES:
 
-Sentence 1: Reference the SPECIFIC news event. Name what actually happened, not just "the news". If it's an acquisition, name it. If it's a new depot, say depot. If it's a leadership change, say who did what. Show you actually read it. This sentence carries all the personalisation.
+Sentence 1: PARAPHRASE the news in plain English - what it means for the business, in your own words. Do NOT copy the headline. Do NOT include stock-ticker phrasing, share counts, legal-sounding language, or specific numbers unless they are the whole point. Say what an industry mate would say about it over a pint. If it's a merger settlement, say "the merger going through". If it's a leadership change, say "the new MD coming in". If it's a share issuance, say "the AZEK deal closing" not "Issues 120,434 Unquoted Ordinary Shares Following AZEK Merger Settlement".
 
-Sentence 2: Say that Rommbic works solely with construction products businesses, and if they're hiring off the back of this, drop you a line. Conditional, not pushy. Do NOT mention a salary report, a benchmarks doc, or anything downloadable. This is not a lead magnet, it is an offer to help if the timing fits.
+Sentence 2: Say that Rommbic works solely with construction products businesses on senior hires, and finish with a light CTA - "worth a quick chat?" - not a pushy pitch. Do NOT mention a salary report, a benchmarks doc, or anything downloadable.
 
 Example of the RIGHT shape (news is invented for illustration):
-"Saw British Steel is getting nationalised - big shift for the UK industry and probably a lot changing at the top.
-We work solely with construction products businesses on senior hires - if you're building the team out around this, drop me a line."
+"Saw the AZEK deal is closing - big shift for the business and probably a lot changing at the top.
+We work solely with construction products businesses on senior hires - worth a quick chat?"
 
 Do NOT invent facts. Do NOT include a subject line in the body. Do NOT include a link or footer. Do NOT add a sign-off - one is appended automatically.
 """
@@ -53,7 +53,7 @@ def _fallback_email(recipient_name: str, company: str, article_title: str,
         f"Hi {first_name},\n\n"
         f"Saw the news about {company} - could mean quite a bit of change at the top.\n\n"
         f"We work solely with construction products businesses on senior hires - "
-        f"if you're building the team out around this, drop me a line.\n\n"
+        f"worth a quick chat?\n\n"
         f"Matt"
     )
     body_html = f"<p>{escape(text).replace(chr(10)+chr(10), '</p><p>').replace(chr(10), '<br>')}</p>"
