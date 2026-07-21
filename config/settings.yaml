@@ -307,6 +307,6 @@ dashboard_url: "REPLACE_OR_SET_DASHBOARD_URL_SECRET"
 # ---------------------------------------------------------------------
 outreach:
   enabled: true                 # live — Google service account + Loxo key are in secrets
-  inbox: "will@rommbic.co.uk"   # where drafts appear
+  inbox: "mattd@rommbic.co.uk"  # where drafts appear
   min_score: 5                  # tier-1/2/3 signals: hiring, appointments, M&A, facilities, contracts, funding
   max_drafts_per_company: 5     # cap per company per signal
