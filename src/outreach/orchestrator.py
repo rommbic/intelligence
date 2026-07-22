@@ -129,8 +129,19 @@ def run() -> dict:
     prospects = _load_prospects()
     existing_prospects = {p.get("company") for p in prospects}
 
+    # Mission Control now owns the final draft-creation step. When this flag
+    # is false (the default), the pipeline runs full discovery + enrichment
+    # and logs what it WOULD have drafted, but does not touch Gmail. Flip to
+    # true to restore direct-write behaviour.
+    create_gmail_drafts = outreach_cfg.get("create_gmail_drafts", False)
+    log.info("Outreach mode: %s",
+             "WRITE to Gmail" if create_gmail_drafts
+             else "DISCOVERY-ONLY (Mission Control owns Gmail write)")
+
     loxo = LoxoClient()
-    gmail = GmailDrafter(inbox)
+    # Only build a Gmail client if we'll actually use it — avoids loading
+    # Google auth when Mission Control is doing the write.
+    gmail = GmailDrafter(inbox) if create_gmail_drafts else None
     cap_per_company = outreach_cfg.get("max_drafts_per_company", 5)
 
     # Per-run caches — Loxo lookups are the slowest step, and multiple signals
@@ -233,8 +244,16 @@ def run() -> dict:
                 article_url=item.get("link", ""),
                 categories=item.get("categories") or [],
             )
-            draft_id = gmail.create_draft(to=email, subject=subject, body_html=body_html)
-            if draft_id:
+            if create_gmail_drafts:
+                draft_id = gmail.create_draft(to=email, subject=subject, body_html=body_html)
+                if draft_id:
+                    drafts_created += 1
+            else:
+                # Discovery-only mode. Mission Control creates the actual Gmail
+                # draft when Matt approves via that dashboard. We still count
+                # would-have-been drafts for the summary metric.
+                log.info("Would draft to %s re %s (subject=%r)",
+                         email, matched.get("name") or company_name, subject)
                 drafts_created += 1
 
         already.add(sid)

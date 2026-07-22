@@ -310,3 +310,9 @@ outreach:
   inbox: "mattd@rommbic.co.uk"  # where drafts appear
   min_score: 5                  # tier-1/2/3 signals: hiring, appointments, M&A, facilities, contracts, funding
   max_drafts_per_company: 5     # cap per company per signal
+  # Mission Control (the Node.js dashboard) now owns the final Gmail-draft
+  # creation. When Matt approves a signal there, Mission Control calls Gmail
+  # itself. This pipeline still does all the discovery, enrichment, filtering,
+  # and state tracking - it just stops writing to Gmail. Flip to true only if
+  # you need to roll back to the old direct-write behaviour.
+  create_gmail_drafts: false
