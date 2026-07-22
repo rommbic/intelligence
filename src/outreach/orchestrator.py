@@ -189,9 +189,21 @@ def run() -> dict:
                          person.get("name"), company_name)
                 continue
 
+            # Prefer the detail record for name and title (listing responses
+            # can return trimmed/empty fields on some Loxo accounts). Fall back
+            # to the listing record if the detail is missing the field.
+            resolved_name = (person_detail.get("name")
+                             or person.get("name") or "").strip()
+            resolved_title = (person_detail.get("current_title")
+                              or person.get("current_title") or "").strip()
+            log.info("Drafting for %r (title=%r) at %s",
+                     resolved_name or "[UNKNOWN NAME]",
+                     resolved_title or "[UNKNOWN TITLE]",
+                     company_name)
+
             subject, body_html = draft_email(
-                recipient_name=person.get("name", ""),
-                recipient_title=person.get("current_title", ""),
+                recipient_name=resolved_name,
+                recipient_title=resolved_title,
                 company=matched.get("name") or company_name,
                 article_title=item.get("title", ""),
                 article_summary=item.get("summary", ""),
