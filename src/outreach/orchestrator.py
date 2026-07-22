@@ -106,10 +106,14 @@ def run() -> dict:
         log.info("Outreach disabled in settings; skipping.")
         return {"enabled": False}
 
-    inbox = os.getenv("OUTREACH_INBOX") or outreach_cfg.get("inbox", "")
+    env_inbox = os.getenv("OUTREACH_INBOX")
+    yaml_inbox = outreach_cfg.get("inbox", "")
+    inbox = env_inbox or yaml_inbox
     if not inbox:
         log.warning("No OUTREACH_INBOX configured; skipping.")
         return {"enabled": True, "error": "no inbox configured"}
+    source = "env OUTREACH_INBOX secret" if env_inbox else "settings.yaml"
+    log.info("Outreach inbox resolved to %r (source: %s)", inbox, source)
 
     signals = _load_todays_signals(settings)
     log.info("Outreach: %d qualifying signals in today's brief", len(signals))
