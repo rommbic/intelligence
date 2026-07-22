@@ -196,6 +196,25 @@ def run() -> dict:
                              or person.get("name") or "").strip()
             resolved_title = (person_detail.get("current_title")
                               or person.get("current_title") or "").strip()
+
+            # CRITICAL: Loxo's /companies/{id}/people endpoint returns anyone
+            # linked to the company - including past roles and network links.
+            # Only draft when the person's CURRENT employer actually matches
+            # the target company. Otherwise we'd email news about British
+            # Steel to someone who left there five years ago and now works
+            # at a completely different firm.
+            current_employer = (person_detail.get("current_company")
+                                or person.get("current_company") or "").strip()
+            target = (matched.get("name") or company_name or "").strip()
+            if current_employer and target:
+                # Case-insensitive substring check either way, so "British
+                # Steel" matches "British Steel Ltd" and vice versa.
+                a, b = current_employer.lower(), target.lower()
+                if a not in b and b not in a:
+                    log.info("SKIP: %s current employer is %r, not %r - historical link only",
+                             resolved_name, current_employer, target)
+                    continue
+
             log.info("Drafting for %r (title=%r) at %s",
                      resolved_name or "[UNKNOWN NAME]",
                      resolved_title or "[UNKNOWN TITLE]",
