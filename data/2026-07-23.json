@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:27:31.831809+00:00",
+  "generated_at": "2026-07-23T22:11:38.343939+00:00",
   "date": "2026-07-23",
   "count": 9,
   "categories": [
@@ -63,6 +63,23 @@
       "likely_roles": "",
       "published": "2026-07-22T23:15:02+00:00",
       "fingerprint": "5229c783b769b198de69cffa3572e5e5504a0920"
+    },
+    {
+      "title": "Press Release: James Hardie Announces Preliminary First Quarter FY 2027 Results, Exceeding Prior Guidance on Strength in Siding & Trim and Deck, Rail & Accessories - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkp4cmltMW8waXpEUFdSekF5eDZ4ZjdrbFN4cnR5UXFBeFYzcURKbHZHaGtOOWNscTA0d29hNTBuQ1BjYnFIVDAtdlN2YUlNdDFxWEtoRDN1N0xpZ1M3UVJHYTFZcThBWXlUYTlJZGU2MThhM3BNTXJ5MFdvVi0xaVNESWtoU2tvWW44RG5TcXE3ZlQzSFc5TXA0VUVYaDkwWkg4UXFZZGZMMTI5Z1dEVUp3?oc=5",
+      "source": "Moomoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONkp4cmltMW8waXpEUFdSekF5eDZ4ZjdrbFN4cnR5UXFBeFYzcURKbHZHaGtOOWNscTA0d29hNTBuQ1BjYnFIVDAtdlN2YUlNdDFxWEtoRDN1N0xpZ1M3UVJHYTFZcThBWXlUYTlJZGU2MThhM3BNTXJ5MFdvVi0xaVNESWtoU2tvWW44RG5TcXE3ZlQzSFc5TXA0VUVYaDkwWkg4UXFZZGZMMTI5Z1dEVUp3?oc=5\" target=\"_blank\">Press Release: James Hardie Announces Preliminary First Quarter FY 2027 Results, Exceeding Prior Guidance on Strength in Siding & Trim and Deck, Rail & Accessories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "James Hardie",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-22T22:05:00+00:00",
+      "fingerprint": "f9aad115d212229ba4468decfd54bfe487d9be18"
     },
     {
       "title": "Polypipe Building Services appoints new UK sales and marketing director - Builders Merchants Journal",
@@ -142,23 +159,6 @@
       "likely_roles": "",
       "published": "2026-07-22T12:35:00+00:00",
       "fingerprint": "18b526a658662b8d9249530dd47de0f294a38198"
-    },
-    {
-      "title": "LiveMore launches mortgage solution to help homeowners hindered by spray foam insulation - The Intermediary",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVlFHWGpYcjA5WmhiNTUxMmx0MUl2Z3VPNFprQXhSMGo4Z0toTEZvaWxkZTVxU2FWT2VKcU1XR3k4eEgxc1R4d0xmV2pBYnhLbl9sbjVrMm9ySHpaZ09Cdl9DM3d2WHFUaVZyc2Y4MnZzVWg5Ti00VVRwUjhtUmQwLUlHVms3d1BtU2VFT0NVSEJIVXFXUk92eHZxUGppd2VUcWtYRUlxbHVtWlFKUzBlWDlrYU5wenpRRWtGMjh0Z2dHdTJkcUE?oc=5",
-      "source": "The Intermediary",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVlFHWGpYcjA5WmhiNTUxMmx0MUl2Z3VPNFprQXhSMGo4Z0toTEZvaWxkZTVxU2FWT2VKcU1XR3k4eEgxc1R4d0xmV2pBYnhLbl9sbjVrMm9ySHpaZ09Cdl9DM3d2WHFUaVZyc2Y4MnZzVWg5Ti00VVRwUjhtUmQwLUlHVms3d1BtU2VFT0NVSEJIVXFXUk92eHZxUGppd2VUcWtYRUlxbHVtWlFKUzBlWDlrYU5wenpRRWtGMjh0Z2dHdTJkcUE?oc=5\" target=\"_blank\">LiveMore launches mortgage solution to help homeowners hindered by spray foam insulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Intermediary</font>",
-      "feed_group": "signal",
-      "feed_title": "New product launches",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-22T08:27:19+00:00",
-      "fingerprint": "a896143a85591d8c7208a68ed8fb97ce54e31701"
     }
   ]
 }
