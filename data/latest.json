@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:47:08.349678+00:00",
+  "generated_at": "2026-07-28T19:42:02.329577+00:00",
   "date": "2026-07-28",
   "count": 5,
   "categories": [
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Samac Fixings appoints sales managers for Scotland and West Midlands - torque-expo.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVRrc29tV2tGRGxkc3pFSEtLWUYyZkk1Z0NuOUFyUmFRQmIzeHJDQjFkWVNreHN6Vl9TMjJieTlmQnlaQkYySk1LZVhXVzVVRTVfc0pSeTJaUjE2aGQ1Z2psbGRTMmJDVDJpMFc2dlJLRksydlotOUpwSGxOckJOSmYwbURfWUVNZjlvWV9XenE2RTR3WlRoRzlWYTA0eXkzTnc?oc=5",
+      "source": "torque-expo.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVRrc29tV2tGRGxkc3pFSEtLWUYyZkk1Z0NuOUFyUmFRQmIzeHJDQjFkWVNreHN6Vl9TMjJieTlmQnlaQkYySk1LZVhXVzVVRTVfc0pSeTJaUjE2aGQ1Z2psbGRTMmJDVDJpMFc2dlJLRksydlotOUpwSGxOckJOSmYwbURfWUVNZjlvWV9XenE2RTR3WlRoRzlWYTA0eXkzTnc?oc=5\" target=\"_blank\">Samac Fixings appoints sales managers for Scotland and West Midlands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">torque-expo.com</font>",
+      "feed_group": "sector",
+      "feed_title": "Fixings & Framing \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-07-28T12:00:00+00:00",
+      "fingerprint": "99c38071796f28ac728a1a1ba50fed7c262dfee5"
+    },
     {
       "title": "Visualization acquires TK-Team UK assets and becomes UK and Ireland distributor - Essential Install",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1dlb2pnX2JCYjN0aERaVkQ5d3BJU1ZuRkFnLWhpejFjUTlvT1FHWGlwWmJ3VENsaWo0azBrRDB4ME45bl9vQm0yWVFKOVlvVjVkN0oyd1NyNG9adHA0LU9fYl9EYXNPZmtHWHdneUd3czJoZGdZQU9NMW5fRlpkQ3Azc05tV0NpYmhrMkNBcUZSRTBQaDFkcGVzbzdDLTNFbkNyZnpLOUswcVJpNDJ6SjdmYmk?oc=5",
@@ -59,21 +76,6 @@
       "likely_roles": "",
       "published": "2026-07-28T01:00:00+00:00",
       "fingerprint": "8238eabd0de920f4bb6b7ace563532e0053161ed"
-    },
-    {
-      "title": "Student accommodation plans for old concrete site - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxTnZzbFNuLWtfTExuSGdOTmVVMEdYbHgxckJadjlVRVZROEFZSUkwU2RVUlJqc1NwZDNFSU1leGw1c2p3WFZhX3VISFdHQVpPdXdCRnNvV1NRUHVq?oc=5",
-      "source": "BBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxTnZzbFNuLWtfTExuSGdOTmVVMEdYbHgxckJadjlVRVZROEFZSUkwU2RVUlJqc1NwZDNFSU1leGw1c2p3WFZhX3VISFdHQVpPdXdCRnNvV1NRUHVq?oc=5\" target=\"_blank\">Student accommodation plans for old concrete site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-27T16:02:40+00:00",
-      "fingerprint": "d987e6af6d15a30bc8d09496be22fccf8688382c"
     },
     {
       "title": "STARK secures chief commercial officer - Builders Merchants Journal",
