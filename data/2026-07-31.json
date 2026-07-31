@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T19:43:58.850874+00:00",
+  "generated_at": "2026-07-31T22:12:43.100897+00:00",
   "date": "2026-07-31",
-  "count": 6,
+  "count": 4,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -49,23 +49,6 @@
       "fingerprint": "af32692e0b95fcf75443694d32fb93dbf5c8c768"
     },
     {
-      "title": "British Steel appoints new board following UK government nationalization - steelorbis.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPanVWYlEzcjM0d3p1dlZnU1E5M0hoNFNPY2FUcDBFMkJ3c0dTWUEtdk5zNTNwdmFJNFBYQ1YxU3hUdEc5REEzMzBUaDVka1dzTkNFMERRaHNLTURIZEpBQTlsZm1TSUZDOVhCZ1hRR3EtVGladlF3YjF0THhKQ2tZR1YwMjV2UGxjWG1NT05RNTd2TTZHMy1sTU9SRWR6dXlMeGJjMTEwbmxOcXNYOXNPZmFkSVgxd1ZvSTkwamhxWURlLXVyY0gwemVOUGtfVXM?oc=5",
-      "source": "steelorbis.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPanVWYlEzcjM0d3p1dlZnU1E5M0hoNFNPY2FUcDBFMkJ3c0dTWUEtdk5zNTNwdmFJNFBYQ1YxU3hUdEc5REEzMzBUaDVka1dzTkNFMERRaHNLTURIZEpBQTlsZm1TSUZDOVhCZ1hRR3EtVGladlF3YjF0THhKQ2tZR1YwMjV2UGxjWG1NT05RNTd2TTZHMy1sTU9SRWR6dXlMeGJjMTEwbmxOcXNYOXNPZmFkSVgxd1ZvSTkwamhxWURlLXVyY0gwemVOUGtfVXM?oc=5\" target=\"_blank\">British Steel appoints new board following UK government nationalization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">steelorbis.com</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "Leadership appointment"
-      ],
-      "company": "British Steel",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-30T07:46:43+00:00",
-      "fingerprint": "0a9cec6c1b0e9998cb954ecbf4bc3ac81c12b769"
-    },
-    {
       "title": "Topps Tiles launches trade app with Apadmi, putting the power of 280+ stores in every tiler's pocket - Retail Times",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjVyb1EyNEZzOUprSXFSVkhkMURIRGpzelhjU1BmUi1aS1lRdlo2UWRUd2ZjZmM1cklnVlhabHhSUEk2dnlSVDZIYUtpSGZvS3RONFNoZFR0UkQ4UDI0MGJvTE1PTko3WHdxaUNWZ2o4UFlrT0pnandyM1VOY3lJUGtBanIxMzNsSThJZkxYMlNPeTItYy1WTVFSOEdKZ2hlTWJDZ1V2S012VDVjTTA4QVBtdkpjSTlaWDJLZnBSckR6UQ?oc=5",
       "source": "Retail Times",
@@ -81,21 +64,6 @@
       "likely_roles": "",
       "published": "2026-07-31T10:58:20+00:00",
       "fingerprint": "707ed3380e82cc15233e47b782576e9a2d9e01cb"
-    },
-    {
-      "title": "Ireland's largest rooftop solar installation gets underway at Mannok - Builders' Merchants News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOODBKSUZ4aEpSV1Z4NlM0MUF0U004VlFVY1ZUZlJCQ3h6cGRKblNuLW8tOVVqUUZiNDBGRUc3ODJxQ1EzNlJtNHlselNIcHRYbEQ2ZHlzLVFFYkx3cUViVi1JbUs3TDIxNzRxX2xEV1JJN1NFajJWQjd0X3VYYUZlM29tdkhMeUhWeDhsSDlROGpxUDE5V0YtaGRDQVdxbUZXQ3dBZTd3Z2d2OFp3eGJvQ1o4QQ?oc=5",
-      "source": "Builders' Merchants News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOODBKSUZ4aEpSV1Z4NlM0MUF0U004VlFVY1ZUZlJCQ3h6cGRKblNuLW8tOVVqUUZiNDBGRUc3ODJxQ1EzNlJtNHlselNIcHRYbEQ2ZHlzLVFFYkx3cUViVi1JbUs3TDIxNzRxX2xEV1JJN1NFajJWQjd0X3VYYUZlM29tdkhMeUhWeDhsSDlROGpxUDE5V0YtaGRDQVdxbUZXQ3dBZTd3Z2d2OFp3eGJvQ1o4QQ?oc=5\" target=\"_blank\">Ireland's largest rooftop solar installation gets underway at Mannok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [],
-      "company": "Mannok",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-30T08:34:30+00:00",
-      "fingerprint": "00ac69171f2a3ae370f0479a063fdc7410c1ada3"
     },
     {
       "title": "Kula's Six ERC Proposals Aim to Standardise the $36 Billion RWA Market - Blockster",
