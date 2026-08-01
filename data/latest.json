@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T03:26:25.654821+00:00",
+  "generated_at": "2026-08-01T08:30:02.571828+00:00",
   "date": "2026-08-01",
-  "count": 4,
+  "count": 3,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -31,28 +31,10 @@
       "fingerprint": "f5292ba6f216a74b4a6a06d6126473bdd75f3529"
     },
     {
-      "title": "Leading manufacturer officially opens new Teesside depot with \u00a314m investment - The Northern Echo",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSUpfaUxRaVBKNHZrckRXWFQzSEdoTFc4aEgxYmxTenVfN2szeDhKQVRHeDNQRlRaTnJweWtfS3plM0ViSzB6T0w1M0oxV1hGVklPRU00dVZrTFUzUno5M3lXa3RtejdaVV9uQzBQSllSS19ta1ZkMmZ1TWQ3YnpvUU1yaXhZWHhWUVViMl8ySUZuR2g5S2Rhd3c5aWgza0R4RHQyUFpR?oc=5",
-      "source": "The Northern Echo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSUpfaUxRaVBKNHZrckRXWFQzSEdoTFc4aEgxYmxTenVfN2szeDhKQVRHeDNQRlRaTnJweWtfS3plM0ViSzB6T0w1M0oxV1hGVklPRU00dVZrTFUzUno5M3lXa3RtejdaVV9uQzBQSllSS19ta1ZkMmZ1TWQ3YnpvUU1yaXhZWHhWUVViMl8ySUZuR2g5S2Rhd3c5aWgza0R4RHQyUFpR?oc=5\" target=\"_blank\">Leading manufacturer officially opens new Teesside depot with \u00a314m investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Northern Echo</font>",
-      "feed_group": "signal",
-      "feed_title": "New facilities / expansion",
-      "categories": [
-        "New facility / expansion",
-        "Investment / funding"
-      ],
-      "company": "",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-07-30T19:00:00+00:00",
-      "fingerprint": "af32692e0b95fcf75443694d32fb93dbf5c8c768"
-    },
-    {
-      "title": "Topps Tiles launches trade app with Apadmi, putting the power of 280+ stores in every tiler's pocket - Retail Times",
+      "title": "Topps Tiles launches trade app with Apadmi, putting the power of 280+ stores in every tiler's pocket - retailtimes.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjVyb1EyNEZzOUprSXFSVkhkMURIRGpzelhjU1BmUi1aS1lRdlo2UWRUd2ZjZmM1cklnVlhabHhSUEk2dnlSVDZIYUtpSGZvS3RONFNoZFR0UkQ4UDI0MGJvTE1PTko3WHdxaUNWZ2o4UFlrT0pnandyM1VOY3lJUGtBanIxMzNsSThJZkxYMlNPeTItYy1WTVFSOEdKZ2hlTWJDZ1V2S012VDVjTTA4QVBtdkpjSTlaWDJLZnBSckR6UQ?oc=5",
-      "source": "Retail Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjVyb1EyNEZzOUprSXFSVkhkMURIRGpzelhjU1BmUi1aS1lRdlo2UWRUd2ZjZmM1cklnVlhabHhSUEk2dnlSVDZIYUtpSGZvS3RONFNoZFR0UkQ4UDI0MGJvTE1PTko3WHdxaUNWZ2o4UFlrT0pnandyM1VOY3lJUGtBanIxMzNsSThJZkxYMlNPeTItYy1WTVFSOEdKZ2hlTWJDZ1V2S012VDVjTTA4QVBtdkpjSTlaWDJLZnBSckR6UQ?oc=5\" target=\"_blank\">Topps Tiles launches trade app with Apadmi, putting the power of 280+ stores in every tiler's pocket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Times</font>",
+      "source": "retailtimes.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjVyb1EyNEZzOUprSXFSVkhkMURIRGpzelhjU1BmUi1aS1lRdlo2UWRUd2ZjZmM1cklnVlhabHhSUEk2dnlSVDZIYUtpSGZvS3RONFNoZFR0UkQ4UDI0MGJvTE1PTko3WHdxaUNWZ2o4UFlrT0pnandyM1VOY3lJUGtBanIxMzNsSThJZkxYMlNPeTItYy1WTVFSOEdKZ2hlTWJDZ1V2S012VDVjTTA4QVBtdkpjSTlaWDJLZnBSckR6UQ?oc=5\" target=\"_blank\">Topps Tiles launches trade app with Apadmi, putting the power of 280+ stores in every tiler's pocket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">retailtimes.co.uk</font>",
       "feed_group": "sector",
       "feed_title": "Flooring & Tiles \u2014 sector news",
       "categories": [
