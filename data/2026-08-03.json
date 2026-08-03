@@ -1,11 +1,7 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-08-03T10:17:00.586856+00:00",
-=======
-  "generated_at": "2026-08-03T10:20:49.406660+00:00",
->>>>>>> Stashed changes
+  "generated_at": "2026-08-03T14:51:49.805355+00:00",
   "date": "2026-08-03",
-  "count": 0,
+  "count": 3,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -16,5 +12,53 @@
     "Investment / funding",
     "New product launch"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Lancing Kitchen manufacturer Paula Rosa Kitchens expands into consumer retail - SussexWorld",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMk9BaHF3aWJyWUpYVjl3U0tmRk9WYzUwb3pwWTNaVjVkWmV6enc2MGlLTGY1UzBwV1NQbWhpVXN4UFRFb01OYURfNUkzWF9oZTJTRUhPU2pCbG9wUXNwcC1VSkh3a2NJN3BHVFE1cUlQalRSaHdteGNEY255aUxTZ1Z4T1RScWlWTENLc0k5NVNWOGpYV3hBQW9iNGJ3eGdaSW9DY2k2Z2ZGc0ZyZGpLOGQ1azRJQXl2bXYtNUhUTE9yNG9PNkZB?oc=5",
+      "source": "SussexWorld",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMk9BaHF3aWJyWUpYVjl3U0tmRk9WYzUwb3pwWTNaVjVkWmV6enc2MGlLTGY1UzBwV1NQbWhpVXN4UFRFb01OYURfNUkzWF9oZTJTRUhPU2pCbG9wUXNwcC1VSkh3a2NJN3BHVFE1cUlQalRSaHdteGNEY255aUxTZ1Z4T1RScWlWTENLc0k5NVNWOGpYV3hBQW9iNGJ3eGdaSW9DY2k2Z2ZGc0ZyZGpLOGQ1azRJQXl2bXYtNUhUTE9yNG9PNkZB?oc=5\" target=\"_blank\">Lancing Kitchen manufacturer Paula Rosa Kitchens expands into consumer retail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SussexWorld</font>",
+      "feed_group": "sector",
+      "feed_title": "Kitchens & Bathrooms \u2014 sector news",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-08-03T13:30:00+00:00",
+      "fingerprint": "87da1263e8b41078d406f6104d11b41e3282dab8"
+    },
+    {
+      "title": "Six distributors will add James Hardie siding and trim in select markets - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTnpjZHhDLWdmdHNEQnhjZGY1U0t4YzY0NHF2V3hlOTVmOUdpa2RoemIzc0p2YmpZRU41T0RZOXJPRldZUDhuMWFsT24yTjlWOERGOHFwTkpBWkZsNWtlaG53X3VsLW5qMGg4MS1Pd0NwaDhLNTFFMWZTQy1kMHZhdEhpRVY0cnI0dmtGNnNBVVN6eXhfWHdZdDdXcWJKSG8?oc=5",
+      "source": "Stock Titan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQTnpjZHhDLWdmdHNEQnhjZGY1U0t4YzY0NHF2V3hlOTVmOUdpa2RoemIzc0p2YmpZRU41T0RZOXJPRldZUDhuMWFsT24yTjlWOERGOHFwTkpBWkZsNWtlaG53X3VsLW5qMGg4MS1Pd0NwaDhLNTFFMWZTQy1kMHZhdEhpRVY0cnI0dmtGNnNBVVN6eXhfWHdZdDdXcWJKSG8?oc=5\" target=\"_blank\">Six distributors will add James Hardie siding and trim in select markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-08-03T13:30:00+00:00",
+      "fingerprint": "7a3419cccea5a8b3355f55c0131a901217b3e8fd"
+    },
+    {
+      "title": "How Avocado Suppliers Aim to Help Retailers Score Big This Fall - The Packer",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTDRYM0RYY0NJblU0cU9iT0ozbnlpTGlBT01TUW5IODFFSDZSTC16RlMzWThyR3lMdG94dkE3by1HdGw1VmJRLUo2akYtLTB2a0FSSVYyOW5DVjVoTkFBZWRaZWxaR1JCdDlTSUQzU3Z1akJfX0xPdU9iRnhDaVEwb0ZGVkE0Z2ZSZldrZ1RScw?oc=5",
+      "source": "The Packer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTDRYM0RYY0NJblU0cU9iT0ozbnlpTGlBT01TUW5IODFFSDZSTC16RlMzWThyR3lMdG94dkE3by1HdGw1VmJRLUo2akYtLTB2a0FSSVYyOW5DVjVoTkFBZWRaZWxaR1JCdDlTSUQzU3Z1akJfX0xPdU9iRnhDaVEwb0ZGVkE0Z2ZSZldrZ1RScw?oc=5\" target=\"_blank\">How Avocado Suppliers Aim to Help Retailers Score Big This Fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Packer</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-08-03T11:55:18+00:00",
+      "fingerprint": "1fac7eb6b9b9b15988d577e514b57e79a4621e89"
+    }
+  ]
 }
