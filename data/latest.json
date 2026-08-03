@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T03:28:11.713733+00:00",
+  "generated_at": "2026-08-03T10:17:00.586856+00:00",
   "date": "2026-08-03",
-  "count": 1,
+  "count": 0,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -12,21 +12,5 @@
     "Investment / funding",
     "New product launch"
   ],
-  "items": [
-    {
-      "title": "Bangor 2026-27 preview: Seasiders aim to cement Premiership status - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEZ0WFN3aW1FbWVCTU5ZVU1tYTZiVVUwOThsZExYZVpJTG9xRzN6X005Nkh2bGVJd2Vpdk9HcnhVR1YzeTFMUHNFSjFzdHFKRmJVQVdaeF9QVkFYcEl6U0tMVDNzNnpqQjVfRGE5dmR1TVBBY3dvU0xCdldtS284eHZTVGJBRENM?oc=5",
-      "source": "Yahoo Sports",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEZ0WFN3aW1FbWVCTU5ZVU1tYTZiVVUwOThsZExYZVpJTG9xRzN6X005Nkh2bGVJd2Vpdk9HcnhVR1YzeTFMUHNFSjFzdHFKRmJVQVdaeF9QVkFYcEl6U0tMVDNzNnpqQjVfRGE5dmR1TVBBY3dvU0xCdldtS284eHZTVGJBRENM?oc=5\" target=\"_blank\">Bangor 2026-27 preview: Seasiders aim to cement Premiership status</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-08-02T21:39:05+00:00",
-      "fingerprint": "c6f955272c823fe31c247d837960bbddecf6132f"
-    }
-  ]
+  "items": []
 }
