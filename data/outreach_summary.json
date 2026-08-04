@@ -1,11 +1,8 @@
 {
   "enabled": true,
-<<<<<<< Updated upstream
-  "generated_at": "2026-08-03T10:17:00.843344+00:00",
-=======
-  "generated_at": "2026-08-03T10:20:49.617221+00:00",
->>>>>>> Stashed changes
-  "signals_processed": 0,
-  "drafts_created": 0,
-  "prospects_logged": 0
+  "generated_at": "2026-08-04T08:48:26.406081+00:00",
+  "signals_processed": 5,
+  "drafts_created": 3,
+  "prospects_logged": 0,
+  "inbox": "will@rommbic.co.uk"
 }

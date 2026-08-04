@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T05:55:44.911301+00:00",
+  "generated_at": "2026-08-04T08:48:18.645296+00:00",
   "date": "2026-08-04",
-  "count": 6,
+  "count": 8,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -14,10 +14,27 @@
   ],
   "items": [
     {
-      "title": "Lancing Kitchen manufacturer Paula Rosa Kitchens expands into consumer retail - SussexWorld",
+      "title": "Andy Burnham appoints John Lewis to run British Steel - NewsBiscuit",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXRnSnJrZk1tYkpEaHRfZXdNUGtJU1ZaNXY2Snl1RTJzS194Tmt1ODRFUlRjY01KZ1ozTU5TOFNPLVN1X2xPbUdvWXBWV05MbkxtQzFDb0FWLUhOd1ZfX19raklPcC0yNjFxaTI0TFU1ZWF5cnprVk0wMWJXR25vWjlMWDBuTWZ2RTFuU01NRQ?oc=5",
+      "source": "NewsBiscuit",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXRnSnJrZk1tYkpEaHRfZXdNUGtJU1ZaNXY2Snl1RTJzS194Tmt1ODRFUlRjY01KZ1ozTU5TOFNPLVN1X2xPbUdvWXBWV05MbkxtQzFDb0FWLUhOd1ZfX19raklPcC0yNjFxaTI0TFU1ZWF5cnprVk0wMWJXR25vWjlMWDBuTWZ2RTFuU01NRQ?oc=5\" target=\"_blank\">Andy Burnham appoints John Lewis to run British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsBiscuit</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "British Steel",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-08-04T06:00:55+00:00",
+      "fingerprint": "340f854bc30d848230ca002414a5ee9230ca920e"
+    },
+    {
+      "title": "Lancing Kitchen manufacturer Paula Rosa Kitchens expands into consumer retail - sussexexpress.co.uk",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMk9BaHF3aWJyWUpYVjl3U0tmRk9WYzUwb3pwWTNaVjVkWmV6enc2MGlLTGY1UzBwV1NQbWhpVXN4UFRFb01OYURfNUkzWF9oZTJTRUhPU2pCbG9wUXNwcC1VSkh3a2NJN3BHVFE1cUlQalRSaHdteGNEY255aUxTZ1Z4T1RScWlWTENLc0k5NVNWOGpYV3hBQW9iNGJ3eGdaSW9DY2k2Z2ZGc0ZyZGpLOGQ1azRJQXl2bXYtNUhUTE9yNG9PNkZB?oc=5",
-      "source": "SussexWorld",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMk9BaHF3aWJyWUpYVjl3U0tmRk9WYzUwb3pwWTNaVjVkWmV6enc2MGlLTGY1UzBwV1NQbWhpVXN4UFRFb01OYURfNUkzWF9oZTJTRUhPU2pCbG9wUXNwcC1VSkh3a2NJN3BHVFE1cUlQalRSaHdteGNEY255aUxTZ1Z4T1RScWlWTENLc0k5NVNWOGpYV3hBQW9iNGJ3eGdaSW9DY2k2Z2ZGc0ZyZGpLOGQ1azRJQXl2bXYtNUhUTE9yNG9PNkZB?oc=5\" target=\"_blank\">Lancing Kitchen manufacturer Paula Rosa Kitchens expands into consumer retail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SussexWorld</font>",
+      "source": "sussexexpress.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMk9BaHF3aWJyWUpYVjl3U0tmRk9WYzUwb3pwWTNaVjVkWmV6enc2MGlLTGY1UzBwV1NQbWhpVXN4UFRFb01OYURfNUkzWF9oZTJTRUhPU2pCbG9wUXNwcC1VSkh3a2NJN3BHVFE1cUlQalRSaHdteGNEY255aUxTZ1Z4T1RScWlWTENLc0k5NVNWOGpYV3hBQW9iNGJ3eGdaSW9DY2k2Z2ZGc0ZyZGpLOGQ1azRJQXl2bXYtNUhUTE9yNG9PNkZB?oc=5\" target=\"_blank\">Lancing Kitchen manufacturer Paula Rosa Kitchens expands into consumer retail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sussexexpress.co.uk</font>",
       "feed_group": "sector",
       "feed_title": "Kitchens & Bathrooms \u2014 sector news",
       "categories": [
@@ -48,6 +65,21 @@
       "fingerprint": "9785198810e239ec1e1f4743543bb45b236a9256"
     },
     {
+      "title": "James Hardie Industries (ASX:JHX) Shares Rally\u2014Is the Building Materials Giant Back on Investors' Radar? - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkpfSm1rQUNtS0ZsUlNUbkRPUGxVeWdIZjIwaE5JN3phemdXYXZZaTlVb05hR0t2elVWclhPZ0M4eEdHN3gxZnphZ1EzOGxXTFlNUmNGYldSajQtVTJQdXdfOFRWRE50TXBRcDNwNUk2emxFbmlmWjdrRWRFWHM3YlVzNnBhVGtlSjR2dk1IQmhzUXNWTW1mWURtQU14a0VUSVQ5dlVPaW41QzN1bGNEbXJrakxtR050OGZmQTFJTHluVlVrRHNMWldlUW1MUQ?oc=5",
+      "source": "Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkpfSm1rQUNtS0ZsUlNUbkRPUGxVeWdIZjIwaE5JN3phemdXYXZZaTlVb05hR0t2elVWclhPZ0M4eEdHN3gxZnphZ1EzOGxXTFlNUmNGYldSajQtVTJQdXdfOFRWRE50TXBRcDNwNUk2emxFbmlmWjdrRWRFWHM3YlVzNnBhVGtlSjR2dk1IQmhzUXNWTW1mWURtQU14a0VUSVQ5dlVPaW41QzN1bGNEbXJrakxtR050OGZmQTFJTHluVlVrRHNMWldlUW1MUQ?oc=5\" target=\"_blank\">James Hardie Industries (ASX:JHX) Shares Rally\u2014Is the Building Materials Giant Back on Investors' Radar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [],
+      "company": "James Hardie",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-08-04T06:10:00+00:00",
+      "fingerprint": "09365bf1fe581d07b4645e4de1d95379e6851cf8"
+    },
+    {
       "title": "James Hardie Names Boise Cascade Its National US Distributor - Finimize",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXBuandHV09GMnpvRWllZ01HT2tVRnpQVUc5UTVzTkczRXhQNVdVN0NXZFZfa3hPaU1BMlpwZm5nbDdybG1hajRvN0h6Qzl0bVdSRUNYRk04MHp1Xy03QmdSMThURllabmFNZ2o3bUJnb19BTjkwX0pUNDFiZlRVRkluM3JNOUh4bEtZbEtaN25GNEU?oc=5",
       "source": "Finimize",
@@ -63,21 +95,6 @@
       "fingerprint": "841b9b052dc5a3d29e1c70ade49c8ef599469244"
     },
     {
-      "title": "James Hardie Says Boise Cascade to Become Sole US Distributor for Exterior Building Products - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMHU5d3pYUFJIT0l0QUpkcVJzaldHMlhmaFQzcjNmUDVId2RfMTV3enJUZzROMWw2TUVZRDVHanFPRU9YMVRxeUl3cHVpRWM4ZndLREw0T1drdXkzVUhpWldQcWkzVnFtcm8xRExIdXFKM2EwdVNVaEwzdWR2WEhwdWNOM3dtZE5KaWhSZjh5N2NlcndIMFNBdzBhaDZqZFJyWVdlUUJvZDZ0al9kLW5wc0ZRWGFMYmlRXzdUR3RuNVhZQWdrSm1yQnJHUU5acFFhVTZSSnk0cS1DWUhEc0E?oc=5",
-      "source": "marketscreener.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMHU5d3pYUFJIT0l0QUpkcVJzaldHMlhmaFQzcjNmUDVId2RfMTV3enJUZzROMWw2TUVZRDVHanFPRU9YMVRxeUl3cHVpRWM4ZndLREw0T1drdXkzVUhpWldQcWkzVnFtcm8xRExIdXFKM2EwdVNVaEwzdWR2WEhwdWNOM3dtZE5KaWhSZjh5N2NlcndIMFNBdzBhaDZqZFJyWVdlUUJvZDZ0al9kLW5wc0ZRWGFMYmlRXzdUR3RuNVhZQWdrSm1yQnJHUU5acFFhVTZSSnk0cS1DWUhEc0E?oc=5\" target=\"_blank\">James Hardie Says Boise Cascade to Become Sole US Distributor for Exterior Building Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-08-03T23:31:20+00:00",
-      "fingerprint": "cbcc470387143a426cf931ceb3424b88e40abf48"
-    },
-    {
       "title": "Six distributors will add James Hardie siding and trim in select markets - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTnpjZHhDLWdmdHNEQnhjZGY1U0t4YzY0NHF2V3hlOTVmOUdpa2RoemIzc0p2YmpZRU41T0RZOXJPRldZUDhuMWFsT24yTjlWOERGOHFwTkpBWkZsNWtlaG53X3VsLW5qMGg4MS1Pd0NwaDhLNTFFMWZTQy1kMHZhdEhpRVY0cnI0dmtGNnNBVVN6eXhfWHdZdDdXcWJKSG8?oc=5",
       "source": "Stock Titan",
@@ -91,6 +108,21 @@
       "likely_roles": "",
       "published": "2026-08-03T13:30:00+00:00",
       "fingerprint": "7a3419cccea5a8b3355f55c0131a901217b3e8fd"
+    },
+    {
+      "title": "Before & After: This designer transformed a bare concrete patio into a whimsical English garden - House Beautiful",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFlkbkF4cTlWbXlFakowZ2FzdWlBVVV5T2NGZ243SlpDUjN1NnNtYXl4c0QwVU1UUlNVUTdCVGtJNEdxZkNGUngyWDJUb3IxTGRkSWdWSWp2cW5MdFVVUzkwVUd0ZzdyMW90cDNnOFc3Um5HNV9qVTlkTEl2bkJSMFNRcjhpcEZ1b1FHWXhkZXRVWFpxR0pFLVBxSjJGU0E3OHlsajRUZUc0V0V5ZWdWQQ?oc=5",
+      "source": "House Beautiful",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFlkbkF4cTlWbXlFakowZ2FzdWlBVVV5T2NGZ243SlpDUjN1NnNtYXl4c0QwVU1UUlNVUTdCVGtJNEdxZkNGUngyWDJUb3IxTGRkSWdWSWp2cW5MdFVVUzkwVUd0ZzdyMW90cDNnOFc3Um5HNV9qVTlkTEl2bkJSMFNRcjhpcEZ1b1FHWXhkZXRVWFpxR0pFLVBxSjJGU0E3OHlsajRUZUc0V0V5ZWdWQQ?oc=5\" target=\"_blank\">Before & After: This designer transformed a bare concrete patio into a whimsical English garden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">House Beautiful</font>",
+      "feed_group": "company",
+      "feed_title": "Kitchens & Bathrooms: MKM Building Suppl \u2026 Q4 Bathrooms (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-08-04T08:25:01+00:00",
+      "fingerprint": "0dbef52375ef60875de809cdec4e83d10361c5cf"
     },
     {
       "title": "How Avocado Suppliers Aim to Help Retailers Score Big This Fall - The Packer",
