@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T16:47:51.123256+00:00",
+  "generated_at": "2026-08-05T19:44:48.250551+00:00",
   "date": "2026-08-05",
-  "count": 11,
+  "count": 8,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -14,38 +14,19 @@
   ],
   "items": [
     {
-      "title": "Andy Burnham appoints John Lewis to run British Steel - NewsBiscuit",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXRnSnJrZk1tYkpEaHRfZXdNUGtJU1ZaNXY2Snl1RTJzS194Tmt1ODRFUlRjY01KZ1ozTU5TOFNPLVN1X2xPbUdvWXBWV05MbkxtQzFDb0FWLUhOd1ZfX19raklPcC0yNjFxaTI0TFU1ZWF5cnprVk0wMWJXR25vWjlMWDBuTWZ2RTFuU01NRQ?oc=5",
-      "source": "NewsBiscuit",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXRnSnJrZk1tYkpEaHRfZXdNUGtJU1ZaNXY2Snl1RTJzS194Tmt1ODRFUlRjY01KZ1ozTU5TOFNPLVN1X2xPbUdvWXBWV05MbkxtQzFDb0FWLUhOd1ZfX19raklPcC0yNjFxaTI0TFU1ZWF5cnprVk0wMWJXR25vWjlMWDBuTWZ2RTFuU01NRQ?oc=5\" target=\"_blank\">Andy Burnham appoints John Lewis to run British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsBiscuit</font>",
+      "title": "Philips Onboards MITSUMI as its Distributor for Professional Display Solutions - itvoice.in",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHpRamg0dG1PLUZZaHo2WENZcTNVQ2RDNjJQMVQ0ZWVuUG5YVWJna0Zpd3FaMUhLeDluMTloUGV6RjBrQ3RZYUtLV2FsX2tsOEZidDdVXy1HTzFVck92ODJBOGphUlhSNFUwNXhlY1ZLTjBaX2E3VWNiYm5RQVRNT2RsNWdXS3ZRSlNRYWVrVFpaQVJEWHRETmFvYVIycmFIZUdn?oc=5",
+      "source": "itvoice.in",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHpRamg0dG1PLUZZaHo2WENZcTNVQ2RDNjJQMVQ0ZWVuUG5YVWJna0Zpd3FaMUhLeDluMTloUGV6RjBrQ3RZYUtLV2FsX2tsOEZidDdVXy1HTzFVck92ODJBOGphUlhSNFUwNXhlY1ZLTjBaX2E3VWNiYm5RQVRNT2RsNWdXS3ZRSlNRYWVrVFpaQVJEWHRETmFvYVIycmFIZUdn?oc=5\" target=\"_blank\">Philips Onboards MITSUMI as its Distributor for Professional Display Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">itvoice.in</font>",
       "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "Leadership appointment"
-      ],
-      "company": "British Steel",
-      "score": 9,
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Philips",
+      "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-08-04T06:00:58+00:00",
-      "fingerprint": "340f854bc30d848230ca002414a5ee9230ca920e"
-    },
-    {
-      "title": "Cemex UK announces opening of new Swindon Plant - Builders Merchants Journal",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhTXzhpQzFPQlkyRUNfWXBTeV93Z2MxRUZlYTFWZktIbjViLXFLX1lkbFFQSkR2d0xKZXJzUkhQaW5VMFBlSUFUb0xWRUVJZndmdE9BZXE4X0lhY0RCTlg3ck1vVGlVMWRLbG9xNkgwRi1vTUdyRWFHVmZoUVdkYVRQRE9fTjJHLTRfcDZB?oc=5",
-      "source": "Builders Merchants Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhTXzhpQzFPQlkyRUNfWXBTeV93Z2MxRUZlYTFWZktIbjViLXFLX1lkbFFQSkR2d0xKZXJzUkhQaW5VMFBlSUFUb0xWRUVJZndmdE9BZXE4X0lhY0RCTlg3ck1vVGlVMWRLbG9xNkgwRi1vTUdyRWFHVmZoUVdkYVRQRE9fTjJHLTRfcDZB?oc=5\" target=\"_blank\">Cemex UK announces opening of new Swindon Plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "",
-      "score": 8,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-08-05T12:00:46+00:00",
-      "fingerprint": "445452339de5350f8ff54dba86881c3c02523886"
+      "published": "2026-08-05T12:31:44+00:00",
+      "fingerprint": "891f78381bb2603abc912f3ef567dfbe1f4fd42e"
     },
     {
       "title": "SIG Roofing commercial director elected chair of NFRC committee - projectscot.com",
@@ -63,10 +44,10 @@
       "fingerprint": "4c87c9d70b6a2bc264a51eca4710623aa024dd12"
     },
     {
-      "title": "Contractor Launches Industry-First Charity Hoarding Initiative - Roofing Today",
+      "title": "Contractor Launches Industry-First Charity Hoarding Initiative - roofingtoday.co.uk",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1lPc01xVkNMWG9tR2hBVk12cWg3QmxJQ3NLLUg4bFU0cjk5b1FYUEVON2F3YWhxYkV4Y0JXTGdtam0wU1dQWE16VzR2ekhNai1zZDREOWtieWNYclh2RW9BOU5tOVZ0Y1ZQbW1wZGZ4RlVXOUdmeTdKRmdTU1pEdFJmSko3MFlKRFpub3N4ZFdmSVN6?oc=5",
-      "source": "Roofing Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1lPc01xVkNMWG9tR2hBVk12cWg3QmxJQ3NLLUg4bFU0cjk5b1FYUEVON2F3YWhxYkV4Y0JXTGdtam0wU1dQWE16VzR2ekhNai1zZDREOWtieWNYclh2RW9BOU5tOVZ0Y1ZQbW1wZGZ4RlVXOUdmeTdKRmdTU1pEdFJmSko3MFlKRFpub3N4ZFdmSVN6?oc=5\" target=\"_blank\">Contractor Launches Industry-First Charity Hoarding Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "source": "roofingtoday.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1lPc01xVkNMWG9tR2hBVk12cWg3QmxJQ3NLLUg4bFU0cjk5b1FYUEVON2F3YWhxYkV4Y0JXTGdtam0wU1dQWE16VzR2ekhNai1zZDREOWtieWNYclh2RW9BOU5tOVZ0Y1ZQbW1wZGZ4RlVXOUdmeTdKRmdTU1pEdFJmSko3MFlKRFpub3N4ZFdmSVN6?oc=5\" target=\"_blank\">Contractor Launches Industry-First Charity Hoarding Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roofingtoday.co.uk</font>",
       "feed_group": "signal",
       "feed_title": "New product launches",
       "categories": [
@@ -95,21 +76,6 @@
       "fingerprint": "841b9b052dc5a3d29e1c70ade49c8ef599469244"
     },
     {
-      "title": "James Hardie Industries (ASX:JHX) Shares Rally\u2014Is the Building Materials Giant Back on Investors' Radar? - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkpfSm1rQUNtS0ZsUlNUbkRPUGxVeWdIZjIwaE5JN3phemdXYXZZaTlVb05hR0t2elVWclhPZ0M4eEdHN3gxZnphZ1EzOGxXTFlNUmNGYldSajQtVTJQdXdfOFRWRE50TXBRcDNwNUk2emxFbmlmWjdrRWRFWHM3YlVzNnBhVGtlSjR2dk1IQmhzUXNWTW1mWURtQU14a0VUSVQ5dlVPaW41QzN1bGNEbXJrakxtR050OGZmQTFJTHluVlVrRHNMWldlUW1MUQ?oc=5",
-      "source": "Kalkine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkpfSm1rQUNtS0ZsUlNUbkRPUGxVeWdIZjIwaE5JN3phemdXYXZZaTlVb05hR0t2elVWclhPZ0M4eEdHN3gxZnphZ1EzOGxXTFlNUmNGYldSajQtVTJQdXdfOFRWRE50TXBRcDNwNUk2emxFbmlmWjdrRWRFWHM3YlVzNnBhVGtlSjR2dk1IQmhzUXNWTW1mWURtQU14a0VUSVQ5dlVPaW41QzN1bGNEbXJrakxtR050OGZmQTFJTHluVlVrRHNMWldlUW1MUQ?oc=5\" target=\"_blank\">James Hardie Industries (ASX:JHX) Shares Rally\u2014Is the Building Materials Giant Back on Investors' Radar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [],
-      "company": "James Hardie",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-08-04T06:10:00+00:00",
-      "fingerprint": "09365bf1fe581d07b4645e4de1d95379e6851cf8"
-    },
-    {
       "title": "Omega Pacific Closes Private Placement - Investing News Network",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5WDF0amVuS1BKN0g2NzY2anFRQXg5WWtYMXdIb1Z4QUZJSjdEQkN3NzJpV0FGdk9EV05oNnBNM0oyYjkzdkVueTlVamVuNkw5SlNxTVFHZEp0aU10bEo5QVc2SzM5T2N0bE9NQWc0amZNQVU?oc=5",
       "source": "Investing News Network",
@@ -125,25 +91,10 @@
       "fingerprint": "55bed8b68df89f0a0f1b2cf1a97150bc7c8efbcf"
     },
     {
-      "title": "Cemex announces new Swindon plant - Builders' Merchants News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUTdrX0hRNTdNMVpveVlRQk9GUlliSjFvYzBCTVREdWd5TTFKSFVoZ0RPemJfWll1ZHFQbkxkTElZd1l1YmhaNzU5bm5MaEk0RmJONEhOLWZDNzRVVG5uS1hIMGRrVGtYYXVWRmV4eVRZWXBqbG1PLVpvekVJdl9rLWFVTzRoWXk0TVEwTQ?oc=5",
-      "source": "Builders' Merchants News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUTdrX0hRNTdNMVpveVlRQk9GUlliSjFvYzBCTVREdWd5TTFKSFVoZ0RPemJfWll1ZHFQbkxkTElZd1l1YmhaNzU5bm5MaEk0RmJONEhOLWZDNzRVVG5uS1hIMGRrVGtYYXVWRmV4eVRZWXBqbG1PLVpvekVJdl9rLWFVTzRoWXk0TVEwTQ?oc=5\" target=\"_blank\">Cemex announces new Swindon plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-08-05T08:59:51+00:00",
-      "fingerprint": "b6294b1eb66dee7ac7193ace5a7fe261dea7b14d"
-    },
-    {
-      "title": "SIG First Half Profit Dragged Down by Weak Demand - Roofing Today",
+      "title": "SIG First Half Profit Dragged Down by Weak Demand - roofingtoday.co.uk",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXFITk5UaEpiOUY0a29QLVVpRlRfNjJxT2hPdndKa053QUNOSzBsalk2cEhzWUJpS2JaT1g3MndpX3BQalhEd3E5ZHB3MFBFQzNvLVdST0NDc0ZDdzlOZjVxSkNhdWhCM2l6OW4yQTlhakpmUzllRXZGel9xU3BOXzc3WQ?oc=5",
-      "source": "Roofing Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXFITk5UaEpiOUY0a29QLVVpRlRfNjJxT2hPdndKa053QUNOSzBsalk2cEhzWUJpS2JaT1g3MndpX3BQalhEd3E5ZHB3MFBFQzNvLVdST0NDc0ZDdzlOZjVxSkNhdWhCM2l6OW4yQTlhakpmUzllRXZGel9xU3BOXzc3WQ?oc=5\" target=\"_blank\">SIG First Half Profit Dragged Down by Weak Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "source": "roofingtoday.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXFITk5UaEpiOUY0a29QLVVpRlRfNjJxT2hPdndKa053QUNOSzBsalk2cEhzWUJpS2JaT1g3MndpX3BQalhEd3E5ZHB3MFBFQzNvLVdST0NDc0ZDdzlOZjVxSkNhdWhCM2l6OW4yQTlhakpmUzllRXZGel9xU3BOXzc3WQ?oc=5\" target=\"_blank\">SIG First Half Profit Dragged Down by Weak Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roofingtoday.co.uk</font>",
       "feed_group": "company",
       "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
       "categories": [],
