@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T05:57:02.090518+00:00",
+  "generated_at": "2026-08-06T08:48:11.003204+00:00",
   "date": "2026-08-06",
-  "count": 3,
+  "count": 5,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,24 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "British Steel Welcomes 70 New Apprentices and Graduates as It Invests in the Next Generation British Steel is set to welcome 70 new apprentices and graduates next month, with more than half of the new recruits beginning their careers at the company's Scunt - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRjhRa3puSGFMR0VsYThwUzBiZHAzeG5vUXNJT0p4SjNlc3BCeVZ2elJMeEp0RnQ0eVhtWmhWZ2NwWi1lSWJRbzFkeUhJa2lvVlloMFBqbnliOG5hYVNuU3ZzX1NoaU1VY19ZVndzZUt6UGVPNFZCcHJEQlhma1ZXTDN6RE1faEdZdjNBTF9QMWFXU1kxWTFubDUyQ0FMSzJVdlI3NWVXNHRIczZJeHNILUVISG5ONE9odFdMVWthRVYxekRDX3NJcF9tX0FMOS1sa3BuSFV2QUlGUFFhb0JwN3RyWkxrc3RuVjdj?oc=5",
+      "source": "facebook.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRjhRa3puSGFMR0VsYThwUzBiZHAzeG5vUXNJT0p4SjNlc3BCeVZ2elJMeEp0RnQ0eVhtWmhWZ2NwWi1lSWJRbzFkeUhJa2lvVlloMFBqbnliOG5hYVNuU3ZzX1NoaU1VY19ZVndzZUt6UGVPNFZCcHJEQlhma1ZXTDN6RE1faEdZdjNBTF9QMWFXU1kxWTFubDUyQ0FMSzJVdlI3NWVXNHRIczZJeHNILUVISG5ONE9odFdMVWthRVYxekRDX3NJcF9tX0FMOS1sa3BuSFV2QUlGUFFhb0JwN3RyWkxrc3RuVjdj?oc=5\" target=\"_blank\">British Steel Welcomes 70 New Apprentices and Graduates as It Invests in the Next Generation British Steel is set to welcome 70 new apprentices and graduates next month, with more than half of the new recruits b",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Hiring / job creation",
+        "Investment / funding"
+      ],
+      "company": "British Steel",
+      "score": 10,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-08-06T07:29:13+00:00",
+      "fingerprint": "4b54fed5ece8a10488f4ef358950f248f343bf49"
+    },
     {
       "title": "Cemex UK announces opening of new Swindon Plant - Builders Merchants Journal",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhTXzhpQzFPQlkyRUNfWXBTeV93Z2MxRUZlYTFWZktIbjViLXFLX1lkbFFQSkR2d0xKZXJzUkhQaW5VMFBlSUFUb0xWRUVJZndmdE9BZXE4X0lhY0RCTlg3ck1vVGlVMWRLbG9xNkgwRi1vTUdyRWFHVmZoUVdkYVRQRE9fTjJHLTRfcDZB?oc=5",
@@ -29,6 +47,21 @@
       "likely_roles": "",
       "published": "2026-08-05T12:00:46+00:00",
       "fingerprint": "445452339de5350f8ff54dba86881c3c02523886"
+    },
+    {
+      "title": "Philips Onboards MITSUMI as its Distributor for Professional Display Solutions - IT Voice Media Pvt. Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHpRamg0dG1PLUZZaHo2WENZcTNVQ2RDNjJQMVQ0ZWVuUG5YVWJna0Zpd3FaMUhLeDluMTloUGV6RjBrQ3RZYUtLV2FsX2tsOEZidDdVXy1HTzFVck92ODJBOGphUlhSNFUwNXhlY1ZLTjBaX2E3VWNiYm5RQVRNT2RsNWdXS3ZRSlNRYWVrVFpaQVJEWHRETmFvYVIycmFIZUdn?oc=5",
+      "source": "IT Voice Media Pvt. Ltd.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHpRamg0dG1PLUZZaHo2WENZcTNVQ2RDNjJQMVQ0ZWVuUG5YVWJna0Zpd3FaMUhLeDluMTloUGV6RjBrQ3RZYUtLV2FsX2tsOEZidDdVXy1HTzFVck92ODJBOGphUlhSNFUwNXhlY1ZLTjBaX2E3VWNiYm5RQVRNT2RsNWdXS3ZRSlNRYWVrVFpaQVJEWHRETmFvYVIycmFIZUdn?oc=5\" target=\"_blank\">Philips Onboards MITSUMI as its Distributor for Professional Display Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Voice Media Pvt. Ltd.</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Philips",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-08-05T12:31:44+00:00",
+      "fingerprint": "891f78381bb2603abc912f3ef567dfbe1f4fd42e"
     },
     {
       "title": "Omega Pacific Closes Private Placement - TMX Newsfile",
