@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T11:16:59.701161+00:00",
+  "generated_at": "2026-09-06T15:16:27.988851+00:00",
   "date": "2026-09-06",
-  "count": 1,
+  "count": 2,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -27,6 +27,21 @@
       "likely_roles": "",
       "published": "2026-09-05T15:46:17+00:00",
       "fingerprint": "5bf35593d830c81570a619f8228b7f4277a81b6a"
+    },
+    {
+      "title": "Paul Casey Makes Personal Announcement at Omega European Masters - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQW80ZG9YenZ2b0FPRjBJbU5lRkFDYWRmNXlXUmxwZWlBbXVKMUxhU1JvSlp6OWpVSDlnR2tDeUtSVVlRQzhCWUhPeHBicEFvOGZadHFvLWF2Z1VTWW94V1JiMHJjT3NMaVhhNzVMN0VRSXZSazBvb1NDbEt3ZW53bXBVR0ZvSjJDWXBvanlrY043d0E3Y09XWmxUR0QtbkE?oc=5",
+      "source": "heavy.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQW80ZG9YenZ2b0FPRjBJbU5lRkFDYWRmNXlXUmxwZWlBbXVKMUxhU1JvSlp6OWpVSDlnR2tDeUtSVVlRQzhCWUhPeHBicEFvOGZadHFvLWF2Z1VTWW94V1JiMHJjT3NMaVhhNzVMN0VRSXZSazBvb1NDbEt3ZW53bXBVR0ZvSjJDWXBvanlrY043d0E3Y09XWmxUR0QtbkE?oc=5\" target=\"_blank\">Paul Casey Makes Personal Announcement at Omega European Masters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heavy.com</font>",
+      "feed_group": "company",
+      "feed_title": "Kitchens & Bathrooms: MKM Building Suppl \u2026 Q4 Bathrooms (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-06T11:30:46+00:00",
+      "fingerprint": "fcf4ea50e1023937d50b1b3b25213868f506320a"
     }
   ]
 }
