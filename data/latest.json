@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T11:04:31.620140+00:00",
+  "generated_at": "2026-09-09T11:46:40.026575+00:00",
   "date": "2026-09-09",
-  "count": 7,
+  "count": 8,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -29,6 +29,23 @@
       "likely_roles": "",
       "published": "2026-09-09T02:30:00+00:00",
       "fingerprint": "1544e48160049081cd6f17b384725f0839384c67"
+    },
+    {
+      "title": "APS Appoints Sofie Hooper as CEO - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTlJsYzNEemJhdGZUcWcxMmN5QWdUOUVCa0tvNC1wallack9nUERJMmx3RVZBYUZ3ZXI1b3F1ZEZaQi1zWjYwRF9ncENwYWZZY0k4ZzF1M1JkbHJxTTdSNnY4d203ejNmaXhpZA?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTlJsYzNEemJhdGZUcWcxMmN5QWdUOUVCa0tvNC1wallack9nUERJMmx3RVZBYUZ3ZXI1b3F1ZEZaQi1zWjYwRF9ncENwYWZZY0k4ZzF1M1JkbHJxTTdSNnY4d203ejNmaXhpZA?oc=5\" target=\"_blank\">APS Appoints Sofie Hooper as CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "sector",
+      "feed_title": "Roofing & Rooflights \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-09T10:46:18+00:00",
+      "fingerprint": "6c2549af583cb5a2df001bf32166fb22084c8320"
     },
     {
       "title": "Holcim Invests in UK-based Concrete Management Software Company Cloud Cycle - marketscreener.com",
@@ -59,7 +76,7 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-09-09T10:44:26+00:00",
+      "published": "2026-09-09T10:46:27+00:00",
       "fingerprint": "7fa3028f992c78213e7b1099fae231f9e4ce77d1"
     },
     {
@@ -108,10 +125,10 @@
       "fingerprint": "b452dcce8f074d8dacc24822d9ccd67255d814c4"
     },
     {
-      "title": "Sunrise Resources plc (SRES) Trading Halted on AIM Under Capital Access Window Ahead of Key Announcement - kalkinemedia.com",
+      "title": "Sunrise Resources plc (SRES) Trading Halted on AIM Under Capital Access Window Ahead of Key Announcement - Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbW4ydUFUekZjdk0xbFJvTWdiZkdJbEtkeUgtLWtPbGhHODRQVENpbGhLVGVJNjdtQm5uekZzV25oZTZwUk11WVRSV1FVUXM4UEpQLXVGRnhPUndNUThmS3BORlg5UU5FQ29CdXhyY0dFd1NTUlVvMjZNME5vbS1QcnJ1Y0JtWUpHVVd6RlRJdU9pZ3JjMndVeXpKb1lNTk95S1BEUWN5MVJWSnhUYUFqd3d6T1IzTnMyaTNaeEtEMXlkdUZaMjRuaW9HYmhTcjllcjRDQUowVXdGekw2b19EZWhXVQ?oc=5",
-      "source": "kalkinemedia.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbW4ydUFUekZjdk0xbFJvTWdiZkdJbEtkeUgtLWtPbGhHODRQVENpbGhLVGVJNjdtQm5uekZzV25oZTZwUk11WVRSV1FVUXM4UEpQLXVGRnhPUndNUThmS3BORlg5UU5FQ29CdXhyY0dFd1NTUlVvMjZNME5vbS1QcnJ1Y0JtWUpHVVd6RlRJdU9pZ3JjMndVeXpKb1lNTk95S1BEUWN5MVJWSnhUYUFqd3d6T1IzTnMyaTNaeEtEMXlkdUZaMjRuaW9HYmhTcjllcjRDQUowVXdGekw2b19EZWhXVQ?oc=5\" target=\"_blank\">Sunrise Resources plc (SRES) Trading Halted on AIM Under Capital Access Window Ahead of Key Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kalkinemedia.com</font>",
+      "source": "Kalkine Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbW4ydUFUekZjdk0xbFJvTWdiZkdJbEtkeUgtLWtPbGhHODRQVENpbGhLVGVJNjdtQm5uekZzV25oZTZwUk11WVRSV1FVUXM4UEpQLXVGRnhPUndNUThmS3BORlg5UU5FQ29CdXhyY0dFd1NTUlVvMjZNME5vbS1QcnJ1Y0JtWUpHVVd6RlRJdU9pZ3JjMndVeXpKb1lNTk95S1BEUWN5MVJWSnhUYUFqd3d6T1IzTnMyaTNaeEtEMXlkdUZaMjRuaW9HYmhTcjllcjRDQUowVXdGekw2b19EZWhXVQ?oc=5\" target=\"_blank\">Sunrise Resources plc (SRES) Trading Halted on AIM Under Capital Access Window Ahead of Key Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
       "feed_group": "company",
       "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
       "categories": [],
