@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T20:42:35.129096+00:00",
+  "generated_at": "2026-09-10T23:04:26.597667+00:00",
   "date": "2026-09-10",
-  "count": 10,
+  "count": 7,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -65,23 +65,6 @@
       "fingerprint": "acc1f28d5ea2010ba320c7136d7e229d3d9d10b7"
     },
     {
-      "title": "APS Appoints Sofie Hooper as CEO - Roofing Today",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTlJsYzNEemJhdGZUcWcxMmN5QWdUOUVCa0tvNC1wallack9nUERJMmx3RVZBYUZ3ZXI1b3F1ZEZaQi1zWjYwRF9ncENwYWZZY0k4ZzF1M1JkbHJxTTdSNnY4d203ejNmaXhpZA?oc=5",
-      "source": "Roofing Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTlJsYzNEemJhdGZUcWcxMmN5QWdUOUVCa0tvNC1wallack9nUERJMmx3RVZBYUZ3ZXI1b3F1ZEZaQi1zWjYwRF9ncENwYWZZY0k4ZzF1M1JkbHJxTTdSNnY4d203ejNmaXhpZA?oc=5\" target=\"_blank\">APS Appoints Sofie Hooper as CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
-      "feed_group": "sector",
-      "feed_title": "Roofing & Rooflights \u2014 sector news",
-      "categories": [
-        "Leadership appointment"
-      ],
-      "company": "",
-      "score": 8,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-09T10:46:18+00:00",
-      "fingerprint": "6c2549af583cb5a2df001bf32166fb22084c8320"
-    },
-    {
       "title": "Vivalda Group announces four new senior appointments - Builders' Merchants News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUppcFRSajBEZDRQd3JuZFl1enM0QmN5SWFCVU5Zc1U3V291eEoxOTdqandZbTRSS3RGaEVQekdTVGJVaHU0WFhGYllCdXJfVG1zenA1Ti1sLXVsTWhFX2pKcWVxNFRGdW9NRlkwNmxUekdDeVppVlVTemJjT184SDBwckM4WWVJc1dpNkFSb1lGTlZh?oc=5",
       "source": "Builders' Merchants News",
@@ -112,21 +95,6 @@
       "fingerprint": "ab220b851f83456b61aed5ee653cb32bc61a9b97"
     },
     {
-      "title": "JPMorgan upgrades Kingspan, stays selective on European building materials - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYnV4enZvd3BuSzNNUWhUSFpSTkNhTmZhWk5iRVVNMDZXQXR1ZTIxYXYxN3YxdmNHYnBGTkpBRzNOdy1vLUVJWVpGRWVNODFXNl90WkRzalJCVUp4OC02SmE5SW5KWkZpb19MWFh3XzVXbG56dmw4NDc4dktBaU5aeW1zc0hsQnl3c0RwOXg1d0tTYnFHdVF0bVgxcnE0U2Y0ZzNjT2VNLXJ0b0diNG1xRl90TWgtTjQ3NFBTcjNGUVkxWnI2c09TbGZn?oc=5",
-      "source": "Investing.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQYnV4enZvd3BuSzNNUWhUSFpSTkNhTmZhWk5iRVVNMDZXQXR1ZTIxYXYxN3YxdmNHYnBGTkpBRzNOdy1vLUVJWVpGRWVNODFXNl90WkRzalJCVUp4OC02SmE5SW5KWkZpb19MWFh3XzVXbG56dmw4NDc4dktBaU5aeW1zc0hsQnl3c0RwOXg1d0tTYnFHdVF0bVgxcnE0U2Y0ZzNjT2VNLXJ0b0diNG1xRl90TWgtTjQ3NFBTcjNGUVkxWnI2c09TbGZn?oc=5\" target=\"_blank\">JPMorgan upgrades Kingspan, stays selective on European building materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
-      "categories": [],
-      "company": "Kingspan",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-09T10:46:27+00:00",
-      "fingerprint": "7fa3028f992c78213e7b1099fae231f9e4ce77d1"
-    },
-    {
       "title": "Trading in MicroSalt plc (SALT) Shares Suspended on AIM Ahead of Capital Raise Announcement - Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEdfenlFbFdqRWYzdE5qcEtDT29icEVjdklZQ2tPbkVMdzJBYzB2VUdQeEJ1RE5iUVktRUZzXzQtSGtLLXRIMFpYa2NYbWFRV2ZIQVBjU0lxQVRGeUUxRGp2bGtVUnJuVlZNYlc2Z1BUR1dHU1RWczBnajFUMkdvbjJjeFBTakZqa1dyNkJBd0s3b0RFZV9NTVhwMmM0T2hDLUNTQzE5NS16R04yaDhCOTQtYmZMSTR1NkUyN2V5R0x0c1BYQW1PdzdINnA4VVVjZmc?oc=5",
       "source": "Kalkine Media",
@@ -143,9 +111,9 @@
     },
     {
       "title": "\u201cSun the Quilt\u201d Wins the 2026 VELUX Light of Tomorrow Global Award with a Responsive Facade Inspired by Daily Rituals - ArchDaily",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNDJXM2k1TlhmaWV3M3N2aEI2X1VEQzVhR2FZY09kblRwaHVhazJhNlFmR3Y5RTRTMDUtbGY2U0J5bmk4UUE0cXoxXzFhVXZvRXBWekhTRUpyWGcwZGdTZnpra2dudVBHQVVIUlo2WTBLc1hQeTdpWUdxOUlYSEpIUV9VOTFZYkduSEk1bkNfQm1jVVlGRThSWWlYSll4VWE0c3RjaHhqVWlaVnRpSlJoS2haZ21DM2hfdVRDZ3J1TUh5ZTRmamF0bWw3M2pXMk90SG5jQXZoLUFKQXA5Z1Q3Q2lUTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPS1g2cWlSdmZTNnhITlUzYjZycnU3NzJFTnlWQlJ3a01PZWNRLUZUYmpJWnZZZWFFMXMyTUd5M081VllxRWFjblhXVGN5ODFuLUtRd1RiczcxRk1CbnpJQmRXQ1hka2JKMnV0YTNITnNNZnNqSVZKS1JuUGY2cUdNYWdmaWM2LTVETG9yREk4MHFRQ1pNQWxqSmlzY2o3WU8xMFkwQ1g4ZjJGVHl0QkdDOHdjejE0WnVnUHk5RnhudG5vM193MDVkdUhIX3dtSGNNOFFMYUlUYWpWV1VtT2QySWhObEk1bWZaRFpWQUsxZl8wRHczeHBlVXQ2RmEyYzJWaUx0YmlrbHZfVGFEUndVQ0N1QlFXdE4yVjNXYVEtM21vT2daRzdhY2xZVTRxWGZyNWlFR2JYUEhCNmN0QmRhOXFuaktfMlRNNTlkdnJ2b3N4cHRyRGF3TE5NUUE0NVpwV1JWS3dLRDhST1pOcmF1VlVnNFhlX1hIR2M4cEZ2ZGlvTW9VQ3lkT0k5amhRUzllSFlkTnQybGhVYnZuYUFwdU93bTdhVE0?oc=5",
       "source": "ArchDaily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNDJXM2k1TlhmaWV3M3N2aEI2X1VEQzVhR2FZY09kblRwaHVhazJhNlFmR3Y5RTRTMDUtbGY2U0J5bmk4UUE0cXoxXzFhVXZvRXBWekhTRUpyWGcwZGdTZnpra2dudVBHQVVIUlo2WTBLc1hQeTdpWUdxOUlYSEpIUV9VOTFZYkduSEk1bkNfQm1jVVlGRThSWWlYSll4VWE0c3RjaHhqVWlaVnRpSlJoS2haZ21DM2hfdVRDZ3J1TUh5ZTRmamF0bWw3M2pXMk90SG5jQXZoLUFKQXA5Z1Q3Q2lUTQ?oc=5\" target=\"_blank\">\u201cSun the Quilt\u201d Wins the 2026 VELUX Light of Tomorrow Global Award with a Responsive Facade Inspired by Daily Rituals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ArchDaily</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwNBVV95cUxPS1g2cWlSdmZTNnhITlUzYjZycnU3NzJFTnlWQlJ3a01PZWNRLUZUYmpJWnZZZWFFMXMyTUd5M081VllxRWFjblhXVGN5ODFuLUtRd1RiczcxRk1CbnpJQmRXQ1hka2JKMnV0YTNITnNNZnNqSVZKS1JuUGY2cUdNYWdmaWM2LTVETG9yREk4MHFRQ1pNQWxqSmlzY2o3WU8xMFkwQ1g4ZjJGVHl0QkdDOHdjejE0WnVnUHk5RnhudG5vM193MDVkdUhIX3dtSGNNOFFMYUlUYWpWV1VtT2QySWhObEk1bWZaRFpWQUsxZl8wRHczeHBlVXQ2RmEyYzJWaUx0YmlrbHZfVGFEUndVQ0N1QlFXdE4yVjNXYVEtM21vT2daRzdhY2xZVTRxWGZyNWlFR2JYUEhCNmN0QmRhOXFuaktfMlRNNTlkdnJ2b3N4cHRyRGF3TE5NUUE0NVpwV1JWS3dLRDhST1pOcmF1VlVnNFhlX1hIR2M4cEZ2ZGlvTW9VQ3lkT0k5amhRUzllSFlkTnQybGhVYn",
       "feed_group": "company",
       "feed_title": "Roofing & Rooflights: Triflex \u2026 Whitesales (12)",
       "categories": [],
@@ -153,23 +121,8 @@
       "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-09-09T10:45:00+00:00",
+      "published": "2026-09-09T11:37:12+00:00",
       "fingerprint": "b452dcce8f074d8dacc24822d9ccd67255d814c4"
-    },
-    {
-      "title": "Acceleration of Sustainable Construction, SIG Promotes the Use of Low Emission Building Materials at the 2026 Green Building Festival - VOI.ID",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uTXAtTVBzR2REM0o3X0JSMWFZby1wSkpSdXQ5UkdENS1kY1ZKR1h6WWs3NmxXeWhIcTJrcXVqOXI5OGZZQ0xJ0gFCQVVfeXFMTTdHWlp5RGZOb0RPdVFBWXpqRWRjVUhoQm1mX1FOSlVmcldZTzQ0U0RtdkhnYmt2bTFjalRhQ2dFN1h3?oc=5",
-      "source": "VOI.ID",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uTXAtTVBzR2REM0o3X0JSMWFZby1wSkpSdXQ5UkdENS1kY1ZKR1h6WWs3NmxXeWhIcTJrcXVqOXI5OGZZQ0xJ0gFCQVVfeXFMTTdHWlp5RGZOb0RPdVFBWXpqRWRjVUhoQm1mX1FOSlVmcldZTzQ0U0RtdkhnYmt2bTFjalRhQ2dFN1h3?oc=5\" target=\"_blank\">Acceleration of Sustainable Construction, SIG Promotes the Use of Low Emission Building Materials at the 2026 Green Building Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.ID</font>",
-      "feed_group": "company",
-      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-09T09:57:00+00:00",
-      "fingerprint": "2fa7cd88bbe5f98573c1b90ad92ac73bf2cfac4f"
     }
   ]
 }
