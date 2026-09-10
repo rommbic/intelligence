@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T04:00:25.020526+00:00",
+  "generated_at": "2026-09-10T11:00:34.151955+00:00",
   "date": "2026-09-10",
-  "count": 8,
+  "count": 11,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -14,10 +14,27 @@
   ],
   "items": [
     {
-      "title": "MKM Building Supplies acquires Hampshire builders' merchant - Yahoo News UK",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXRQektLbVkwWWEwOTlWdnJ3QXBGemJYN1gtQnl4NFp2TWpCejhzVjJuRnBwYnBGNGZkenhNTUJmMlU5aS02bEhqOE9sY0lVVVBPcTJwa08zRFVhZkFZSTFaMUc1WWg1dUxiT1AzaHo5VXRZWVhRTVpOYkxvbGc1MU1ZYU05X043?oc=5",
-      "source": "Yahoo News UK",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXRQektLbVkwWWEwOTlWdnJ3QXBGemJYN1gtQnl4NFp2TWpCejhzVjJuRnBwYnBGNGZkenhNTUJmMlU5aS02bEhqOE9sY0lVVVBPcTJwa08zRFVhZkFZSTFaMUc1WWg1dUxiT1AzaHo5VXRZWVhRTVpOYkxvbGc1MU1ZYU05X043?oc=5\" target=\"_blank\">MKM Building Supplies acquires Hampshire builders' merchant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+      "title": "Summit Workspace hires Fraser Donaldson amid Advanced Furniture group expansion - Big Furniture Group",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0oxY3dYUFZYa2JFWnA4dU5zZnNwbHlnOXpuU2FHbU9YXzRGRGZrZ2ZLLVZJQ1dnTVc5dDM3VDM0MGhrTzBna2lHYUxqTk1iMERPWVNPdTVKamo3YkQ2TFpObDVnSmhFd1JLcEQ1b0xZbjR3U21NdlBGQjhjcTlMVTNSejByRWgtVjFXR1FXeDZhMlBHMDVJbEl0ZkVSdl8xWXRiS3MxWklNOWRQWmhz?oc=5",
+      "source": "Big Furniture Group",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0oxY3dYUFZYa2JFWnA4dU5zZnNwbHlnOXpuU2FHbU9YXzRGRGZrZ2ZLLVZJQ1dnTVc5dDM3VDM0MGhrTzBna2lHYUxqTk1iMERPWVNPdTVKamo3YkQ2TFpObDVnSmhFd1JLcEQ1b0xZbjR3U21NdlBGQjhjcTlMVTNSejByRWgtVjFXR1FXeDZhMlBHMDVJbEl0ZkVSdl8xWXRiS3MxWklNOWRQWmhz?oc=5\" target=\"_blank\">Summit Workspace hires Fraser Donaldson amid Advanced Furniture group expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Furniture Group</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: aask us \u2026 Birlea Furniture (9)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "Advanced Furniture",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-10T04:52:27+00:00",
+      "fingerprint": "47127995691da9eb8f481b23d11e00593198a5f1"
+    },
+    {
+      "title": "MKM Building Supplies acquires Hampshire builders' merchant - Building & Architect of the Year Awards",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZndxZ3JhTFJodTlxaTliWDFmRmtiUllQSXpvcTU3UHVQMVFpMHo1Sl83MXJrYzdjNlZqUlVxcEZEVjN0TTFHNTdER1hPdWYwVHI2bkw2VGxlNnRhd0psRmgtWmlodFpYaldlVEthNUhVSWpxR25WRkk3SVEyNEtiemZGWC1GSmxzRjJNYXRDMnpvSUg2dk1MaWRvM3c?oc=5",
+      "source": "Building & Architect of the Year Awards",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZndxZ3JhTFJodTlxaTliWDFmRmtiUllQSXpvcTU3UHVQMVFpMHo1Sl83MXJrYzdjNlZqUlVxcEZEVjN0TTFHNTdER1hPdWYwVHI2bkw2VGxlNnRhd0psRmgtWmlodFpYaldlVEthNUhVSWpxR25WRkk3SVEyNEtiemZGWC1GSmxzRjJNYXRDMnpvSUg2dk1MaWRvM3c?oc=5\" target=\"_blank\">MKM Building Supplies acquires Hampshire builders' merchant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Building & Architect of the Year Awards</font>",
       "feed_group": "signal",
       "feed_title": "M&A / acquisitions",
       "categories": [
@@ -27,14 +44,31 @@
       "score": 9,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-09-09T02:30:00+00:00",
+      "published": "2026-09-10T04:34:19+00:00",
       "fingerprint": "1544e48160049081cd6f17b384725f0839384c67"
     },
     {
-      "title": "APS Appoints Sofie Hooper as CEO - Roofing Today",
+      "title": "Building Materials Logistics continues rapid expansion - Builders' Merchants News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlRWazdmTVlRZURXX2Y0U2FHNURvYlpWaHNGM2l6MGRTN1RDNTA2eXZNODc4UHlycmhfLTlnMFBTUmh5RlpmT1owOXVTbjQ0WF8temQ0TlN3RE0zT1QwWHR4NnFrVW8zaXNIbDQwa28zcUxtWDBnbzRWb1dmTndGRW03UXR6bmhwTHczVXItM1FZQzdMbUU1YzBfSmFTbmVwZjZoYjBzd0pCVVZEc2c?oc=5",
+      "source": "Builders' Merchants News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONlRWazdmTVlRZURXX2Y0U2FHNURvYlpWaHNGM2l6MGRTN1RDNTA2eXZNODc4UHlycmhfLTlnMFBTUmh5RlpmT1owOXVTbjQ0WF8temQ0TlN3RE0zT1QwWHR4NnFrVW8zaXNIbDQwa28zcUxtWDBnbzRWb1dmTndGRW03UXR6bmhwTHczVXItM1FZQzdMbUU1YzBfSmFTbmVwZjZoYjBzd0pCVVZEc2c?oc=5\" target=\"_blank\">Building Materials Logistics continues rapid expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
+      "feed_group": "signal",
+      "feed_title": "Hiring / job creation",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-10T10:46:51+00:00",
+      "fingerprint": "acc1f28d5ea2010ba320c7136d7e229d3d9d10b7"
+    },
+    {
+      "title": "APS Appoints Sofie Hooper as CEO - roofingtoday.co.uk",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTlJsYzNEemJhdGZUcWcxMmN5QWdUOUVCa0tvNC1wallack9nUERJMmx3RVZBYUZ3ZXI1b3F1ZEZaQi1zWjYwRF9ncENwYWZZY0k4ZzF1M1JkbHJxTTdSNnY4d203ejNmaXhpZA?oc=5",
-      "source": "Roofing Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTlJsYzNEemJhdGZUcWcxMmN5QWdUOUVCa0tvNC1wallack9nUERJMmx3RVZBYUZ3ZXI1b3F1ZEZaQi1zWjYwRF9ncENwYWZZY0k4ZzF1M1JkbHJxTTdSNnY4d203ejNmaXhpZA?oc=5\" target=\"_blank\">APS Appoints Sofie Hooper as CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "source": "roofingtoday.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTlJsYzNEemJhdGZUcWcxMmN5QWdUOUVCa0tvNC1wallack9nUERJMmx3RVZBYUZ3ZXI1b3F1ZEZaQi1zWjYwRF9ncENwYWZZY0k4ZzF1M1JkbHJxTTdSNnY4d203ejNmaXhpZA?oc=5\" target=\"_blank\">APS Appoints Sofie Hooper as CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roofingtoday.co.uk</font>",
       "feed_group": "sector",
       "feed_title": "Roofing & Rooflights \u2014 sector news",
       "categories": [
@@ -110,6 +144,21 @@
       "likely_roles": "",
       "published": "2026-09-09T10:46:27+00:00",
       "fingerprint": "7fa3028f992c78213e7b1099fae231f9e4ce77d1"
+    },
+    {
+      "title": "Trading in MicroSalt plc (SALT) Shares Suspended on AIM Ahead of Capital Raise Announcement - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEdfenlFbFdqRWYzdE5qcEtDT29icEVjdklZQ2tPbkVMdzJBYzB2VUdQeEJ1RE5iUVktRUZzXzQtSGtLLXRIMFpYa2NYbWFRV2ZIQVBjU0lxQVRGeUUxRGp2bGtVUnJuVlZNYlc2Z1BUR1dHU1RWczBnajFUMkdvbjJjeFBTakZqa1dyNkJBd0s3b0RFZV9NTVhwMmM0T2hDLUNTQzE5NS16R04yaDhCOTQtYmZMSTR1NkUyN2V5R0x0c1BYQW1PdzdINnA4VVVjZmc?oc=5",
+      "source": "Kalkine Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEdfenlFbFdqRWYzdE5qcEtDT29icEVjdklZQ2tPbkVMdzJBYzB2VUdQeEJ1RE5iUVktRUZzXzQtSGtLLXRIMFpYa2NYbWFRV2ZIQVBjU0lxQVRGeUUxRGp2bGtVUnJuVlZNYlc2Z1BUR1dHU1RWczBnajFUMkdvbjJjeFBTakZqa1dyNkJBd0s3b0RFZV9NTVhwMmM0T2hDLUNTQzE5NS16R04yaDhCOTQtYmZMSTR1NkUyN2V5R0x0c1BYQW1PdzdINnA4VVVjZmc?oc=5\" target=\"_blank\">Trading in MicroSalt plc (SALT) Shares Suspended on AIM Ahead of Capital Raise Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-10T06:30:08+00:00",
+      "fingerprint": "bf9689b729f12a336d3084660abfa918333e2c9c"
     },
     {
       "title": "\u201cSun the Quilt\u201d Wins the 2026 VELUX Light of Tomorrow Global Award with a Responsive Facade Inspired by Daily Rituals - ArchDaily",
