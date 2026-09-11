@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T11:44:05.855756+00:00",
+  "generated_at": "2026-09-11T16:14:08.771320+00:00",
   "date": "2026-09-11",
-  "count": 4,
+  "count": 9,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Alan Lovell appointed Chair of British Steel - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0ZaSkZCcmprTkVBT28xQ1JLVGFRX19pYl9scmM0TllTQXBYOFVvblpjdDF2Y1ZQYzkzYlMyb2FjcHNrZ1ZON2I5d3dhUXlxai1fNlV4WGw1QlVOZkYxVDlRVmxtaU9kMnQ2OE41am1qQkgwbFUwc29BTDdTdDlCaEpNOGhTUQ?oc=5",
+      "source": "GOV.UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0ZaSkZCcmprTkVBT28xQ1JLVGFRX19pYl9scmM0TllTQXBYOFVvblpjdDF2Y1ZQYzkzYlMyb2FjcHNrZ1ZON2I5d3dhUXlxai1fNlV4WGw1QlVOZkYxVDlRVmxtaU9kMnQ2OE41am1qQkgwbFUwc29BTDdTdDlCaEpNOGhTUQ?oc=5\" target=\"_blank\">Alan Lovell appointed Chair of British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GOV.UK</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "British Steel",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-11T13:00:01+00:00",
+      "fingerprint": "2d099d778da50de128409553d8b2f4d6186611cf"
+    },
     {
       "title": "Summit Workspace hires Fraser Donaldson amid Advanced Furniture group expansion - Big Furniture Group",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1NvR2s0a3l1UEJuYUNHRVgxOTZOd0lzVU1pUmlndWFFVlV0Y1pVMmJFSnVrdU9RaHdrSXFQMG1WcDh3dnFqYUFPX0VmaUVTRkNKRGw3UXRUcUpJdmlyLVdJbTV1Z1pURC1temZ6Q0JtS3RRTjQ5dVlERGFzQ1c1NlZmYlNTeUllM2lOd2VZT1JXRWkwOGhyVmV4aENrUC0yU1BBNzdMcWNPc0FDZjRKUlV5dC0?oc=5",
@@ -31,10 +48,10 @@
       "fingerprint": "47127995691da9eb8f481b23d11e00593198a5f1"
     },
     {
-      "title": "MKM Building Supplies acquires Hampshire builders' merchant - Building & Architect of the Year Awards",
+      "title": "MKM Building Supplies acquires Hampshire builders' merchant - buildingoftheyear.ie",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZndxZ3JhTFJodTlxaTliWDFmRmtiUllQSXpvcTU3UHVQMVFpMHo1Sl83MXJrYzdjNlZqUlVxcEZEVjN0TTFHNTdER1hPdWYwVHI2bkw2VGxlNnRhd0psRmgtWmlodFpYaldlVEthNUhVSWpxR25WRkk3SVEyNEtiemZGWC1GSmxzRjJNYXRDMnpvSUg2dk1MaWRvM3c?oc=5",
-      "source": "Building & Architect of the Year Awards",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZndxZ3JhTFJodTlxaTliWDFmRmtiUllQSXpvcTU3UHVQMVFpMHo1Sl83MXJrYzdjNlZqUlVxcEZEVjN0TTFHNTdER1hPdWYwVHI2bkw2VGxlNnRhd0psRmgtWmlodFpYaldlVEthNUhVSWpxR25WRkk3SVEyNEtiemZGWC1GSmxzRjJNYXRDMnpvSUg2dk1MaWRvM3c?oc=5\" target=\"_blank\">MKM Building Supplies acquires Hampshire builders' merchant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Building & Architect of the Year Awards</font>",
+      "source": "buildingoftheyear.ie",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZndxZ3JhTFJodTlxaTliWDFmRmtiUllQSXpvcTU3UHVQMVFpMHo1Sl83MXJrYzdjNlZqUlVxcEZEVjN0TTFHNTdER1hPdWYwVHI2bkw2VGxlNnRhd0psRmgtWmlodFpYaldlVEthNUhVSWpxR25WRkk3SVEyNEtiemZGWC1GSmxzRjJNYXRDMnpvSUg2dk1MaWRvM3c?oc=5\" target=\"_blank\">MKM Building Supplies acquires Hampshire builders' merchant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">buildingoftheyear.ie</font>",
       "feed_group": "signal",
       "feed_title": "M&A / acquisitions",
       "categories": [
@@ -65,6 +82,23 @@
       "fingerprint": "acc1f28d5ea2010ba320c7136d7e229d3d9d10b7"
     },
     {
+      "title": "Holcim invests in Cloud Cycle to bring real-time machine learning to concrete delivery - World Cement",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1VrOFZsYXo4ZmpVaW9MWkxxR3BLaVg0TVRvRmp2dHpCY2RuN2xiZmJUbFlMTTVmMzBUTEstZG8wVk12a0lTVjNrLXJFWTB5NUZhU2ZlQ1Fuc295XzFfR1lpVE5nTHNhaHZIQ29ZYlNmcllIYWNaZFBNbjNqLUkwY084eVZpYS1qNE1xZ3hzWnV0S2JTd2x2aUEwU0p5bHRNcVgySGVLYXVGVVRGMjVUbWN0ZkRueTRtdkREajg4dUFDLTN4TW5Qd3d5S0xXYWJ6SnM1QkxR?oc=5",
+      "source": "World Cement",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1VrOFZsYXo4ZmpVaW9MWkxxR3BLaVg0TVRvRmp2dHpCY2RuN2xiZmJUbFlMTTVmMzBUTEstZG8wVk12a0lTVjNrLXJFWTB5NUZhU2ZlQ1Fuc295XzFfR1lpVE5nTHNhaHZIQ29ZYlNmcllIYWNaZFBNbjNqLUkwY084eVZpYS1qNE1xZ3hzWnV0S2JTd2x2aUEwU0p5bHRNcVgySGVLYXVGVVRGMjVUbWN0ZkRueTRtdkREajg4dUFDLTN4TW5Qd3d5S0xXYWJ6SnM1QkxR?oc=5\" target=\"_blank\">Holcim invests in Cloud Cycle to bring real-time machine learning to concrete delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
+      "feed_group": "sector",
+      "feed_title": "Masonry, Concrete & Heavyside \u2014 sector news",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-11T13:46:14+00:00",
+      "fingerprint": "797988e3c80fd928e3a93fdb13ee764f1e7e3213"
+    },
+    {
       "title": "Vivalda Group announces four new senior appointments - Builders' Merchants News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUppcFRSajBEZDRQd3JuZFl1enM0QmN5SWFCVU5Zc1U3V291eEoxOTdqandZbTRSS3RGaEVQekdTVGJVaHU0WFhGYllCdXJfVG1zenA1Ti1sLXVsTWhFX2pKcWVxNFRGdW9NRlkwNmxUekdDeVppVlVTemJjT184SDBwckM4WWVJc1dpNkFSb1lGTlZh?oc=5",
       "source": "Builders' Merchants News",
@@ -78,6 +112,51 @@
       "likely_roles": "",
       "published": "2026-09-10T16:17:27+00:00",
       "fingerprint": "1c31189d44ec9b3002cf58fbd8da9556db26bd6f"
+    },
+    {
+      "title": "CCF delivers new cleanroom facility for homeopathic products manufacturer Francicea - Cleanroom Technology",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGNSVUR1bFA1cDdqU1NER1JNN3diWjE0eERPV2o3SVNQUlJ0bEd5X0FoZ0lSb1ZnVTNMYzhnZDhUZHJMNzBVUFJFUFhHNF9sS2YwMkJfWXpWMk9RQ2MxMXgyNXp1cHlVdzg2OExWS05vRV8wcWZBajRJNWxNMHhGZUtjSUE3a1lTa05VVUJhUzhMclVHNFVXQm5HcVM?oc=5",
+      "source": "Cleanroom Technology",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGNSVUR1bFA1cDdqU1NER1JNN3diWjE0eERPV2o3SVNQUlJ0bEd5X0FoZ0lSb1ZnVTNMYzhnZDhUZHJMNzBVUFJFUFhHNF9sS2YwMkJfWXpWMk9RQ2MxMXgyNXp1cHlVdzg2OExWS05vRV8wcWZBajRJNWxNMHhGZUtjSUE3a1lTa05VVUJhUzhMclVHNFVXQm5HcVM?oc=5\" target=\"_blank\">CCF delivers new cleanroom facility for homeopathic products manufacturer Francicea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleanroom Technology</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: Burton Roofing \u2026 Civils Store (9)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-11T16:04:06+00:00",
+      "fingerprint": "b0e4af352db7b359a7bd22c1e8835da620c22317"
+    },
+    {
+      "title": "First look at US Army's M8 as SIG Sauer showcases potential replacements for SA80 - Forces News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU43SnE4S0pSTTdTdVJpMnJxOUlvOVQ2bmZmcjJLUC1JUUxhM3htRkhfZ2FsQk52Q1ZVQ0hnemx4ZUkySVg2Y3hjRVloeXpmYlVUZ1U0SGdUTGV5X2RUQjFxR3V2eWhqSDE0T3FuVWZENy05dGV3LWNCZEZvTkQ3S295SllXdkE5ZTB6VC1BZWFIV0kzczdoeWxmbnRJLUh4WUo1TDhlaV9WbHA2WWxfYlFNTWptZFZ0VmtmeTlTa2oyUQ?oc=5",
+      "source": "Forces News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU43SnE4S0pSTTdTdVJpMnJxOUlvOVQ2bmZmcjJLUC1JUUxhM3htRkhfZ2FsQk52Q1ZVQ0hnemx4ZUkySVg2Y3hjRVloeXpmYlVUZ1U0SGdUTGV5X2RUQjFxR3V2eWhqSDE0T3FuVWZENy05dGV3LWNCZEZvTkQ3S295SllXdkE5ZTB6VC1BZWFIV0kzczdoeWxmbnRJLUh4WUo1TDhlaV9WbHA2WWxfYlFNTWptZFZ0VmtmeTlTa2oyUQ?oc=5\" target=\"_blank\">First look at US Army's M8 as SIG Sauer showcases potential replacements for SA80</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forces News</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-11T13:00:53+00:00",
+      "fingerprint": "1469e8974c08dc2c6b3d00ae3c5335bb664f247a"
+    },
+    {
+      "title": "Oasis tease tour announcement with Manchester drone display - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQVBoZzVYdlEyYjR6YVNLcUsxWnBQckVNNFo5V3dqX0tIQnRDRTVUMnI1S0NURHY4WXYxb3Z0d1NiYXZ1eFFsTWh1NDZJczhGRWxRQjdkd1J3bWtTZXlHUmpfMkZjWVEzNTY0NUZrQkZKdHpCOGNBUWlSZnZrcUNscTc2cVJDaWt3NEhESjI1MnlHMFFCc09nSEtQV0F3NThnWTM5aEkzMUZBbnFzc0pRbVFCWEJ4MWdsZW1jXy1qazFBbW5SYWRDWWhvZ3g2c2tNb0hPZUhXa9IB1wFBVV95cUxOQVBoZzVYdlEyYjR6YVNLcUsxWnBQckVNNFo5V3dqX0tIQnRDRTVUMnI1S0NURHY4WXYxb3Z0d1NiYXZ1eFFsTWh1NDZJczhGRWxRQjdkd1J3bWtTZXlHUmpfMkZjWVEzNTY0NUZrQkZKdHpCOGNBUWlSZnZrcUNscTc2cVJDaWt3NEhESjI1MnlHMFFCc09nSEtQV0F3NThnWTM5aEkzMUZBbnFzc0pRbVFCWEJ4MWdsZW1jXy1qazFBbW5SYWRDWWhvZ3g2c2tNb0hPZUhXaw?oc=5",
+      "source": "The Australian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQVBoZzVYdlEyYjR6YVNLcUsxWnBQckVNNFo5V3dqX0tIQnRDRTVUMnI1S0NURHY4WXYxb3Z0d1NiYXZ1eFFsTWh1NDZJczhGRWxRQjdkd1J3bWtTZXlHUmpfMkZjWVEzNTY0NUZrQkZKdHpCOGNBUWlSZnZrcUNscTc2cVJDaWt3NEhESjI1MnlHMFFCc09nSEtQV0F3NThnWTM5aEkzMUZBbnFzc0pRbVFCWEJ4MWdsZW1jXy1qazFBbW5SYWRDWWhvZ3g2c2tNb0hPZUhXa9IB1wFBVV95cUxOQVBoZzVYdlEyYjR6YVNLcUsxWnBQckVNNFo5V3dqX0tIQnRDRTVUMnI1S0NURHY4WXYxb3Z0d1NiYXZ1eFFsTWh1NDZJczhGRWxRQjdkd1J3bWtTZXlHUmpfMkZjWVEzNTY0NUZrQkZKdHpCOGNBUWlSZnZrcUNscTc2cVJDaWt3NEhESjI1MnlHMFFCc09nSEtQV0F3NThnWTM5aEkzMUZBbnFzc0pRbVFCWEJ4MWdsZW1jXy1qaz",
+      "feed_group": "company",
+      "feed_title": "Lighting: Ecotronic Uk \u2026 Glamox Luxonic (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-11T12:25:51+00:00",
+      "fingerprint": "9f502f92166f58fc64d6e7c24c6fcdedac39ac0f"
     }
   ]
 }
