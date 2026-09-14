@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T19:49:51.828739+00:00",
+  "generated_at": "2026-09-14T23:48:42.932926+00:00",
   "date": "2026-09-14",
-  "count": 9,
+  "count": 10,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Alan Lovell appointed Chair of British Steel - IOM3",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWNLNUpOdUpCRE5OaTBKMU9pbTd1enFGMzVVRWg3OFlsWkFfQlJCajFzRUtZcEZielZ6OU1hT3FwS19OZmkxLTRJdEtjekNYWnlST1ZrT2dEUHR6bFFFWG85RjA5Zjk0NDk1UXNzX3Q3cFYwN090VXpsLTN0OS1Fc29Gb2xwUQ?oc=5",
+      "source": "IOM3",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWNLNUpOdUpCRE5OaTBKMU9pbTd1enFGMzVVRWg3OFlsWkFfQlJCajFzRUtZcEZielZ6OU1hT3FwS19OZmkxLTRJdEtjekNYWnlST1ZrT2dEUHR6bFFFWG85RjA5Zjk0NDk1UXNzX3Q3cFYwN090VXpsLTN0OS1Fc29Gb2xwUQ?oc=5\" target=\"_blank\">Alan Lovell appointed Chair of British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IOM3</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "British Steel",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-14T20:54:54+00:00",
+      "fingerprint": "2d099d778da50de128409553d8b2f4d6186611cf"
+    },
     {
       "title": "Likewise Floors Expands Digital Ordering And Account Access - DirectorsTalk Interviews",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3ZKd2t0SDlvN2xSUFJrLVl3eW94NkkweVFsOGFpRkphVFZZWjF0eElENW12dkROVTY3Um9iQXZtLUlfMS1yeFkwb3h0b01NVkRLaEQzV3R1MW5ZWGZFcEN3SVRUc2c3WkkxdmIzNjRLT0x4MHlwNXhFT3NVOHVUb2IyZjF1YUpoTGxFODBsNnk2WExaWUJneThoWkpkakdFWm1PRVk3M3U2dC1iczZB?oc=5",
@@ -65,10 +82,10 @@
       "fingerprint": "2f736002afb7a7002c31057f217507395314649e"
     },
     {
-      "title": "French motor yacht brand Rh\u00e9a Marine appoints UK distributor - marineindustrynews.co.uk",
+      "title": "French motor yacht brand Rh\u00e9a Marine appoints UK distributor - Marine Industry News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2xHWDdBN3RaWFhwOF96NDYySXdLVU42amVEWnNaS3Vib3Y0SFM3OHk4WVBrc2V4bU9YbENwUnA4Tkp0RTdRRG1FLUpBMW5OT2F3RWxlWmM2X05HLXo0U3JYNGNRNlFYamxzZkI5WG9NRzNCZXA0RjVlVmNRRjJWQ0MxbTJkOXJCVUtIZjlXYUZYbzcxZTlDcTF3?oc=5",
-      "source": "marineindustrynews.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2xHWDdBN3RaWFhwOF96NDYySXdLVU42amVEWnNaS3Vib3Y0SFM3OHk4WVBrc2V4bU9YbENwUnA4Tkp0RTdRRG1FLUpBMW5OT2F3RWxlWmM2X05HLXo0U3JYNGNRNlFYamxzZkI5WG9NRzNCZXA0RjVlVmNRRjJWQ0MxbTJkOXJCVUtIZjlXYUZYbzcxZTlDcTF3?oc=5\" target=\"_blank\">French motor yacht brand Rh\u00e9a Marine appoints UK distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marineindustrynews.co.uk</font>",
+      "source": "Marine Industry News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2xHWDdBN3RaWFhwOF96NDYySXdLVU42amVEWnNaS3Vib3Y0SFM3OHk4WVBrc2V4bU9YbENwUnA4Tkp0RTdRRG1FLUpBMW5OT2F3RWxlWmM2X05HLXo0U3JYNGNRNlFYamxzZkI5WG9NRzNCZXA0RjVlVmNRRjJWQ0MxbTJkOXJCVUtIZjlXYUZYbzcxZTlDcTF3?oc=5\" target=\"_blank\">French motor yacht brand Rh\u00e9a Marine appoints UK distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marine Industry News</font>",
       "feed_group": "sector",
       "feed_title": "Merchants & Distribution \u2014 sector news",
       "categories": [
@@ -82,10 +99,10 @@
       "fingerprint": "6ce82bbf16e643d806964a43e928b71b662e85e0"
     },
     {
-      "title": "Proel appoints Polar UK and Ireland distributor - LSi Online",
+      "title": "Proel appoints Polar UK and Ireland distributor - lsionline.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVp2M1M1cHdrYVRRRHR3NGplZEFZUzRXajR5VFV2MFBBb3JnMk1haDhmSHc5VHpoN2hIWml0czQ5aU45bmNxaTBUa3p5WllXQkRrUmdjamZOcjBhcGdKUjdGcFhRbmRQaFR2VHZ4YlJVWGthREZnZDJUWG9QQnRJR19CQndXZw?oc=5",
-      "source": "LSi Online",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVp2M1M1cHdrYVRRRHR3NGplZEFZUzRXajR5VFV2MFBBb3JnMk1haDhmSHc5VHpoN2hIWml0czQ5aU45bmNxaTBUa3p5WllXQkRrUmdjamZOcjBhcGdKUjdGcFhRbmRQaFR2VHZ4YlJVWGthREZnZDJUWG9QQnRJR19CQndXZw?oc=5\" target=\"_blank\">Proel appoints Polar UK and Ireland distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LSi Online</font>",
+      "source": "lsionline.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVp2M1M1cHdrYVRRRHR3NGplZEFZUzRXajR5VFV2MFBBb3JnMk1haDhmSHc5VHpoN2hIWml0czQ5aU45bmNxaTBUa3p5WllXQkRrUmdjamZOcjBhcGdKUjdGcFhRbmRQaFR2VHZ4YlJVWGthREZnZDJUWG9QQnRJR19CQndXZw?oc=5\" target=\"_blank\">Proel appoints Polar UK and Ireland distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lsionline.com</font>",
       "feed_group": "sector",
       "feed_title": "Merchants & Distribution \u2014 sector news",
       "categories": [
@@ -134,10 +151,10 @@
       "fingerprint": "12e7d16802a520c7bcacf63e0e0c6138daeb0983"
     },
     {
-      "title": "JP Exteriors Wins Two National James Hardie Awards, Affirming Its Role as a Top Austin Siding Replacement Contractor - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdkliYlF6NXZ6Wmc0c1d2Y0Zrbm41R2s2ZkljREEzTDY3MFUyOEpsWXFOTHhQVWtZSzYwanFTYkJWaWhtOG1IeGJ1Mm9DUVNMVU4xenpEUkhpMi1hTWdNM3FOdzV2MEpYaTZoajhNTFJUcktoNlNwdklIem5VNzJmVDRob0JJcjVVb2h5b0tEWjVVeHB4SGM0Ny1SSUVScGp2Ny1XbncxQ0pDSmgyNjRFOHkyOS1yT09PUzVMYmVWWXdQTFFTU2h2eE93TWtxNk8wLV9Rc2lKMTBNeHpOcmxjT3doOVVhNDQ0SXRTd0Zn?oc=5",
-      "source": "EIN News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdkliYlF6NXZ6Wmc0c1d2Y0Zrbm41R2s2ZkljREEzTDY3MFUyOEpsWXFOTHhQVWtZSzYwanFTYkJWaWhtOG1IeGJ1Mm9DUVNMVU4xenpEUkhpMi1hTWdNM3FOdzV2MEpYaTZoajhNTFJUcktoNlNwdklIem5VNzJmVDRob0JJcjVVb2h5b0tEWjVVeHB4SGM0Ny1SSUVScGp2Ny1XbncxQ0pDSmgyNjRFOHkyOS1yT09PUzVMYmVWWXdQTFFTU2h2eE93TWtxNk8wLV9Rc2lKMTBNeHpOcmxjT3doOVVhNDQ0SXRTd0Zn?oc=5\" target=\"_blank\">JP Exteriors Wins Two National James Hardie Awards, Affirming Its Role as a Top Austin Siding Replacement Contractor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
+      "title": "JP Exteriors Wins Two National James Hardie Awards, Affirming Its Role as a Top Austin Siding Replacement Contractor - EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeWVabFNfdVVKR2o2VldjZHVYajYtSEFLVl9zeWVUQzdUVWhUQW5kYlYzZURTaHdtaVFReFdyejlLcS1oaDgtYTZ4bU15T0dEOUhuMGhaMzRNa19CUjlPNDEyRER4cG9KMkVFTmRfZXNuVzlfeUtnc1ljNUhxcHVaWXd6LS1HeFRfMFdWcDIwYU9zeTdtQTJIOFExcWY2TmNVTU5kN0pITTJ3eHZkcXNRdEhfX09sdHpzdVU0bjRKWjZ4UFRWLXJFNGJzV25EYVU2WG9vdXlCLTNEUm5CVHpucVJUdVZDUGFOam5zSEpUYTMyTzZB?oc=5",
+      "source": "EIN Presswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeWVabFNfdVVKR2o2VldjZHVYajYtSEFLVl9zeWVUQzdUVWhUQW5kYlYzZURTaHdtaVFReFdyejlLcS1oaDgtYTZ4bU15T0dEOUhuMGhaMzRNa19CUjlPNDEyRER4cG9KMkVFTmRfZXNuVzlfeUtnc1ljNUhxcHVaWXd6LS1HeFRfMFdWcDIwYU9zeTdtQTJIOFExcWY2TmNVTU5kN0pITTJ3eHZkcXNRdEhfX09sdHpzdVU0bjRKWjZ4UFRWLXJFNGJzV25EYVU2WG9vdXlCLTNEUm5CVHpucVJUdVZDUGFOam5zSEpUYTMyTzZB?oc=5\" target=\"_blank\">JP Exteriors Wins Two National James Hardie Awards, Affirming Its Role as a Top Austin Siding Replacement Contractor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN Presswire</font>",
       "feed_group": "company",
       "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
       "categories": [],
