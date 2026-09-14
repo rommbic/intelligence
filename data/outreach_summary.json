@@ -1,7 +1,8 @@
 {
   "enabled": true,
-  "generated_at": "2026-09-13T11:28:26.107179+00:00",
-  "signals_processed": 0,
+  "generated_at": "2026-09-14T12:21:33.548755+00:00",
+  "signals_processed": 1,
   "drafts_created": 0,
-  "prospects_logged": 0
+  "prospects_logged": 0,
+  "inbox": "will@rommbic.co.uk"
 }
