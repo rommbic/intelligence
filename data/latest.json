@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T04:15:44.918116+00:00",
+  "generated_at": "2026-09-15T11:28:46.018914+00:00",
   "date": "2026-09-15",
-  "count": 7,
+  "count": 9,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "James Hardie Industries Issues 109 Unquoted Ordinary Shares Linked to AZEK Merger Equity Awards - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdUlVU0ZDMmRNYkpub284Q3JkTTJERTJ1VnRJTHpMQ0tSMXJoSFNCRXJpR2xTN3RpZnJoZkxoa3JJdHBkZjdoRHlKTTBpRzlqRm45cE0wMU5tVGdqaFptRC1BbTQyTGFzUzk0anRlY0Z4Qms3alk0WnVmQWhqWlFWWU1LZkxCQk1xQXhPTnZfZkV0cktQQW5OYUdYZ3ZBZlF2d0pHY2JVOHpWZnRoanZTRnN2Z3RiLXNNODBrZVVUUWhwcGJOUE1FeklFR0dhZUlRZ3Rj?oc=5",
+      "source": "Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdUlVU0ZDMmRNYkpub284Q3JkTTJERTJ1VnRJTHpMQ0tSMXJoSFNCRXJpR2xTN3RpZnJoZkxoa3JJdHBkZjdoRHlKTTBpRzlqRm45cE0wMU5tVGdqaFptRC1BbTQyTGFzUzk0anRlY0Z4Qms3alk0WnVmQWhqWlFWWU1LZkxCQk1xQXhPTnZfZkV0cktQQW5OYUdYZ3ZBZlF2d0pHY2JVOHpWZnRoanZTRnN2Z3RiLXNNODBrZVVUUWhwcGJOUE1FeklFR0dhZUlRZ3Rj?oc=5\" target=\"_blank\">James Hardie Industries Issues 109 Unquoted Ordinary Shares Linked to AZEK Merger Equity Awards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "James Hardie",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-15T01:49:27+00:00",
+      "fingerprint": "9d06386bc817b0c3cbce7b9492e3fe338fdbbadb"
+    },
     {
       "title": "Alan Lovell appointed Chair of British Steel - IOM3",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWNLNUpOdUpCRE5OaTBKMU9pbTd1enFGMzVVRWg3OFlsWkFfQlJCajFzRUtZcEZielZ6OU1hT3FwS19OZmkxLTRJdEtjekNYWnlST1ZrT2dEUHR6bFFFWG85RjA5Zjk0NDk1UXNzX3Q3cFYwN090VXpsLTN0OS1Fc29Gb2xwUQ?oc=5",
@@ -48,10 +65,10 @@
       "fingerprint": "fd23beb207d1a08a8d320cccebcb7611670395f5"
     },
     {
-      "title": "Isembard opens major new London factory - themanufacturer.com",
+      "title": "Isembard opens major new London factory - The Manufacturer",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjFxSEo0b3pEUHd4LVJkME1ncmpJLTJrUnNMSEVLcUNoRXVCaHdpMFlGTGkwLUp1VEN6WVFJM3BxbkZkOFZUX3p1amhmVjJuaUhaTUtleVNZcENGVGpwZF9SN0kzUlpkUGt5Qnd1SkpoTjNYUTJzbHNLWHp3eXdwbUU5TXM2UWdS?oc=5",
-      "source": "themanufacturer.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjFxSEo0b3pEUHd4LVJkME1ncmpJLTJrUnNMSEVLcUNoRXVCaHdpMFlGTGkwLUp1VEN6WVFJM3BxbkZkOFZUX3p1amhmVjJuaUhaTUtleVNZcENGVGpwZF9SN0kzUlpkUGt5Qnd1SkpoTjNYUTJzbHNLWHp3eXdwbUU5TXM2UWdS?oc=5\" target=\"_blank\">Isembard opens major new London factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">themanufacturer.com</font>",
+      "source": "The Manufacturer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjFxSEo0b3pEUHd4LVJkME1ncmpJLTJrUnNMSEVLcUNoRXVCaHdpMFlGTGkwLUp1VEN6WVFJM3BxbkZkOFZUX3p1amhmVjJuaUhaTUtleVNZcENGVGpwZF9SN0kzUlpkUGt5Qnd1SkpoTjNYUTJzbHNLWHp3eXdwbUU5TXM2UWdS?oc=5\" target=\"_blank\">Isembard opens major new London factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manufacturer</font>",
       "feed_group": "signal",
       "feed_title": "New facilities / expansion",
       "categories": [
@@ -82,10 +99,10 @@
       "fingerprint": "2f736002afb7a7002c31057f217507395314649e"
     },
     {
-      "title": "French motor yacht brand Rh\u00e9a Marine appoints UK distributor - Marine Industry News",
+      "title": "French motor yacht brand Rh\u00e9a Marine appoints UK distributor - marineindustrynews.co.uk",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2xHWDdBN3RaWFhwOF96NDYySXdLVU42amVEWnNaS3Vib3Y0SFM3OHk4WVBrc2V4bU9YbENwUnA4Tkp0RTdRRG1FLUpBMW5OT2F3RWxlWmM2X05HLXo0U3JYNGNRNlFYamxzZkI5WG9NRzNCZXA0RjVlVmNRRjJWQ0MxbTJkOXJCVUtIZjlXYUZYbzcxZTlDcTF3?oc=5",
-      "source": "Marine Industry News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2xHWDdBN3RaWFhwOF96NDYySXdLVU42amVEWnNaS3Vib3Y0SFM3OHk4WVBrc2V4bU9YbENwUnA4Tkp0RTdRRG1FLUpBMW5OT2F3RWxlWmM2X05HLXo0U3JYNGNRNlFYamxzZkI5WG9NRzNCZXA0RjVlVmNRRjJWQ0MxbTJkOXJCVUtIZjlXYUZYbzcxZTlDcTF3?oc=5\" target=\"_blank\">French motor yacht brand Rh\u00e9a Marine appoints UK distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marine Industry News</font>",
+      "source": "marineindustrynews.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2xHWDdBN3RaWFhwOF96NDYySXdLVU42amVEWnNaS3Vib3Y0SFM3OHk4WVBrc2V4bU9YbENwUnA4Tkp0RTdRRG1FLUpBMW5OT2F3RWxlWmM2X05HLXo0U3JYNGNRNlFYamxzZkI5WG9NRzNCZXA0RjVlVmNRRjJWQ0MxbTJkOXJCVUtIZjlXYUZYbzcxZTlDcTF3?oc=5\" target=\"_blank\">French motor yacht brand Rh\u00e9a Marine appoints UK distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marineindustrynews.co.uk</font>",
       "feed_group": "sector",
       "feed_title": "Merchants & Distribution \u2014 sector news",
       "categories": [
@@ -132,6 +149,21 @@
       "likely_roles": "",
       "published": "2026-09-14T10:23:40+00:00",
       "fingerprint": "12e7d16802a520c7bcacf63e0e0c6138daeb0983"
+    },
+    {
+      "title": "Philips OneBlade and Red Bull take self-expression to new heights in Cappadocia, Turkey \u2013 Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVhyeUlUd2JnMDlQZFRzdmE4OGJ1SDAyalVzMFBydXNVUVhOY0FjOC1xUXJiaEx0NDItYjRmc1RFeW5OdVhNM3JlNWZKUmd6R0pYTVBRQVNzYVFaamxOajM1VHJUSElYZGZacmtwbDFiWV94TjhxdWFRak9iU1owendTT2ozLUpoVHdjd0RIbm9QR0xsbExwRQ?oc=5",
+      "source": "Financial Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVhyeUlUd2JnMDlQZFRzdmE4OGJ1SDAyalVzMFBydXNVUVhOY0FjOC1xUXJiaEx0NDItYjRmc1RFeW5OdVhNM3JlNWZKUmd6R0pYTVBRQVNzYVFaamxOajM1VHJUSElYZGZacmtwbDFiWV94TjhxdWFRak9iU1owendTT2ozLUpoVHdjd0RIbm9QR0xsbExwRQ?oc=5\" target=\"_blank\">Philips OneBlade and Red Bull take self-expression to new heights in Cappadocia, Turkey \u2013 Company Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Philips",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-15T07:00:00+00:00",
+      "fingerprint": "bae4e5e501c350583f3072c2f893cdc7858f92cd"
     }
   ]
 }
