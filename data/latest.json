@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T04:12:05.204578+00:00",
+  "generated_at": "2026-09-16T11:14:13.726811+00:00",
   "date": "2026-09-16",
-  "count": 5,
+  "count": 7,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -31,21 +31,38 @@
       "fingerprint": "9d06386bc817b0c3cbce7b9492e3fe338fdbbadb"
     },
     {
-      "title": "Alan Lovell appointed Chair of British Steel - iom3.org",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWNLNUpOdUpCRE5OaTBKMU9pbTd1enFGMzVVRWg3OFlsWkFfQlJCajFzRUtZcEZielZ6OU1hT3FwS19OZmkxLTRJdEtjekNYWnlST1ZrT2dEUHR6bFFFWG85RjA5Zjk0NDk1UXNzX3Q3cFYwN090VXpsLTN0OS1Fc29Gb2xwUQ?oc=5",
-      "source": "iom3.org",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWNLNUpOdUpCRE5OaTBKMU9pbTd1enFGMzVVRWg3OFlsWkFfQlJCajFzRUtZcEZielZ6OU1hT3FwS19OZmkxLTRJdEtjekNYWnlST1ZrT2dEUHR6bFFFWG85RjA5Zjk0NDk1UXNzX3Q3cFYwN090VXpsLTN0OS1Fc29Gb2xwUQ?oc=5\" target=\"_blank\">Alan Lovell appointed Chair of British Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iom3.org</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "title": "Breedon appoints cement managing director - East Midlands Business Link",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0dsb0RmbkNOT0dLTmhmelJtR25rVTFHLVI1Sy11NmhUYkp1OElUU2xzQ01VNEY2TDA5UVZUM3dPbVFuRC1LeFJ5dG9ZaWIyaGpEb1ZtcU14azBGNVh1b0RmNGhjelVhQXJiS0Q1WXNXR0JXcnM3Y19XMGJWZ29Ibm13LS1LRjBZM1J3LUExQ1BocWVEc3dNdGhxS00zNXM?oc=5",
+      "source": "East Midlands Business Link",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0dsb0RmbkNOT0dLTmhmelJtR25rVTFHLVI1Sy11NmhUYkp1OElUU2xzQ01VNEY2TDA5UVZUM3dPbVFuRC1LeFJ5dG9ZaWIyaGpEb1ZtcU14azBGNVh1b0RmNGhjelVhQXJiS0Q1WXNXR0JXcnM3Y19XMGJWZ29Ibm13LS1LRjBZM1J3LUExQ1BocWVEc3dNdGhxS00zNXM?oc=5\" target=\"_blank\">Breedon appoints cement managing director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Midlands Business Link</font>",
+      "feed_group": "sector",
+      "feed_title": "Masonry, Concrete & Heavyside \u2014 sector news",
       "categories": [
         "Leadership appointment"
       ],
-      "company": "British Steel",
-      "score": 9,
+      "company": "",
+      "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-09-14T20:54:54+00:00",
-      "fingerprint": "2d099d778da50de128409553d8b2f4d6186611cf"
+      "published": "2026-09-16T07:51:44+00:00",
+      "fingerprint": "150f67761ba75b82bed7fab719465eb5acec0684"
+    },
+    {
+      "title": "Breedon appoints Managing Director, Cement, Products and Surfacing Solutions - Builders' Merchants News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWc5M3VqOUVxRWw1c0pMRlRCVjYwLVN5ZHh1cGRuZUFqWktlWm5oWms1Q3hYTV94dHk2QU1FME1BVHRWdktDYjIxS2VQODZVNW5PUlRxaUM3OXFNTkM0OXVuU2t3UWh2czVKYktuT19ua0pfVU9pMHF5dzZFZ2VtQlBJaXZCZ2c0azgwSjZxWVF3UkVXdnJER1dDUlRGY21WQ2lXUVZ5NlBEaE1lRjVIbTdZZlZ4TEhp?oc=5",
+      "source": "Builders' Merchants News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWc5M3VqOUVxRWw1c0pMRlRCVjYwLVN5ZHh1cGRuZUFqWktlWm5oWms1Q3hYTV94dHk2QU1FME1BVHRWdktDYjIxS2VQODZVNW5PUlRxaUM3OXFNTkM0OXVuU2t3UWh2czVKYktuT19ua0pfVU9pMHF5dzZFZ2VtQlBJaXZCZ2c0azgwSjZxWVF3UkVXdnJER1dDUlRGY21WQ2lXUVZ5NlBEaE1lRjVIbTdZZlZ4TEhp?oc=5\" target=\"_blank\">Breedon appoints Managing Director, Cement, Products and Surfacing Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
+      "feed_group": "sector",
+      "feed_title": "Masonry, Concrete & Heavyside \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-15T12:19:37+00:00",
+      "fingerprint": "91f6297ccaf1126d09f6f528938ce0fde0710d55"
     },
     {
       "title": "Tailwind Nutrition Appoints UNNU as UK and Ireland Distributor - Cycling Industry News",
@@ -95,6 +112,21 @@
       "likely_roles": "",
       "published": "2026-09-15T07:00:00+00:00",
       "fingerprint": "bae4e5e501c350583f3072c2f893cdc7858f92cd"
+    },
+    {
+      "title": "\u2018We aim to act as an industrial partner on the project, not simply as a furniture supplier\u2019 - InteriorDaily",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXROOHVyRklDLTR5VVNKTVdqcFR6YjA2c053cjB3Ml9aOFZoWDNHR3VVN2EwcXBkTDhBcHdyRm1LY1dqZUNFSUZHMGdBWGgxWVlUWXBVeDUyTFYwLXd5OTVwWnM1eGpvT2c4eDVIWERvNk13eWdCUkhsTUNJd0xiLW5BWUdxMGRrNTlqaVlKYW45STJPYTU3WmZPNTdFSExsdUQzNlp4Q3dUR2VTM1JVWFJ1dnVLT3FzTE5PdFZZdmg1M3BZakdTNHp1dlQwSWty?oc=5",
+      "source": "InteriorDaily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXROOHVyRklDLTR5VVNKTVdqcFR6YjA2c053cjB3Ml9aOFZoWDNHR3VVN2EwcXBkTDhBcHdyRm1LY1dqZUNFSUZHMGdBWGgxWVlUWXBVeDUyTFYwLXd5OTVwWnM1eGpvT2c4eDVIWERvNk13eWdCUkhsTUNJd0xiLW5BWUdxMGRrNTlqaVlKYW45STJPYTU3WmZPNTdFSExsdUQzNlp4Q3dUR2VTM1JVWFJ1dnVLT3FzTE5PdFZZdmg1M3BZakdTNHp1dlQwSWty?oc=5\" target=\"_blank\">\u2018We aim to act as an industrial partner on the project, not simply as a furniture supplier\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InteriorDaily</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-16T09:06:06+00:00",
+      "fingerprint": "f63cfa87bd07b51a8b14abe4b330fd16c11308a4"
     }
   ]
 }
