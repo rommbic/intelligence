@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T10:56:22.871621+00:00",
+  "generated_at": "2026-09-18T11:40:32.619254+00:00",
   "date": "2026-09-18",
-  "count": 5,
+  "count": 4,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -80,21 +80,6 @@
       "likely_roles": "",
       "published": "2026-09-18T03:15:30+00:00",
       "fingerprint": "86aef2efbf23896321cb597f81e280d984e1befe"
-    },
-    {
-      "title": "Sir Robert McAlpine Completes 2 Finsbury Avenue Facade at Broadgate - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHFaeXN3YmlEWUJnbmt1amJFdmIxVDBveXl5MHlnSkNLOFBaLXdpWHJXcWw4cjhWMG93eWp1dXNMdld2bzFVX0UzVWNqd290bE1kQUhSLUFGOGU0V2FMejE2bUtHOW42R3ZrVDhsRWtFbHFqMVpzdWV5aHRPY2xSQmZ0a1A0RGMwT1AxOXBwWFpKaXJIdFhMN3g1eWY?oc=5",
-      "source": "IndexBox",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHFaeXN3YmlEWUJnbmt1amJFdmIxVDBveXl5MHlnSkNLOFBaLXdpWHJXcWw4cjhWMG93eWp1dXNMdld2bzFVX0UzVWNqd290bE1kQUhSLUFGOGU0V2FMejE2bUtHOW42R3ZrVDhsRWtFbHFqMVpzdWV5aHRPY2xSQmZ0a1A0RGMwT1AxOXBwWFpKaXJIdFhMN3g1eWY?oc=5\" target=\"_blank\">Sir Robert McAlpine Completes 2 Finsbury Avenue Facade at Broadgate - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-      "feed_group": "company",
-      "feed_title": "Windows, Doors & Curtain Walling: AluFold Direct \u2026 Architectural Alum (11)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-17T17:13:35+00:00",
-      "fingerprint": "a563d3c4d8881767c5691f3ef1bd4ebf1e7571fa"
     }
   ]
 }
