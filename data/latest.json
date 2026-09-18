@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T20:43:44.957418+00:00",
+  "generated_at": "2026-09-18T23:11:53.577899+00:00",
   "date": "2026-09-18",
-  "count": 4,
+  "count": 5,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -31,10 +31,10 @@
       "fingerprint": "7ac452ff825060e0657748d7ebda5f320a3d8a50"
     },
     {
-      "title": "EAW Appoints Sound & Sales West As Manufacturer's Rep - UK Broadcast News | 18/09/2026 - 4rfv.co.uk",
+      "title": "EAW Appoints Sound & Sales West As Manufacturer's Rep - UK Broadcast News | 18/09/2026 - 4RFV",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVExNbV9MbHJ3Q0NyTERsczJwNVRFTkgtNVQ0ZVBONXYtYmVya0dBYnNwbXZ6WHRyZjAtRzNmdGNUQnBieG5Lb2hXNmdOc3ltUUdxWGdocjRmLXd4dVlvQ2RiTmlqcDV5QlFCODYyNlhTRTlwTHh1YlkxQmt0cWFNTEgxTUtUbDFmTUVZLWZLWDJZY0ZzOUhzMmp3?oc=5",
-      "source": "4rfv.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVExNbV9MbHJ3Q0NyTERsczJwNVRFTkgtNVQ0ZVBONXYtYmVya0dBYnNwbXZ6WHRyZjAtRzNmdGNUQnBieG5Lb2hXNmdOc3ltUUdxWGdocjRmLXd4dVlvQ2RiTmlqcDV5QlFCODYyNlhTRTlwTHh1YlkxQmt0cWFNTEgxTUtUbDFmTUVZLWZLWDJZY0ZzOUhzMmp3?oc=5\" target=\"_blank\">EAW Appoints Sound & Sales West As Manufacturer's Rep - UK Broadcast News | 18/09/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">4rfv.co.uk</font>",
+      "source": "4RFV",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVExNbV9MbHJ3Q0NyTERsczJwNVRFTkgtNVQ0ZVBONXYtYmVya0dBYnNwbXZ6WHRyZjAtRzNmdGNUQnBieG5Lb2hXNmdOc3ltUUdxWGdocjRmLXd4dVlvQ2RiTmlqcDV5QlFCODYyNlhTRTlwTHh1YlkxQmt0cWFNTEgxTUtUbDFmTUVZLWZLWDJZY0ZzOUhzMmp3?oc=5\" target=\"_blank\">EAW Appoints Sound & Sales West As Manufacturer's Rep - UK Broadcast News | 18/09/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">4RFV</font>",
       "feed_group": "signal",
       "feed_title": "Leadership appointments",
       "categories": [
@@ -80,6 +80,21 @@
       "likely_roles": "",
       "published": "2026-09-18T03:16:00+00:00",
       "fingerprint": "86aef2efbf23896321cb597f81e280d984e1befe"
+    },
+    {
+      "title": "ICYMI: Titus, Lee, and Horsford\u2019s Democrat Party Blocks Bill to Lower Energy Costs - nrcc.org",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkpkclI1ZjkyeFQtb0Y3S1ZuSUU0cDNsWUs2NW5nMWNBWk9RRUkxbzlmVFl1M2RsSW43b3Z1N2RsZ2pnZndNUTBYOFNheVNDRGpmODFySEtOZzJST0d6T01HX2xZcEp3WmRqS3lLYnpMSGMwQVZXb2tURW1aUllaZmQ3VVRrbkRtNVVMR0duOVV6dHpWeEFISUFYMHJHTUhmOEZYNHBTRVA1UTU1N0ZNag?oc=5",
+      "source": "nrcc.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkpkclI1ZjkyeFQtb0Y3S1ZuSUU0cDNsWUs2NW5nMWNBWk9RRUkxbzlmVFl1M2RsSW43b3Z1N2RsZ2pnZndNUTBYOFNheVNDRGpmODFySEtOZzJST0d6T01HX2xZcEp3WmRqS3lLYnpMSGMwQVZXb2tURW1aUllaZmQ3VVRrbkRtNVVMR0duOVV6dHpWeEFISUFYMHJHTUhmOEZYNHBTRVA1UTU1N0ZNag?oc=5\" target=\"_blank\">ICYMI: Titus, Lee, and Horsford\u2019s Democrat Party Blocks Bill to Lower Energy Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nrcc.org</font>",
+      "feed_group": "company",
+      "feed_title": "Kitchens & Bathrooms: Tavistock Bathroom \u2026 Ultra Finishing (12)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-18T21:12:31+00:00",
+      "fingerprint": "b43beef0e544b100522f88165cdf9ea17f1fae30"
     }
   ]
 }
