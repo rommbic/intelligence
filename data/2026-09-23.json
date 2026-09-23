@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T04:08:47.949616+00:00",
+  "generated_at": "2026-09-23T11:11:23.460912+00:00",
   "date": "2026-09-23",
-  "count": 6,
+  "count": 7,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -14,21 +14,51 @@
   ],
   "items": [
     {
-      "title": "Construction Firm Appointed to \u00a32.5m Warmer Homes Contract - roofingtoday.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHdqR0d0UlNWRVVuUVk0TmFYQTR4RDc2djhkTC1LOW9oUXRoLWZvMklMRnBMeVRIdUlFeWJXM2tfcW1mU2dsTFZzQlVsYWVuQjhKcHduVTJRaU9tb0JTem5pRWZ2a05aUHJ5QklpbnR1ZG5JY29wV05HWWhMRW9WdXlfVG5yUVl4RTZtQzgxSXBVSGxJSl9TNkZkMA?oc=5",
-      "source": "roofingtoday.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHdqR0d0UlNWRVVuUVk0TmFYQTR4RDc2djhkTC1LOW9oUXRoLWZvMklMRnBMeVRIdUlFeWJXM2tfcW1mU2dsTFZzQlVsYWVuQjhKcHduVTJRaU9tb0JTem5pRWZ2a05aUHJ5QklpbnR1ZG5JY29wV05HWWhMRW9WdXlfVG5yUVl4RTZtQzgxSXBVSGxJSl9TNkZkMA?oc=5\" target=\"_blank\">Construction Firm Appointed to \u00a32.5m Warmer Homes Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roofingtoday.co.uk</font>",
-      "feed_group": "sector",
-      "feed_title": "Roofing & Rooflights \u2014 sector news",
+      "title": "Breedon recruits former Travis Perkins boss - facilitiesmanagement-now.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0MxbWJKN2Nxc09FUmxKbHRsSXdySmxSZmNjVnlmSnZidEF4em1qQnFjYkY4dHFqWGZwSXlRbXl3QXBfR1RDdzlNOS1KZjdwWVlEZFB0emRDSUFNOEZoQkg4UlF2UE1HT2VqRzkxRE5EUjEyYzFRaFJEMkVUa1R1VlQ0M3VISzM2UDZJeVdQb3dnOXJacXU2dE9xTzJlQ0RF?oc=5",
+      "source": "facilitiesmanagement-now.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0MxbWJKN2Nxc09FUmxKbHRsSXdySmxSZmNjVnlmSnZidEF4em1qQnFjYkY4dHFqWGZwSXlRbXl3QXBfR1RDdzlNOS1KZjdwWVlEZFB0emRDSUFNOEZoQkg4UlF2UE1HT2VqRzkxRE5EUjEyYzFRaFJEMkVUa1R1VlQ0M3VISzM2UDZJeVdQb3dnOXJacXU2dE9xTzJlQ0RF?oc=5\" target=\"_blank\">Breedon recruits former Travis Perkins boss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facilitiesmanagement-now.com</font>",
+      "feed_group": "signal",
+      "feed_title": "Hiring / job creation",
       "categories": [
-        "Leadership appointment"
+        "Hiring / job creation"
       ],
-      "company": "",
-      "score": 8,
+      "company": "Travis Perkins",
+      "score": 10,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-09-21T17:24:41+00:00",
-      "fingerprint": "ae3c2aa01117b5ca1cdcb3d28d704f206e4ce834"
+      "published": "2026-09-22T14:31:46+00:00",
+      "fingerprint": "ca99c2519ad12603c55513553ef2a80db9b9ea07"
+    },
+    {
+      "title": "Forterra and Jewson MBS complete Three Peaks Challenge - Builders Merchants Journal",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTV4Rndmell6YkpfNzlPQVFCSEtrejBnQjBzMVJMQ19ldTNuV0Y4RmNBcnIzbnhUZ3VVdjBVMVBPcWJMY3d4bW8wU0V1UmlCYk9JZ3NmczlQMkRfdjhSZ2Z5TEV4R3otUV84QkJjYXZRYmVBYXF3R1VXVW56TkI3d0Q4QVFxdTd3Q1l4ZFdfUmlVbFNqTDZV?oc=5",
+      "source": "Builders Merchants Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTV4Rndmell6YkpfNzlPQVFCSEtrejBnQjBzMVJMQ19ldTNuV0Y4RmNBcnIzbnhUZ3VVdjBVMVBPcWJMY3d4bW8wU0V1UmlCYk9JZ3NmczlQMkRfdjhSZ2Z5TEV4R3otUV84QkJjYXZRYmVBYXF3R1VXVW56TkI3d0Q4QVFxdTd3Q1l4ZFdfUmlVbFNqTDZV?oc=5\" target=\"_blank\">Forterra and Jewson MBS complete Three Peaks Challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Eurobrick Systems \u2026 Gilcrest (9)",
+      "categories": [],
+      "company": "Forterra",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-23T10:00:22+00:00",
+      "fingerprint": "d88b26afe0829b2ebca5a0880f75010b70f36ea6"
+    },
+    {
+      "title": "TradeKart and SIG Roofing Offer Rapid Site Delivery to Roofers - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObnV5MTRDMkVvZlZWYmpzTXl6eC00RmQ3emozRnlQUGlxVTBWdHBrSGJlS2szMlVMUjRPbWNYMlhhU2Z3MTNLWE1oZGtya2JWZUFUNVFUWDlUbFZISWs0TWhlc2Zoc2tpOHI4VXp0dGZfMkFlVDFEZjBzUGdlOUdSV0FMX2pOVTlzMHpOR3BNclNhNzNF?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxObnV5MTRDMkVvZlZWYmpzTXl6eC00RmQ3emozRnlQUGlxVTBWdHBrSGJlS2szMlVMUjRPbWNYMlhhU2Z3MTNLWE1oZGtya2JWZUFUNVFUWDlUbFZISWs0TWhlc2Zoc2tpOHI4VXp0dGZfMkFlVDFEZjBzUGdlOUdSV0FMX2pOVTlzMHpOR3BNclNhNzNF?oc=5\" target=\"_blank\">TradeKart and SIG Roofing Offer Rapid Site Delivery to Roofers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
+      "categories": [],
+      "company": "SIG Roofing",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-23T09:11:58+00:00",
+      "fingerprint": "7ca8386bc719a4eb80aeef64c6814be8c34ed69e"
     },
     {
       "title": "Northern Lights could be seen in UK - will they be visible in skies above Lancs? - Lancashire Telegraph",
@@ -61,10 +91,10 @@
       "fingerprint": "ba60bb386d09cd7dd34a80df4d2cfd187b9d944a"
     },
     {
-      "title": "SIG Wins Prestigious Sustainability Award 2026 - roofingtoday.co.uk",
+      "title": "SIG Wins Prestigious Sustainability Award 2026 - Roofing Today",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWdkQ3BTNlYwaHNMazllNWxFOGwxZktCMEtCWURyR2daYWExTVdQNUZrQTRTdEFYQVAxRFk0bDFHSFBTdllRcUFELUkwd2VsUFhLREY1Z3R3SkpDUXFvV282SDFXOXlUTVN0MU1zZGxEVzhZRF9IdXloZ09Bd01KamtOb0M?oc=5",
-      "source": "roofingtoday.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWdkQ3BTNlYwaHNMazllNWxFOGwxZktCMEtCWURyR2daYWExTVdQNUZrQTRTdEFYQVAxRFk0bDFHSFBTdllRcUFELUkwd2VsUFhLREY1Z3R3SkpDUXFvV282SDFXOXlUTVN0MU1zZGxEVzhZRF9IdXloZ09Bd01KamtOb0M?oc=5\" target=\"_blank\">SIG Wins Prestigious Sustainability Award 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roofingtoday.co.uk</font>",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWdkQ3BTNlYwaHNMazllNWxFOGwxZktCMEtCWURyR2daYWExTVdQNUZrQTRTdEFYQVAxRFk0bDFHSFBTdllRcUFELUkwd2VsUFhLREY1Z3R3SkpDUXFvV282SDFXOXlUTVN0MU1zZGxEVzhZRF9IdXloZ09Bd01KamtOb0M?oc=5\" target=\"_blank\">SIG Wins Prestigious Sustainability Award 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
       "feed_group": "company",
       "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
       "categories": [],
@@ -74,21 +104,6 @@
       "likely_roles": "",
       "published": "2026-09-22T10:42:32+00:00",
       "fingerprint": "91bcf2faeeff6148101da5f4fca714070a671ff3"
-    },
-    {
-      "title": "To Compete in the Cement Industry, SIG Strengthens Governance and Risk Management - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRnZDb09hRnBIeXExbnpTaDVxd3kwTDA4N0VKTUMzUnYxekxEOUhZemtXS1NWWExKcXpZMWpOdHhZOVNSY0NmbTlmVnRJVEY0RDBMV2dSWGs0c2RWYTF1NzZBLURSOFlGcV90OE0yaE10b3dQUWQ0ZEJqcU5HQlBWaGdoNEdZcmluc2cwaTB2MHNVUTJpR0NfTXRLc3BWcU40ZlQ1Vm50WnIzb19uOGxtZ2Z1aUVKNEYyNHZaRWdkMUxUX0NrcVNN?oc=5",
-      "source": "Kompas.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRnZDb09hRnBIeXExbnpTaDVxd3kwTDA4N0VKTUMzUnYxekxEOUhZemtXS1NWWExKcXpZMWpOdHhZOVNSY0NmbTlmVnRJVEY0RDBMV2dSWGs0c2RWYTF1NzZBLURSOFlGcV90OE0yaE10b3dQUWQ0ZEJqcU5HQlBWaGdoNEdZcmluc2cwaTB2MHNVUTJpR0NfTXRLc3BWcU40ZlQ1Vm50WnIzb19uOGxtZ2Z1aUVKNEYyNHZaRWdkMUxUX0NrcVNN?oc=5\" target=\"_blank\">To Compete in the Cement Industry, SIG Strengthens Governance and Risk Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kompas.com</font>",
-      "feed_group": "company",
-      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-22T06:17:47+00:00",
-      "fingerprint": "074c39760cebe1acfd2e8ccef032e36cde77b939"
     },
     {
       "title": "Gallery of Natural Slate Cladding - BSA Leadership Center - 1 - ArchDaily",
