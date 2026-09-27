@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T12:21:30.339285+00:00",
+  "generated_at": "2026-09-27T16:45:37.976970+00:00",
   "date": "2026-09-27",
-  "count": 0,
+  "count": 1,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -12,5 +12,21 @@
     "Investment / funding",
     "New product launch"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Jon Hamm\u2019s New True Crime Series Officially Defeats Titus Welliver's \u2018Bosch\u2019 Replacement - Collider",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJPMDFtYUVHczNRTTlETTh1dHMxdU9rR0hOVTNGdURNdGd6S0RHVi1YUHFkakR0OUpzelFmVXVTVGpyUjNZTXNCcC1Ob1FpdzFLMTlwMVVTM3o5cTh0UTl4VXE2aDR2elFTMTNoWXZ2RmszWnQ4SDdWMEdzRVN4M2l0cWwxSi16N182YmR5RjJYYjFBanc?oc=5",
+      "source": "Collider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJPMDFtYUVHczNRTTlETTh1dHMxdU9rR0hOVTNGdURNdGd6S0RHVi1YUHFkakR0OUpzelFmVXVTVGpyUjNZTXNCcC1Ob1FpdzFLMTlwMVVTM3o5cTh0UTl4VXE2aDR2elFTMTNoWXZ2RmszWnQ4SDdWMEdzRVN4M2l0cWwxSi16N182YmR5RjJYYjFBanc?oc=5\" target=\"_blank\">Jon Hamm\u2019s New True Crime Series Officially Defeats Titus Welliver's \u2018Bosch\u2019 Replacement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Collider</font>",
+      "feed_group": "company",
+      "feed_title": "Kitchens & Bathrooms: Tavistock Bathroom \u2026 Ultra Finishing (12)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-27T13:15:11+00:00",
+      "fingerprint": "42836919bae16c6b94df89c5bbbed7fd2bbc4de6"
+    }
+  ]
 }
