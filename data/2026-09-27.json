@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T11:47:36.320868+00:00",
+  "generated_at": "2026-09-27T12:21:30.339285+00:00",
   "date": "2026-09-27",
-  "count": 1,
+  "count": 0,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -12,21 +12,5 @@
     "Investment / funding",
     "New product launch"
   ],
-  "items": [
-    {
-      "title": "wavin-logo - Professional Builders Merchant",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOME5lRHN0UTlVbVhDZ2JwQ0luTnJJOHhxSDdRYkNsQTdCOHFNbTUyUlBGdGViRkJTMWp4SVRmXzdKMDhZQm0tS1dBbVNOeENLM1p3MzgwS0t4NWNpQnlzSzZYTlJCM3lNN0NiLXNTZnEwV1g5X1huOFlKSEhqYXNkZFpwRVlaMldvSndHTjcyRWg4MjI0aXQ5dnlJNjRIYmV0N3d0cllUbmg4RUFTQVpWM3JB?oc=5",
-      "source": "Professional Builders Merchant",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOME5lRHN0UTlVbVhDZ2JwQ0luTnJJOHhxSDdRYkNsQTdCOHFNbTUyUlBGdGViRkJTMWp4SVRmXzdKMDhZQm0tS1dBbVNOeENLM1p3MzgwS0t4NWNpQnlzSzZYTlJCM3lNN0NiLXNTZnEwV1g5X1huOFlKSEhqYXNkZFpwRVlaMldvSndHTjcyRWg4MjI0aXQ5dnlJNjRIYmV0N3d0cllUbmg4RUFTQVpWM3JB?oc=5\" target=\"_blank\">wavin-logo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Professional Builders Merchant</font>",
-      "feed_group": "company",
-      "feed_title": "HVAC & Building Services: Vaillant Group \u2026 Worcester Bosch (12)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-25T23:54:45+00:00",
-      "fingerprint": "426aa931ffccf887d0a67091f2bd17254d7f3eb8"
-    }
-  ]
+  "items": []
 }
