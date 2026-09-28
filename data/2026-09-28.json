@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T14:22:25.076749+00:00",
+  "generated_at": "2026-09-28T21:11:54.310182+00:00",
   "date": "2026-09-28",
-  "count": 6,
+  "count": 8,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -27,7 +27,7 @@
       "score": 9,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-09-28T08:48:33+00:00",
+      "published": "2026-09-28T16:00:57+00:00",
       "fingerprint": "b0de1bf3aca0f9ee9a4e0c35c803ae7d66708077"
     },
     {
@@ -35,8 +35,8 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWtFdFU2ajdnZ2tWbnFTcUhOZTRvcmloV0NSTmh0cnNoeWVFVE0wZ2lMRDFOWEEyc0hQelkySlhjTHBLQXNqMU5rV0pWSEFFSFc3OHJiTGQxcVptXzFHSEZVdTUzWnR1Q0RXS1ZXWW1nVHZselNheW5uaDlCZ2RWeDJxR3pFZXBJNlhPcWZMemc5U25YN0s4M3VySTRSd3BTNDlCNDVnRGtzQzg2RmVpMS1nTmNnbnFNSXlwdlBDOGE?oc=5",
       "source": "Business Up North",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWtFdFU2ajdnZ2tWbnFTcUhOZTRvcmloV0NSTmh0cnNoeWVFVE0wZ2lMRDFOWEEyc0hQelkySlhjTHBLQXNqMU5rV0pWSEFFSFc3OHJiTGQxcVptXzFHSEZVdTUzWnR1Q0RXS1ZXWW1nVHZselNheW5uaDlCZ2RWeDJxR3pFZXBJNlhPcWZMemc5U25YN0s4M3VySTRSd3BTNDlCNDVnRGtzQzg2RmVpMS1nTmNnbnFNSXlwdlBDOGE?oc=5\" target=\"_blank\">Integra Buildings Set For Record Year As Modular Construction Business Invests In Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Up North</font>",
-      "feed_group": "company",
-      "feed_title": "Offsite & Modular: Frameclad \u2026 Macalloy (10)",
+      "feed_group": "sector",
+      "feed_title": "Offsite & Modular \u2014 sector news",
       "categories": [
         "Investment / funding"
       ],
@@ -44,7 +44,7 @@
       "score": 7,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-09-28T11:06:31+00:00",
+      "published": "2026-09-28T12:02:42+00:00",
       "fingerprint": "fbac89b25f7f347b84fadb093e5e7a8c62ec1b7f"
     },
     {
@@ -65,6 +65,23 @@
       "fingerprint": "2218e4811afb44577a062f09a3ad2192ef4e1885"
     },
     {
+      "title": "BMI Group launches Ahasa TV with focus on education and quality content - Daily Mirror - Sri Lanka",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY24tRzlmSmpvUEhzU1EtMkg0ZXhIejFFaXB6RmFodnR1WE5zVnFXUnlwLURfVTZEbXpyS0Z4MExZNGxtVlpseWVRLUR3bmJiQ0ZRZmFNMnAzbW94cHM4RHRmY01HeXpRUXRVSjZZcDM2dl9VcXNWeG96VWdhQ3d2YXdndmVyekwwZFQ0LUxVdjUtbUNhOXhfdUV5djVPdkRBS0RZRGZVc3dIV2o5T2FEdm5MYzRMYjdJcXQ1TElXRDQ?oc=5",
+      "source": "Daily Mirror - Sri Lanka",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY24tRzlmSmpvUEhzU1EtMkg0ZXhIejFFaXB6RmFodnR1WE5zVnFXUnlwLURfVTZEbXpyS0Z4MExZNGxtVlpseWVRLUR3bmJiQ0ZRZmFNMnAzbW94cHM4RHRmY01HeXpRUXRVSjZZcDM2dl9VcXNWeG96VWdhQ3d2YXdndmVyekwwZFQ0LUxVdjUtbUNhOXhfdUV5djVPdkRBS0RZRGZVc3dIV2o5T2FEdm5MYzRMYjdJcXQ1TElXRDQ?oc=5\" target=\"_blank\">BMI Group launches Ahasa TV with focus on education and quality content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mirror - Sri Lanka</font>",
+      "feed_group": "company",
+      "feed_title": "Roofing & Rooflights: Blackdown Greenroo \u2026 Cardinal Steels (10)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "BMI Group",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-28T15:10:00+00:00",
+      "fingerprint": "560c922863d3731764be39e640518386b6f20d1f"
+    },
+    {
       "title": "BMI Group launches Ahasa TV - Daily Mirror - Sri Lanka",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHE4VHRyNkVtMDRkT0VnZHJJVFlzbUE1akE2eVdSUFpwRHFzaUNES19JRGd4UV9ZMFViTDNfeExUXzV3Y3lqaFFiWWdaRy03YkNXRDA0SGstLWJuM0c4S1FqNmRVbDVnUW5CRnRPcXlRNEtxTGZROF9DZGF1Zkl0cDVza1hNQQ?oc=5",
       "source": "Daily Mirror - Sri Lanka",
@@ -82,10 +99,25 @@
       "fingerprint": "e717ebcb276d76afaa67bf6951e1310f32bff4ed"
     },
     {
-      "title": "Built Cybernetics plc (BUC) Share Trading Halted on AIM via Capital Access Window Ahead of Key Announcement - Kalkine Media",
+      "title": "Permavent Ltd - Management of Moisture in Buildings \u2013 Pitched Roofing Design RIBA CPD By Permavent Ltd - Specification Online",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFVJeXphQk5ycU1NT2t3aVcycm1Db2VaYkVCdXp6d3l2TEprSXFzT3Z0M295S2dxZ25FaUktS2I2aFVRM1NiMVlnTTdZcG5Gdjl0RDBzcUhBakU5WlBUT2xJblZ2T2dhLWhqaVlVNmVLMXRfc0tDUmYxMk5ZQUZONmRnNXdraW9SVktoTm92ODdaeEh6dmY4a0U2YWx5MEtrTmUzZ0FtMERGUGItMnNlbndoeWNLeF9hMnJZZy1LUTdVTGJrYlV5TDR3?oc=5",
+      "source": "Specification Online",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFVJeXphQk5ycU1NT2t3aVcycm1Db2VaYkVCdXp6d3l2TEprSXFzT3Z0M295S2dxZ25FaUktS2I2aFVRM1NiMVlnTTdZcG5Gdjl0RDBzcUhBakU5WlBUT2xJblZ2T2dhLWhqaVlVNmVLMXRfc0tDUmYxMk5ZQUZONmRnNXdraW9SVktoTm92ODdaeEh6dmY4a0U2YWx5MEtrTmUzZ0FtMERGUGItMnNlbndoeWNLeF9hMnJZZy1LUTdVTGJrYlV5TDR3?oc=5\" target=\"_blank\">Permavent Ltd - Management of Moisture in Buildings \u2013 Pitched Roofing Design RIBA CPD By Permavent Ltd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Specification Online</font>",
+      "feed_group": "company",
+      "feed_title": "Sealants, Adhesives & Waterproofing: Iso Chemie \u2026 Soudal (8)",
+      "categories": [],
+      "company": "Permavent",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-28T14:07:00+00:00",
+      "fingerprint": "442dd29f8402dfe7959b9d5c17aff6dfe6c2c87f"
+    },
+    {
+      "title": "Built Cybernetics plc (BUC) Share Trading Halted on AIM via Capital Access Window Ahead of Key Announcement - kalkinemedia.com",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeFY2bG1LWUphcDlPdV9leXo2RDJsS0UtdEZ0bTRZUTZNOGxmN3Q2cWNwa3F5bllTX1liYW1fYkZBWkp0bEFJUkZ5SFpaLVpCZ1gxeGRfV0ZHVFhodVpQYlJQazhwQzNQejlxUE1QbWtXV3FHR0d2M213YlRiTmhlanVGaUt2dzN2WXo4dnpGWVhLZjYwSmhPcHNBRS1ydHBhRUYwM2I5ZWtCcFpyaDRWaTF3QWV5TkFEdHVDRXB5b2Uza19hMUEtWGJjNEptWWU4M2lBWF9GZUl0azFyclhXd2hvQ2R0bmc?oc=5",
-      "source": "Kalkine Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeFY2bG1LWUphcDlPdV9leXo2RDJsS0UtdEZ0bTRZUTZNOGxmN3Q2cWNwa3F5bllTX1liYW1fYkZBWkp0bEFJUkZ5SFpaLVpCZ1gxeGRfV0ZHVFhodVpQYlJQazhwQzNQejlxUE1QbWtXV3FHR0d2M213YlRiTmhlanVGaUt2dzN2WXo4dnpGWVhLZjYwSmhPcHNBRS1ydHBhRUYwM2I5ZWtCcFpyaDRWaTF3QWV5TkFEdHVDRXB5b2Uza19hMUEtWGJjNEptWWU4M2lBWF9GZUl0azFyclhXd2hvQ2R0bmc?oc=5\" target=\"_blank\">Built Cybernetics plc (BUC) Share Trading Halted on AIM via Capital Access Window Ahead of Key Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
+      "source": "kalkinemedia.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeFY2bG1LWUphcDlPdV9leXo2RDJsS0UtdEZ0bTRZUTZNOGxmN3Q2cWNwa3F5bllTX1liYW1fYkZBWkp0bEFJUkZ5SFpaLVpCZ1gxeGRfV0ZHVFhodVpQYlJQazhwQzNQejlxUE1QbWtXV3FHR0d2M213YlRiTmhlanVGaUt2dzN2WXo4dnpGWVhLZjYwSmhPcHNBRS1ydHBhRUYwM2I5ZWtCcFpyaDRWaTF3QWV5TkFEdHVDRXB5b2Uza19hMUEtWGJjNEptWWU4M2lBWF9GZUl0azFyclhXd2hvQ2R0bmc?oc=5\" target=\"_blank\">Built Cybernetics plc (BUC) Share Trading Halted on AIM via Capital Access Window Ahead of Key Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kalkinemedia.com</font>",
       "feed_group": "company",
       "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
       "categories": [],
