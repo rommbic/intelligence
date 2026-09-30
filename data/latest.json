@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T00:14:12.658863+00:00",
+  "generated_at": "2026-09-30T09:32:08.408390+00:00",
   "date": "2026-09-30",
-  "count": 7,
+  "count": 6,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -14,21 +14,56 @@
   ],
   "items": [
     {
-      "title": "Kingspan completes \u20ac900m acquisition of Meath data centre supplier - Business Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFVQOFR0SGlhRUpYTnplbDl1MmJ5b0p6X3dTQ0FuYk1SZ25MMzJScjN2V01BRkVfcldiMDJ1cjNYbXRIcjBkazlMYVRicFc5SE1tQUhHRGN5bzRwelZHcTFja1hGZjBMODdSUjl3UXIzbGtUUlNCcllEQmJCNzhSY1Q3Z3FxRWM5b2IxanEtTjVrVUFLaEZlSjBjSEpQWFZWMHkzT3dB?oc=5",
-      "source": "Business Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFVQOFR0SGlhRUpYTnplbDl1MmJ5b0p6X3dTQ0FuYk1SZ25MMzJScjN2V01BRkVfcldiMDJ1cjNYbXRIcjBkazlMYVRicFc5SE1tQUhHRGN5bzRwelZHcTFja1hGZjBMODdSUjl3UXIzbGtUUlNCcllEQmJCNzhSY1Q3Z3FxRWM5b2IxanEtTjVrVUFLaEZlSjBjSEpQWFZWMHkzT3dB?oc=5\" target=\"_blank\">Kingspan completes \u20ac900m acquisition of Meath data centre supplier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Post</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "title": "Fleetwood Huws Gray launches Plant and Tool Hire service with new jobs created - Blackpool Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXpRY1hMUUtweFNnbVY0c1dWcWoySXkzNHRiOEFOamRFRGF6VnpGRmZ4cENTN0RvWDFySDlld1A1ajNTWWg0Y1F5U29tckR3bmRPc09MMGRxUlJncWRjMjdvMXpRN0hCVXFSOXBuZnpHbEwyZENkN3hRcWFfZDZOXy1BUGdycXpVd3MxdWFKZ0h3elY5REJJeTl5bzZsNmkwLUlDZGlDbE44Sjg?oc=5",
+      "source": "Blackpool Gazette",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXpRY1hMUUtweFNnbVY0c1dWcWoySXkzNHRiOEFOamRFRGF6VnpGRmZ4cENTN0RvWDFySDlld1A1ajNTWWg0Y1F5U29tckR3bmRPc09MMGRxUlJncWRjMjdvMXpRN0hCVXFSOXBuZnpHbEwyZENkN3hRcWFfZDZOXy1BUGdycXpVd3MxdWFKZ0h3elY5REJJeTl5bzZsNmkwLUlDZGlDbE44Sjg?oc=5\" target=\"_blank\">Fleetwood Huws Gray launches Plant and Tool Hire service with new jobs created</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blackpool Gazette</font>",
+      "feed_group": "signal",
+      "feed_title": "Hiring / job creation",
       "categories": [
-        "Acquisition / M&A"
+        "Hiring / job creation",
+        "New product launch"
       ],
-      "company": "Kingspan",
+      "company": "Huws Gray",
+      "score": 10,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-30T05:00:00+00:00",
+      "fingerprint": "fee3be74d8c4a622a8df055a9282266c4f0eacbd"
+    },
+    {
+      "title": "Integra Buildings on track for record year as East Yorkshire firm plans expansion - AOL.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjN0ZUE5MmlWRDdrR2Q5MGJfYVplOVdpWVgwNlRhbFdJU3R6MG1SMTc3emM1V3U3YlBSc2pWWnVEOXh1TDY1TWc1QUNjMENUb3F0MFNSdl9DN29odC1ReVdFbDZSTDYtOTJoaHZJNks0dUZlRkZTVzV4V2hNWXFra0wxM2xiaWhk?oc=5",
+      "source": "AOL.co.uk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjN0ZUE5MmlWRDdrR2Q5MGJfYVplOVdpWVgwNlRhbFdJU3R6MG1SMTc3emM1V3U3YlBSc2pWWnVEOXh1TDY1TWc1QUNjMENUb3F0MFNSdl9DN29odC1ReVdFbDZSTDYtOTJoaHZJNks0dUZlRkZTVzV4V2hNWXFra0wxM2xiaWhk?oc=5\" target=\"_blank\">Integra Buildings on track for record year as East Yorkshire firm plans expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.co.uk</font>",
+      "feed_group": "company",
+      "feed_title": "Offsite & Modular: Frameclad \u2026 Macalloy (10)",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "Integra Buildings",
       "score": 9,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-09-28T16:00:57+00:00",
-      "fingerprint": "b0de1bf3aca0f9ee9a4e0c35c803ae7d66708077"
+      "published": "2026-09-30T09:07:32+00:00",
+      "fingerprint": "dcfc71ab3f7f077ba3b4c3f4979f8789d77262e8"
+    },
+    {
+      "title": "Integra Buildings on track for record result ahead of major investment programme in 30th anniversary year - Insider Media Ltd",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdnV4Z1ZIOVpxYnF3QmlQTWtpbnRzeG8tX1hwdk53ajcyb3lwZzZBdk5sTmRJQnRveHVLSGlZZmw0TGNkbmtGcVI2TWdaN01iYkk4OGtOb3NYMXAxWndiYVlDVHkyWi01NHVXQjFsT0xiNy1VVGlPVmE2dzk1QkV5Zl9Fc1BWaUZlMmFZQVNsbFRhTTlzd29sNXJhQ0xOc2VPb05DM3A0VzlZc2lrdGl1cUVrVXNoMXZvazUxTHZHYVNoOUFNSlgwTjFRMnpvdWZzOHpMTUZWZDFpZjQ2dURvWVZYTQ?oc=5",
+      "source": "Insider Media Ltd",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdnV4Z1ZIOVpxYnF3QmlQTWtpbnRzeG8tX1hwdk53ajcyb3lwZzZBdk5sTmRJQnRveHVLSGlZZmw0TGNkbmtGcVI2TWdaN01iYkk4OGtOb3NYMXAxWndiYVlDVHkyWi01NHVXQjFsT0xiNy1VVGlPVmE2dzk1QkV5Zl9Fc1BWaUZlMmFZQVNsbFRhTTlzd29sNXJhQ0xOc2VPb05DM3A0VzlZc2lrdGl1cUVrVXNoMXZvazUxTHZHYVNoOUFNSlgwTjFRMnpvdWZzOHpMTUZWZDFpZjQ2dURvWVZYTQ?oc=5\" target=\"_blank\">Integra Buildings on track for record result ahead of major investment programme in 30th anniversary year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Media Ltd</font>",
+      "feed_group": "company",
+      "feed_title": "Offsite & Modular: Frameclad \u2026 Macalloy (10)",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "Integra Buildings",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-09-30T05:00:00+00:00",
+      "fingerprint": "45fcca2dbeba49991653527cadc03a0f2672639e"
     },
     {
       "title": "Gilcrest launches British-made acoustic fencing - Builders Merchants Journal",
@@ -46,23 +81,6 @@
       "likely_roles": "",
       "published": "2026-09-29T16:00:51+00:00",
       "fingerprint": "ddd5ffc0d1eeefb1e2c68d641a7315b991cf76e1"
-    },
-    {
-      "title": "BMI Group launches Ahasa TV with focus on education and quality content - dailymirror.lk",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY24tRzlmSmpvUEhzU1EtMkg0ZXhIejFFaXB6RmFodnR1WE5zVnFXUnlwLURfVTZEbXpyS0Z4MExZNGxtVlpseWVRLUR3bmJiQ0ZRZmFNMnAzbW94cHM4RHRmY01HeXpRUXRVSjZZcDM2dl9VcXNWeG96VWdhQ3d2YXdndmVyekwwZFQ0LUxVdjUtbUNhOXhfdUV5djVPdkRBS0RZRGZVc3dIV2o5T2FEdm5MYzRMYjdJcXQ1TElXRDQ?oc=5",
-      "source": "dailymirror.lk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY24tRzlmSmpvUEhzU1EtMkg0ZXhIejFFaXB6RmFodnR1WE5zVnFXUnlwLURfVTZEbXpyS0Z4MExZNGxtVlpseWVRLUR3bmJiQ0ZRZmFNMnAzbW94cHM4RHRmY01HeXpRUXRVSjZZcDM2dl9VcXNWeG96VWdhQ3d2YXdndmVyekwwZFQ0LUxVdjUtbUNhOXhfdUV5djVPdkRBS0RZRGZVc3dIV2o5T2FEdm5MYzRMYjdJcXQ1TElXRDQ?oc=5\" target=\"_blank\">BMI Group launches Ahasa TV with focus on education and quality content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailymirror.lk</font>",
-      "feed_group": "company",
-      "feed_title": "Roofing & Rooflights: Blackdown Greenroo \u2026 Cardinal Steels (10)",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "BMI Group",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-28T15:10:00+00:00",
-      "fingerprint": "4d2d8f3980c0419fd87a345e6511c499e888a977"
     },
     {
       "title": "Heavy law enforcement presence in Verona - WTVA",
@@ -93,36 +111,6 @@
       "likely_roles": "",
       "published": "2026-09-29T11:55:52+00:00",
       "fingerprint": "609bb7d0738c71e9088c2ffcf838590a467da66f"
-    },
-    {
-      "title": "Permavent Ltd - Management of Moisture in Buildings \u2013 Pitched Roofing Design RIBA CPD By Permavent Ltd - Specification Online",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFVJeXphQk5ycU1NT2t3aVcycm1Db2VaYkVCdXp6d3l2TEprSXFzT3Z0M295S2dxZ25FaUktS2I2aFVRM1NiMVlnTTdZcG5Gdjl0RDBzcUhBakU5WlBUT2xJblZ2T2dhLWhqaVlVNmVLMXRfc0tDUmYxMk5ZQUZONmRnNXdraW9SVktoTm92ODdaeEh6dmY4a0U2YWx5MEtrTmUzZ0FtMERGUGItMnNlbndoeWNLeF9hMnJZZy1LUTdVTGJrYlV5TDR3?oc=5",
-      "source": "Specification Online",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFVJeXphQk5ycU1NT2t3aVcycm1Db2VaYkVCdXp6d3l2TEprSXFzT3Z0M295S2dxZ25FaUktS2I2aFVRM1NiMVlnTTdZcG5Gdjl0RDBzcUhBakU5WlBUT2xJblZ2T2dhLWhqaVlVNmVLMXRfc0tDUmYxMk5ZQUZONmRnNXdraW9SVktoTm92ODdaeEh6dmY4a0U2YWx5MEtrTmUzZ0FtMERGUGItMnNlbndoeWNLeF9hMnJZZy1LUTdVTGJrYlV5TDR3?oc=5\" target=\"_blank\">Permavent Ltd - Management of Moisture in Buildings \u2013 Pitched Roofing Design RIBA CPD By Permavent Ltd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Specification Online</font>",
-      "feed_group": "company",
-      "feed_title": "Sealants, Adhesives & Waterproofing: Iso Chemie \u2026 Soudal (8)",
-      "categories": [],
-      "company": "Permavent",
-      "score": 5,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-28T14:07:00+00:00",
-      "fingerprint": "442dd29f8402dfe7959b9d5c17aff6dfe6c2c87f"
-    },
-    {
-      "title": "Popular Death Valley road set to close into 2027 for flood repairs and reinforcements - Las Vegas Sun",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0laLVgwMmRzM2kzMEJNdHBaelZIRXRsNU1RYVRSY1Y5T3B1ZTQtaXZOZWMzYlNRWVBfNVpIZUxzY1pwY2xhM24ydmRrLU02cWNTUHZtS1k5WUpDTVNHT1V5UFgxU0p5TlJCWm1tVmdfYW02NXJOUXpBU28wS0Q2UU1oU1ctUnRYbTBKbXVMR0JZbEtWSlE?oc=5",
-      "source": "Las Vegas Sun",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxON0laLVgwMmRzM2kzMEJNdHBaelZIRXRsNU1RYVRSY1Y5T3B1ZTQtaXZOZWMzYlNRWVBfNVpIZUxzY1pwY2xhM24ydmRrLU02cWNTUHZtS1k5WUpDTVNHT1V5UFgxU0p5TlJCWm1tVmdfYW02NXJOUXpBU28wS0Q2UU1oU1ctUnRYbTBKbXVMR0JZbEtWSlE?oc=5\" target=\"_blank\">Popular Death Valley road set to close into 2027 for flood repairs and reinforcements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Las Vegas Sun</font>",
-      "feed_group": "company",
-      "feed_title": "Kitchens & Bathrooms: Tavistock Bathroom \u2026 Ultra Finishing (12)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-09-28T20:26:00+00:00",
-      "fingerprint": "34c28861330b6523ce3a150f79333bc0a3d1599f"
     }
   ]
 }
