@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T04:57:35.887155+00:00",
+  "generated_at": "2026-10-05T14:09:22.465893+00:00",
   "date": "2026-10-05",
-  "count": 2,
+  "count": 3,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -14,21 +14,21 @@
   ],
   "items": [
     {
-      "title": "Reliving the 1980 Release of British Steel, a Turning Point for Heavy Metal - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXRpRkgyNWg3bHBZaEcyOGR0LWVoZmJYcVhrZ19neHFfaDM5NEhHSXR3UDFya2pGcldPU0hXVzM4NHY4d1ZYSEJLSjJTa1RWd0E0ZTAtOGdPSFhaT2RJdEhWT2Y4WG0zVUNCZ0tfYWM2ajdXWVh3LUptZTZ0aTl2UzNVLWNnUQ?oc=5",
-      "source": "AOL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXRpRkgyNWg3bHBZaEcyOGR0LWVoZmJYcVhrZ19neHFfaDM5NEhHSXR3UDFya2pGcldPU0hXVzM4NHY4d1ZYSEJLSjJTa1RWd0E0ZTAtOGdPSFhaT2RJdEhWT2Y4WG0zVUNCZ0tfYWM2ajdXWVh3LUptZTZ0aTl2UzNVLWNnUQ?oc=5\" target=\"_blank\">Reliving the 1980 Release of British Steel, a Turning Point for Heavy Metal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "title": "Furniture manufacturer opens new 33,000 sq ft factory - InteriorDaily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGMyaEdub0p4Y2hDYzZiS0xxVF9raFR3RE55YlZkTHh0M3VhOS1LNC1Gd2VwQl81S0k0dXZBQm1rNGhmRGJfYV9PRkxiU1d4NFZqQVRld0R2R3hDWDJ0MEw4cFhNR1p0OU1FZDVoOVpCSlJQcVBWNmxXMGlsMDBvaGVldjNLUnFoc3hmTVhVdjNtZ0RjTDFQa2hvcnRTaHExTEE?oc=5",
+      "source": "InteriorDaily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGMyaEdub0p4Y2hDYzZiS0xxVF9raFR3RE55YlZkTHh0M3VhOS1LNC1Gd2VwQl81S0k0dXZBQm1rNGhmRGJfYV9PRkxiU1d4NFZqQVRld0R2R3hDWDJ0MEw4cFhNR1p0OU1FZDVoOVpCSlJQcVBWNmxXMGlsMDBvaGVldjNLUnFoc3hmTVhVdjNtZ0RjTDFQa2hvcnRTaHExTEE?oc=5\" target=\"_blank\">Furniture manufacturer opens new 33,000 sq ft factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InteriorDaily</font>",
+      "feed_group": "signal",
+      "feed_title": "New facilities / expansion",
       "categories": [
         "New facility / expansion"
       ],
-      "company": "British Steel",
-      "score": 9,
+      "company": "",
+      "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-03T23:35:13+00:00",
-      "fingerprint": "a063c3b039fd6fcee967254c01f9af0c39549b07"
+      "published": "2026-10-05T09:50:33+00:00",
+      "fingerprint": "34d167d66e8ae6dffa3a1ca31a82443b3099e47c"
     },
     {
       "title": "Integra Buildings set for record year as Holderness business invests in growth - The Holderness and Hornsea Gazette",
@@ -44,8 +44,23 @@
       "score": 7,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-05T00:16:11+00:00",
+      "published": "2026-10-05T10:58:12+00:00",
       "fingerprint": "83abe137fbe8a0c657f06b00c7661272824d66a7"
+    },
+    {
+      "title": "'So much footy left': Roosters star makes shock announcement after grand final - au.news.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHgyS2pTQjhEYk1RQXg5dWkwVU1SYkNYOWZCX1hXNjFHTmdUVTd5d0lFd08ySEpCQ2VaNWRzUTRCaGRtaE4xMDFRUVFrR1NKVzB1c3pLTkpTYWZWUGZMRXRnSlFzT0x1SXk2MkY2OWpSOGZUSDhBOEhxb2FBM25DUlp4QXZPZWM3RnN0bGFMdGJadDlhSEU1dVBfUEs4RnRIc1VNalA0aUdRcWozeG01clU1QU0wTHlrV09JX244eS1fcmVuLWc?oc=5",
+      "source": "au.news.yahoo.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHgyS2pTQjhEYk1RQXg5dWkwVU1SYkNYOWZCX1hXNjFHTmdUVTd5d0lFd08ySEpCQ2VaNWRzUTRCaGRtaE4xMDFRUVFrR1NKVzB1c3pLTkpTYWZWUGZMRXRnSlFzT0x1SXk2MkY2OWpSOGZUSDhBOEhxb2FBM25DUlp4QXZPZWM3RnN0bGFMdGJadDlhSEU1dVBfUEs4RnRIc1VNalA0aUdRcWozeG01clU1QU0wTHlrV09JX244eS1fcmVuLWc?oc=5\" target=\"_blank\">'So much footy left': Roosters star makes shock announcement after grand final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au.news.yahoo.com</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-05T00:29:00+00:00",
+      "fingerprint": "56f0d75abbcbe2a44e676ccf0a36b94357c22ed5"
     }
   ]
 }
