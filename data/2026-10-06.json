@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:33:49.253676+00:00",
+  "generated_at": "2026-10-06T20:09:23.274309+00:00",
   "date": "2026-10-06",
   "count": 5,
   "categories": [
@@ -31,23 +31,6 @@
       "fingerprint": "8f218a46ef867e19f0c583f3fb6de1e72ac83382"
     },
     {
-      "title": "Furniture manufacturer opens new 33,000 sq ft factory - InteriorDaily",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGMyaEdub0p4Y2hDYzZiS0xxVF9raFR3RE55YlZkTHh0M3VhOS1LNC1Gd2VwQl81S0k0dXZBQm1rNGhmRGJfYV9PRkxiU1d4NFZqQVRld0R2R3hDWDJ0MEw4cFhNR1p0OU1FZDVoOVpCSlJQcVBWNmxXMGlsMDBvaGVldjNLUnFoc3hmTVhVdjNtZ0RjTDFQa2hvcnRTaHExTEE?oc=5",
-      "source": "InteriorDaily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGMyaEdub0p4Y2hDYzZiS0xxVF9raFR3RE55YlZkTHh0M3VhOS1LNC1Gd2VwQl81S0k0dXZBQm1rNGhmRGJfYV9PRkxiU1d4NFZqQVRld0R2R3hDWDJ0MEw4cFhNR1p0OU1FZDVoOVpCSlJQcVBWNmxXMGlsMDBvaGVldjNLUnFoc3hmTVhVdjNtZ0RjTDFQa2hvcnRTaHExTEE?oc=5\" target=\"_blank\">Furniture manufacturer opens new 33,000 sq ft factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InteriorDaily</font>",
-      "feed_group": "signal",
-      "feed_title": "New facilities / expansion",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "",
-      "score": 8,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-05T20:05:33+00:00",
-      "fingerprint": "34d167d66e8ae6dffa3a1ca31a82443b3099e47c"
-    },
-    {
       "title": "Moy Group Appoints New CEO - Roofing Today",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UZmlnSXNHUVhvS0twZGpLRVQ4N3pGMjA5RTBwbjM3M0gwdFV6amRmLWR5c19uNmI2UjE0dzRqS2FvTjd6VzZ2dDhtelNEUklEclZMUENTQ2lQUzZKTlNVblB6TG4?oc=5",
       "source": "Roofing Today",
@@ -61,8 +44,25 @@
       "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-05T10:37:50+00:00",
+      "published": "2026-10-05T22:37:52+00:00",
       "fingerprint": "816c53643bcd9d9b3f0b0a36ecbd1afe1c2bc691"
+    },
+    {
+      "title": "Furniture manufacturer opens new 33,000 sq ft factory - Interior Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGMyaEdub0p4Y2hDYzZiS0xxVF9raFR3RE55YlZkTHh0M3VhOS1LNC1Gd2VwQl81S0k0dXZBQm1rNGhmRGJfYV9PRkxiU1d4NFZqQVRld0R2R3hDWDJ0MEw4cFhNR1p0OU1FZDVoOVpCSlJQcVBWNmxXMGlsMDBvaGVldjNLUnFoc3hmTVhVdjNtZ0RjTDFQa2hvcnRTaHExTEE?oc=5",
+      "source": "Interior Daily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGMyaEdub0p4Y2hDYzZiS0xxVF9raFR3RE55YlZkTHh0M3VhOS1LNC1Gd2VwQl81S0k0dXZBQm1rNGhmRGJfYV9PRkxiU1d4NFZqQVRld0R2R3hDWDJ0MEw4cFhNR1p0OU1FZDVoOVpCSlJQcVBWNmxXMGlsMDBvaGVldjNLUnFoc3hmTVhVdjNtZ0RjTDFQa2hvcnRTaHExTEE?oc=5\" target=\"_blank\">Furniture manufacturer opens new 33,000 sq ft factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interior Daily</font>",
+      "feed_group": "signal",
+      "feed_title": "New facilities / expansion",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-05T20:05:33+00:00",
+      "fingerprint": "34d167d66e8ae6dffa3a1ca31a82443b3099e47c"
     },
     {
       "title": "Integra Buildings set for record year as Holderness business invests in growth - The Holderness and Hornsea Gazette",
@@ -82,19 +82,21 @@
       "fingerprint": "83abe137fbe8a0c657f06b00c7661272824d66a7"
     },
     {
-      "title": "Trading in Metir plc (MET) Shares Suspended on AIM via Capital Access Window Ahead of Key Announcement - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV01lLXdJMnc3S2l0bFAzM0kwZm4zTWRjcnpCNFhZRFJjZVRkcFcyNGZ5OFlmcWg3MTljUmI5aWc5d3liTF96Rk9CLXVfTmhKU1RBYzFqdFl0THJsN081WHYzMWgzZnR5aV80cjk2LU1YbUo4bjJ6R3BEQzRjUFljdlRKa2hxOC0tVmdsak1QTVVSUkZranloQTlJZ3ktV0FtZ0pXcHRmb2RwMDBPT3ppaXo5Tm5jMXUzLTdKSGpkemNMWkg0ZXRnT1QwWHdqNUM3OW1UQlRaLTRwUEpDTXBkbw?oc=5",
-      "source": "Kalkine Media",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV01lLXdJMnc3S2l0bFAzM0kwZm4zTWRjcnpCNFhZRFJjZVRkcFcyNGZ5OFlmcWg3MTljUmI5aWc5d3liTF96Rk9CLXVfTmhKU1RBYzFqdFl0THJsN081WHYzMWgzZnR5aV80cjk2LU1YbUo4bjJ6R3BEQzRjUFljdlRKa2hxOC0tVmdsak1QTVVSUkZranloQTlJZ3ktV0FtZ0pXcHRmb2RwMDBPT3ppaXo5Tm5jMXUzLTdKSGpkemNMWkg0ZXRnT1QwWHdqNUM3OW1UQlRaLTRwUEpDTXBkbw?oc=5\" target=\"_blank\">Trading in Metir plc (MET) Shares Suspended on AIM via Capital Access Window Ahead of Key Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
-      "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
-      "categories": [],
+      "title": "Band of Builders Launches Young Tradespeople Bursary - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWG94ZmxVWGpJbFBBcW8tc3VOX1FXdDJ2V0VhX2dWRUdjMmRseW5hcDlkeFI5RHJGMFgxMjhYOERXOUxhbFdUWlhfdHA1RDhDQVBvZEU4RU1abXVya1gtZzlyZjBvdzJRQUxkX2E4czNCX25SVWN1VE5abmVkWkdJN0l0VXpOeWM?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWG94ZmxVWGpJbFBBcW8tc3VOX1FXdDJ2V0VhX2dWRUdjMmRseW5hcDlkeFI5RHJGMFgxMjhYOERXOUxhbFdUWlhfdHA1RDhDQVBvZEU4RU1abXVya1gtZzlyZjBvdzJRQUxkX2E4czNCX25SVWN1VE5abmVkWkdJN0l0VXpOeWM?oc=5\" target=\"_blank\">Band of Builders Launches Young Tradespeople Bursary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "signal",
+      "feed_title": "New product launches",
+      "categories": [
+        "New product launch"
+      ],
       "company": "",
-      "score": 4,
+      "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-05T17:17:14+00:00",
-      "fingerprint": "05f893ca4cd0c12a164d5726a848eba2017fb1fe"
+      "published": "2026-10-06T14:06:25+00:00",
+      "fingerprint": "6dad96c0fe23e375063ba6992f114140ce34be59"
     }
   ]
 }
