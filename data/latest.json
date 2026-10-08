@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T00:54:50.515208+00:00",
+  "generated_at": "2026-10-08T10:17:50.575884+00:00",
   "date": "2026-10-08",
-  "count": 3,
+  "count": 5,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "James Hardie Industries Issues 1,044 Unquoted Ordinary Shares at USD 0.6639 in AZEK Merger Settlement - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUDhQZ0J2MHpXUkktS3E1ZWVJQ0tCQ1V5VnhHOGt5eExZRlNHeTE2bGhjcW4zWmxtbjZ1VWI3RVEwNG1Ya2w3LWV3bWttT01UZ2xyX2FxU0s3WXRUVWJwV0dqeUhZT2JFeDduQ0hJMEJGTTZvTnpnbTlKbkdQYzFCY282M0ljUHZTWTAtaHAyUmphWlFXWW9LZkZkeGdHMGR1MUZDdGtNRTVrMVV2azY2d1V5QlZkVGY3VW5wZmtHLWRIanAxS2luYVd6Z1RWamlxaHhtY0xUVHo?oc=5",
+      "source": "Kalkine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUDhQZ0J2MHpXUkktS3E1ZWVJQ0tCQ1V5VnhHOGt5eExZRlNHeTE2bGhjcW4zWmxtbjZ1VWI3RVEwNG1Ya2w3LWV3bWttT01UZ2xyX2FxU0s3WXRUVWJwV0dqeUhZT2JFeDduQ0hJMEJGTTZvTnpnbTlKbkdQYzFCY282M0ljUHZTWTAtaHAyUmphWlFXWW9LZkZkeGdHMGR1MUZDdGtNRTVrMVV2azY2d1V5QlZkVGY3VW5wZmtHLWRIanAxS2luYVd6Z1RWamlxaHhtY0xUVHo?oc=5\" target=\"_blank\">James Hardie Industries Issues 1,044 Unquoted Ordinary Shares at USD 0.6639 in AZEK Merger Settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "James Hardie",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-07T23:15:04+00:00",
+      "fingerprint": "66d593208a2ccb55d6d10f05be0e86d8b055a2e4"
+    },
     {
       "title": "Rivan Industries opens first UK manufacturing facility - The Manufacturer",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHJRN280R1diNjdWTmxHbjZZZHYzeWJwa3QwVzVVWnpLNk5qcThqcjhUdkxMdlBFYk9ZVzZvY1ZkaUIwQXBZa2s0UU5WajFlVkt5bFJLNnlQcVdmajlHXzRsSS1wbnVPYWFrYVdCRHRaOUlESHNPSGZBaG9sM0EzU2Y2NUExOUJtT20zUVNpTEFFSkFsbmFva3ZvV1c?oc=5",
@@ -49,21 +66,36 @@
       "fingerprint": "f7c27d77ea3b40c5f7c6d77aa17803dbec6de359"
     },
     {
-      "title": "Band of Builders Launches Young Tradespeople Bursary - Roofing Today",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWG94ZmxVWGpJbFBBcW8tc3VOX1FXdDJ2V0VhX2dWRUdjMmRseW5hcDlkeFI5RHJGMFgxMjhYOERXOUxhbFdUWlhfdHA1RDhDQVBvZEU4RU1abXVya1gtZzlyZjBvdzJRQUxkX2E4czNCX25SVWN1VE5abmVkWkdJN0l0VXpOeWM?oc=5",
-      "source": "Roofing Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWG94ZmxVWGpJbFBBcW8tc3VOX1FXdDJ2V0VhX2dWRUdjMmRseW5hcDlkeFI5RHJGMFgxMjhYOERXOUxhbFdUWlhfdHA1RDhDQVBvZEU4RU1abXVya1gtZzlyZjBvdzJRQUxkX2E4czNCX25SVWN1VE5abmVkWkdJN0l0VXpOeWM?oc=5\" target=\"_blank\">Band of Builders Launches Young Tradespeople Bursary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
-      "feed_group": "signal",
-      "feed_title": "New product launches",
+      "title": "Windows manufacturer to invest \u00a34m in Isle of Wight expansion - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOW90cjg2LWVKbE5xQWJIeFRBdU4wYWhqZU9mOHp5b3IyTU1zVFBfWV93TEVqZkFZc0N2NjVMeTVGeEhzSXIxeEk4UFUxMXk3Vk04RmFHVUFBZkFlVGUxTW16R21oM1ZUdFFVWkduQUg1ZzdCSm1IdC1waXZKRmUyTzdB?oc=5",
+      "source": "Yahoo News UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOW90cjg2LWVKbE5xQWJIeFRBdU4wYWhqZU9mOHp5b3IyTU1zVFBfWV93TEVqZkFZc0N2NjVMeTVGeEhzSXIxeEk4UFUxMXk3Vk04RmFHVUFBZkFlVGUxTW16R21oM1ZUdFFVWkduQUg1ZzdCSm1IdC1waXZKRmUyTzdB?oc=5\" target=\"_blank\">Windows manufacturer to invest \u00a34m in Isle of Wight expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+      "feed_group": "sector",
+      "feed_title": "Windows, Doors & Curtain Walling \u2014 sector news",
       "categories": [
-        "New product launch"
+        "New facility / expansion"
       ],
       "company": "",
-      "score": 5,
+      "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-06T14:06:25+00:00",
-      "fingerprint": "6dad96c0fe23e375063ba6992f114140ce34be59"
+      "published": "2026-10-08T04:00:00+00:00",
+      "fingerprint": "81c2abb2cd53562c9e4b61a572b5465b75e4062c"
+    },
+    {
+      "title": "Corporate Hands | CEMEX, Caribbean Cement fund concrete pavement project in Bell Rock, Olympic Way - Jamaica Gleaner",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSG9zejFCbzhVQ2hKS0NfZ0Q0bGw0M1FDbnVONHp2ekJ0V1J5MnVyMnYxbGhPOE0xTWlBWW1tVlA4SUQ4aFFKLUIxQ1ZfZDRDamppSzZkSlpha2lYSDBOMV9OWldqOUNxd0hCR3BrelJDRTBIcEhETVFYX2tRaEpuZzl3ZkhORkMtb3l3WGptODg3Y0F4U0F5ME1RbVVlS3BpdUFMRnVzcjAzTVV3bVJ3alREN2VLejBSU3JtdUNZbFNJdw?oc=5",
+      "source": "Jamaica Gleaner",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSG9zejFCbzhVQ2hKS0NfZ0Q0bGw0M1FDbnVONHp2ekJ0V1J5MnVyMnYxbGhPOE0xTWlBWW1tVlA4SUQ4aFFKLUIxQ1ZfZDRDamppSzZkSlpha2lYSDBOMV9OWldqOUNxd0hCR3BrelJDRTBIcEhETVFYX2tRaEpuZzl3ZkhORkMtb3l3WGptODg3Y0F4U0F5ME1RbVVlS3BpdUFMRnVzcjAzTVV3bVJ3alREN2VLejBSU3JtdUNZbFNJdw?oc=5\" target=\"_blank\">Corporate Hands | CEMEX, Caribbean Cement fund concrete pavement project in Bell Rock, Olympic Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jamaica Gleaner</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-08T05:07:16+00:00",
+      "fingerprint": "7c5f5cc8b9e10dfb72cd378f5889c924ef1ba4e4"
     }
   ]
 }
