@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T10:19:11.513404+00:00",
+  "generated_at": "2026-10-09T13:39:53.740167+00:00",
   "date": "2026-10-09",
-  "count": 7,
+  "count": 8,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -46,6 +46,23 @@
       "likely_roles": "",
       "published": "2026-10-08T04:00:00+00:00",
       "fingerprint": "81c2abb2cd53562c9e4b61a572b5465b75e4062c"
+    },
+    {
+      "title": "Hamworthy Heating launches next generation of Modumax boilers - Modern Building Services",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjU4bExMUWpDTU5Hd2oyQXhuOEhuWnU1V09qb3hnYjRTcXh2Rl94SkJGR1BUa3d4bWtxUFlWR1VxSzBDSnhSbF9rV0hQNWZVenRBdy1TYTRwYnViaW9nZ1pmbHlkbk5ESHlYbjFrX0FPd0dCTzVTUkNKaHQtWkN1a1M3YlVhM0sxbmFQdXJZV3RfcHZqWmJUZnBJVjdoN282SVA1UEdzd19kXzFqdm9ZSTdIVnl2Zw?oc=5",
+      "source": "Modern Building Services",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjU4bExMUWpDTU5Hd2oyQXhuOEhuWnU1V09qb3hnYjRTcXh2Rl94SkJGR1BUa3d4bWtxUFlWR1VxSzBDSnhSbF9rV0hQNWZVenRBdy1TYTRwYnViaW9nZ1pmbHlkbk5ESHlYbjFrX0FPd0dCTzVTUkNKaHQtWkN1a1M3YlVhM0sxbmFQdXJZV3RfcHZqWmJUZnBJVjdoN282SVA1UEdzd19kXzFqdm9ZSTdIVnl2Zw?oc=5\" target=\"_blank\">Hamworthy Heating launches next generation of Modumax boilers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Building Services</font>",
+      "feed_group": "company",
+      "feed_title": "HVAC & Building Services: Frese \u2026 Heat Exchange Grou (11)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Hamworthy Heating",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-09T13:23:56+00:00",
+      "fingerprint": "41e008e2d22f7e5390c44c2322fff896449956f1"
     },
     {
       "title": "Worcester Bosch launches Big Rewards, Big Prizes promotion for winter - Installer Online",
