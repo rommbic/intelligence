@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T00:23:56.269076+00:00",
+  "generated_at": "2026-10-12T10:32:12.409887+00:00",
   "date": "2026-10-12",
-  "count": 3,
+  "count": 5,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "GTK UK appoints new MD - The Manufacturer",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nd3U5RnVfbHpST0lUb3I4ek9aQXZjckhINlBSaVZUTHcwVUZGWThDdkhfRS1ONHFhN1V1WWtGMFk2akM0OC1ON2FObWNKZEJCZlpWTlZPaGhCeEJqSHBDOXB2cW1rdHVBTDdNcEpMczl5Zw?oc=5",
+      "source": "The Manufacturer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1nd3U5RnVfbHpST0lUb3I4ek9aQXZjckhINlBSaVZUTHcwVUZGWThDdkhfRS1ONHFhN1V1WWtGMFk2akM0OC1ON2FObWNKZEJCZlpWTlZPaGhCeEJqSHBDOXB2cW1rdHVBTDdNcEpMczl5Zw?oc=5\" target=\"_blank\">GTK UK appoints new MD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manufacturer</font>",
+      "feed_group": "signal",
+      "feed_title": "Leadership appointments",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-12T00:43:52+00:00",
+      "fingerprint": "2f3b5df960d2e7b766ba90b3767706ccc6c893bf"
+    },
     {
       "title": "H.I.G. Capital Acquires Arco, the U.K.\u2019s Leading Safety Equipment Distributor - Business Matters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjJwempIS1VDelJNTnFFT1pfek40Um5KZ0IzWGt6aDMtRnpVbjFKSnl5c1lBTktmSEtxRlRtWnI1X2haSzhlTmxOYU9ZTDg1RmRTMGRQQlcyT08wNko0OWpIU0xUb3BNSkxFT214LTlyOFhYUEZBS3NiQUZWVXNmS2JxZGgwSXIyeUl3eV95T3dPZ19kNnBPcm8xVlhJX24zYmlUUzhFOUo5TTVKSmc?oc=5",
@@ -29,6 +46,23 @@
       "likely_roles": "",
       "published": "2026-10-11T19:14:08+00:00",
       "fingerprint": "9dc147c4897314bd66cff0c230cb12df9916024d"
+    },
+    {
+      "title": "Worcester Bosch introduces new head of external affairs - Builders Merchants Journal",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdU5ZRG1La1UyUU9MaEZsbHRBdWYyamtsdXNwcHBVNHNfQ2NmNUh2cDBVMW4waVA1SVQ2WmtncUV5a3R2RGVUTk1ta3hhQ3kxa3hPYWcxOWlla3pUNmFGNC1CYlQ2a242NmZmQ1R2OFlyTThQTE9iTDJRZDJuOGl0Y1hGZnV4WWJ2QnVUeGdydFBGLXBhQkVBZQ?oc=5",
+      "source": "Builders Merchants Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdU5ZRG1La1UyUU9MaEZsbHRBdWYyamtsdXNwcHBVNHNfQ2NmNUh2cDBVMW4waVA1SVQ2WmtncUV5a3R2RGVUTk1ta3hhQ3kxa3hPYWcxOWlla3pUNmFGNC1CYlQ2a242NmZmQ1R2OFlyTThQTE9iTDJRZDJuOGl0Y1hGZnV4WWJ2QnVUeGdydFBGLXBhQkVBZQ?oc=5\" target=\"_blank\">Worcester Bosch introduces new head of external affairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
+      "feed_group": "company",
+      "feed_title": "HVAC & Building Services: Vaillant Group \u2026 Worcester Bosch (12)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Worcester Bosch",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-12T09:30:16+00:00",
+      "fingerprint": "3d5da3f7b1aff42e3864c647a0bb0b482050bf44"
     },
     {
       "title": "'Breaking Bad' Star's 'John Wick' Replacement Officially Makes a Clean Getaway From Streaming - Collider",
