@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T16:52:29.106702+00:00",
+  "generated_at": "2026-10-13T22:30:07.000653+00:00",
   "date": "2026-10-13",
-  "count": 5,
+  "count": 7,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Xaar appoints Printpac as distributor - Labels & Labeling",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR21oVWNUWGVvdXJhRDc4SVVQMWg2SGRwa0k2RHRGb29GUEYzTEwzalRRSTQ0QTh2bTFtdVU5NDNJSzlsMndDcmtualJCRHNkZk5mV0Yxc1NUWUQwVTg0YU9RZkdBNDc4NEk1a1pjMVNRUmpkdFVTZjNqWV9rWThjdE1kTjhZZjJSVjJSUWppYUNGTE5yQmpNQzJfZ04?oc=5",
+      "source": "Labels & Labeling",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPR21oVWNUWGVvdXJhRDc4SVVQMWg2SGRwa0k2RHRGb29GUEYzTEwzalRRSTQ0QTh2bTFtdVU5NDNJSzlsMndDcmtualJCRHNkZk5mV0Yxc1NUWUQwVTg0YU9RZkdBNDc4NEk1a1pjMVNRUmpkdFVTZjNqWV9rWThjdE1kTjhZZjJSVjJSUWppYUNGTE5yQmpNQzJfZ04?oc=5\" target=\"_blank\">Xaar appoints Printpac as distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Labels & Labeling</font>",
+      "feed_group": "sector",
+      "feed_title": "Merchants & Distribution \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-13T15:51:13+00:00",
+      "fingerprint": "9e861897caaac0e8996462e8f637c99d39ffbc99"
+    },
     {
       "title": "Xaar appoints Printpac as Versatex distributor for UK and Ireland - Label and Narrow Web",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaDctOFBLaXJaRjlscjQ4YTdfZjVXUDU0UFhLUzlLdjNCbGVtMHhVbk54blBiQkQ1cWRPNVFUT3RPdndZemFwdDZLWUZZdFloaGpxOVVlQkVpNFZrZngtR2VudUw1Vk5nczdQTTVqeGg4QmFLaDJNNkxlbGFaLXhfcklobWg2aU9MWEdPYXJVakQxRnp5dlRjVEZFc1oyY0ZHTHZRVS1HMXFjWXgxbXB4dVNJcGs?oc=5",
@@ -48,6 +65,23 @@
       "fingerprint": "8d98276074c68fdabe3b218d7146ba25c4e80006"
     },
     {
+      "title": "Breedon Group brings asphalt production back to Northumberland with \u00a34m investment - Insider Media Ltd",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1pzMHlvcTk5Xzg5SjIyOEIwb05iNnVJN2JjWjZmZHAyQUM4WEU3WnVob3doYWc1ZHl1MTl1NzFjek1RNmJsaEl2M3FPOEZNZThlTmMxUU53OGJpZWs3X09oNTR5UGNCLS1mMVJjUldUX0tfbTc4WHZsbl9IZDhkX0w4ZDVCeGRGZDZsX2pfLWRiQnRja1JjNk9oS0ppZVNxSlJ5VEFMMUs3WFJJNEJSdS1nWGVsdW1BOFJNX2huaE1uYzhP?oc=5",
+      "source": "Insider Media Ltd",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1pzMHlvcTk5Xzg5SjIyOEIwb05iNnVJN2JjWjZmZHAyQUM4WEU3WnVob3doYWc1ZHl1MTl1NzFjek1RNmJsaEl2M3FPOEZNZThlTmMxUU53OGJpZWs3X09oNTR5UGNCLS1mMVJjUldUX0tfbTc4WHZsbl9IZDhkX0w4ZDVCeGRGZDZsX2pfLWRiQnRja1JjNk9oS0ppZVNxSlJ5VEFMMUs3WFJJNEJSdS1nWGVsdW1BOFJNX2huaE1uYzhP?oc=5\" target=\"_blank\">Breedon Group brings asphalt production back to Northumberland with \u00a34m investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Media Ltd</font>",
+      "feed_group": "company",
+      "feed_title": "Roofing & Rooflights: Blackdown Greenroo \u2026 Cardinal Steels (10)",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "Breedon Group",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-13T07:06:29+00:00",
+      "fingerprint": "e394a17511dd4af2c537a07ea4351d589da32ff1"
+    },
+    {
       "title": "Farrow & Ball unveils new wallpapers designed to pair with its bestselling paint shades, from Dimity to Scallop - Country Living Magazine",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEZCYkdIV3ZMWTBPMFVRMFdMd3BzaWtSSGlrV0JKRmc0bmdGTlhJdW9zdDR1WU03Y0pDYlJZdi1uRXhFdWIxdkMwaVl5UHB1VlRXbS1CQnZ1c2haekx5N1ZZS3R3RWJoTm9Vak1UNjdMeXNIX0xpYkJrTjBKTTdwcC1YOTlLa1FrbmZmNk1tMTVFSHRZUWFFMTNpRnd5UQ?oc=5",
       "source": "Country Living Magazine",
@@ -65,23 +99,6 @@
       "fingerprint": "ef25d0c49b1a1220965e89d5e87b609f3c8c93d4"
     },
     {
-      "title": "Worcester Bosch introduces new head of external affairs - Builders Merchants Journal",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdU5ZRG1La1UyUU9MaEZsbHRBdWYyamtsdXNwcHBVNHNfQ2NmNUh2cDBVMW4waVA1SVQ2WmtncUV5a3R2RGVUTk1ta3hhQ3kxa3hPYWcxOWlla3pUNmFGNC1CYlQ2a242NmZmQ1R2OFlyTThQTE9iTDJRZDJuOGl0Y1hGZnV4WWJ2QnVUeGdydFBGLXBhQkVBZQ?oc=5",
-      "source": "Builders Merchants Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdU5ZRG1La1UyUU9MaEZsbHRBdWYyamtsdXNwcHBVNHNfQ2NmNUh2cDBVMW4waVA1SVQ2WmtncUV5a3R2RGVUTk1ta3hhQ3kxa3hPYWcxOWlla3pUNmFGNC1CYlQ2a242NmZmQ1R2OFlyTThQTE9iTDJRZDJuOGl0Y1hGZnV4WWJ2QnVUeGdydFBGLXBhQkVBZQ?oc=5\" target=\"_blank\">Worcester Bosch introduces new head of external affairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
-      "feed_group": "company",
-      "feed_title": "HVAC & Building Services: Vaillant Group \u2026 Worcester Bosch (12)",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "Worcester Bosch",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-12T09:30:16+00:00",
-      "fingerprint": "3d5da3f7b1aff42e3864c647a0bb0b482050bf44"
-    },
-    {
       "title": "Worcester Bosch announces new Head of Government and External Affairs - Builders' Merchants News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWVQdGk2UHJFOUJqRnM4RWpTNEhPV1ZBYURPSlNpNE54T3pKckxCOWNYeHF5cUF4QWhjZWxicktmZWdxeTdQNi1FNHJzMGt2ankxUjNzR2dhZGFJVFdHV3pqMW83anlRUGM5b0dJR2EyRVgzSVpubWlnRHU3QTZ5M21wOTg1SEY0M3FyOFZiZE5GX1NGLUlwY1VIam1weFZsZ0F1M3FGWTU?oc=5",
       "source": "Builders' Merchants News",
@@ -95,6 +112,21 @@
       "likely_roles": "",
       "published": "2026-10-12T12:09:25+00:00",
       "fingerprint": "ac6fe4b9c623fd11ad53e56da6b4b8b1d5dba5d2"
+    },
+    {
+      "title": "Boulder County cement plant to lay off 70 workers - 9News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGVvQkZjd1BvNzVubjVzaG5yWTRsVVAtQV9RSHBKaUJxSFRLc1pmWUpqLUN2TzRoV2E3ZTNBeXVwcl91VkYydno3REYzOGRnb01NYlBHTmpZUlk5dnVPQ2ExLTdxR2NXZFRLWjZWTDVjNzdhYURTNmw3RkZWYmZUZ0duQ3JlUEhFbEd4aE5vaEhkVW52MkZlNXNQaHREdFh5NTY3SkpyU0RYbjZfenVrRnVpY1J5c2dVNzFWMg?oc=5",
+      "source": "9News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGVvQkZjd1BvNzVubjVzaG5yWTRsVVAtQV9RSHBKaUJxSFRLc1pmWUpqLUN2TzRoV2E3ZTNBeXVwcl91VkYydno3REYzOGRnb01NYlBHTmpZUlk5dnVPQ2ExLTdxR2NXZFRLWjZWTDVjNzdhYURTNmw3RkZWYmZUZ0duQ3JlUEhFbEd4aE5vaEhkVW52MkZlNXNQaHREdFh5NTY3SkpyU0RYbjZfenVrRnVpY1J5c2dVNzFWMg?oc=5\" target=\"_blank\">Boulder County cement plant to lay off 70 workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9News</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-12T11:56:00+00:00",
+      "fingerprint": "d56236e98c2ad53690806eeb0b14b0769258a8ad"
     }
   ]
 }
