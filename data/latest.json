@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T12:17:12.735964+00:00",
+  "generated_at": "2026-10-14T16:55:32.658258+00:00",
   "date": "2026-10-14",
-  "count": 6,
+  "count": 9,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,24 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "JELD-WEN opens new 294,000 sq ft Sheffield manufacturing facility - TheBusinessDesk.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa21uSlMtY2JNMDdfaHIzSzQzVXhvWmd6b0YwQXNoWDRrTnRUakFRMEVaUXVsUzRZOVd6S2k5UXkxMmN2WE03MXJjd0xvYXBqLXZsVzc2VEV2RHB4cVlrdExkS2pSRTJfRUhkNHlqazR2ekdkNl9HMnRsZ2N0TUt3VVN3bG5oVWpheXcwT2pMOHRJUWNxbUx5c3diRDFXV2pRMEJpUDN0UHk0dVhUSlFYRTRyVGJuTVNRU0Nj?oc=5",
+      "source": "TheBusinessDesk.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa21uSlMtY2JNMDdfaHIzSzQzVXhvWmd6b0YwQXNoWDRrTnRUakFRMEVaUXVsUzRZOVd6S2k5UXkxMmN2WE03MXJjd0xvYXBqLXZsVzc2VEV2RHB4cVlrdExkS2pSRTJfRUhkNHlqazR2ekdkNl9HMnRsZ2N0TUt3VVN3bG5oVWpheXcwT2pMOHRJUWNxbUx5c3diRDFXV2pRMEJpUDN0UHk0dVhUSlFYRTRyVGJuTVNRU0Nj?oc=5\" target=\"_blank\">JELD-WEN opens new 294,000 sq ft Sheffield manufacturing facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheBusinessDesk.com</font>",
+      "feed_group": "signal",
+      "feed_title": "Manufacturing capacity",
+      "categories": [
+        "New facility / expansion",
+        "Manufacturing capacity"
+      ],
+      "company": "Jeld-Wen",
+      "score": 10,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-14T13:58:47+00:00",
+      "fingerprint": "d262e02ad73f36c3ecdb0442da1b4aff3941407c"
+    },
     {
       "title": "Xaar appoints Printpac as distributor - Labels & Labeling",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR21oVWNUWGVvdXJhRDc4SVVQMWg2SGRwa0k2RHRGb29GUEYzTEwzalRRSTQ0QTh2bTFtdVU5NDNJSzlsMndDcmtualJCRHNkZk5mV0Yxc1NUWUQwVTg0YU9RZkdBNDc4NEk1a1pjMVNRUmpkdFVTZjNqWV9rWThjdE1kTjhZZjJSVjJSUWppYUNGTE5yQmpNQzJfZ04?oc=5",
@@ -78,14 +96,31 @@
       "score": 6,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-14T09:53:36+00:00",
+      "published": "2026-10-14T09:53:01+00:00",
       "fingerprint": "7e26b5f105e2022afbe5d5c0f8b935802ffed0c8"
     },
     {
-      "title": "Worcester Bosch announces new director of sales - Builders Merchants Journal",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1RMMm5MNmE4UFJDRi10S1pEMHY2OGo3XzJUZ0VRQThFX0txWlZtd3NxRGNNNlFfWUpxMzdZSi1OU1N2TDI2QUowbFdiYkZ0MmU5a2FWWUM4NGNwNWxrbkV3Qmd6VWhidkxGdVktdzZEQURZbGtEeERYQTJiY21tVUpzN0ZESlotaTU4cHlB?oc=5",
-      "source": "Builders Merchants Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1RMMm5MNmE4UFJDRi10S1pEMHY2OGo3XzJUZ0VRQThFX0txWlZtd3NxRGNNNlFfWUpxMzdZSi1OU1N2TDI2QUowbFdiYkZ0MmU5a2FWWUM4NGNwNWxrbkV3Qmd6VWhidkxGdVktdzZEQURZbGtEeERYQTJiY21tVUpzN0ZESlotaTU4cHlB?oc=5\" target=\"_blank\">Worcester Bosch announces new director of sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
+      "title": "Manufacturers Turn to SALTEX for Key Product Launches - Turf Matters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWlloWTU0Y3BZdDdOZ0o4NTl5X2tVWWpJV3JTd2ZDRHlKQnN5RUlVSXJjN1ZSbmlteGlCdS14UFo2QXhNeHJwX0FvS0lHTGsyRmpiT3JhWFdaR2wwdEh0MHpUMjk2QlBDTXBRV0VtLXZqU0VuSDA3VkljRW5BaEtJRTBXQkJlcTQ?oc=5",
+      "source": "Turf Matters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWlloWTU0Y3BZdDdOZ0o4NTl5X2tVWWpJV3JTd2ZDRHlKQnN5RUlVSXJjN1ZSbmlteGlCdS14UFo2QXhNeHJwX0FvS0lHTGsyRmpiT3JhWFdaR2wwdEh0MHpUMjk2QlBDTXBRV0VtLXZqU0VuSDA3VkljRW5BaEtJRTBXQkJlcTQ?oc=5\" target=\"_blank\">Manufacturers Turn to SALTEX for Key Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turf Matters</font>",
+      "feed_group": "sector",
+      "feed_title": "Lighting \u2014 sector news",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-14T15:14:06+00:00",
+      "fingerprint": "6d9f61a0ede6eba3372c5f43a5773cead9def664"
+    },
+    {
+      "title": "Worcester Bosch announces new Director of Sales - Builders' Merchants News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEdPVWdnQlFhalAyTUkzRlIxck5OXzd0SDBOLUd3eWlDMjlNR1hsM251VjJyOU5hY0JHTHhNMF9TeFZ2MGpEelhCeTZSTW4tdzFFb1FlQVFjWFBXVnpsWnFnanVXZUVCa29hWXZzU0QzRWNRa1VaTUxuY1dUODdkcmVPUDdyemdlWmFfZ1JYdU8?oc=5",
+      "source": "Builders' Merchants News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEdPVWdnQlFhalAyTUkzRlIxck5OXzd0SDBOLUd3eWlDMjlNR1hsM251VjJyOU5hY0JHTHhNMF9TeFZ2MGpEelhCeTZSTW4tdzFFb1FlQVFjWFBXVnpsWnFnanVXZUVCa29hWXZzU0QzRWNRa1VaTUxuY1dUODdkcmVPUDdyemdlWmFfZ1JYdU8?oc=5\" target=\"_blank\">Worcester Bosch announces new Director of Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
       "feed_group": "company",
       "feed_title": "HVAC & Building Services: Vaillant Group \u2026 Worcester Bosch (12)",
       "categories": [],
@@ -93,7 +128,7 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-14T10:00:33+00:00",
+      "published": "2026-10-14T14:48:08+00:00",
       "fingerprint": "2f854a3b32cbe953ff45f23f2bcaddc18098b7ad"
     },
     {
@@ -110,8 +145,23 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-14T09:40:46+00:00",
+      "published": "2026-10-14T10:52:45+00:00",
       "fingerprint": "8b0cebf9c0bacc55948dc4b9612a0ac3b2b35873"
+    },
+    {
+      "title": "Cemex provides cement with up to 55% less CO2 to the Northwest Arch of Murcia - Dem\u00f3crata",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnFmb0hVNjR5Y2JsbFJVMGJYN3Fyb2NYV3VWd0I2NjZ4a0k3UG4tcmRadWpWRmVTS2ZhRHRRbmdMNTRLM21FeTVqYzRNQjNocXVJMUVOSDdHUVp5T2wxaENpRjNza3AtR0pHcTJCTzJHM054ZGY4aUZfcmhWbjVEbFY3MnEtdThkVVVydTZKV2JTTVFmd01aU0YxbDdrWnB5OUprOVpKTHhWMml1MkJvWkRGb9IBuAFBVV95cUxQdUptWV9fQm10eVlFWG9PQnFHTmZYSjlBanM5RzZzT1Zxc0ZqbmFZOVMzR3dseThsQzhQQjVaUVEzc1c1N1BhT09nMHhqWjE0MFRIemVwQTR6NTl6TXZSVUxJSXdRQnFxbnlHZWhsVk90XzI1YzF6a25sdGw5UDlmc1RiV2hVbHUtUDJYSkpNUGZJNF9qZzNsdnA0bEhESGhsTUE4UHVWdXMxNVJDaFVuN2IwSWs5NVFV?oc=5",
+      "source": "Dem\u00f3crata",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnFmb0hVNjR5Y2JsbFJVMGJYN3Fyb2NYV3VWd0I2NjZ4a0k3UG4tcmRadWpWRmVTS2ZhRHRRbmdMNTRLM21FeTVqYzRNQjNocXVJMUVOSDdHUVp5T2wxaENpRjNza3AtR0pHcTJCTzJHM054ZGY4aUZfcmhWbjVEbFY3MnEtdThkVVVydTZKV2JTTVFmd01aU0YxbDdrWnB5OUprOVpKTHhWMml1MkJvWkRGb9IBuAFBVV95cUxQdUptWV9fQm10eVlFWG9PQnFHTmZYSjlBanM5RzZzT1Zxc0ZqbmFZOVMzR3dseThsQzhQQjVaUVEzc1c1N1BhT09nMHhqWjE0MFRIemVwQTR6NTl6TXZSVUxJSXdRQnFxbnlHZWhsVk90XzI1YzF6a25sdGw5UDlmc1RiV2hVbHUtUDJYSkpNUGZJNF9qZzNsdnA0bEhESGhsTUE4UHVWdXMxNVJDaFVuN2IwSWs5NVFV?oc=5\" target=\"_blank\">Cemex provides cement with up to 55",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-14T14:57:03+00:00",
+      "fingerprint": "3d944e7c05720953b98ee953750683ca5d2b6830"
     }
   ]
 }
