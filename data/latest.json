@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T04:19:01.115766+00:00",
+  "generated_at": "2026-10-14T11:33:17.865296+00:00",
   "date": "2026-10-14",
-  "count": 3,
+  "count": 6,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -63,6 +63,55 @@
       "likely_roles": "",
       "published": "2026-10-13T07:06:29+00:00",
       "fingerprint": "e394a17511dd4af2c537a07ea4351d589da32ff1"
+    },
+    {
+      "title": "Stark Building Materials UK launches new careers website - Builders' Merchants News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUktCLU80NlZsQWhwZjc1eExhOXpZdk9abGZvbUNHTDBJNVRTdVJIWGoyRGdsam1rb080bkQzc054VG1sMVVOTkVrd2pYMFk1QzI5Q1pZbXY5dElnY3NqS1BKaHYwSXEtczU2X1FTSWpaZkNwdEdIb0h4bFZ3eklYZVRsNFN1dGVSQVVVRkNJM2NPOU1GZjdMaUhZRm5iVDFHMmc4WUFLdzBzcWc?oc=5",
+      "source": "Builders' Merchants News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUktCLU80NlZsQWhwZjc1eExhOXpZdk9abGZvbUNHTDBJNVRTdVJIWGoyRGdsam1rb080bkQzc054VG1sMVVOTkVrd2pYMFk1QzI5Q1pZbXY5dElnY3NqS1BKaHYwSXEtczU2X1FTSWpaZkNwdEdIb0h4bFZ3eklYZVRsNFN1dGVSQVVVRkNJM2NPOU1GZjdMaUhZRm5iVDFHMmc4WUFLdzBzcWc?oc=5\" target=\"_blank\">Stark Building Materials UK launches new careers website</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
+      "feed_group": "signal",
+      "feed_title": "New product launches",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Stark Building Materials UK",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-14T09:53:36+00:00",
+      "fingerprint": "7e26b5f105e2022afbe5d5c0f8b935802ffed0c8"
+    },
+    {
+      "title": "Worcester Bosch announces new director of sales - Builders Merchants Journal",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1RMMm5MNmE4UFJDRi10S1pEMHY2OGo3XzJUZ0VRQThFX0txWlZtd3NxRGNNNlFfWUpxMzdZSi1OU1N2TDI2QUowbFdiYkZ0MmU5a2FWWUM4NGNwNWxrbkV3Qmd6VWhidkxGdVktdzZEQURZbGtEeERYQTJiY21tVUpzN0ZESlotaTU4cHlB?oc=5",
+      "source": "Builders Merchants Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1RMMm5MNmE4UFJDRi10S1pEMHY2OGo3XzJUZ0VRQThFX0txWlZtd3NxRGNNNlFfWUpxMzdZSi1OU1N2TDI2QUowbFdiYkZ0MmU5a2FWWUM4NGNwNWxrbkV3Qmd6VWhidkxGdVktdzZEQURZbGtEeERYQTJiY21tVUpzN0ZESlotaTU4cHlB?oc=5\" target=\"_blank\">Worcester Bosch announces new director of sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
+      "feed_group": "company",
+      "feed_title": "HVAC & Building Services: Vaillant Group \u2026 Worcester Bosch (12)",
+      "categories": [],
+      "company": "Worcester Bosch",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-14T10:00:33+00:00",
+      "fingerprint": "2f854a3b32cbe953ff45f23f2bcaddc18098b7ad"
+    },
+    {
+      "title": "SIG Unveils New Versatile Outdoor Canopy - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeEZNMVNaY2FxSzVLank1dHdCUHRxRzQ2NUF0U04zMERNYUlybUZfc3NTVVI2Nmx6QmNXd1B4d291TWtfR2VVSzY5aE9EaHk2UUg4ZHdnMnhMWmhJWjV2aWJXRWRsTTdoRFR2cU9fMGtTdFo0djlR?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeEZNMVNaY2FxSzVLank1dHdCUHRxRzQ2NUF0U04zMERNYUlybUZfc3NTVVI2Nmx6QmNXd1B4d291TWtfR2VVSzY5aE9EaHk2UUg4ZHdnMnhMWmhJWjV2aWJXRWRsTTdoRFR2cU9fMGtTdFo0djlR?oc=5\" target=\"_blank\">SIG Unveils New Versatile Outdoor Canopy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-14T09:40:46+00:00",
+      "fingerprint": "8b0cebf9c0bacc55948dc4b9612a0ac3b2b35873"
     }
   ]
 }
