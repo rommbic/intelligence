@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T12:00:10.498530+00:00",
+  "generated_at": "2026-10-20T14:15:20.309794+00:00",
   "date": "2026-10-20",
-  "count": 5,
+  "count": 6,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -91,6 +91,21 @@
       "likely_roles": "",
       "published": "2026-10-19T07:55:26+00:00",
       "fingerprint": "b55ccb21fc71d1b2fda8d215f1d94e09082405d0"
+    },
+    {
+      "title": "VELUX Takes Skylight Experience on National Tour - Roofing Contractor",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODk4VFdsWTFwLXZoMkVleVVRLUwyVmwxdkhlS2VFVFAxWVpuQWdOam1zTF9vNW4zeFJzRHRuTVFwUWlDcktlbzlSb3Mxd0cxM2dtemY1RjdiWWxDZWtzbUh6Zk9PZ01STDRBcS1nTGZWQldzb3hPanp6VkEtclBlQnd0d1dycFlfQWFZRHlVU3R3ZXR2c3ktam4tdXNBN2M?oc=5",
+      "source": "Roofing Contractor",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPODk4VFdsWTFwLXZoMkVleVVRLUwyVmwxdkhlS2VFVFAxWVpuQWdOam1zTF9vNW4zeFJzRHRuTVFwUWlDcktlbzlSb3Mxd0cxM2dtemY1RjdiWWxDZWtzbUh6Zk9PZ01STDRBcS1nTGZWQldzb3hPanp6VkEtclBlQnd0d1dycFlfQWFZRHlVU3R3ZXR2c3ktam4tdXNBN2M?oc=5\" target=\"_blank\">VELUX Takes Skylight Experience on National Tour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Contractor</font>",
+      "feed_group": "company",
+      "feed_title": "Roofing & Rooflights: Triflex \u2026 Whitesales (12)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-20T13:00:00+00:00",
+      "fingerprint": "e91a43778476d7cd72c4cd8842d5de5ee093f256"
     }
   ]
 }
