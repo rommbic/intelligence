@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T21:29:48.746130+00:00",
-  "date": "2026-10-21",
-  "count": 7,
+  "generated_at": "2026-10-22T04:05:02.831922+00:00",
+  "date": "2026-10-22",
+  "count": 11,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -27,7 +27,7 @@
       "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-21T12:43:05+00:00",
+      "published": "2026-10-21T18:35:05+00:00",
       "fingerprint": "49f1acee1081ac27092e3ce0b06c1bd9852299b1"
     },
     {
@@ -48,10 +48,44 @@
       "fingerprint": "e523a3fba4b0bc5037b039db083c0c36be7a0b1a"
     },
     {
-      "title": "James Hardie Launches \u201cThe Home of Resilient Beauty\u2122,\u201d Uniting Its Portfolio of Brands to Advance the Future of Resilient Building Products - AOL.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0gxdHpwclNielVIc1JaUTRhNlRYT0RtREpCdjdYTGEwbTI3MjVxSHotc3NhdE92M25EbTU1WEZhZU5EYWRjSi1jbk0xWklFYkhFYmVfbGRjOVJRS21iNk1xWjFTeU5fWDdqaHc3YXIzUUlRMHdyTnh5d1owQjFBZGxKR3ZiSERfRVE?oc=5",
-      "source": "AOL.co.uk",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0gxdHpwclNielVIc1JaUTRhNlRYT0RtREpCdjdYTGEwbTI3MjVxSHotc3NhdE92M25EbTU1WEZhZU5EYWRjSi1jbk0xWklFYkhFYmVfbGRjOVJRS21iNk1xWjFTeU5fWDdqaHc3YXIzUUlRMHdyTnh5d1owQjFBZGxKR3ZiSERfRVE?oc=5\" target=\"_blank\">James Hardie Launches \u201cThe Home of Resilient Beauty\u2122,\u201d Uniting Its Portfolio of Brands to Advance the Future of Resilient Building Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.co.uk</font>",
+      "title": "P McVey Building Systems launches Cabin Hub for site accommodation - Building & Architect of the Year Awards",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3RPM0x0SWFUYnpUNVVPYk5FQlgtdlBGMy1SNzVCUk1TbjlQb3E1Y0hnaFpVNWVxU1RlZllyamc1TGJpY0FRdy1NWlRvTEdSVlpEa3ZCa24zSS1PaEJDaldXOEpJQVpOTEw5TUh4Qi13Z3E3UmhudVVXU3o1aVlsT1M3VUs0MjdNSTBFREd4VTVoelRLZUNrNVNkbVVzMmtvR3RxVGRDWQ?oc=5",
+      "source": "Building & Architect of the Year Awards",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3RPM0x0SWFUYnpUNVVPYk5FQlgtdlBGMy1SNzVCUk1TbjlQb3E1Y0hnaFpVNWVxU1RlZllyamc1TGJpY0FRdy1NWlRvTEdSVlpEa3ZCa24zSS1PaEJDaldXOEpJQVpOTEw5TUh4Qi13Z3E3UmhudVVXU3o1aVlsT1M3VUs0MjdNSTBFREd4VTVoelRLZUNrNVNkbVVzMmtvR3RxVGRDWQ?oc=5\" target=\"_blank\">P McVey Building Systems launches Cabin Hub for site accommodation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Building & Architect of the Year Awards</font>",
+      "feed_group": "company",
+      "feed_title": "Offsite & Modular: McAvoy Holdings \u2026 Portable Offices (9)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "P McVey Building Systems",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T02:06:30+00:00",
+      "fingerprint": "78772d4c1bbd8fa890ca8330690383f00246154d"
+    },
+    {
+      "title": "Seaway7 selected as preferred supplier for SSE\u2019s Berwick Bank B offshore wind project - Energy Global",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeFo1ZDBlTU96UFFQVklfdi11SnRHWGhRaXJEZlgtNzZuMEJSTDFHY1oxOXhMZ29vWjBFR0x1VjdOc2FRcm1XVnBvWGpET0pWTjRZZ0s3cGVabG1waGRxdjM0dzVUU3k4Z3htQ2lMWmtaY0dTMkVianhyd2pReHZuTFpSU0hxZW4tQjFUd3JlWDgwX0hqLU42SEx2Qjl6bVdncnBURkQ1eHdmczZ4UGNNVWtJRUVvUzdWcUM2RVEybFcwZjBVOUFz?oc=5",
+      "source": "Energy Global",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeFo1ZDBlTU96UFFQVklfdi11SnRHWGhRaXJEZlgtNzZuMEJSTDFHY1oxOXhMZ29vWjBFR0x1VjdOc2FRcm1XVnBvWGpET0pWTjRZZ0s3cGVabG1waGRxdjM0dzVUU3k4Z3htQ2lMWmtaY0dTMkVianhyd2pReHZuTFpSU0hxZW4tQjFUd3JlWDgwX0hqLU42SEx2Qjl6bVdncnBURkQ1eHdmczZ4UGNNVWtJRUVvUzdWcUM2RVEybFcwZjBVOUFz?oc=5\" target=\"_blank\">Seaway7 selected as preferred supplier for SSE\u2019s Berwick Bank B offshore wind project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Global</font>",
+      "feed_group": "signal",
+      "feed_title": "Contract / supply wins",
+      "categories": [
+        "Contract / supply win"
+      ],
+      "company": "",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-21T14:04:07+00:00",
+      "fingerprint": "1b4676fb091ff9ef81fc629e4e1f040029160cbe"
+    },
+    {
+      "title": "James Hardie Launches \u201cThe Home of Resilient Beauty\u2122,\u201d Uniting Its Portfolio of Brands to Advance the Future of Resilient Building Products \u2013 Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhNVW15WWtydmRna0NCRkhEZm96NHpLNDcwaEE1RHV6Um5YSHBGS25jNUdKbGY3eDhKX2s1dnR2ZDNlajRjdEh5eVRKTlJPRENibUI4Nko1N0JjMm5NVUEzemJEaV9lRURSRFZqdUFTUWhBRDN2MVdrbXd5aDZ1b004T2xBQnBtR3VXbjEwZjNsNzlFdTZEUVpaeUoyUFY0d2JrcXpR?oc=5",
+      "source": "Financial Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhNVW15WWtydmRna0NCRkhEZm96NHpLNDcwaEE1RHV6Um5YSHBGS25jNUdKbGY3eDhKX2s1dnR2ZDNlajRjdEh5eVRKTlJPRENibUI4Nko1N0JjMm5NVUEzemJEaV9lRURSRFZqdUFTUWhBRDN2MVdrbXd5aDZ1b004T2xBQnBtR3VXbjEwZjNsNzlFdTZEUVpaeUoyUFY0d2JrcXpR?oc=5\" target=\"_blank\">James Hardie Launches \u201cThe Home of Resilient Beauty\u2122,\u201d Uniting Its Portfolio of Brands to Advance the Future of Resilient Building Products \u2013 Company Announcement - FT.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
       "feed_group": "company",
       "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
       "categories": [
@@ -61,8 +95,40 @@
       "score": 6,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-21T10:33:56+00:00",
-      "fingerprint": "4f922c62f2b57fe8e5d48c2e522da08715d1b8cf"
+      "published": "2026-10-21T10:33:00+00:00",
+      "fingerprint": "a378ff5fcbd38851b462207c570deb08b7442072"
+    },
+    {
+      "title": "Seaway 7 Preferred Supplier for SSE's 1.4GW Berwick Bank B Wind Farm - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYl9mczRNVmlXWEtUM2pJell5aVZaTmpLQnN6ZFlkQl9mSFF4ODNMMjZBdzlxMEtmNVlaTnNhMFRqTHBkSVZXOTNsVkVXakVHMjNweGVDZDVubjJ5S240TVd4QzVsZkV0UlpsSUVxVWxsSnVGbkxXcFRsZ1dPX3poaFpGSkpFSEJod0hrdURtOVNJbUF1Vnplc1dtZmxKUXNsZ0JnbHdRejNwZHR0ZFE?oc=5",
+      "source": "IndexBox",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOYl9mczRNVmlXWEtUM2pJell5aVZaTmpLQnN6ZFlkQl9mSFF4ODNMMjZBdzlxMEtmNVlaTnNhMFRqTHBkSVZXOTNsVkVXakVHMjNweGVDZDVubjJ5S240TVd4QzVsZkV0UlpsSUVxVWxsSnVGbkxXcFRsZ1dPX3poaFpGSkpFSEJod0hrdURtOVNJbUF1Vnplc1dtZmxKUXNsZ0JnbHdRejNwZHR0ZFE?oc=5\" target=\"_blank\">Seaway 7 Preferred Supplier for SSE's 1.4GW Berwick Bank B Wind Farm - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "feed_group": "signal",
+      "feed_title": "Contract / supply wins",
+      "categories": [
+        "Contract / supply win"
+      ],
+      "company": "",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-21T10:31:49+00:00",
+      "fingerprint": "8af54423552d3fd6a900c74a9ed507a1ce3a3b99"
+    },
+    {
+      "title": "From high-performance roofing to innovative fa\u00e7ades, CUPA PIZARRAS demonstrates the versatility of natural slate - Architecture Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHJob3E2ZUd5d0U5MUk4dDRnRUl6TkJKc243ZEZubmFYMGYyYWpkR1phb3FDODlwcTkzcnRFU0hDbG12alpQYmx4RVF0Y0xFdFJNSHFMdlphREhHMjlBbkU3MzdVQW53bkFDRGowOEJ0MElGdHpFNEtIbGI1YjNXWG1lODBRX2VZaHV5c3RBLVhSeWVsQmRuWGdXY0RPMlZLUnN6NC05RmthTTRzVFhpLUZwMlV4eE85bDZYSE8wUUNZQUYyOGNHdG5fX0hqQUFGY0VGZklxVlc0ZTZm?oc=5",
+      "source": "Architecture Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSHJob3E2ZUd5d0U5MUk4dDRnRUl6TkJKc243ZEZubmFYMGYyYWpkR1phb3FDODlwcTkzcnRFU0hDbG12alpQYmx4RVF0Y0xFdFJNSHFMdlphREhHMjlBbkU3MzdVQW53bkFDRGowOEJ0MElGdHpFNEtIbGI1YjNXWG1lODBRX2VZaHV5c3RBLVhSeWVsQmRuWGdXY0RPMlZLUnN6NC05RmthTTRzVFhpLUZwMlV4eE85bDZYSE8wUUNZQUYyOGNHdG5fX0hqQUFGY0VGZklxVlc0ZTZm?oc=5\" target=\"_blank\">From high-performance roofing to innovative fa\u00e7ades, CUPA PIZARRAS demonstrates the versatility of natural slate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Architecture Today</font>",
+      "feed_group": "company",
+      "feed_title": "Roofing & Rooflights: Crest Brick Slate  \u2026 Dreadnought tiles (9)",
+      "categories": [],
+      "company": "Cupa Pizarras",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-21T20:32:52+00:00",
+      "fingerprint": "075e4d93870d82b9fbd1b403d56f1ea7f52844a3"
     },
     {
       "title": "Kilsaran wins major precast contract for landmark Parkgate Street development - Irish building magazine",
@@ -80,6 +146,36 @@
       "fingerprint": "64889ab6771f7da73fca8b86291594559c3e795e"
     },
     {
+      "title": "Forestry pros aim to educate 4th graders on timber - mypanhandle.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbmt5UFBMM0N3NUlpcU5sZVJjNmZYdVFGeVE5SXpvcVRYQlZneHhzZTlvMnVGekdUTFBsRFV6NnlyWmpENm44Z2Z2dDhtQ3AwUDFRNWVSYXVES0d2UWNITTFNS05QaUhPMV9mUkd6VTAyNDU4MWpzQ0dNY2s5c0s0c2ZHRWR2MW52dmw2Z9IBkgFBVV95cUxPcWpZRkllRFhOQlRMZ1J1WWc3THg0d01Yc2NGYXRNaXFVNjJIbnQtMHR6S1lsOE1Bc2wzTXJ0ZHFIbUZjOVhjR2dBbmtqdzN1M0R6S2FFcnp0Vm1qMWtJVjJVX0xHa0RFT1RfaUdFNDdoTEpWQXJlYzJGamhNRHlEdlVTSHdYOGRBMUhPYzg0VEFSZw?oc=5",
+      "source": "mypanhandle.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbmt5UFBMM0N3NUlpcU5sZVJjNmZYdVFGeVE5SXpvcVRYQlZneHhzZTlvMnVGekdUTFBsRFV6NnlyWmpENm44Z2Z2dDhtQ3AwUDFRNWVSYXVES0d2UWNITTFNS05QaUhPMV9mUkd6VTAyNDU4MWpzQ0dNY2s5c0s0c2ZHRWR2MW52dmw2Z9IBkgFBVV95cUxPcWpZRkllRFhOQlRMZ1J1WWc3THg0d01Yc2NGYXRNaXFVNjJIbnQtMHR6S1lsOE1Bc2wzTXJ0ZHFIbUZjOVhjR2dBbmtqdzN1M0R6S2FFcnp0Vm1qMWtJVjJVX0xHa0RFT1RfaUdFNDdoTEpWQXJlYzJGamhNRHlEdlVTSHdYOGRBMUhPYzg0VEFSZw?oc=5\" target=\"_blank\">Forestry pros aim to educate 4th graders on timber</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mypanhandle.com</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-21T22:10:49+00:00",
+      "fingerprint": "740e4adb58458384b06c1a03d6c4112fdc6f88ed"
+    },
+    {
+      "title": "Gallery of Rainscreen Cladding System CUPACLAD 201 VANGUARD - 15 - ArchDaily",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVNsQno0SURuNC1GcXJnX0dGeDliM2xoR3pBaWFsUHJUNnhBRXhmTUJjM2l4V2RudnZ0QUN2MHRQaUUyMkxHRGVIaWkyYzZFcm12TlNpY21vSlFKLURoVmFGY0lFOVRjTEJQbGVKQ0pQUkxBZ3NtR3VvZTJsQW9oS3ZYaGlUSkU0WEtndzdQaUpUS1hsT3VrcV9uQ2F4TGREcmxEY2k0NGdzTjlybW53VWMzSkhNRjFwLVA2Wg?oc=5",
+      "source": "ArchDaily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVNsQno0SURuNC1GcXJnX0dGeDliM2xoR3pBaWFsUHJUNnhBRXhmTUJjM2l4V2RudnZ0QUN2MHRQaUUyMkxHRGVIaWkyYzZFcm12TlNpY21vSlFKLURoVmFGY0lFOVRjTEJQbGVKQ0pQUkxBZ3NtR3VvZTJsQW9oS3ZYaGlUSkU0WEtndzdQaUpUS1hsT3VrcV9uQ2F4TGREcmxEY2k0NGdzTjlybW53VWMzSkhNRjFwLVA2Wg?oc=5\" target=\"_blank\">Gallery of Rainscreen Cladding System CUPACLAD 201 VANGUARD - 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ArchDaily</font>",
+      "feed_group": "company",
+      "feed_title": "Roofing & Rooflights: Crest Brick Slate  \u2026 Dreadnought tiles (9)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-21T15:07:41+00:00",
+      "fingerprint": "4e292bb1b343f87afc5ea302f99ec9f44e7e9425"
+    },
+    {
       "title": "Cemex Concrete Powers LA Metro D Line Extension Section 1 - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMTVNdmZvQjZ6SWZCdU1JcHZQNk1XbEdBeFBRYW9WRXRrOHlwQVJhd19VYmtHNGpLRG9xMjBkcVB3S1VqcVM1aDFKajAxQTlyYzdoQkJ1U1gwNUtuVWwwcTdTVWNvSkxUclVxYXBVZ3RINlMya0tMTkhyeDZtdmV3a28tM0ZsbXVBUE1VYlY4ZGtqQy1aMmNTVzBpMFk5X2l2cU95UHFWdVc?oc=5",
       "source": "IndexBox",
@@ -93,36 +189,6 @@
       "likely_roles": "",
       "published": "2026-10-21T11:01:03+00:00",
       "fingerprint": "40150286ecee3e7ef328afb07b8f651ee3894156"
-    },
-    {
-      "title": "Cemex stock supplies concrete for LA Metro ahead of Xetra open - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEYxdGFwMDJ2YUNESGdtZTduaWJrT1d1U3ZDN1RaZ0tBZkxNT2hYXzNJRU83cUZBWkxvMVBBa1I3c09wYmU2cmQ0djNzY19jN3JHdlhsdVhMa1dPV3pXNUh0OC13ajdQWldRWDdOWVliRTdsZUdJejdTTFYwb285Z0REU2NNQ0JUVlpEWm5OMkw5bG1xSDJpX3NiYkNrYWZ4RmJqVW9JdlFHS0w1aDNHV3QtNmt6UFYxcTBJYw?oc=5",
-      "source": "AD HOC NEWS",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEYxdGFwMDJ2YUNESGdtZTduaWJrT1d1U3ZDN1RaZ0tBZkxNT2hYXzNJRU83cUZBWkxvMVBBa1I3c09wYmU2cmQ0djNzY19jN3JHdlhsdVhMa1dPV3pXNUh0OC13ajdQWldRWDdOWVliRTdsZUdJejdTTFYwb285Z0REU2NNQ0JUVlpEWm5OMkw5bG1xSDJpX3NiYkNrYWZ4RmJqVW9JdlFHS0w1aDNHV3QtNmt6UFYxcTBJYw?oc=5\" target=\"_blank\">Cemex stock supplies concrete for LA Metro ahead of Xetra open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>",
-      "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-21T05:51:40+00:00",
-      "fingerprint": "45c53e4bcfc05a4932eaa24bfecbd82c36d9b41c"
-    },
-    {
-      "title": "VELUX Takes Skylight Experience on National Tour - Roofing Contractor",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODk4VFdsWTFwLXZoMkVleVVRLUwyVmwxdkhlS2VFVFAxWVpuQWdOam1zTF9vNW4zeFJzRHRuTVFwUWlDcktlbzlSb3Mxd0cxM2dtemY1RjdiWWxDZWtzbUh6Zk9PZ01STDRBcS1nTGZWQldzb3hPanp6VkEtclBlQnd0d1dycFlfQWFZRHlVU3R3ZXR2c3ktam4tdXNBN2M?oc=5",
-      "source": "Roofing Contractor",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPODk4VFdsWTFwLXZoMkVleVVRLUwyVmwxdkhlS2VFVFAxWVpuQWdOam1zTF9vNW4zeFJzRHRuTVFwUWlDcktlbzlSb3Mxd0cxM2dtemY1RjdiWWxDZWtzbUh6Zk9PZ01STDRBcS1nTGZWQldzb3hPanp6VkEtclBlQnd0d1dycFlfQWFZRHlVU3R3ZXR2c3ktam4tdXNBN2M?oc=5\" target=\"_blank\">VELUX Takes Skylight Experience on National Tour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Contractor</font>",
-      "feed_group": "company",
-      "feed_title": "Roofing & Rooflights: Triflex \u2026 Whitesales (12)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-20T13:00:00+00:00",
-      "fingerprint": "e91a43778476d7cd72c4cd8842d5de5ee093f256"
     }
   ]
 }
