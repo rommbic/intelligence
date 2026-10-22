@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T12:17:44.498427+00:00",
+  "generated_at": "2026-10-22T16:57:44.269862+00:00",
   "date": "2026-10-22",
-  "count": 11,
+  "count": 22,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Clasado appoints ACI Group as Bimuno GOS distributor in the UK and Ireland - Nutraceutical Business Review",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUsxU00xcWMxS1RJNE55TXU1ZUFuXzQwZm9JVkwxLTlfUWwta2RJa3NqY05RcmFOMTU5cnVCbmpUOVJJS3NPVzY0U1I0LWhIQkw2UkVYaWU3d3lJUXJOSWs0MnkwZzJsZjlaQ0xUbHpFU2w0d0ZLaUZXM29aQnUwd2ZzU2VmODBnYXRmWDlpallWUEZSMmhn?oc=5",
+      "source": "Nutraceutical Business Review",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUsxU00xcWMxS1RJNE55TXU1ZUFuXzQwZm9JVkwxLTlfUWwta2RJa3NqY05RcmFOMTU5cnVCbmpUOVJJS3NPVzY0U1I0LWhIQkw2UkVYaWU3d3lJUXJOSWs0MnkwZzJsZjlaQ0xUbHpFU2w0d0ZLaUZXM29aQnUwd2ZzU2VmODBnYXRmWDlpallWUEZSMmhn?oc=5\" target=\"_blank\">Clasado appoints ACI Group as Bimuno GOS distributor in the UK and Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nutraceutical Business Review</font>",
+      "feed_group": "sector",
+      "feed_title": "Merchants & Distribution \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T16:45:17+00:00",
+      "fingerprint": "66a18f156fe00ffa8372313331aad6d69d81a7d1"
+    },
     {
       "title": "GAME PREVIEW: Giannis Antetokounmpo, Heat square off with Anthony Edwards, Timberwolves on opening night - Hot Hot Hoops",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaDNONkEwSV9tWjhTbndvdmVuTkU3X3JtNnpXMk5Kd1FZR0IwMGhycXlxTk10Q1VOcFVrNW1FS2pYNklGcmNob0RiUWkwa2NYNjI1TS1fU2dtQUdLMFNoTmhmNmIzVGsxUXJUUEVpbjItLW91SGx2M0pySU1OQ3cxSXBUNl9BNEQydXJqSEhkdFNwU2J6VW01LXlMNkE1M1pXVEdlWlJtY21ERjRzWm5EcXZJWkdEOHIweDN2ZWVYVEhzcjVWcWVhWg?oc=5",
@@ -31,21 +48,55 @@
       "fingerprint": "49f1acee1081ac27092e3ce0b06c1bd9852299b1"
     },
     {
-      "title": "Cemex supplies concrete for major Los Angeles Metro Expansion - World Cement",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUFqcWJXYmFhc3UzVmJ0QTVvOW5aUF9EVmI5RzRYUHkwTTA5TnlHS2JSZUVvNU05NnBfMXF4NW9FNm9NOEM2ZFJxVWdSck9MR1pPS2FUa0wyR3pwdG9TZXJCNzJHeWsta0xVTE13TXd3WFlfOV80RmtRUEVUNWh6dUVBR0Z3YkpPMkR1SS1tLV9Ld3M5d2JzTmZPeWYyOFR3UVdCNVZ1NVhQaGdWOHZOMVF3?oc=5",
-      "source": "World Cement",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUFqcWJXYmFhc3UzVmJ0QTVvOW5aUF9EVmI5RzRYUHkwTTA5TnlHS2JSZUVvNU05NnBfMXF4NW9FNm9NOEM2ZFJxVWdSck9MR1pPS2FUa0wyR3pwdG9TZXJCNzJHeWsta0xVTE13TXd3WFlfOV80RmtRUEVUNWh6dUVBR0Z3YkpPMkR1SS1tLV9Ld3M5d2JzTmZPeWYyOFR3UVdCNVZ1NVhQaGdWOHZOMVF3?oc=5\" target=\"_blank\">Cemex supplies concrete for major Los Angeles Metro Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
+      "title": "Budget should aim to encourage investment in technology and innovation - Timberwise MD - Insider Media Ltd",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUE1POERnZG1YMlJKeG52UXZCel9HLWxZdjNPQ0xKMENGck9YZk8tbzlTR0tlNG1GTjBUakhncGJZX0p5U18yMmEwUnJCemc5clFxekZ5anBFaHhYNG1ZTnBvU1Z2T2JMem1kM1FyY0NGdlpNak1QZ185Sjh3aFQzT1E5eEh3b1hUb1RYbmZnLUw4cHBmQkN0Z3BQZUpqQWZBZ1N6MDVXdGpzWDg2MWc4enJhcGVac2c2UzBfMWhncmFNNWliLXJzcg?oc=5",
+      "source": "Insider Media Ltd",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUE1POERnZG1YMlJKeG52UXZCel9HLWxZdjNPQ0xKMENGck9YZk8tbzlTR0tlNG1GTjBUakhncGJZX0p5U18yMmEwUnJCemc5clFxekZ5anBFaHhYNG1ZTnBvU1Z2T2JMem1kM1FyY0NGdlpNak1QZ185Sjh3aFQzT1E5eEh3b1hUb1RYbmZnLUw4cHBmQkN0Z3BQZUpqQWZBZ1N6MDVXdGpzWDg2MWc4enJhcGVac2c2UzBfMWhncmFNNWliLXJzcg?oc=5\" target=\"_blank\">Budget should aim to encourage investment in technology and innovation - Timberwise MD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Media Ltd</font>",
       "feed_group": "company",
-      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
       "categories": [
-        "New facility / expansion"
+        "Investment / funding"
       ],
       "company": "",
-      "score": 8,
+      "score": 6,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-21T08:57:07+00:00",
-      "fingerprint": "e523a3fba4b0bc5037b039db083c0c36be7a0b1a"
+      "published": "2026-10-22T15:04:47+00:00",
+      "fingerprint": "0d30a251b55c0b3d00419b5d58bb217c99b68bc3"
+    },
+    {
+      "title": "Kingspan Light + Air Launches Redesigned Website - Roofing Contractor",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0N1T1dxTkx1cllZa2NrMTRiVUdzMF9fUDItQkoxMjRtT0NYRk5VTHVkT1JhNUZ2Zm1XenlSSDNiWTZTT21sbkYtV0xjN0tOZ3FOWWpfcVZuaDQwOTBUdzZfX0J1OGNIMjhwUFN5SHlDZVFQQ0hQeURkMkN5bmJSV0ZiMVFzUkFFZUVQaGdKdk5Lc3Nack9vVDgxekc?oc=5",
+      "source": "Roofing Contractor",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0N1T1dxTkx1cllZa2NrMTRiVUdzMF9fUDItQkoxMjRtT0NYRk5VTHVkT1JhNUZ2Zm1XenlSSDNiWTZTT21sbkYtV0xjN0tOZ3FOWWpfcVZuaDQwOTBUdzZfX0J1OGNIMjhwUFN5SHlDZVFQQ0hQeURkMkN5bmJSV0ZiMVFzUkFFZUVQaGdKdk5Lc3Nack9vVDgxekc?oc=5\" target=\"_blank\">Kingspan Light + Air Launches Redesigned Website</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Contractor</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Kingspan",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T13:00:00+00:00",
+      "fingerprint": "02039652bc578b77e9a1b69effebbdff415b613b"
+    },
+    {
+      "title": "CEMEX invests over \u00a3600 000 into rail network improvements - World Cement",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHU5U3liMmh3Qlh5b3NQbldBUkFkS1hHRGNiZlJLb3ozenRSRUozbHhXRmdzSUItLXIxUEUzaFVkbWItT18wQmhVbXhKUE9vb0wweVp3Y2U0RWh5UEZJdHNFSFgta0JHUXZQRXlvYXRMU0pnV1QxVU1fd1JmUFdaZ3ZvdU1DbkFfdy1vdGZ3TmNUeDcya21xVmpRcTFjRVAyT3g2YQ?oc=5",
+      "source": "World Cement",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHU5U3liMmh3Qlh5b3NQbldBUkFkS1hHRGNiZlJLb3ozenRSRUozbHhXRmdzSUItLXIxUEUzaFVkbWItT18wQmhVbXhKUE9vb0wweVp3Y2U0RWh5UEZJdHNFSFgta0JHUXZQRXlvYXRMU0pnV1QxVU1fd1JmUFdaZ3ZvdU1DbkFfdy1vdGZ3TmNUeDcya21xVmpRcTFjRVAyT3g2YQ?oc=5\" target=\"_blank\">CEMEX invests over \u00a3600 000 into rail network improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
+      "feed_group": "sector",
+      "feed_title": "Masonry, Concrete & Heavyside \u2014 sector news",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T11:59:00+00:00",
+      "fingerprint": "12d17c85a21e7d638b72d4a600cd0f52c17c52ee"
     },
     {
       "title": "P McVey Building Systems launches Cabin Hub for site accommodation - Building and Architect of the Year Awards 2026",
@@ -65,10 +116,10 @@
       "fingerprint": "46beae641af8442003217f0c601d77b77749c29e"
     },
     {
-      "title": "James Hardie Launches \u201cThe Home of Resilient Beauty\u2122,\u201d Uniting Its Portfolio of Brands to Advance the Future of Resilient Building Products \u2013 Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhNVW15WWtydmRna0NCRkhEZm96NHpLNDcwaEE1RHV6Um5YSHBGS25jNUdKbGY3eDhKX2s1dnR2ZDNlajRjdEh5eVRKTlJPRENibUI4Nko1N0JjMm5NVUEzemJEaV9lRURSRFZqdUFTUWhBRDN2MVdrbXd5aDZ1b004T2xBQnBtR3VXbjEwZjNsNzlFdTZEUVpaeUoyUFY0d2JrcXpR?oc=5",
-      "source": "Financial Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhNVW15WWtydmRna0NCRkhEZm96NHpLNDcwaEE1RHV6Um5YSHBGS25jNUdKbGY3eDhKX2s1dnR2ZDNlajRjdEh5eVRKTlJPRENibUI4Nko1N0JjMm5NVUEzemJEaV9lRURSRFZqdUFTUWhBRDN2MVdrbXd5aDZ1b004T2xBQnBtR3VXbjEwZjNsNzlFdTZEUVpaeUoyUFY0d2JrcXpR?oc=5\" target=\"_blank\">James Hardie Launches \u201cThe Home of Resilient Beauty\u2122,\u201d Uniting Its Portfolio of Brands to Advance the Future of Resilient Building Products \u2013 Company Announcement - FT.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "title": "James Hardie Launches \"The Home of Resilient Beauty\u2122,\" Uniting Its Portfolio of Brands to Advance the Future of Resilient Building Products - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2lIeUY4NnlXSnh3WDY3M1FZWDFlNkxYTEFraUtFMF9uczJFbF9fN2gtbFNfNTlWYXI2NTVFRnJTaDVHdnppdEdCcTFONWlzVURFQmlMSXN2N1YwVi14V0ZyNzVUUVNkVFhfb08xdU9xZzFUSlNZYUhaOTlJbk1Dc00tLW9DMlA3NlQyWlVB?oc=5",
+      "source": "Yahoo Finance UK",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2lIeUY4NnlXSnh3WDY3M1FZWDFlNkxYTEFraUtFMF9uczJFbF9fN2gtbFNfNTlWYXI2NTVFRnJTaDVHdnppdEdCcTFONWlzVURFQmlMSXN2N1YwVi14V0ZyNzVUUVNkVFhfb08xdU9xZzFUSlNZYUhaOTlJbk1Dc00tLW9DMlA3NlQyWlVB?oc=5\" target=\"_blank\">James Hardie Launches \"The Home of Resilient Beauty\u2122,\" Uniting Its Portfolio of Brands to Advance the Future of Resilient Building Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
       "feed_group": "company",
       "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
       "categories": [
@@ -79,7 +130,37 @@
       "rationale": "",
       "likely_roles": "",
       "published": "2026-10-21T10:33:00+00:00",
-      "fingerprint": "a378ff5fcbd38851b462207c570deb08b7442072"
+      "fingerprint": "4f922c62f2b57fe8e5d48c2e522da08715d1b8cf"
+    },
+    {
+      "title": "SIG Roofing Joins the On The Tools Card - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMmxZWkl2N2VXTWpQRTNVV2M4U0loQnFmTFl5dTVxdUtzVWNvTnJrR0hYd3RxUzdER1d0UmRaVkc4TUpXUW1MMm8zTDBPVWY4eWF4cVFNUFZURHZSRk5FVXhma0pLRXdfRm5WX1gwQ3h3UldJS1E?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMmxZWkl2N2VXTWpQRTNVV2M4U0loQnFmTFl5dTVxdUtzVWNvTnJrR0hYd3RxUzdER1d0UmRaVkc4TUpXUW1MMm8zTDBPVWY4eWF4cVFNUFZURHZSRk5FVXhma0pLRXdfRm5WX1gwQ3h3UldJS1E?oc=5\" target=\"_blank\">SIG Roofing Joins the On The Tools Card</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
+      "categories": [],
+      "company": "SIG Roofing",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T14:04:22+00:00",
+      "fingerprint": "ec0f607add6f830bd1e79755659e479f4f8710e8"
+    },
+    {
+      "title": "SIG Roofing Chosen to Supply the Big Build Project - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTB0LW9Tck9mUk5RQVBYb1lSOFgtRnpMckxnMHdYWndRSmU2bGNmOU5tUHNPTEpPeFV6emRvdU1oY2NDTUV0WnZ1eF8tMnZlcWhMS3ZvdmdvN2c2czZjdG50U0E4amFmcHZCYkREYmExUUlySENYa2xiUHVqTHJubUNZZ3ZPWjdjcFA1Vkt2dlpxeEt5RThB?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTB0LW9Tck9mUk5RQVBYb1lSOFgtRnpMckxnMHdYWndRSmU2bGNmOU5tUHNPTEpPeFV6emRvdU1oY2NDTUV0WnZ1eF8tMnZlcWhMS3ZvdmdvN2c2czZjdG50U0E4amFmcHZCYkREYmExUUlySENYa2xiUHVqTHJubUNZZ3ZPWjdjcFA1Vkt2dlpxeEt5RThB?oc=5\" target=\"_blank\">SIG Roofing Chosen to Supply the Big Build Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
+      "categories": [],
+      "company": "SIG Roofing",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T14:03:32+00:00",
+      "fingerprint": "4ca99a070a6ae421396ad7fbb45c9c3be57d92b0"
     },
     {
       "title": "wienerberger names next COO - Builders Merchants Journal",
@@ -157,6 +238,66 @@
       "fingerprint": "64889ab6771f7da73fca8b86291594559c3e795e"
     },
     {
+      "title": "Gaming Has Become a Source of Real-World Style Inspiration. The Most Important Character That Gamers Are Customizing? Themselves. \u2013 Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGM1UEJEcHdrRmt4Z3NBVlRIcVUzbXpmMXBzbHFDTmNta0h2WXVPblE5aGtBSGVNVVVHWk9mb1VRSlFWN3lDZjJsVUdDRkZPTmpWWHNKTE9VMFZLdms0Y0lzT0xHTU83WlZRN2JFbEcwVk1XdXdHYmpZemd5d01tR0V2akI5TUZXb3NaZV9xUmdpeTVLVnlRVjhtRGdDS1JoVFZacEVB?oc=5",
+      "source": "Financial Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObGM1UEJEcHdrRmt4Z3NBVlRIcVUzbXpmMXBzbHFDTmNta0h2WXVPblE5aGtBSGVNVVVHWk9mb1VRSlFWN3lDZjJsVUdDRkZPTmpWWHNKTE9VMFZLdms0Y0lzT0xHTU83WlZRN2JFbEcwVk1XdXdHYmpZemd5d01tR0V2akI5TUZXb3NaZV9xUmdpeTVLVnlRVjhtRGdDS1JoVFZacEVB?oc=5\" target=\"_blank\">Gaming Has Become a Source of Real-World Style Inspiration. The Most Important Character That Gamers Are Customizing? Themselves. \u2013 Company Announcement - FT.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T13:00:00+00:00",
+      "fingerprint": "07bbd8e30251512cd628796bf0578a66d3ef0a29"
+    },
+    {
+      "title": "CEMEX to participate in LEILAC 2 project - World Cement",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGVLanJaNmw3NXMwMVhRMHpFbUs2TVIyTXVCTVE3SkxDUXYxNVdmbS1VcWRpY20xSXQ4OGZNVU5kaTdmVEVmTEs4WHRYdDJSZ0M4UUI3ZDYyWnpETTRBeU52VzBtb2MwMjdLTHVBRXJMc2dxWmwzTkZFMk5Ca1gxekNxTUlma1BCV3NrUDRR?oc=5",
+      "source": "World Cement",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGVLanJaNmw3NXMwMVhRMHpFbUs2TVIyTXVCTVE3SkxDUXYxNVdmbS1VcWRpY20xSXQ4OGZNVU5kaTdmVEVmTEs4WHRYdDJSZ0M4UUI3ZDYyWnpETTRBeU52VzBtb2MwMjdLTHVBRXJMc2dxWmwzTkZFMk5Ca1gxekNxTUlma1BCV3NrUDRR?oc=5\" target=\"_blank\">CEMEX to participate in LEILAC 2 project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T10:28:57+00:00",
+      "fingerprint": "89d72367881aad556871973c502503816e5eaf7a"
+    },
+    {
+      "title": "AIM cavity barriers win fire safety role in visually-striking zinc theatre facade - Architecture Today",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHEwSXZDeGpjb0hRUnFMbGJFQnRYX21keDZpT1RkMzY0RTZwVTFKaUMwaktwUTNtOEJ1LWp4VGF4MlpvRWNJZEN1NTRQSWpFSTNWbUVhcnlhczNXbTRCdVpWSDVQVFowNXdRMmYwWU5UYUptdmltQ0N4V3N4RERBdUNOMGt3ZVdPY3FUQUJpZi1PVU4tY2lVMnpVM2t1UnZsaGZtd3pVNUdYSXN6aGFVTnV6eGM?oc=5",
+      "source": "Architecture Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHEwSXZDeGpjb0hRUnFMbGJFQnRYX21keDZpT1RkMzY0RTZwVTFKaUMwaktwUTNtOEJ1LWp4VGF4MlpvRWNJZEN1NTRQSWpFSTNWbUVhcnlhczNXbTRCdVpWSDVQVFowNXdRMmYwWU5UYUptdmltQ0N4V3N4RERBdUNOMGt3ZVdPY3FUQUJpZi1PVU4tY2lVMnpVM2t1UnZsaGZtd3pVNUdYSXN6aGFVTnV6eGM?oc=5\" target=\"_blank\">AIM cavity barriers win fire safety role in visually-striking zinc theatre facade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Architecture Today</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T08:12:01+00:00",
+      "fingerprint": "5831cf53668f4bd13c5c62b93819f99d031c66bf"
+    },
+    {
+      "title": "CEMEX to offer preferential conditions to suppliers committed to sustainability - World Cement",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU202UnJkdHVhLXdibjVSUldtTjVXRUdBVnRrNm1aZ3dEb3ZYSFR0MW00WWdSdnNJVE15ZlNSSlZKYVNXcXRVNG5walJkUWQ4aXJhbnBLekJtWlhlVzBnQUVsT3Njcnl5bmk1R1FVTV9fbXU0UC1WM09Qek5ZUlFnQjdfVnB1YXVVLVZ5dHBBZGc2Y1NwLWV5Wnk3a09vMmFKY24yRWNCTjQ0NlBzQTVsTlIxUHVrUnlGUWphd3oxdDltM01M?oc=5",
+      "source": "World Cement",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQU202UnJkdHVhLXdibjVSUldtTjVXRUdBVnRrNm1aZ3dEb3ZYSFR0MW00WWdSdnNJVE15ZlNSSlZKYVNXcXRVNG5walJkUWQ4aXJhbnBLekJtWlhlVzBnQUVsT3Njcnl5bmk1R1FVTV9fbXU0UC1WM09Qek5ZUlFnQjdfVnB1YXVVLVZ5dHBBZGc2Y1NwLWV5Wnk3a09vMmFKY24yRWNCTjQ0NlBzQTVsTlIxUHVrUnlGUWphd3oxdDltM01M?oc=5\" target=\"_blank\">CEMEX to offer preferential conditions to suppliers committed to sustainability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
+      "feed_group": "company",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-22T04:17:23+00:00",
+      "fingerprint": "a55cc006c621dcae51fd31487a8bae03e765b980"
+    },
+    {
       "title": "CEMEX building products business reduces plastic packaging - World Cement",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMm5rU0wzR3YyczI0QWhPTXBOMHJsWmRrRzdTYjNIbUNyc1FfZjZxaVBRVXdtdmd1YjlJalBYWTNXalY2Y05uVEQxTmlfUWY0QllqQ3RyX2c1ejBFMjFxbGF5N2pRYUh5VHNBZHhKZEU4ZlpmbE9lZWtzelItNlBJVjU4My1wUDFpbDBVVjg4cXgwMk9LaU1iSlo5dkEwdEc2TlNBV3V3?oc=5",
       "source": "World Cement",
@@ -172,6 +313,21 @@
       "fingerprint": "bf013fdca88e44b5a21e208437497e9bdf008fe0"
     },
     {
+      "title": "Gallery of Rainscreen Cladding System CUPACLAD 201 VANGUARD - 15 - ArchDaily",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVNsQno0SURuNC1GcXJnX0dGeDliM2xoR3pBaWFsUHJUNnhBRXhmTUJjM2l4V2RudnZ0QUN2MHRQaUUyMkxHRGVIaWkyYzZFcm12TlNpY21vSlFKLURoVmFGY0lFOVRjTEJQbGVKQ0pQUkxBZ3NtR3VvZTJsQW9oS3ZYaGlUSkU0WEtndzdQaUpUS1hsT3VrcV9uQ2F4TGREcmxEY2k0NGdzTjlybW53VWMzSkhNRjFwLVA2Wg?oc=5",
+      "source": "ArchDaily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVNsQno0SURuNC1GcXJnX0dGeDliM2xoR3pBaWFsUHJUNnhBRXhmTUJjM2l4V2RudnZ0QUN2MHRQaUUyMkxHRGVIaWkyYzZFcm12TlNpY21vSlFKLURoVmFGY0lFOVRjTEJQbGVKQ0pQUkxBZ3NtR3VvZTJsQW9oS3ZYaGlUSkU0WEtndzdQaUpUS1hsT3VrcV9uQ2F4TGREcmxEY2k0NGdzTjlybW53VWMzSkhNRjFwLVA2Wg?oc=5\" target=\"_blank\">Gallery of Rainscreen Cladding System CUPACLAD 201 VANGUARD - 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ArchDaily</font>",
+      "feed_group": "company",
+      "feed_title": "Roofing & Rooflights: Crest Brick Slate  \u2026 Dreadnought tiles (9)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-21T15:07:41+00:00",
+      "fingerprint": "4e292bb1b343f87afc5ea302f99ec9f44e7e9425"
+    },
+    {
       "title": "Cemex Concrete Powers LA Metro D Line Extension Section 1 - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMTVNdmZvQjZ6SWZCdU1JcHZQNk1XbEdBeFBRYW9WRXRrOHlwQVJhd19VYmtHNGpLRG9xMjBkcVB3S1VqcVM1aDFKajAxQTlyYzdoQkJ1U1gwNUtuVWwwcTdTVWNvSkxUclVxYXBVZ3RINlMya0tMTkhyeDZtdmV3a28tM0ZsbXVBUE1VYlY4ZGtqQy1aMmNTVzBpMFk5X2l2cU95UHFWdVc?oc=5",
       "source": "IndexBox",
@@ -185,6 +341,21 @@
       "likely_roles": "",
       "published": "2026-10-21T11:01:03+00:00",
       "fingerprint": "40150286ecee3e7ef328afb07b8f651ee3894156"
+    },
+    {
+      "title": "SIKA TO ACQUIRE ADHESIVES BUSINESS SERVING ASIAN GROWTH MARKETS - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMkdRbzc4ajJUTS1CZ25ZN09uRmVYMlJvdi1tM3VOTmlFc0hWX1pZLXQtaG9mbXVVTzBJc1hoa1kyOWNxd2NCQmZMOFVZOENjNTRpUUc5N184SG1LbVlIV1ZPcERpc29YWHdFMlBjQm1NOE9EUmJvQzJfTFdxc3BsdzBSU0hIV0JnYnN0OWpZUFBrRFY0NkxPcWJSZ0VsaGdMNUFLLVpoUHBBRjBGTG1EeXZ2MnlBOWtraU80OFVCeHJ4TEVoeFA3TWlxd1RTcTl4?oc=5",
+      "source": "GlobeNewswire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMkdRbzc4ajJUTS1CZ25ZN09uRmVYMlJvdi1tM3VOTmlFc0hWX1pZLXQtaG9mbXVVTzBJc1hoa1kyOWNxd2NCQmZMOFVZOENjNTRpUUc5N184SG1LbVlIV1ZPcERpc29YWHdFMlBjQm1NOE9EUmJvQzJfTFdxc3BsdzBSU0hIV0JnYnN0OWpZUFBrRFY0NkxPcWJSZ0VsaGdMNUFLLVpoUHBBRjBGTG1EeXZ2MnlBOWtraU80OFVCeHJ4TEVoeFA3TWlxd1RTcTl4?oc=5\" target=\"_blank\">SIKA TO ACQUIRE ADHESIVES BUSINESS SERVING ASIAN GROWTH MARKETS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Rockwool \u2026 Superglass (13)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-21T05:00:00+00:00",
+      "fingerprint": "839c366919d9589fdcaf28d47f5d8f411299d08d"
     }
   ]
 }
