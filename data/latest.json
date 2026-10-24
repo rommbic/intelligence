@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T04:02:12.334656+00:00",
+  "generated_at": "2026-10-24T10:40:16.230293+00:00",
   "date": "2026-10-24",
-  "count": 6,
+  "count": 4,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -14,55 +14,21 @@
   ],
   "items": [
     {
-      "title": "James Hardie Announces Timing of Second Quarter FY27 Earnings Release and Conference Call - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjMtbkxkUzI2cW5ySW5IYXFZdWR6U3J5aE5tNUZFV1BqNy0zZG1aRERwaW04VWtSeGVoMUVIMGxtdUk4bzVoZTZ0UFRPbzlObmt2dEkySnVTajdFOWFveHIwQzZidkphd3dVMGk1bUtFclZJZEZYOFppZ1lqYVZTR1lPTVllSzg2SGNWdGtHcTIzT01sb1F0R3FnS180blhZenBr?oc=5",
-      "source": "Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjMtbkxkUzI2cW5ySW5IYXFZdWR6U3J5aE5tNUZFV1BqNy0zZG1aRERwaW04VWtSeGVoMUVIMGxtdUk4bzVoZTZ0UFRPbzlObmt2dEkySnVTajdFOWFveHIwQzZidkphd3dVMGk1bUtFclZJZEZYOFppZ1lqYVZTR1lPTVllSzg2SGNWdGtHcTIzT01sb1F0R3FnS180blhZenBr?oc=5\" target=\"_blank\">James Hardie Announces Timing of Second Quarter FY27 Earnings Release and Conference Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "feed_group": "company",
-      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
-      "categories": [
-        "New facility / expansion"
-      ],
-      "company": "James Hardie",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-22T21:33:00+00:00",
-      "fingerprint": "20e512a8756295c22492ac5ded8c14024982ff74"
-    },
-    {
-      "title": "Breedon Group announces completion of acquisition of assets from CEMEX UK - World Cement",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dHWXlrbkM3N09ZaXBkVE5kQU5ia2NNSFRZTWpOM2RGTkdFbUxfcm9QMHQyUHFZTmJRZFg1djNkVG9wdjlydmZyYVBRUk5PSjFzMVNjMjVzc2EzYWx2NXU4VHNoSzUyZUJHTUg5LWx2VFdKeGxXT1pxU01RRGZTcVh3cEhvUS16c1Y4X29KRXktR191cDN6bzhLT2h5RWtrcWFJX3c0ZTREUHBseFRQVHRTcGI4VFo1V0E?oc=5",
-      "source": "World Cement",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dHWXlrbkM3N09ZaXBkVE5kQU5ia2NNSFRZTWpOM2RGTkdFbUxfcm9QMHQyUHFZTmJRZFg1djNkVG9wdjlydmZyYVBRUk5PSjFzMVNjMjVzc2EzYWx2NXU4VHNoSzUyZUJHTUg5LWx2VFdKeGxXT1pxU01RRGZTcVh3cEhvUS16c1Y4X29KRXktR191cDN6bzhLT2h5RWtrcWFJX3c0ZTREUHBseFRQVHRTcGI4VFo1V0E?oc=5\" target=\"_blank\">Breedon Group announces completion of acquisition of assets from CEMEX UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
+      "title": "Cemex supplies concrete for Los Angeles Metro expansion; Cemex stock trades at EUR 0.91 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRXluRUM5a1Q2UmQ3Rm0wNjRrNjZyZVFHU0NFeWhFUXB1Qzc2MDlCNGJzYzllZnhJY1NUYjlfYXgwUWJqeF9BczZPVlNsamhIU1RFX2RKM3BqeWNrUEJLellMQUhrUFBZT3Bwd2RKdjllSEx4NHo2RjQ0ZG5scDZwZERZNFFJU0Q0MGdQbTYzSVNLR2s4dlZsT2E2ZTlnb09lS3AzUFV2VDNiYVhXQ2ItVjd4V0tWVHRHOFIzSXJDNVNqaEtVN2xxR05qdnNWdm81S2tfalVLMzRlWEltSjEtcFRZNA?oc=5",
+      "source": "ad-hoc-news.de",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRXluRUM5a1Q2UmQ3Rm0wNjRrNjZyZVFHU0NFeWhFUXB1Qzc2MDlCNGJzYzllZnhJY1NUYjlfYXgwUWJqeF9BczZPVlNsamhIU1RFX2RKM3BqeWNrUEJLellMQUhrUFBZT3Bwd2RKdjllSEx4NHo2RjQ0ZG5scDZwZERZNFFJU0Q0MGdQbTYzSVNLR2s4dlZsT2E2ZTlnb09lS3AzUFV2VDNiYVhXQ2ItVjd4V0tWVHRHOFIzSXJDNVNqaEtVN2xxR05qdnNWdm81S2tfalVLMzRlWEltSjEtcFRZNA?oc=5\" target=\"_blank\">Cemex supplies concrete for Los Angeles Metro expansion; Cemex stock trades at EUR 0.91</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
       "feed_group": "company",
       "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
       "categories": [
-        "Acquisition / M&A"
-      ],
-      "company": "Breedon Group",
-      "score": 9,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-22T18:10:46+00:00",
-      "fingerprint": "f3db829b7fee31acd1158e05499343d830bcaa4b"
-    },
-    {
-      "title": "Clasado appoints ACI Group as Bimuno GOS distributor in the UK and Ireland - Nutraceutical Business Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUsxU00xcWMxS1RJNE55TXU1ZUFuXzQwZm9JVkwxLTlfUWwta2RJa3NqY05RcmFOMTU5cnVCbmpUOVJJS3NPVzY0U1I0LWhIQkw2UkVYaWU3d3lJUXJOSWs0MnkwZzJsZjlaQ0xUbHpFU2w0d0ZLaUZXM29aQnUwd2ZzU2VmODBnYXRmWDlpallWUEZSMmhn?oc=5",
-      "source": "Nutraceutical Business Review",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUsxU00xcWMxS1RJNE55TXU1ZUFuXzQwZm9JVkwxLTlfUWwta2RJa3NqY05RcmFOMTU5cnVCbmpUOVJJS3NPVzY0U1I0LWhIQkw2UkVYaWU3d3lJUXJOSWs0MnkwZzJsZjlaQ0xUbHpFU2w0d0ZLaUZXM29aQnUwd2ZzU2VmODBnYXRmWDlpallWUEZSMmhn?oc=5\" target=\"_blank\">Clasado appoints ACI Group as Bimuno GOS distributor in the UK and Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nutraceutical Business Review</font>",
-      "feed_group": "sector",
-      "feed_title": "Merchants & Distribution \u2014 sector news",
-      "categories": [
-        "Leadership appointment"
+        "New facility / expansion"
       ],
       "company": "",
       "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-22T16:45:17+00:00",
-      "fingerprint": "66a18f156fe00ffa8372313331aad6d69d81a7d1"
+      "published": "2026-10-24T08:24:06+00:00",
+      "fingerprint": "8c8a051d2e188bcd62942391b8bbcae16c35b3ed"
     },
     {
       "title": "Integra Buildings set for record year as business invests in growth - The Holderness and Hornsea Gazette",
@@ -97,19 +63,19 @@
       "fingerprint": "8e5099e07689989f8d973214950130927eafc8ee"
     },
     {
-      "title": "SIG Roofing Joins the On The Tools Card - Roofing Today",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMmxZWkl2N2VXTWpQRTNVV2M4U0loQnFmTFl5dTVxdUtzVWNvTnJrR0hYd3RxUzdER1d0UmRaVkc4TUpXUW1MMm8zTDBPVWY4eWF4cVFNUFZURHZSRk5FVXhma0pLRXdfRm5WX1gwQ3h3UldJS1E?oc=5",
-      "source": "Roofing Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMmxZWkl2N2VXTWpQRTNVV2M4U0loQnFmTFl5dTVxdUtzVWNvTnJrR0hYd3RxUzdER1d0UmRaVkc4TUpXUW1MMm8zTDBPVWY4eWF4cVFNUFZURHZSRk5FVXhma0pLRXdfRm5WX1gwQ3h3UldJS1E?oc=5\" target=\"_blank\">SIG Roofing Joins the On The Tools Card</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "title": "Cemex supports water safety charity - World Cement",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEVBS2I0T0FzSGl5NUNzZktMalduMEZLcjJ0QXFnZURqLTRhbW9UbTYycHNlVE54emVxT2NuYnpKX1k2OFdoS1U1R0QtWWRYZDhSNXU4QWNxWEhMYXVqQUN5aUdmN25keEZBRWFxOXRRdzhxQ0NnWDRuNUQ5Nld2OWVTaUpRWVE?oc=5",
+      "source": "World Cement",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEVBS2I0T0FzSGl5NUNzZktMalduMEZLcjJ0QXFnZURqLTRhbW9UbTYycHNlVE54emVxT2NuYnpKX1k2OFdoS1U1R0QtWWRYZDhSNXU4QWNxWEhMYXVqQUN5aUdmN25keEZBRWFxOXRRdzhxQ0NnWDRuNUQ5Nld2OWVTaUpRWVE?oc=5\" target=\"_blank\">Cemex supports water safety charity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
       "feed_group": "company",
-      "feed_title": "Merchants & Distribution: RGB Building Suppl \u2026 SIG Roofing (10)",
+      "feed_title": "Masonry, Concrete & Heavyside: British Steel \u2026 Colinwell Masonry (10)",
       "categories": [],
-      "company": "SIG Roofing",
-      "score": 5,
+      "company": "",
+      "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-22T18:40:10+00:00",
-      "fingerprint": "ec0f607add6f830bd1e79755659e479f4f8710e8"
+      "published": "2026-10-23T10:37:12+00:00",
+      "fingerprint": "994895e5648cd49097af2ed26c030ce5ebd581b8"
     }
   ]
 }
