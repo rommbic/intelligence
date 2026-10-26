@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T13:29:30.430740+00:00",
+  "generated_at": "2026-10-26T20:25:19.360164+00:00",
   "date": "2026-10-26",
-  "count": 2,
+  "count": 3,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -27,7 +27,7 @@
       "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-26T11:15:44+00:00",
+      "published": "2026-10-26T14:22:26+00:00",
       "fingerprint": "0295632d31b09df1494edc1b1eee24debea29e88"
     },
     {
@@ -46,6 +46,21 @@
       "likely_roles": "",
       "published": "2026-10-26T05:00:00+00:00",
       "fingerprint": "959fe4c5b5c17ec2d600b9374e75c96fabb117b4"
+    },
+    {
+      "title": "Forterra welcomes 12 apprentices across UK manufacturing sites - The Manufacturer",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFVMc2haMHNBWk9YS2RMREhKSVdhT3U1cUotTDA5aWpUNEpvdW5rRVAwdUw4eHBjTHJ3cUwySlVjR01GTHo5VDZneGpGOEIxem9EcVJaQ28zcXAxSWtzZUgtbVgtYzR5ejQwY0hDQU9IdDJraVB2bFQ2QjNuejQ0aGZpUnBEWkF1b1FzZDhHYnZxUF9aN3NEYkZZMFY3WHhQS0JxLUVXOA?oc=5",
+      "source": "The Manufacturer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFVMc2haMHNBWk9YS2RMREhKSVdhT3U1cUotTDA5aWpUNEpvdW5rRVAwdUw4eHBjTHJ3cUwySlVjR01GTHo5VDZneGpGOEIxem9EcVJaQ28zcXAxSWtzZUgtbVgtYzR5ejQwY0hDQU9IdDJraVB2bFQ2QjNuejQ0aGZpUnBEWkF1b1FzZDhHYnZxUF9aN3NEYkZZMFY3WHhQS0JxLUVXOA?oc=5\" target=\"_blank\">Forterra welcomes 12 apprentices across UK manufacturing sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manufacturer</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Eurobrick Systems \u2026 Gilcrest (9)",
+      "categories": [],
+      "company": "Forterra",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-26T14:17:53+00:00",
+      "fingerprint": "856cd71b79a5673a7a90495db9f2391f7eaefd02"
     }
   ]
 }
