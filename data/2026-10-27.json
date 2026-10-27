@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T12:36:23.591470+00:00",
+  "generated_at": "2026-10-27T15:16:39.760259+00:00",
   "date": "2026-10-27",
-  "count": 4,
+  "count": 6,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Sika Acquires UAE Waterproofing Manufacturer to Strengthen Middle East Position - European Coatings",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUNYSmZ0V1lHWGZxNUdtUEdPU3VKNDNrWDVQZVNhNDlNZnBMWDZnMWhCaFJaQm1DaG5uZXJlcFVxXzh5dGNjWVVxX29zaW9mbms3Mk1EZ0RvbFBJVHp3RFBTc0N0MzBsMzNCdUU1QTdkelJVMnZDMzlRTVVwR0tVV1ZiMkRiNlBSR1dQTzlMSEF4Y3JYU2xCSTd3bFRkeWxnVkRxRWF1bFpvNHExTnMyWlNGRnV5T25jR1ZhdkM5aUg2ekZ5NHFHMHVfN1NyV0ltVS1J?oc=5",
+      "source": "European Coatings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUNYSmZ0V1lHWGZxNUdtUEdPU3VKNDNrWDVQZVNhNDlNZnBMWDZnMWhCaFJaQm1DaG5uZXJlcFVxXzh5dGNjWVVxX29zaW9mbms3Mk1EZ0RvbFBJVHp3RFBTc0N0MzBsMzNCdUU1QTdkelJVMnZDMzlRTVVwR0tVV1ZiMkRiNlBSR1dQTzlMSEF4Y3JYU2xCSTd3bFRkeWxnVkRxRWF1bFpvNHExTnMyWlNGRnV5T25jR1ZhdkM5aUg2ekZ5NHFHMHVfN1NyV0ltVS1J?oc=5\" target=\"_blank\">Sika Acquires UAE Waterproofing Manufacturer to Strengthen Middle East Position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">European Coatings</font>",
+      "feed_group": "sector",
+      "feed_title": "Sealants, Adhesives & Waterproofing \u2014 sector news",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-27T13:54:47+00:00",
+      "fingerprint": "b9df0a2763567447aa7efbf501836169b24ad149"
+    },
     {
       "title": "Global manufacturer plans new factory tower - AOL.co.uk",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR045RHFGcXlQZ1QzRTFxMVlrSnlaTzMwNGVpWHZHandGNHFiOVFURnZ6dk9ra01Ta2lTRG43Sy1YRklfSGlheGJiMGppdXhSSW9rNnpmazdYSm5uV3AxRzVrSTd1NWI3Y000RUdNVUNFcmdRRzNTQ1BJZkwzUDN4ZE5naUIzbTV5MjE4Nmxn?oc=5",
@@ -48,6 +65,23 @@
       "fingerprint": "0295632d31b09df1494edc1b1eee24debea29e88"
     },
     {
+      "title": "Holcim UK launches Wildlife Enhancement Fund - Builders Merchants Journal",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjFWaUN3bTQ0dUhrT3lXeDN5SmRNZFptdU85SWtNTTJuT2p5cUtKRlg5dkwwWWh6aUthUmdESVh4cUlUeDkzcXBLWTZJRHB0WHhfYzZRNEIxM1dULVBKLU9ZZmpSTndqWFcyVTFiaGlLaVhIZ0FRckkyTW0yZmpTTktqNjJGTnhuMVE?oc=5",
+      "source": "Builders Merchants Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjFWaUN3bTQ0dUhrT3lXeDN5SmRNZFptdU85SWtNTTJuT2p5cUtKRlg5dkwwWWh6aUthUmdESVh4cUlUeDkzcXBLWTZJRHB0WHhfYzZRNEIxM1dULVBKLU9ZZmpSTndqWFcyVTFiaGlLaVhIZ0FRckkyTW0yZmpTTktqNjJGTnhuMVE?oc=5\" target=\"_blank\">Holcim UK launches Wildlife Enhancement Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
+      "feed_group": "signal",
+      "feed_title": "Investment / PE / funding",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Holcim UK",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-27T13:33:02+00:00",
+      "fingerprint": "fe901016e8c8d5237a6c938c239495d3fee2c459"
+    },
+    {
       "title": "Oswestry manufacturer backs Harper Adams rally team\u2019s championship success - Shropshire Live",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenMzNGZqZl9Mekd6WXlmVmRBT2VVS2RfeXdLOEVmWjM5SktjcVlscWtLeFRLUVJ3UXlRS1R0dzAzMG1VdWFWb3cwV2lJeUF2Q1Z1aG5ST2hsU0JCZElnZG9fR0NWWUR0TFQxU3ptTHFCRXhud29ObjBsWnFsVVI0cHVCWXBna1dtampWVlh1bkNpLWVqYnh6RTB6anRVa3hPelFJTWRIQ29FVjNVblZwREFvOF9jR2ctNWFSVldrSk52TXM?oc=5",
       "source": "Shropshire Live",
@@ -65,19 +99,19 @@
       "fingerprint": "173c0b7b07176ff5f8918511aef52c017a164fbd"
     },
     {
-      "title": "Site work progressing on \u00a3200m Knauf insulation factory at former Shotton Steelworks | - Deeside.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkhpUWc1OVFGeUVSNGZhQlRwMHN6N2g4MWhXb1ZrX1UtdVRVd1Y5dV9SZWVDR0ZkN2IxLU5qWFZ1bTN2MEdPU1d4THFOaXN5NXpWcTQ1YVJLSmtTTDZleXdlQ2hpNWZTYU9mSi1hREgtWEFOXzZNc3RwN2FEaEtkLUZXRUh5bUhMNS1meXhCSng2OHJVVWNGRTZsTHhhQk1uNmFIRTNQZzhIck5R?oc=5",
-      "source": "Deeside.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkhpUWc1OVFGeUVSNGZhQlRwMHN6N2g4MWhXb1ZrX1UtdVRVd1Y5dV9SZWVDR0ZkN2IxLU5qWFZ1bTN2MEdPU1d4THFOaXN5NXpWcTQ1YVJLSmtTTDZleXdlQ2hpNWZTYU9mSi1hREgtWEFOXzZNc3RwN2FEaEtkLUZXRUh5bUhMNS1meXhCSng2OHJVVWNGRTZsTHhhQk1uNmFIRTNQZzhIck5R?oc=5\" target=\"_blank\">Site work progressing on \u00a3200m Knauf insulation factory at former Shotton Steelworks |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deeside.com</font>",
+      "title": "BDP pays contractor \u00a31.1m cladding claim as Kingspan lawsuit continues - The Architects\u2019 Journal",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUV9zRmpRX1dtMnBZRHIzRHFfRUlKZGRKX3puTzRxR04tajJGbkhqNGdyRzlXcW45V0lKdUwtcl8zU1o1MUtvT2xlSDc3VFI1Y2o2VjNlYzZ1aE9FbDk2T1hNeXZvSnhoX2g1S0gyTzd0ZjFYSXUwRVVwTjBPUHVZZ3BBZFV4QWFEOVhnajJVYWtwemFJTFNkTTRrYTg3MHhkSXJDRzd0Mks1alF0aVpv?oc=5",
+      "source": "The Architects\u2019 Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPUV9zRmpRX1dtMnBZRHIzRHFfRUlKZGRKX3puTzRxR04tajJGbkhqNGdyRzlXcW45V0lKdUwtcl8zU1o1MUtvT2xlSDc3VFI1Y2o2VjNlYzZ1aE9FbDk2T1hNeXZvSnhoX2g1S0gyTzd0ZjFYSXUwRVVwTjBPUHVZZ3BBZFV4QWFEOVhnajJVYWtwemFJTFNkTTRrYTg3MHhkSXJDRzd0Mks1alF0aVpv?oc=5\" target=\"_blank\">BDP pays contractor \u00a31.1m cladding claim as Kingspan lawsuit continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Architects\u2019 Journal</font>",
       "feed_group": "company",
       "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
       "categories": [],
-      "company": "Knauf Insulation",
+      "company": "Kingspan",
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-10-26T12:57:32+00:00",
-      "fingerprint": "41d3770452ff589609b0eb33056cb36d7c302a62"
+      "published": "2026-10-27T12:39:42+00:00",
+      "fingerprint": "211b7dbea0e2e1c5e657c369fa70626c0f65c864"
     }
   ]
 }
