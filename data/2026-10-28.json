@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T12:29:09.533704+00:00",
+  "generated_at": "2026-10-28T13:24:23.185146+00:00",
   "date": "2026-10-28",
-  "count": 6,
+  "count": 7,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -36,7 +36,7 @@
       "source": "European Coatings",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUNYSmZ0V1lHWGZxNUdtUEdPU3VKNDNrWDVQZVNhNDlNZnBMWDZnMWhCaFJaQm1DaG5uZXJlcFVxXzh5dGNjWVVxX29zaW9mbms3Mk1EZ0RvbFBJVHp3RFBTc0N0MzBsMzNCdUU1QTdkelJVMnZDMzlRTVVwR0tVV1ZiMkRiNlBSR1dQTzlMSEF4Y3JYU2xCSTd3bFRkeWxnVkRxRWF1bFpvNHExTnMyWlNGRnV5T25jR1ZhdkM5aUg2ekZ5NHFHMHVfN1NyV0ltVS1J?oc=5\" target=\"_blank\">Sika Acquires UAE Waterproofing Manufacturer to Strengthen Middle East Position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">European Coatings</font>",
       "feed_group": "sector",
-      "feed_title": "Sealants, Adhesives & Waterproofing \u2014 sector news",
+      "feed_title": "Landscaping & External \u2014 sector news",
       "categories": [
         "Acquisition / M&A"
       ],
@@ -65,6 +65,40 @@
       "fingerprint": "8aa43313e9d4d48d313238d886c60b5ffbdfd92f"
     },
     {
+      "title": "Wienerberger Analysts Diverge on Recovery Timing as Brickmaker Launches Clay Facade System - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOREo2MzR2UTBlenBSZEZJbHpleDZXYllnZzQtTUs0YlRpTVc4aGttTnN2aXhRN3c5NmdJbjhYNTdsTjQwUkhNc0k4XzAxQmpZZUtRUkZybGhKQTg4UFYtY1F1TEJfUUV3UmRqcllDYWp6dHhiME4yMGtBaTNtdl9UNmMyYW9yZzBNSS15RVpvd2pJOExkeFB1V0RKWVlhMDlsWjJGc1Vkb09qcnByNi1vdXV6UmdmM191OERDQ0NoZTkxN1F5NTZpOGVKUHFhcTVVbFFKTU9SdUdGSVdmY2FkS0gtSTVzbzZBd3ZZQ3Q3V3lHQlVZ?oc=5",
+      "source": "ad-hoc-news.de",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOREo2MzR2UTBlenBSZEZJbHpleDZXYllnZzQtTUs0YlRpTVc4aGttTnN2aXhRN3c5NmdJbjhYNTdsTjQwUkhNc0k4XzAxQmpZZUtRUkZybGhKQTg4UFYtY1F1TEJfUUV3UmRqcllDYWp6dHhiME4yMGtBaTNtdl9UNmMyYW9yZzBNSS15RVpvd2pJOExkeFB1V0RKWVlhMDlsWjJGc1Vkb09qcnByNi1vdXV6UmdmM191OERDQ0NoZTkxN1F5NTZpOGVKUHFhcTVVbFFKTU9SdUdGSVdmY2FkS0gtSTVzbzZBd3ZZQ3Q3V3lHQlVZ?oc=5\" target=\"_blank\">Wienerberger Analysts Diverge on Recovery Timing as Brickmaker Launches Clay Facade System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-news.de</font>",
+      "feed_group": "company",
+      "feed_title": "Roofing & Rooflights: Wienerberger \u2026 Xtralite Rooflight (2)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "Wienerberger",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-28T06:41:03+00:00",
+      "fingerprint": "66e0eb3029118e8dd9172fe98640f079308e2f46"
+    },
+    {
+      "title": "James Hardie Launches 'The Home of Resilient Beauty' - LBM Journal",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVNBbGJoUlFGNkItSDJaSDByY1ZPYnRmeGk2OTlyQTZlQXd5VVczQ3JiTXJHdkpOenNSMmp4UEc0S1lJNDhwc1JTdUpBbW5RaFE2bzhZUGpVWU1KX1Vja0ViUXBvWV85S0dSUk5GZHI2U1hseTIySnNnbTEzTkRmeUtQNl9PNHlLUDVrLTZXSVY2RHJYUHR6VVF3cGw1dFhXQlVlS2NseDVEM29aTmF2V3Jac0Nac0ozTl9VNkNMYTZDeVVOc3c?oc=5",
+      "source": "LBM Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVNBbGJoUlFGNkItSDJaSDByY1ZPYnRmeGk2OTlyQTZlQXd5VVczQ3JiTXJHdkpOenNSMmp4UEc0S1lJNDhwc1JTdUpBbW5RaFE2bzhZUGpVWU1KX1Vja0ViUXBvWV85S0dSUk5GZHI2U1hseTIySnNnbTEzTkRmeUtQNl9PNHlLUDVrLTZXSVY2RHJYUHR6VVF3cGw1dFhXQlVlS2NseDVEM29aTmF2V3Jac0Nac0ozTl9VNkNMYTZDeVVOc3c?oc=5\" target=\"_blank\">James Hardie Launches 'The Home of Resilient Beauty'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LBM Journal</font>",
+      "feed_group": "company",
+      "feed_title": "Cladding & Facades: Holland & Holland  \u2026 Locker Group (9)",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "James Hardie",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-27T19:10:06+00:00",
+      "fingerprint": "98fa4fb3407173b1dacc80ca9d22e6ed0883c53d"
+    },
+    {
       "title": "Glidevale Protect launches new CPD on fire-rated membranes for building safety - Architecture Today",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnNjb3BCcWdfVUNzRlJTTzY4WU9IVU9EcHpwRktJUGhLNkdlZDRUOE4yd0pIOWdaZGtoWktqc3VZMXZyZEVsQ1VQS0dHXzBvRS02QWRTQnJlcTRqZ2I4NndqMWVsay1XM1VrYnR1UC02Z2JmSTJPVHlXQU9YVjMxdlhrTTgzU29hT1Vtd01INDN0a0h4TkczX09sUXJwMGhQSk51VHlLWTVFVG9oc3ZPUg?oc=5",
       "source": "Architecture Today",
@@ -80,23 +114,6 @@
       "likely_roles": "",
       "published": "2026-10-27T15:50:49+00:00",
       "fingerprint": "0859aad4a13549953825abf20b9aab875941db25"
-    },
-    {
-      "title": "Oswestry manufacturer backs Harper Adams rally team\u2019s championship success - Shropshire Live",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenMzNGZqZl9Mekd6WXlmVmRBT2VVS2RfeXdLOEVmWjM5SktjcVlscWtLeFRLUVJ3UXlRS1R0dzAzMG1VdWFWb3cwV2lJeUF2Q1Z1aG5ST2hsU0JCZElnZG9fR0NWWUR0TFQxU3ptTHFCRXhud29ObjBsWnFsVVI0cHVCWXBna1dtampWVlh1bkNpLWVqYnh6RTB6anRVa3hPelFJTWRIQ29FVjNVblZwREFvOF9jR2ctNWFSVldrSk52TXM?oc=5",
-      "source": "Shropshire Live",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenMzNGZqZl9Mekd6WXlmVmRBT2VVS2RfeXdLOEVmWjM5SktjcVlscWtLeFRLUVJ3UXlRS1R0dzAzMG1VdWFWb3cwV2lJeUF2Q1Z1aG5ST2hsU0JCZElnZG9fR0NWWUR0TFQxU3ptTHFCRXhud29ObjBsWnFsVVI0cHVCWXBna1dtampWVlh1bkNpLWVqYnh6RTB6anRVa3hPelFJTWRIQ29FVjNVblZwREFvOF9jR2ctNWFSVldrSk52TXM?oc=5\" target=\"_blank\">Oswestry manufacturer backs Harper Adams rally team\u2019s championship success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shropshire Live</font>",
-      "feed_group": "sector",
-      "feed_title": "Fixings & Framing \u2014 sector news",
-      "categories": [
-        "Investment / funding"
-      ],
-      "company": "",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-27T05:19:53+00:00",
-      "fingerprint": "173c0b7b07176ff5f8918511aef52c017a164fbd"
     },
     {
       "title": "BDP pays contractor \u00a31.1m cladding claim as Kingspan lawsuit continues - The Architects\u2019 Journal",
