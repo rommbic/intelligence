@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T12:59:15.275425+00:00",
+  "generated_at": "2026-10-31T17:10:42.742258+00:00",
   "date": "2026-10-31",
-  "count": 5,
+  "count": 3,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -32,23 +32,6 @@
       "fingerprint": "2062397de3c5ad0210c57bb5a440270dafa76615"
     },
     {
-      "title": "Eurocell and Bostik seal product partnership - Builders Merchants Journal",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFd3T3RTV2pBUHFfaUFrUDlqTFFYb0Q3U194UGJRVGxRZ0tHRDlLdGdLZmZONnV2RlVibGFqR3RZYXczYmdfQlNwUHVRZ2tnZVRWUi1SU3JiZ0RfRVlwRWhXRVdpT2FkU05VUUZuVDVXUkw1TFdoNWJOZzRvTzd0TXNlam52VEpOelE?oc=5",
-      "source": "Builders Merchants Journal",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFd3T3RTV2pBUHFfaUFrUDlqTFFYb0Q3U194UGJRVGxRZ0tHRDlLdGdLZmZONnV2RlVibGFqR3RZYXczYmdfQlNwUHVRZ2tnZVRWUi1SU3JiZ0RfRVlwRWhXRVdpT2FkU05VUUZuVDVXUkw1TFdoNWJOZzRvTzd0TXNlam52VEpOelE?oc=5\" target=\"_blank\">Eurocell and Bostik seal product partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
-      "feed_group": "company",
-      "feed_title": "Merchants & Distribution: Elliotts Builders  \u2026 FGF (11)",
-      "categories": [
-        "Contract / supply win"
-      ],
-      "company": "Eurocell",
-      "score": 7,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-30T12:31:13+00:00",
-      "fingerprint": "af0d781427004a78e483099aca8ccf3d7b75819e"
-    },
-    {
       "title": "Taylor Maxwell announces new regional sales directors within timber division - Builders' Merchants News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWpGakpQXzRuZlpxTXNGOHFUMmJFVjd4WnhQanFhSjctbnZrMEdSN05nT21Qck5nWnVPQlBwUzBGTEYycl9YRDVRMjhFM0ljYWJITUZ4ZG1yTU9OemRvS2VaSDdiVGV6WmstdDMwZU9MOHFQQU5rVzV1TlItZTlMYk1NSDFKWnE1T3hPVU96NUU1V0d2cmN1Y1hzU3hWMGR3WGMxT1NkOU82YS03bFdIZnB3?oc=5",
       "source": "Builders' Merchants News",
@@ -77,21 +60,6 @@
       "likely_roles": "",
       "published": "2026-10-31T10:02:00+00:00",
       "fingerprint": "ede441ccf882ca915c30ff8c055382de024d0fb0"
-    },
-    {
-      "title": "Drainage maintenance works planned at busy Dorset roundabout next month - Bournemouth Echo",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHdxcURzVDFUazBILUVxRkUwbFRtWTZVdVdHclJxUlRuNW1zUmpzM3ZEYkJzazFOSlZVUHZ2VG1ZcEJwdjhmUkdoSEtpdW8zdHlpQUVHVzV1b2NRMnZ0cmtwZ3VTTVBhdjlfUjQzSlpNSUlpdFpKYklmaDJYbUczTUVDWEtYQzIwMEh6VFlVVXYxc3pPNnJGUTJKdE8tOFE3aWl6RW1B?oc=5",
-      "source": "Bournemouth Echo",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHdxcURzVDFUazBILUVxRkUwbFRtWTZVdVdHclJxUlRuNW1zUmpzM3ZEYkJzazFOSlZVUHZ2VG1ZcEJwdjhmUkdoSEtpdW8zdHlpQUVHVzV1b2NRMnZ0cmtwZ3VTTVBhdjlfUjQzSlpNSUlpdFpKYklmaDJYbUczTUVDWEtYQzIwMEh6VFlVVXYxc3pPNnJGUTJKdE8tOFE3aWl6RW1B?oc=5\" target=\"_blank\">Drainage maintenance works planned at busy Dorset roundabout next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bournemouth Echo</font>",
-      "feed_group": "company",
-      "feed_title": "Ceilings, Partitions & Interiors: Komfort Partitioni \u2026 Optima Systems (11)",
-      "categories": [],
-      "company": "",
-      "score": 4,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-10-30T05:00:00+00:00",
-      "fingerprint": "348446951a57a83b66c1804dda5a678022c6a79b"
     }
   ]
 }
