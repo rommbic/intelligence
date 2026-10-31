@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T11:59:32.563537+00:00",
+  "generated_at": "2026-10-31T12:59:15.275425+00:00",
   "date": "2026-10-31",
-  "count": 4,
+  "count": 5,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -30,6 +30,23 @@
       "likely_roles": "",
       "published": "2026-10-31T02:21:19+00:00",
       "fingerprint": "2062397de3c5ad0210c57bb5a440270dafa76615"
+    },
+    {
+      "title": "Eurocell and Bostik seal product partnership - Builders Merchants Journal",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFd3T3RTV2pBUHFfaUFrUDlqTFFYb0Q3U194UGJRVGxRZ0tHRDlLdGdLZmZONnV2RlVibGFqR3RZYXczYmdfQlNwUHVRZ2tnZVRWUi1SU3JiZ0RfRVlwRWhXRVdpT2FkU05VUUZuVDVXUkw1TFdoNWJOZzRvTzd0TXNlam52VEpOelE?oc=5",
+      "source": "Builders Merchants Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFd3T3RTV2pBUHFfaUFrUDlqTFFYb0Q3U194UGJRVGxRZ0tHRDlLdGdLZmZONnV2RlVibGFqR3RZYXczYmdfQlNwUHVRZ2tnZVRWUi1SU3JiZ0RfRVlwRWhXRVdpT2FkU05VUUZuVDVXUkw1TFdoNWJOZzRvTzd0TXNlam52VEpOelE?oc=5\" target=\"_blank\">Eurocell and Bostik seal product partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders Merchants Journal</font>",
+      "feed_group": "company",
+      "feed_title": "Merchants & Distribution: Elliotts Builders  \u2026 FGF (11)",
+      "categories": [
+        "Contract / supply win"
+      ],
+      "company": "Eurocell",
+      "score": 7,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-10-30T12:31:13+00:00",
+      "fingerprint": "af0d781427004a78e483099aca8ccf3d7b75819e"
     },
     {
       "title": "Taylor Maxwell announces new regional sales directors within timber division - Builders' Merchants News",
