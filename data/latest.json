@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T00:29:14.852078+00:00",
+  "generated_at": "2026-11-02T10:47:30.457273+00:00",
   "date": "2026-11-02",
-  "count": 0,
+  "count": 2,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -12,5 +12,36 @@
     "Investment / funding",
     "New product launch"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Walters insists Latrell isn\u2019t the Kangaroos\u2019 forgotten man - WAtoday",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQanVvR21VRXZpZFUtSnZTdzRhQXhidkluSTJHeFFESWZvQ3lYN0w5X2xuNVpQMzFpc2VuUzNNNFJsYUVzdm5xaHVISFhsa1p4OC1vRzNVWHVMczlKVmhFOWF4d1Zoa19zMVEwSFNrMndaekVCVjZYT0xYbnBoN0hXZHVacmZESU5vQXZaN0VpZGFBTDJKcGxLQXpQeTJJTUNRWnpuVzNzVm5PcVdlQnpLNm5ELVRaQQ?oc=5",
+      "source": "WAtoday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQanVvR21VRXZpZFUtSnZTdzRhQXhidkluSTJHeFFESWZvQ3lYN0w5X2xuNVpQMzFpc2VuUzNNNFJsYUVzdm5xaHVISFhsa1p4OC1vRzNVWHVMczlKVmhFOWF4d1Zoa19zMVEwSFNrMndaekVCVjZYT0xYbnBoN0hXZHVacmZESU5vQXZaN0VpZGFBTDJKcGxLQXpQeTJJTUNRWnpuVzNzVm5PcVdlQnpLNm5ELVRaQQ?oc=5\" target=\"_blank\">Walters insists Latrell isn\u2019t the Kangaroos\u2019 forgotten man</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAtoday</font>",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
+      "categories": [],
+      "company": "Walters",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-01T05:46:00+00:00",
+      "fingerprint": "65d4698e88ed42d16beede09f442d64f3a111d7e"
+    },
+    {
+      "title": "Jobs joy as closed Team Valley manufacturer is bought by new owners - Chronicle Live",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjgyeVFxTXB0UFh6UTg5bDFicGg0djRLM2trV09mSDVwMlBaeURnaFpQOXI3MUhsQXR5WWJQSmE1Y0I4bUU4WW81NUw2V2xZUFdzaEdPMlBhZHR5bnlyUzVIM1diOVhXcjRZU3hlX1YzMlcwU1VMcTNRTjBSd0thcHNvX0paMWsybEhsNnl0LUVYbzjSAZgBQVVfeXFMT21fWWl2RW1rSVNnSWZqb2ZKWDFCU25uQ1ZwMHo4bEdSLUkxMUoyQVgxc1dhRmFsM0dVZ0swbGJ1X2Z1NXFmdE5JT2p6dUVvRnNjdThXRzNUS2loR2R5dUc5bmZyTjVleGtmWEVyUUR5TTV5U0tPT0lUNGJUR0ZhUEFxVXdWRGkwVFFkY2ZTV2piQ1lBOWE5WDQ?oc=5",
+      "source": "Chronicle Live",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjgyeVFxTXB0UFh6UTg5bDFicGg0djRLM2trV09mSDVwMlBaeURnaFpQOXI3MUhsQXR5WWJQSmE1Y0I4bUU4WW81NUw2V2xZUFdzaEdPMlBhZHR5bnlyUzVIM1diOVhXcjRZU3hlX1YzMlcwU1VMcTNRTjBSd0thcHNvX0paMWsybEhsNnl0LUVYbzjSAZgBQVVfeXFMT21fWWl2RW1rSVNnSWZqb2ZKWDFCU25uQ1ZwMHo4bEdSLUkxMUoyQVgxc1dhRmFsM0dVZ0swbGJ1X2Z1NXFmdE5JT2p6dUVvRnNjdThXRzNUS2loR2R5dUc5bmZyTjVleGtmWEVyUUR5TTV5U0tPT0lUNGJUR0ZhUEFxVXdWRGkwVFFkY2ZTV2piQ1lBOWE5WDQ?oc=5\" target=\"_blank\">Jobs joy as closed Team Valley manufacturer is bought by new owners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chronicle Live<",
+      "feed_group": "company",
+      "feed_title": "Ceilings, Partitions & Interiors: Walters \u2026 Zentia (4)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-02T08:39:00+00:00",
+      "fingerprint": "b6abd17ba1892303844bfd51d6703c4f976526a5"
+    }
+  ]
 }
