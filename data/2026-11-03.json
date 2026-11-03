@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:03:58.930022+00:00",
+  "generated_at": "2026-11-03T14:34:40.291323+00:00",
   "date": "2026-11-03",
   "count": 6,
   "categories": [
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Manufacturer Expands Roofing Accessories Production With New Tool - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDNjdGtLYUlGcy1ieVlJeUJKRXBvbFhZeW9QbDhJTVJGWEZaQ1BaNEJadzNrOGVIaEVTcFJiVC03TURhUUxsU1BmeDNRYWxJQU9YMW5SRG1zM1FJd084b2czcFIxY2J5X0NTRndMU01nY2FMMkZQa2dNWEt4S3lxVV9LMTdaYVJGeThyXzB3QndxeUV4TnN6VQ?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDNjdGtLYUlGcy1ieVlJeUJKRXBvbFhZeW9QbDhJTVJGWEZaQ1BaNEJadzNrOGVIaEVTcFJiVC03TURhUUxsU1BmeDNRYWxJQU9YMW5SRG1zM1FJd084b2czcFIxY2J5X0NTRndMU01nY2FMMkZQa2dNWEt4S3lxVV9LMTdaYVJGeThyXzB3QndxeUV4TnN6VQ?oc=5\" target=\"_blank\">Manufacturer Expands Roofing Accessories Production With New Tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "sector",
+      "feed_title": "Roofing & Rooflights \u2014 sector news",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-03T11:03:10+00:00",
+      "fingerprint": "eb2494d7a5a78ef393c897efc97af497204e1406"
+    },
     {
       "title": "Hyundai supports future products with $450M manufacturing investment in Alabama - WardsAuto",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmFzbnZSQ3Z0XzN0TEtVQzBZR0V3LUh2RXJ2ajZCME5Fd2VPdEVQcU85MXYzU2VSdkxGbEZvSUdRWmwzZVdUdFh6SlA2Y3FyQUtVb2VkNGlsc1J2UHRvZTdZSG0zWUE5aXVwcnVFWk94SVN2WFF1THZWekUzSDFPaDRzNkZlUk5jcUJIcnhmOFpoUlVnampmR2x3Y3JLZ0J3MTRKZmJoRXFmZnJDaGJuMzlxZw?oc=5",
@@ -48,23 +65,6 @@
       "fingerprint": "5fc897005c190ae04e9c6cbf03fbb77f3ba10b53"
     },
     {
-      "title": "Hambleside Danelaw Introduces New - https://www.facilitiesmanagement-now.com/",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkNtM2YzX3ZhalV6ZHhlMkFSS0thTFVaeUp1X1VMS1hzVlRzd3M1WEt0YVZjaUwycElfalFydGVuUDVza2hIa3Z5VzhMSkRBZE5SSFFvSy1QMVIyNWRic3Q5b0dReGY5M2J1R2dnTDZ4bl8wSktmeWlKb3hfWENCVDZYaXpheDNhbmNzVnU5QkJCNkE?oc=5",
-      "source": "https://www.facilitiesmanagement-now.com/",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkNtM2YzX3ZhalV6ZHhlMkFSS0thTFVaeUp1X1VMS1hzVlRzd3M1WEt0YVZjaUwycElfalFydGVuUDVza2hIa3Z5VzhMSkRBZE5SSFFvSy1QMVIyNWRic3Q5b0dReGY5M2J1R2dnTDZ4bl8wSktmeWlKb3hfWENCVDZYaXpheDNhbmNzVnU5QkJCNkE?oc=5\" target=\"_blank\">Hambleside Danelaw Introduces New</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.facilitiesmanagement-now.com/</font>",
-      "feed_group": "company",
-      "feed_title": "Roofing & Rooflights: Filon Products \u2026 Hornsey Steel Pane (12)",
-      "categories": [
-        "New product launch"
-      ],
-      "company": "Hambleside Danelaw",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-11-02T14:23:57+00:00",
-      "fingerprint": "d0d221552ed676c7dca595ddb38fa3bcb062bfb8"
-    },
-    {
       "title": "Glenigan launches Building Materials Forecast to predict future UK construction product demand - BDC Magazine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHpPVmxCMEFRVUF4dExlTGtGd1F6ZUJ4cHNWWmxGUGdERE9BbjBJcE1XQy1ZY2lyRDRCcW5CeUZ4akxqd2wydkZwZGY5MFdoNDRjNlJpTkhqaGtfUnVUV1VHOXZXV243X2JZYmlOZ3h3bm84c1JqOGpWWGctSWROeHpVMzN6S1JHdmQtU3RRRURsZ0FYOTVYN3NkOEFrdWVuQi1fcDBVbk9mWjVYZndQVjJrMWtZSjEzcFlzTTA4RVNYRjRHRGc?oc=5",
       "source": "BDC Magazine",
@@ -78,7 +78,7 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-11-03T08:37:44+00:00",
+      "published": "2026-11-03T09:24:14+00:00",
       "fingerprint": "d21f4838a408339efb415425560c5e43f6318187"
     },
     {
