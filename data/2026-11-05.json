@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T01:26:22.245286+00:00",
+  "generated_at": "2026-11-05T10:36:26.521908+00:00",
   "date": "2026-11-05",
-  "count": 5,
+  "count": 6,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Concrete manufacturer Naylor planning for \u00a36m expansion - Yorkshire Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVJxZW9JZWl4OEM0NllieVlBelRNdk9jTzVuaWJUOWtoMWdOTGRfdnE2TDVFcXFkNW5GNVNkTlJidkttWW9lX3V0aHBwX2tBNHVvNUpER01zZ3BZc2RGdHBpX0E2QTVCclp5WU9id1ZCbEZKWmhBV1pVZndPNFczbWpwVDhjZEhNbEtzOGtNNXJJQ2x2TjFReThYQW5vRXkwQThRdm9oUEM?oc=5",
+      "source": "Yorkshire Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVJxZW9JZWl4OEM0NllieVlBelRNdk9jTzVuaWJUOWtoMWdOTGRfdnE2TDVFcXFkNW5GNVNkTlJidkttWW9lX3V0aHBwX2tBNHVvNUpER01zZ3BZc2RGdHBpX0E2QTVCclp5WU9id1ZCbEZKWmhBV1pVZndPNFczbWpwVDhjZEhNbEtzOGtNNXJJQ2x2TjFReThYQW5vRXkwQThRdm9oUEM?oc=5\" target=\"_blank\">Concrete manufacturer Naylor planning for \u00a36m expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yorkshire Post</font>",
+      "feed_group": "sector",
+      "feed_title": "Masonry, Concrete & Heavyside \u2014 sector news",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-05T07:07:00+00:00",
+      "fingerprint": "9abc6ff0c05cd4169f261a2fe80e2b27c199384d"
+    },
     {
       "title": "James Hardie agrees UK supply continuity with Swisspearl - Builders Merchants Journal",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjlHYjdtSVFSbkt5OVU4UC1leXV1eHdSV0F5cldwY0c2eFJPRmNJYmF5aFRZN3NYTDdNRC00WktuZk1GTkpRUVhwODJnMVVOLWV0NlpocHBXS0dGSTRiZkFha2F4WnBZbXZVWndWUkVyUG5Wb2xOM3pyYjhqU2xhbEtNR1BGNHZoYTBpQ0VEOUl1RHgtY2NNS3RR?oc=5",
@@ -29,10 +46,10 @@
       "fingerprint": "948d972b02d804206ea1664fcf6d9dc9f7b8620d"
     },
     {
-      "title": "Glenigan launches Building Materials Forecast to predict future UK construction product demand - Trending Now Infrastructure",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUNIZ1VqRWUyZWE1NUJRQzBxVTI2VC1LUXZGRl9jNGRTNEJNOEhjN0YtZ1JXalEyNGxLODJQTmlxdTdiZ1RHTTQ3ZlhyNi1tUzUzdFBuN0xfZG0xZHoyZmZPeUhtaFNITTA1YnJETzEya1F6X1B5N19tSWxZWjNfalpPbzJEOXZZN1pPdVRqbkQyQ0ZIOHJEWFNSb0VKWGJOc2JmZ0xSSllsMUR4dERQbmYxbm1kLXNfbnZwZW1kSnBjX211VzdYVjZsbTRSRnVuejlaZWdpclJ6Zl9ZMlV3?oc=5",
-      "source": "Trending Now Infrastructure",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUNIZ1VqRWUyZWE1NUJRQzBxVTI2VC1LUXZGRl9jNGRTNEJNOEhjN0YtZ1JXalEyNGxLODJQTmlxdTdiZ1RHTTQ3ZlhyNi1tUzUzdFBuN0xfZG0xZHoyZmZPeUhtaFNITTA1YnJETzEya1F6X1B5N19tSWxZWjNfalpPbzJEOXZZN1pPdVRqbkQyQ0ZIOHJEWFNSb0VKWGJOc2JmZ0xSSllsMUR4dERQbmYxbm1kLXNfbnZwZW1kSnBjX211VzdYVjZsbTRSRnVuejlaZWdpclJ6Zl9ZMlV3?oc=5\" target=\"_blank\">Glenigan launches Building Materials Forecast to predict future UK construction product demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trending Now Infrastructure</font>",
+      "title": "Glenigan launches Building Materials Forecast to predict future UK construction product demand - World Cement",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWmU2eGVLZ29KZ052c2gxR2lLX0dTX3NKT1haUEZNd3BhNkpCM3Y2UTNsamhTLXpENEtnczg3Y0ptUTd0YThEelZJWHBzVXI4bm1MVDc5SHAxY0xYUjVOWWc0ZkNjdDJ4WUpPdWlqSC1xSVd1Wk5haVpnZmwzSW5xVmtCZHJVWG1TWGk1VjNJck1PMThCUndONnMtRHJJWV9XTjJ1R01jaTNVRzR6dmY1OUwzLWg5VDNuc3BUQ3R0LVkwT0cxYlpPbDBDY0FMN2hySF9MRU5iZGdDcW1W?oc=5",
+      "source": "World Cement",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWmU2eGVLZ29KZ052c2gxR2lLX0dTX3NKT1haUEZNd3BhNkpCM3Y2UTNsamhTLXpENEtnczg3Y0ptUTd0YThEelZJWHBzVXI4bm1MVDc5SHAxY0xYUjVOWWc0ZkNjdDJ4WUpPdWlqSC1xSVd1Wk5haVpnZmwzSW5xVmtCZHJVWG1TWGk1VjNJck1PMThCUndONnMtRHJJWV9XTjJ1R01jaTNVRzR6dmY1OUwzLWg5VDNuc3BUQ3R0LVkwT0cxYlpPbDBDY0FMN2hySF9MRU5iZGdDcW1W?oc=5\" target=\"_blank\">Glenigan launches Building Materials Forecast to predict future UK construction product demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Cement</font>",
       "feed_group": "signal",
       "feed_title": "New product launches",
       "categories": [
@@ -42,23 +59,23 @@
       "score": 5,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-11-04T08:40:11+00:00",
+      "published": "2026-11-04T09:26:28+00:00",
       "fingerprint": "d21f4838a408339efb415425560c5e43f6318187"
     },
     {
-      "title": "The rainscreen cladding system built for direct-fix installs - Architecture & Design",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTczX05naEhyWDYxeWh1c2FvZnhWcjltTzU3cC0wZ01kS01udlFqR2poZFl0bUdMV1NVYTRvcUxLRnZtYlRWZ0VENGg1TE9WVVNPUk1GS29xOGZuTzhPTVJyRGlybUNZdExxMFJrQ1lLVHhldF9XRUFBX09jSGN3eFI5YWJoZjRMRWpnejlPWDVTZ080aEpyNUh4UDlyZE5GMTQ4RlhydmdWbTNGOE9halF3?oc=5",
-      "source": "Architecture & Design",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTczX05naEhyWDYxeWh1c2FvZnhWcjltTzU3cC0wZ01kS01udlFqR2poZFl0bUdMV1NVYTRvcUxLRnZtYlRWZ0VENGg1TE9WVVNPUk1GS29xOGZuTzhPTVJyRGlybUNZdExxMFJrQ1lLVHhldF9XRUFBX09jSGN3eFI5YWJoZjRMRWpnejlPWDVTZ080aEpyNUh4UDlyZE5GMTQ4RlhydmdWbTNGOE9halF3?oc=5\" target=\"_blank\">The rainscreen cladding system built for direct-fix installs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Architecture & Design</font>",
+      "title": "\u201cOur aim has been simple \u2013 to help suppliers find the information they need, all in one place\u201d - Liverpool Express",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXc2dmZuazdRWlR5LVo0SzhvcEtvNWVfTFFCUW9IcFpRbFhIRVprRVRTYVJ6Wm92VDFxWjFMODN5MHNXM1BTaXpoaFZaM3lVQXhVXzRkVktyZlUzYWdlSXR0ZlZxQXhFNm9EbTRxdXp0MXJfX0FqbXMxSGFOVGNCMDNKcnhhZjFRUmFBank3aEFIWkNxN3dYeU9VZEx4VmFYbDIzU2pOYVlUb29PUlJELUFtTVI0ZHlNWExoS2xn?oc=5",
+      "source": "Liverpool Express",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXc2dmZuazdRWlR5LVo0SzhvcEtvNWVfTFFCUW9IcFpRbFhIRVprRVRTYVJ6Wm92VDFxWjFMODN5MHNXM1BTaXpoaFZaM3lVQXhVXzRkVktyZlUzYWdlSXR0ZlZxQXhFNm9EbTRxdXp0MXJfX0FqbXMxSGFOVGNCMDNKcnhhZjFRUmFBank3aEFIWkNxN3dYeU9VZEx4VmFYbDIzU2pOYVlUb29PUlJELUFtTVI0ZHlNWExoS2xn?oc=5\" target=\"_blank\">\u201cOur aim has been simple \u2013 to help suppliers find the information they need, all in one place\u201d</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Liverpool Express</font>",
       "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "feed_title": "Insulation & Fire Protection: A Proctor Group \u2026 British Gypsum (11)",
       "categories": [],
       "company": "",
       "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-11-05T01:15:58+00:00",
-      "fingerprint": "f120d671e732f8304ee4f1bf7064973f415f41eb"
+      "published": "2026-11-05T08:17:47+00:00",
+      "fingerprint": "0528ff2dead7544f6c6d2255d858172553932216"
     },
     {
       "title": "Millswood Middle School principal placed on leave amid law enforcement investigation - Lodinews.com",
