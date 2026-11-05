@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T10:36:26.521908+00:00",
+  "generated_at": "2026-11-05T14:54:50.151669+00:00",
   "date": "2026-11-05",
-  "count": 6,
+  "count": 8,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Hodgson Sealants New \u00a32m Warehouse Expansion - Roofing Today",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BT2pBS203QzI4a0gzYUhUT2VOaElIc3I1dkJVSUFWbXdxS2Z0Umx5QjgxSDVEQURZTnRYUzFjcVhXM3kxaXl6RE5fdU1DQWJrdEZHOUtuR3NpTmRBVjNZU2UxYmxWU0NzZndKR3JlUVA1VndjWjdEQlJKTQ?oc=5",
+      "source": "Roofing Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9BT2pBS203QzI4a0gzYUhUT2VOaElIc3I1dkJVSUFWbXdxS2Z0Umx5QjgxSDVEQURZTnRYUzFjcVhXM3kxaXl6RE5fdU1DQWJrdEZHOUtuR3NpTmRBVjNZU2UxYmxWU0NzZndKR3JlUVA1VndjWjdEQlJKTQ?oc=5\" target=\"_blank\">Hodgson Sealants New \u00a32m Warehouse Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Roofing Today</font>",
+      "feed_group": "sector",
+      "feed_title": "Sealants, Adhesives & Waterproofing \u2014 sector news",
+      "categories": [
+        "New facility / expansion"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-05T14:04:32+00:00",
+      "fingerprint": "45f7e8367a8c00f2b26b4e4247d65af72adfd8cd"
+    },
     {
       "title": "Concrete manufacturer Naylor planning for \u00a36m expansion - Yorkshire Post",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVJxZW9JZWl4OEM0NllieVlBelRNdk9jTzVuaWJUOWtoMWdOTGRfdnE2TDVFcXFkNW5GNVNkTlJidkttWW9lX3V0aHBwX2tBNHVvNUpER01zZ3BZc2RGdHBpX0E2QTVCclp5WU9id1ZCbEZKWmhBV1pVZndPNFczbWpwVDhjZEhNbEtzOGtNNXJJQ2x2TjFReThYQW5vRXkwQThRdm9oUEM?oc=5",
@@ -29,6 +46,21 @@
       "likely_roles": "",
       "published": "2026-11-05T07:07:00+00:00",
       "fingerprint": "9abc6ff0c05cd4169f261a2fe80e2b27c199384d"
+    },
+    {
+      "title": "Insulation maker Kingspan fined \u20ac42,000 for 14 environmental breaches at Monaghan plant - Irish Independent",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTzBuOTB3UDJDcEZPQlpnNWE5bkwzVDFHWWl5dXNwaXZncTFOUWJmcGYwX3lVcjFPOFN3bmlkSmUzWUtrbHl6Yk9Fa2M1MUViMGlMUF9DR1UxOVhpWkQybUlWc1pIcUJhd3dZSk90V2JuemJMN3hEYjVfakt4OE5HTm02bUxuNGpmbWt4a01UUzZwWXQ5d2pQY1NMX0UwRi1RS0J5VlI3V09oX2dzSjNxbVU5ZzI1SEJ4SllzOEY0b3pxSVF0UVFuMEllNjhockI4MkZ1UWJNMA?oc=5",
+      "source": "Irish Independent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTzBuOTB3UDJDcEZPQlpnNWE5bkwzVDFHWWl5dXNwaXZncTFOUWJmcGYwX3lVcjFPOFN3bmlkSmUzWUtrbHl6Yk9Fa2M1MUViMGlMUF9DR1UxOVhpWkQybUlWc1pIcUJhd3dZSk90V2JuemJMN3hEYjVfakt4OE5HTm02bUxuNGpmbWt4a01UUzZwWXQ5d2pQY1NMX0UwRi1RS0J5VlI3V09oX2dzSjNxbVU5ZzI1SEJ4SllzOEY0b3pxSVF0UVFuMEllNjhockI4MkZ1UWJNMA?oc=5\" target=\"_blank\">Insulation maker Kingspan fined \u20ac42,000 for 14 environmental breaches at Monaghan plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Irish Independent</font>",
+      "feed_group": "company",
+      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "categories": [],
+      "company": "Kingspan",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-05T11:20:21+00:00",
+      "fingerprint": "cdea1c06194a17d4cb332d2f642693bb8530c96a"
     },
     {
       "title": "James Hardie agrees UK supply continuity with Swisspearl - Builders Merchants Journal",
