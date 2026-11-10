@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T06:46:01.157990+00:00",
+  "generated_at": "2026-11-10T15:10:43.693455+00:00",
   "date": "2026-11-10",
-  "count": 4,
+  "count": 7,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -13,6 +13,23 @@
     "New product launch"
   ],
   "items": [
+    {
+      "title": "Swisspearl acquires James Hardie cladding stock and Eastleigh facility - Builders' Merchants News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdlBzZE5GQlVXeGpFSFR5Njk2dkZGNThKQ3RKbkE4SEdKWElRdkRTQ0pRb0t5N0VRXzNneS1GT3RiMkZBOW9qSzhtRzVkMnMzYmlWR24wQWNlQ3pZaE1ybElsbVBZdWtPWWxHSm1UX1hfRTdKanoyU3lULWlLUWtvVEJIMlhEUUczQzhucGwwRnRHTk5yeDM4MFE3Y19iYm1tS1gwT2tEVkdPRXVTWk9Bc2hmRzF3cmRiczRPZ1F3?oc=5",
+      "source": "Builders' Merchants News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdlBzZE5GQlVXeGpFSFR5Njk2dkZGNThKQ3RKbkE4SEdKWElRdkRTQ0pRb0t5N0VRXzNneS1GT3RiMkZBOW9qSzhtRzVkMnMzYmlWR24wQWNlQ3pZaE1ybElsbVBZdWtPWWxHSm1UX1hfRTdKanoyU3lULWlLUWtvVEJIMlhEUUczQzhucGwwRnRHTk5yeDM4MFE3Y19iYm1tS1gwT2tEVkdPRXVTWk9Bc2hmRzF3cmRiczRPZ1F3?oc=5\" target=\"_blank\">Swisspearl acquires James Hardie cladding stock and Eastleigh facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
+      "feed_group": "signal",
+      "feed_title": "Investment / PE / funding",
+      "categories": [
+        "Acquisition / M&A"
+      ],
+      "company": "James Hardie",
+      "score": 9,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-10T12:07:26+00:00",
+      "fingerprint": "c2ef07c68889fdffbd91493115055b3545d708c2"
+    },
     {
       "title": "Swisspearl Buys James Hardie Cladding Stock and Eastleigh Distribution Base - Roofing Today",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2tGc1hXbWZNTVJYbVNIX1QxVjd6eVU2NmF2LTlRa0RlNTZKaVdoNFVJOEpJdEZ3V1RYMlI3ZnJlRjRwZWZsZndaNDNDbl8ya3p5eUZDdlB0M1NOX0hTSmRNdHBYQTd3S1ptMDRfNS03S3NITzZvZXdNNHBvZ2JhV2VzWlJFd0ZHelVSaGgtOVg5alJPY0xMY1pLSzRaZkViU1NXT3NB?oc=5",
@@ -29,6 +46,38 @@
       "likely_roles": "",
       "published": "2026-11-09T18:11:05+00:00",
       "fingerprint": "cbea7aab191a9712cdd8aba8edde1481e419e881"
+    },
+    {
+      "title": "OWA UK appoints new managing director - Builders' Merchants News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmZXbjM4dlJJeHFuVWVUQjk1REI5cXFKTTdkRTVXdHpXSkF1d3dUTnhKV2hIX2JlZnA4eVZuczNkMDdoNXpCWnBoVHVfR0RjWUJjZXJ4R2ZLYzlhSHlFakthNGJEVzdHSGhhVndhTTN1Nm1JVEN2RWRPQWZOdS1mbWI3cGJlODg?oc=5",
+      "source": "Builders' Merchants News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmZXbjM4dlJJeHFuVWVUQjk1REI5cXFKTTdkRTVXdHpXSkF1d3dUTnhKV2hIX2JlZnA4eVZuczNkMDdoNXpCWnBoVHVfR0RjWUJjZXJ4R2ZLYzlhSHlFakthNGJEVzdHSGhhVndhTTN1Nm1JVEN2RWRPQWZOdS1mbWI3cGJlODg?oc=5\" target=\"_blank\">OWA UK appoints new managing director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builders' Merchants News</font>",
+      "feed_group": "sector",
+      "feed_title": "Ceilings, Partitions & Interiors \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-10T10:42:24+00:00",
+      "fingerprint": "ac9f5b3c8c6dbcb547abfe5dbf44226520aec336"
+    },
+    {
+      "title": "Class action can\u2019t add claim about Philips CPAP replacement device approval - Lawyerly",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEdzbm90alBaeGxkNFIzc2JnbXgwaEVhZEpSekhudnpuNnlnRTJyMTE5WERaOXlDbDc0dGloWV96RC1HdFFNdUotUkV1d09FVjZmR1NkRVZFNnFyQmJRTWxkUnAtZlpHQlVzSEVBR2k0eFhIdlpXMDhsZ0hGdDJ1NUV6TUJ2ZkJwck5FLUl2NldNRGJ5SWtfX0RHa1pQNkZtUV9CM0pB?oc=5",
+      "source": "Lawyerly",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEdzbm90alBaeGxkNFIzc2JnbXgwaEVhZEpSekhudnpuNnlnRTJyMTE5WERaOXlDbDc0dGloWV96RC1HdFFNdUotUkV1d09FVjZmR1NkRVZFNnFyQmJRTWxkUnAtZlpHQlVzSEVBR2k0eFhIdlpXMDhsZ0hGdDJ1NUV6TUJ2ZkJwck5FLUl2NldNRGJ5SWtfX0RHa1pQNkZtUV9CM0pB?oc=5\" target=\"_blank\">Class action can\u2019t add claim about Philips CPAP replacement device approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lawyerly</font>",
+      "feed_group": "company",
+      "feed_title": "Lighting: Northern Lights \u2026 Saxby Lighting (13)",
+      "categories": [],
+      "company": "Philips",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-10T14:16:15+00:00",
+      "fingerprint": "d6eec3530809b25d5713fd0e5feaaef324241072"
     },
     {
       "title": "Preston flooring firm launches its own LVT flooring brand - Lancashire Business View",
