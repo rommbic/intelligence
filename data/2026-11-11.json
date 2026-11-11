@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T14:41:46.382843+00:00",
+  "generated_at": "2026-11-11T21:51:20.339628+00:00",
   "date": "2026-11-11",
-  "count": 8,
+  "count": 10,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -65,6 +65,23 @@
       "fingerprint": "caa8fbc12dba893e567faf88c38bfc2e1dbbf9a1"
     },
     {
+      "title": "Mars invests \u00a3161m to modernise historic pet food factory in Melton Mowbray - The Manufacturer",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0Y4cjZfaDVLeHdaRnNzUk9wSzNmV2M5LUVXSlk3R0RuUlhLWVcxSV9NOGZiRGdBSkR0WDgtYnBtb242eVdUaU95bzdKSzZ0NlVvY1hLZkpnVkVUaXhuVWQ3Yi1MaGlpZzdSVEtCWWtVZnVrRk9ZTWRodXZ5U0NPbmtvOG5oalBzaDF5dlYtMUdDSnBJOGtKU0hfUHJkamV0RkZGcGxLU01NSDB4a1lselc2V2lhWDQ?oc=5",
+      "source": "The Manufacturer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0Y4cjZfaDVLeHdaRnNzUk9wSzNmV2M5LUVXSlk3R0RuUlhLWVcxSV9NOGZiRGdBSkR0WDgtYnBtb242eVdUaU95bzdKSzZ0NlVvY1hLZkpnVkVUaXhuVWQ3Yi1MaGlpZzdSVEtCWWtVZnVrRk9ZTWRodXZ5U0NPbmtvOG5oalBzaDF5dlYtMUdDSnBJOGtKU0hfUHJkamV0RkZGcGxLU01NSDB4a1lselc2V2lhWDQ?oc=5\" target=\"_blank\">Mars invests \u00a3161m to modernise historic pet food factory in Melton Mowbray</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manufacturer</font>",
+      "feed_group": "signal",
+      "feed_title": "New facilities / expansion",
+      "categories": [
+        "Investment / funding"
+      ],
+      "company": "",
+      "score": 6,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-11T04:54:54+00:00",
+      "fingerprint": "aea4f62a57da6eb4bbabf65bc6cb34057118707a"
+    },
+    {
       "title": "Siniat launches moisture resistant board - Builders Merchants Journal",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVV6OXJWZVhtYWJ2MEVLNlNKUVVMNHRGNHl3YVZrTkpoSUpMSVJ2RFNrVk9Rb2RwY3ZUeWpDZm5TRE9McW0zbmoxeE90NzBhYmc1cjAwSS1oQlVfd3B1WE15R3Zpek5OcTZNYWdhMUdUMTk1QWZsb05HSnpVOEt0aUhBNFY?oc=5",
       "source": "Builders Merchants Journal",
@@ -97,6 +114,23 @@
       "likely_roles": "",
       "published": "2026-11-10T11:22:24+00:00",
       "fingerprint": "f6fec0da6b0084fea72f1610b548f68f46b16d99"
+    },
+    {
+      "title": "Hague Fasteners launches redesigned website with new technical resources - www.torque-expo.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMG8xdFBDY2ZoUXZjMVdaMWRnbkFoZ3c5MTRuRzNTQWk3dFV0UUhUczNqek1sSnc3eDJ0Z1dBd1ZKLURHemlxb2xrc1ZOWGFKSkVCemFlbnF5R2dEdzhXYlU5aXd6QnZiYlpneE5ydkx4aGxfak8yWlhod2oxUUxBVHR4QW9aMy1MUUdJOVI0aDlmUng3U1U2N3dyLWo0VjBQQXVMOEE0LUs3aHZhRnc?oc=5",
+      "source": "www.torque-expo.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNMG8xdFBDY2ZoUXZjMVdaMWRnbkFoZ3c5MTRuRzNTQWk3dFV0UUhUczNqek1sSnc3eDJ0Z1dBd1ZKLURHemlxb2xrc1ZOWGFKSkVCemFlbnF5R2dEdzhXYlU5aXd6QnZiYlpneE5ydkx4aGxfak8yWlhod2oxUUxBVHR4QW9aMy1MUUdJOVI0aDlmUng3U1U2N3dyLWo0VjBQQXVMOEE0LUs3aHZhRnc?oc=5\" target=\"_blank\">Hague Fasteners launches redesigned website with new technical resources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.torque-expo.com</font>",
+      "feed_group": "sector",
+      "feed_title": "Fixings & Framing \u2014 sector news",
+      "categories": [
+        "New product launch"
+      ],
+      "company": "",
+      "score": 5,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-11T10:22:14+00:00",
+      "fingerprint": "bd96cfde4717490fe9a6693a7925bc5a99e5d785"
     },
     {
       "title": "Lancashire flooring retailer launches its own LVT brand after a year of supply upheaval - Bdaily",
