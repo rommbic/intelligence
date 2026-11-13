@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T14:50:31.135676+00:00",
+  "generated_at": "2026-11-13T21:21:13.016650+00:00",
   "date": "2026-11-13",
-  "count": 3,
+  "count": 1,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -27,42 +27,8 @@
       "score": 8,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-11-13T12:04:14+00:00",
+      "published": "2026-11-13T12:20:48+00:00",
       "fingerprint": "9e96ab077072997eb902016364b8d957a3f6f974"
-    },
-    {
-      "title": "Ceramics UK appoints new Chief Executive - The Manufacturer",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV2xsNTFHNjNLTVB3eXJyMUVNV1lhR18ydm5xNEdSVWZOcEVVUWFxaWRlSWdfWF9YUHFkZDN0V0hTSUFCc0g3Qnk1TUtiWDlZUzVQRUJMX0xWcWRUbE1FVUFPTHVHdGF0SFktZDNWM3hVMWZ3OWV4VWVUajRoMUpMRlNYVC1WeUV6SkE?oc=5",
-      "source": "The Manufacturer",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNV2xsNTFHNjNLTVB3eXJyMUVNV1lhR18ydm5xNEdSVWZOcEVVUWFxaWRlSWdfWF9YUHFkZDN0V0hTSUFCc0g3Qnk1TUtiWDlZUzVQRUJMX0xWcWRUbE1FVUFPTHVHdGF0SFktZDNWM3hVMWZ3OWV4VWVUajRoMUpMRlNYVC1WeUV6SkE?oc=5\" target=\"_blank\">Ceramics UK appoints new Chief Executive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manufacturer</font>",
-      "feed_group": "signal",
-      "feed_title": "Leadership appointments",
-      "categories": [
-        "Leadership appointment"
-      ],
-      "company": "",
-      "score": 8,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-11-12T03:44:28+00:00",
-      "fingerprint": "2d8c14ba10ac74273b6a620a4eaf0276a90a4d66"
-    },
-    {
-      "title": "SSE selects Siemens Energy as preferred supplier for Berwick Bank B - Power Technology",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQTVscnNKdVZvaEVFcGxRRHdvS3VteVMyeW4xMXBwZkFxTDFlTTVwQWlQbTREWnBPbUMzT215QkdsSk5ya0tHS25sV0ppaVZJUlVvc1dDOTdFdWVKNW5Ebld1TkhqRE1uM0pKZEJGUDVTejRhM1ZaSV9Bdi1FenVtYks5OA?oc=5",
-      "source": "Power Technology",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQTVscnNKdVZvaEVFcGxRRHdvS3VteVMyeW4xMXBwZkFxTDFlTTVwQWlQbTREWnBPbUMzT215QkdsSk5ya0tHS25sV0ppaVZJUlVvc1dDOTdFdWVKNW5Ebld1TkhqRE1uM0pKZEJGUDVTejRhM1ZaSV9Bdi1FenVtYks5OA?oc=5\" target=\"_blank\">SSE selects Siemens Energy as preferred supplier for Berwick Bank B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Power Technology</font>",
-      "feed_group": "signal",
-      "feed_title": "Contract / supply wins",
-      "categories": [
-        "Contract / supply win"
-      ],
-      "company": "",
-      "score": 6,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-11-12T10:11:09+00:00",
-      "fingerprint": "6ac0ec38f8e41154d79b9097ba4b7c5732f2d77f"
     }
   ]
 }
