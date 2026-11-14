@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T13:17:46.401707+00:00",
+  "generated_at": "2026-11-14T13:46:59.853455+00:00",
   "date": "2026-11-14",
-  "count": 0,
+  "count": 1,
   "categories": [
     "Hiring / job creation",
     "New facility / expansion",
@@ -12,5 +12,23 @@
     "Investment / funding",
     "New product launch"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "ReelCharge Appoints Modus Brands as Exclusive UK Distributor - TECHNOLOGY RESELLER",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWEtDekNYcTF4dHJjLTN0dE1fdnQtUEtwN3BxbS1TcFZVcHJuV2ZxeVRoMlV0S2FqY1JWZWo4S2QxNmtuUXV3RVVFSHE0YlUxb0RsckhubnVfd0hWcXlqZkUxQXhsalJ2OTlEOVVMMVN0TGFJbm52SWVjMDJFZnVsSnNWTTRGb3dCUUZLZTgtRVdXLVZLUHc?oc=5",
+      "source": "TECHNOLOGY RESELLER",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWEtDekNYcTF4dHJjLTN0dE1fdnQtUEtwN3BxbS1TcFZVcHJuV2ZxeVRoMlV0S2FqY1JWZWo4S2QxNmtuUXV3RVVFSHE0YlUxb0RsckhubnVfd0hWcXlqZkUxQXhsalJ2OTlEOVVMMVN0TGFJbm52SWVjMDJFZnVsSnNWTTRGb3dCUUZLZTgtRVdXLVZLUHc?oc=5\" target=\"_blank\">ReelCharge Appoints Modus Brands as Exclusive UK Distributor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TECHNOLOGY RESELLER</font>",
+      "feed_group": "sector",
+      "feed_title": "Merchants & Distribution \u2014 sector news",
+      "categories": [
+        "Leadership appointment"
+      ],
+      "company": "",
+      "score": 8,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-13T12:20:48+00:00",
+      "fingerprint": "9e96ab077072997eb902016364b8d957a3f6f974"
+    }
+  ]
 }
