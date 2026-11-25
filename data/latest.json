@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:33:04.463320+00:00",
+  "generated_at": "2026-11-25T19:05:09.624823+00:00",
   "date": "2026-11-25",
   "count": 7,
   "categories": [
@@ -46,24 +46,6 @@
       "likely_roles": "",
       "published": "2026-11-24T15:51:10+00:00",
       "fingerprint": "3372931510e8f005d97611c82f76ece84da5e020"
-    },
-    {
-      "title": "CMAL launches \u00a3900m port infrastructure supplier framework - Project Scotland",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUg1WWktVlB5TjZjME9oaVF0ZTJXb2VTRjE2NFdoYzNOQUl4cl9yM3lwRkN0cnFVMkN3eTFxU2ltV1NLRTJ3a0xjcTdZR2pONjN2UXpNNkozLUx4RXJMNmlvMXFybzRkbUg2cWtUWElGcnUzMW83ZlJ0SFJ0M0tKTnZiSlAyY2VHSEh3ZWhNaFktYVRX?oc=5",
-      "source": "Project Scotland",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUg1WWktVlB5TjZjME9oaVF0ZTJXb2VTRjE2NFdoYzNOQUl4cl9yM3lwRkN0cnFVMkN3eTFxU2ltV1NLRTJ3a0xjcTdZR2pONjN2UXpNNkozLUx4RXJMNmlvMXFybzRkbUg2cWtUWElGcnUzMW83ZlJ0SFJ0M0tKTnZiSlAyY2VHSEh3ZWhNaFktYVRX?oc=5\" target=\"_blank\">CMAL launches \u00a3900m port infrastructure supplier framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Project Scotland</font>",
-      "feed_group": "signal",
-      "feed_title": "Contract / supply wins",
-      "categories": [
-        "Contract / supply win",
-        "New product launch"
-      ],
-      "company": "",
-      "score": 7,
-      "rationale": "",
-      "likely_roles": "",
-      "published": "2026-11-24T10:10:04+00:00",
-      "fingerprint": "dba8c62502331ae5d645df99eebdfa4be935d36a"
     },
     {
       "title": "wienerberger unveils next phase of sustainability roadmap - Builders' Merchants News",
@@ -113,19 +95,34 @@
       "fingerprint": "75b0544b8ae95cb8714134822c7956ba345a9cfa"
     },
     {
-      "title": "Knauf Insulation Unlocks Retrofits with Loft Roll Pro - Construction UK Magazine",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcF9Oam0zRThfNG5KMHVpSEZzUlh0bW9WbVhBeXJKcV81aDFmamFxZUpNX1FhVUtHY09Lb1lrd3NJSXh5aFVaMFVSLUNLWnplOGs3dWRZZldpYjYxeXpvTkJ1bmllQVFMZ0g0ZjY5LV8xdFQzZ2FwZEdSRVlibFRxMnVuOXpicnJtcDl5cmJXdw?oc=5",
-      "source": "Construction UK Magazine",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcF9Oam0zRThfNG5KMHVpSEZzUlh0bW9WbVhBeXJKcV81aDFmamFxZUpNX1FhVUtHY09Lb1lrd3NJSXh5aFVaMFVSLUNLWnplOGs3dWRZZldpYjYxeXpvTkJ1bmllQVFMZ0g0ZjY5LV8xdFQzZ2FwZEdSRVlibFRxMnVuOXpicnJtcDl5cmJXdw?oc=5\" target=\"_blank\">Knauf Insulation Unlocks Retrofits with Loft Roll Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction UK Magazine</font>",
+      "title": "Steel distributors say they\u2019re being left behind on tariff rebates - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0F2MWQzRzhoN2VBNGRld1AtUGFVdVpYVldRVnlXWk02WF9VeTc2OEs1WV9TdG5hQTVMUGhnRkNwb3dfV3l3bXN4Z3JlVVpJbXFuWDdrTWZuZ05YeTRRQUt5OFk2cVdoYkJRQml0R3FKSTdfWUtFbGJHQ1NBVkFqMEVyUE1KOWVrSldKVklEVnpHdUtlNkZ3?oc=5",
+      "source": "The Globe and Mail",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0F2MWQzRzhoN2VBNGRld1AtUGFVdVpYVldRVnlXWk02WF9VeTc2OEs1WV9TdG5hQTVMUGhnRkNwb3dfV3l3bXN4Z3JlVVpJbXFuWDdrTWZuZ05YeTRRQUt5OFk2cVdoYkJRQml0R3FKSTdfWUtFbGJHQ1NBVkFqMEVyUE1KOWVrSldKVklEVnpHdUtlNkZ3?oc=5\" target=\"_blank\">Steel distributors say they\u2019re being left behind on tariff rebates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
       "feed_group": "company",
-      "feed_title": "Insulation & Fire Protection: Kilwaughter Minera \u2026 Owens Corning (12)",
+      "feed_title": "Kitchens & Bathrooms: Tavistock Bathroom \u2026 Ultra Finishing (12)",
       "categories": [],
-      "company": "Knauf Insulation",
-      "score": 5,
+      "company": "",
+      "score": 4,
       "rationale": "",
       "likely_roles": "",
-      "published": "2026-11-24T07:01:45+00:00",
-      "fingerprint": "a5bb4416eb7965a737f8f09d16b91b7bb988b383"
+      "published": "2026-11-25T09:00:00+00:00",
+      "fingerprint": "01becea156e09b0f3de46f8614bb7569df7ba711"
+    },
+    {
+      "title": "Bosch's New Series Gives Titus Welliver's Replacement a Franchise-First Origin Update - Comic Book Resources",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sUTNKMEhSSkdQcHVRbHZ0WW9BdlJTM1YyZ2lXZ3RlX011SEZIbHhUSVpDU2dFaVh1NTdCd0V3UTlHWUVoN0JXT1hsbGhZdktUS3MwTVp6LXJjMFh6VktYT0tDOWV3OW1wZ0JOaDVsalh4WkNrOHBEWHZB?oc=5",
+      "source": "Comic Book Resources",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1sUTNKMEhSSkdQcHVRbHZ0WW9BdlJTM1YyZ2lXZ3RlX011SEZIbHhUSVpDU2dFaVh1NTdCd0V3UTlHWUVoN0JXT1hsbGhZdktUS3MwTVp6LXJjMFh6VktYT0tDOWV3OW1wZ0JOaDVsalh4WkNrOHBEWHZB?oc=5\" target=\"_blank\">Bosch's New Series Gives Titus Welliver's Replacement a Franchise-First Origin Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Comic Book Resources</font>",
+      "feed_group": "company",
+      "feed_title": "Kitchens & Bathrooms: Tavistock Bathroom \u2026 Ultra Finishing (12)",
+      "categories": [],
+      "company": "",
+      "score": 4,
+      "rationale": "",
+      "likely_roles": "",
+      "published": "2026-11-24T16:00:12+00:00",
+      "fingerprint": "0ea54966860939647c8c4447fe5feaa88e8a4e3b"
     }
   ]
 }
